@@ -1,4 +1,5 @@
 [[Category:NPCs]]
+[[Category:Animals]]
 
 = Sea Serpent =
 
@@ -10,6 +11,8 @@
 == General Information ==
 {| class="wikitable"
 ! Property !! Details
+|-
+| '''Config Category''' || [[Category:Animals|Animals]]
 |-
 | '''Alignment''' || Evil
 |-
@@ -37,6 +40,8 @@
 == Attributes & Combat Skills ==
 {| class="wikitable"
 ! Attribute/Skill !! Value
+|-
+| { || 
 |-
 | TrueColor || 0x0455
 |-

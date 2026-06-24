@@ -1,4 +1,5 @@
 [[Category:NPCs]]
+[[Category:Glutton Summons]]
 
 = Shadow Knight =
 
@@ -10,6 +11,8 @@
 == General Information ==
 {| class="wikitable"
 ! Property !! Details
+|-
+| '''Config Category''' || [[Category:Glutton Summons|Glutton Summons]]
 |-
 | '''Alignment''' || Evil
 |-
@@ -55,6 +58,8 @@
 == Attributes & Combat Skills ==
 {| class="wikitable"
 ! Attribute/Skill !! Value
+|-
+| { || 
 |-
 | TrueColor || 0
 |-

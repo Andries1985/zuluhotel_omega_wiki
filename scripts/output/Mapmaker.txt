@@ -1,4 +1,5 @@
 [[Category:NPCs]]
+[[Category:Settings					invul]]
 
 = Mapmaker =
 
@@ -10,6 +11,8 @@
 == General Information ==
 {| class="wikitable"
 ! Property !! Details
+|-
+| '''Config Category''' || [[Category:Settings					invul|Settings					invul]]
 |-
 | '''Alignment''' || Good
 |-
@@ -41,6 +44,8 @@
 == Attributes & Combat Skills ==
 {| class="wikitable"
 ! Attribute/Skill !! Value
+|-
+| { || 
 |-
 | TrueColor || 33784
 |-

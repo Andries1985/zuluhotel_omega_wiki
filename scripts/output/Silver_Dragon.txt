@@ -1,4 +1,5 @@
 [[Category:NPCs]]
+[[Category:Dragon Boss's]]
 
 = Silver Dragon =
 
@@ -10,6 +11,8 @@
 == General Information ==
 {| class="wikitable"
 ! Property !! Details
+|-
+| '''Config Category''' || [[Category:Dragon Boss's|Dragon Boss's]]
 |-
 | '''Alignment''' || Evil
 |-
@@ -67,6 +70,8 @@
 == Attributes & Combat Skills ==
 {| class="wikitable"
 ! Attribute/Skill !! Value
+|-
+| { || 
 |-
 | TrueColor || 2301
 |-

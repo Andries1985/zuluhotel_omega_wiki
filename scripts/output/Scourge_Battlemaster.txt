@@ -1,4 +1,5 @@
 [[Category:NPCs]]
+[[Category:Human Boss's]]
 
 = Scourge Battlemaster =
 
@@ -10,6 +11,8 @@
 == General Information ==
 {| class="wikitable"
 ! Property !! Details
+|-
+| '''Config Category''' || [[Category:Human Boss's|Human Boss's]]
 |-
 | '''Alignment''' || Evil
 |-
@@ -67,6 +70,8 @@
 == Attributes & Combat Skills ==
 {| class="wikitable"
 ! Attribute/Skill !! Value
+|-
+| { || 
 |-
 | TrueColor || 1160
 |-
