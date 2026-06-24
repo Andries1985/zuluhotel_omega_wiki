@@ -1,0 +1,100 @@
+[[Category:NPCs]]
+
+= Phoenix =
+
+== Appearance ==
+[[File:Phoenix.png|thumb|Phoenix]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x05</code>
+|-
+| '''Color Code''' || 1645
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''FireProtection''' || 200
+|-
+| '''AirProtection''' || 00
+|-
+| '''WaterProtection''' || i-100
+|-
+| '''rise''' || phoenix
+|-
+| '''risedelay''' || 4
+|-
+| '''FinalDeath''' || 5
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| noloot || 1
+|-
+| TrueColor || 1645
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 110
+|-
+| Swordsmanship || 140
+|-
+| Magery || 130
+|-
+| EvaluatingIntelligence || 120
+|-
+| DetectingHidden || 100
+|-
+| cast_pct || 50
+|-
+| num_casts || 4
+|-
+| Equip || phoenix
+|-
+| MagicItemChance || 95
+|-
+| MagicItemLevel || 4
+|-
+| tameskill || 105
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 105
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Fireball
+* Explosion
+* Flamestrike
+

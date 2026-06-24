@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Darkspawn =
+
+== Appearance ==
+[[File:Darkspawn.png|thumb|Darkspawn]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>doppel</code>
+|-
+| '''Object Type''' || <code>0x39</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 150
+|-
+| DEX || 60
+|-
+| Magery || 80
+|-
+| Tactics || 70
+|-
+| MaceFighting || 100
+|-
+| Equip || darkspawn
+|-
+| deathsnd || 0x16a
+|-
+| cast_pct || 40
+|-
+| num_casts || 4
+|-
+| lootgroup || 23
+|-
+| speech || 35
+|-
+| saywords || 1
+|-
+| graphics || 0xc 0 0 1
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 3
+|-
+| provoke || 115
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Harm
+* Summon_Fire
+* Summon_Water
+* Summonskel
+

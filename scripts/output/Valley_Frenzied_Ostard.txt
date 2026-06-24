@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Valley Frenzied Ostard =
+
+== Appearance ==
+[[File:Valley_Frenzied_Ostard.png|thumb|Valley Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 1301
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1301
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 160
+|-
+| DEX || 160
+|-
+| Parry || 100
+|-
+| Tactics || 120
+|-
+| MaceFighting || 160
+|-
+| Equip || valleyfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 85
+|-
+| food || meat
+|-
+| provoke || 85
+|-
+| dstart || 10
+|}
+

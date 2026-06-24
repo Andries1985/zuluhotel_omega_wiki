@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Dolphin =
+
+== Appearance ==
+[[File:Dolphin.png|thumb|Dolphin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0x97</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 50
+|-
+| INT || 15
+|-
+| DEX || 50
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 85
+|-
+| Equip || dolphin
+|-
+| deathsnd || 0x8f
+|-
+| MoveMode || S
+|-
+| food || meat
+|-
+| Karma || 2000
+|-
+| virtue || -3
+|-
+| dstart || 10
+|}
+

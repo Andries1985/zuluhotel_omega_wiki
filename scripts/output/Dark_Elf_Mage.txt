@@ -1,0 +1,88 @@
+[[Category:NPCs]]
+
+= Dark Elf Mage =
+
+== Appearance ==
+[[File:Dark_Elf_Mage.png|thumb|Dark Elf Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x191</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermMagicImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 200
+|-
+| DEX || 95
+|-
+| Swordsmanship || 110
+|-
+| MaceFighting || 95
+|-
+| Tactics || 75
+|-
+| Hiding || 100
+|-
+| Magery || 110
+|-
+| Equip || drow
+|-
+| lootgroup || 57
+|-
+| provoke || 85
+|-
+| dstart || 10
+|-
+| cast_pct || 20
+|-
+| num_casts || 3
+|-
+| saywords || 1
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 3
+|}
+
+== Known Spells ==
+* Fireball
+* Lightning
+* Paralyze
+* Flamestrike
+* Ebolt
+

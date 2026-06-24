@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Vegetable Seller =
+
+== Appearance ==
+[[File:Vegetable_Seller.png|thumb|Vegetable Seller]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || VegSeller
+|-
+| '''Equipt''' || farmer
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| lumberjacking || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| Equip || vegseller
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

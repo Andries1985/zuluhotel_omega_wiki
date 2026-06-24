@@ -1,0 +1,144 @@
+[[Category:NPCs]]
+
+= Dragon Queen =
+
+== Appearance ==
+[[File:Dragon_Queen.png|thumb|Dragon Queen]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>861</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 2000
+|-
+| '''BaseDexmod''' || 500
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || 100
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''FreeAction''' || 1
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 1000
+|-
+| DEX || 140
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 106
+|-
+| magicitemchance || 85
+|-
+| Magicitemlevel || 9
+|-
+| RunSpeed || 250
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Ebolt
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Abyssalflame
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+* Summondrag
+* Summondrag
+* Summondrag
+

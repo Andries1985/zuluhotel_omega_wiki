@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Decorator =
+
+== Appearance ==
+[[File:Decorator.png|thumb|Decorator]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Decorator
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| guardignore || 1
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| Equip || gardener
+|-
+| Wrestling || 100
+|-
+| AttackAttribute || Wrestling
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

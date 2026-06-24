@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Ostrich =
+
+== Appearance ==
+[[File:Ostrich.png|thumb|Ostrich]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1791</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 78 Skill
+|-
+| '''Stealing Required''' || 78 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 145
+|-
+| '''BaseIntmod''' || 45
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 145
+|-
+| INT || 45
+|-
+| DEX || 155
+|-
+| Tactics || 92
+|-
+| MaceFighting || 102
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 200
+|-
+| lootgroup || 32
+|-
+| provoke || 78
+|-
+| MagicItemChance || 38
+|-
+| MagicItemLevel || 3
+|}
+

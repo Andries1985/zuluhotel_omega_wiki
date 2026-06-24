@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Ethereal Armored Swamp Dragonling =
+
+== Appearance ==
+[[File:Ethereal_Armored_Swamp_Dragonling.png|thumb|Ethereal Armored Swamp Dragonling]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xC2</code>
+|-
+| '''Color Code''' || 16385
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 16385
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 125
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 160
+|-
+| Equip || firefrenziedostard
+|-
+| tameskill || 125
+|-
+| food || meat
+|-
+| provoke || 125
+|-
+| dstart || 10
+|}
+

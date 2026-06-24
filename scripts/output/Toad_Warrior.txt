@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Toad Warrior =
+
+== Appearance ==
+[[File:Toad_Warrior.png|thumb|Toad Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1208</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 130
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 235
+|-
+| INT || 105
+|-
+| DEX || 140
+|-
+| Tactics || 118
+|-
+| MaceFighting || 128
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 172
+|-
+| lootgroup || 65
+|-
+| provoke || 120
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 6
+|}
+

@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Rock Lizard =
+
+== Appearance ==
+[[File:Rock_Lizard.png|thumb|Rock Lizard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xca</code>
+|-
+| '''Color Code''' || 0x060a
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x060a
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 20
+|-
+| DEX || 70
+|-
+| Tactics || 100
+|-
+| MaceFighting || 130
+|-
+| Equip || rocklizard
+|-
+| deathsnd || 0x1a6
+|-
+| MoveMode || LS
+|-
+| tameskill || 75
+|-
+| food || meat
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

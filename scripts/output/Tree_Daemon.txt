@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Tree Daemon =
+
+== Appearance ==
+[[File:Tree_Daemon.png|thumb|Tree Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1207</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 127 Skill
+|-
+| '''Stealing Required''' || 127 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 335
+|-
+| '''BaseIntmod''' || 148
+|-
+| '''BaseDexmod''' || 143
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 118
+|-
+| DEX || 128
+|-
+| Tactics || 124
+|-
+| MaceFighting || 134
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 73
+|-
+| provoke || 127
+|-
+| MagicItemChance || 76
+|-
+| MagicItemLevel || 6
+|}
+

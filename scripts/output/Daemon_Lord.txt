@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Daemon Lord =
+
+== Appearance ==
+[[File:Daemon_Lord.png|thumb|Daemon Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1174</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 145 Skill
+|-
+| '''Stealing Required''' || 145 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 380
+|-
+| '''BaseIntmod''' || 210
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 295
+|-
+| INT || 165
+|-
+| DEX || 140
+|-
+| Tactics || 135
+|-
+| MaceFighting || 145
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 168
+|-
+| lootgroup || 82
+|-
+| provoke || 145
+|-
+| MagicItemChance || 85
+|-
+| MagicItemLevel || 8
+|}
+

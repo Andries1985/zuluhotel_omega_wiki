@@ -1,0 +1,145 @@
+[[Category:NPCs]]
+
+= Corrupt Angel =
+
+== Appearance ==
+[[File:Corrupt_Angel.png|thumb|Corrupt Angel]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>175</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 800000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1100
+|-
+| '''BaseIntmod''' || 2000
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''Boss''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 275
+|-
+| INT || 375
+|-
+| DEX || 175
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| provoke || 150
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Ebolt
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Kill
+* Abyssalflame
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+

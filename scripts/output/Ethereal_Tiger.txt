@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Ethereal Tiger =
+
+== Appearance ==
+[[File:Ethereal_Tiger.png|thumb|Ethereal Tiger]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x4E7</code>
+|-
+| '''Color Code''' || 16385
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 40
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 16385
+|-
+| Gender || 0
+|-
+| STR || 95
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 60
+|-
+| Tactics || 50
+|-
+| MaceFighting || 75
+|-
+| Equip || panther
+|-
+| tameskill || 95
+|-
+| food || meat
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+

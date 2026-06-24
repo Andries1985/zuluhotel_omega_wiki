@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Revenant =
+
+== Appearance ==
+[[File:Revenant.png|thumb|Revenant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x03</code>
+|-
+| '''Color Code''' || 1285
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 45
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''NecroProtection''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1285
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 5
+|-
+| DEX || 70
+|-
+| Tactics || 90
+|-
+| Swordsmanship || 95
+|-
+| Equip || revenant
+|-
+| lootgroup || 14
+|-
+| magicitemchance || 0
+|-
+| Magicitemlevel || 0
+|-
+| dstart || 10
+|-
+| provoke || 60
+|}
+

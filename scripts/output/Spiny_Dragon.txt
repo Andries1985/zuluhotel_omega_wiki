@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Spiny Dragon =
+
+== Appearance ==
+[[File:Spiny_Dragon.png|thumb|Spiny Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>706</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 145 Skill
+|-
+| '''Stealing Required''' || 145 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 430
+|-
+| '''BaseIntmod''' || 240
+|-
+| '''BaseDexmod''' || 185
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 330
+|-
+| INT || 190
+|-
+| DEX || 165
+|-
+| Tactics || 135
+|-
+| MaceFighting || 145
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 182
+|-
+| lootgroup || 90
+|-
+| provoke || 145
+|-
+| MagicItemChance || 85
+|-
+| MagicItemLevel || 8
+|}
+

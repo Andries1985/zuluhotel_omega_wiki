@@ -1,0 +1,61 @@
+[[Category:NPCs]]
+
+= Peasant =
+
+== Appearance ==
+[[File:Peasant.png|thumb|Peasant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>person</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 50
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 75
+|-
+| dress || poor
+|-
+| speech || 5
+|-
+| guardignore || 1
+|-
+| Karma || 2000
+|-
+| dstart || 10
+|}
+

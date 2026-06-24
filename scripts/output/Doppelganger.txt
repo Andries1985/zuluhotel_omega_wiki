@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Doppelganger =
+
+== Appearance ==
+[[File:Doppelganger.png|thumb|Doppelganger]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>doppelganger</code>
+|-
+| '''Object Type''' || <code>0x60</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''looter''' || 1
+|-
+| '''Snooping Required''' || 65 Skill
+|-
+| '''Stealing Required''' || 65 Skill
+|-
+| '''guardkill''' || 1
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''mountspawn''' || null
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 25
+|-
+| DEX || 200
+|-
+| Tactics || 100
+|-
+| MaceFighting || 120
+|-
+| Equip || doppelganger
+|-
+| lootgroup || 59
+|-
+| speech || 6
+|-
+| provoke || 65
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|}
+

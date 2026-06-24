@@ -1,0 +1,83 @@
+[[Category:NPCs]]
+
+= Frigid Eye =
+
+== Appearance ==
+[[File:Frigid_Eye.png|thumb|Frigid Eye]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x16</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Beholder
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 350
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 90
+|-
+| Tactics || 65
+|-
+| MaceFighting || 100
+|-
+| Magery || 95
+|-
+| cast_pct || 50
+|-
+| num_casts || 20
+|-
+| Equip || frostgazer
+|-
+| deathsnd || 0x17e
+|-
+| lootgroup || 54
+|-
+| provoke || 80
+|-
+| magicitemchance || 2
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Chainlightning
+* Explosion
+* Weaken
+* Paralyze
+* Fireball
+* Lightning
+

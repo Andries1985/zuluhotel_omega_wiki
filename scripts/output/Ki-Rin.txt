@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Ki-Rin =
+
+== Appearance ==
+[[File:Ki-Rin.png|thumb|Ki-Rin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>daves_healer</code>
+|-
+| '''Object Type''' || <code>0x84</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 175
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 160
+|-
+| Magery || 225
+|-
+| Equip || heavenlyfrenziedostard
+|-
+| deathsnd || 0x3EF
+|-
+| tameskill || 150
+|-
+| Karma || 2000
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 120
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Tiny Spider =
+
+== Appearance ==
+[[File:Tiny_Spider.png|thumb|Tiny Spider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>383</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 80
+|-
+| '''BaseIntmod''' || 30
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 30
+|-
+| DEX || 120
+|-
+| Tactics || 80
+|-
+| MaceFighting || 90
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 220
+|-
+| lootgroup || 20
+|-
+| provoke || 60
+|-
+| MagicItemChance || 30
+|-
+| MagicItemLevel || 2
+|}
+

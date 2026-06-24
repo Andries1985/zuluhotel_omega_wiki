@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Panda =
+
+== Appearance ==
+[[File:Panda.png|thumb|Panda]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1102</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 80
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 50
+|-
+| DEX || 110
+|-
+| Tactics || 90
+|-
+| MaceFighting || 95
+|-
+| provoke || 70
+|-
+| dstart || 10
+|}
+

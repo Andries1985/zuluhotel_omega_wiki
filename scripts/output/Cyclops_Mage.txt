@@ -1,0 +1,88 @@
+[[Category:NPCs]]
+
+= Cyclops Mage =
+
+== Appearance ==
+[[File:Cyclops_Mage.png|thumb|Cyclops Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x4c</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 600
+|-
+| DEX || 80
+|-
+| Parry || 50
+|-
+| Magery || 200
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Equip || cyclops
+|-
+| lootgroup || 22
+|-
+| provoke || 115
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| virtue || 2
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Mindblast
+* Explosion
+* Meteorswarm
+* Chainlightning
+* Paralyze
+

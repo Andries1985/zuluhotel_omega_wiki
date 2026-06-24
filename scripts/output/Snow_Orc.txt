@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Snow Orc =
+
+== Appearance ==
+[[File:Snow_Orc.png|thumb|Snow Orc]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x29</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 25
+|-
+| DEX || 125
+|-
+| MaceFighting || 85
+|-
+| Tactics || 80
+|-
+| Equip || snoworc2
+|-
+| lootgroup || 43
+|-
+| provoke || 70
+|-
+| dstart || 10
+|}
+

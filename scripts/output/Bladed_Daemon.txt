@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Bladed Daemon =
+
+== Appearance ==
+[[File:Bladed_Daemon.png|thumb|Bladed Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>350</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 275
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 475
+|-
+| INT || 150
+|-
+| DEX || 190
+|-
+| Tactics || 140
+|-
+| Swordsmanship || 160
+|-
+| Equip || trollwarlord
+|-
+| lootgroup || 59
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 5
+|-
+| provoke || 115
+|-
+| dstart || 10
+|}
+

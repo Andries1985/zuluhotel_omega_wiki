@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Kobold Elite Cavalry =
+
+== Appearance ==
+[[File:Kobold_Elite_Cavalry.png|thumb|Kobold Elite Cavalry]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''mountspawn''' || null
+|-
+| '''BaseStrmod''' || 650
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 350
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 50
+|-
+| DEX || 350
+|-
+| Tactics || 140
+|-
+| Archery || 140
+|-
+| Equip || koboldelitecavalry
+|-
+| lootgroup || 41
+|-
+| ammotype || 0xb200
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 30
+|-
+| provoke || 95
+|-
+| mount || 0x3EC6 1109
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Ethereal Llama =
+
+== Appearance ==
+[[File:Ethereal_Llama.png|thumb|Ethereal Llama]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0xAA</code>
+|-
+| '''Color Code''' || 16385
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 20
+|-
+| '''BaseIntmod''' || 20
+|-
+| '''BaseDexmod''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 16385
+|-
+| Gender || 0
+|-
+| STR || 230
+|-
+| INT || 130
+|-
+| DEX || 130
+|-
+| Parry || 90
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Equip || llama
+|-
+| deathsnd || 0xba
+|-
+| tameskill || 125
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 125
+|-
+| dstart || 10
+|}
+

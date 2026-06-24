@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Skeleton Protector =
+
+== Appearance ==
+[[File:Skeleton_Protector.png|thumb|Skeleton Protector]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x39</code>
+|-
+| '''Color Code''' || 1170
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1170
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 70
+|-
+| DEX || 110
+|-
+| Tactics || 130
+|-
+| Swordsmanship || 125
+|-
+| Parry || 60
+|-
+| Equip || troll6
+|-
+| lootgroup || 16
+|-
+| targetText || "Ego apokteinou"
+|-
+| MagicItemChance || 10
+|-
+| provoke || 60
+|-
+| dstart || 10
+|}
+

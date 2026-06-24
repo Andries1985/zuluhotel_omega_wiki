@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Sewage Golem =
+
+== Appearance ==
+[[File:Sewage_Golem.png|thumb|Sewage Golem]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>111</code>
+|-
+| '''Color Code''' || 2001
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''NecroProtection''' || 25
+|-
+| '''HolyProtection''' || i-25
+|-
+| '''AirProtection''' || i-50
+|-
+| '''EarthProtection''' || 125
+|-
+| '''WaterProtection''' || 50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2001
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 50
+|-
+| DEX || 90
+|-
+| Parry || 100
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Equip || earthelemental
+|-
+| lootgroup || 21
+|-
+| dstart || 10
+|-
+| provoke || 110
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 3
+|}
+

@@ -1,0 +1,58 @@
+[[Category:NPCs]]
+
+= Beholder =
+
+== Appearance ==
+[[File:Beholder.png|thumb|Beholder]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>236</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Beholder
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 700
+|-
+| '''BaseDexmod''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 220
+|-
+| DEX || 130
+|-
+| Magery || 160
+|-
+| Tactics || 100
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Mindblast
+* Manavamp
+* Ebolt
+

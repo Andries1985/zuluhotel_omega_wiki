@@ -1,0 +1,81 @@
+[[Category:NPCs]]
+
+= Noble Lord =
+
+== Appearance ==
+[[File:Noble_Lord.png|thumb|Noble Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>noble</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Equipt''' || noblemale
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Fencing || 38
+|-
+| Parry || 48
+|-
+| Swordsmanship || 38
+|-
+| MaceFighting || 38
+|-
+| Macefighting || 38
+|-
+| Tactics || 48
+|-
+| Karma || 4000
+|-
+| guardignore || 1
+|-
+| speech || 18
+|-
+| Equip || noblemale
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

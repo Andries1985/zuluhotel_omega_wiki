@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Rogue King =
+
+== Appearance ==
+[[File:Rogue_King.png|thumb|Rogue King]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''NecroProtection''' || 50
+|-
+| '''FireProtection''' || 75
+|-
+| '''WaterProtection''' || 10
+|-
+| '''EarthProtection''' || 50
+|-
+| '''AirProtection''' || 50
+|-
+| '''HolyProtection''' || i-50
+|-
+| '''mountspawn''' || null
+|-
+| '''IsRanger''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 300
+|-
+| Tactics || 60
+|-
+| Macefighting || 75
+|-
+| Archery || 135
+|-
+| Hiding || 100
+|-
+| Equip || mountedbrigandarcher
+|-
+| lootgroup || 69
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 300
+|-
+| provoke || 150
+|-
+| mount || 0x3e9f 1109
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 6
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| equip || brigand1
+|}
+

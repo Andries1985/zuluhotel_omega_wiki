@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Ratman1 =
+
+== Appearance ==
+[[File:Ratman1.png|thumb|Ratman1]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x2a</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''Slayer Type''' || Ratkin
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 60
+|-
+| Tactics || 60
+|-
+| Swordsmanship || 65
+|-
+| Equip || ratman1
+|-
+| lootgroup || 4
+|-
+| provoke || 70
+|-
+| dstart || 10
+|}
+

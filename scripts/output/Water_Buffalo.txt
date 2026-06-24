@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Water Buffalo =
+
+== Appearance ==
+[[File:Water_Buffalo.png|thumb|Water Buffalo]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1792</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 220
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 90
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 50
+|-
+| DEX || 90
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 150
+|-
+| lootgroup || 45
+|-
+| provoke || 85
+|-
+| MagicItemChance || 40
+|-
+| MagicItemLevel || 3
+|}
+

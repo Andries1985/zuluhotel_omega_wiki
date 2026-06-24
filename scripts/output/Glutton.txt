@@ -1,0 +1,96 @@
+[[Category:NPCs]]
+
+= Glutton =
+
+== Appearance ==
+[[File:Glutton.png|thumb|Glutton]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>glutton</code>
+|-
+| '''Object Type''' || <code>256</code>
+|-
+| '''Color Code''' || 1765
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseDexmod''' || 500
+|-
+| '''SuperBoss''' || 1
+|-
+| '''BaseHpRegen''' || 1500
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1765
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 45
+|-
+| DEX || 220
+|-
+| Tactics || 200
+|-
+| MaceFighting || 175
+|-
+| Magery || 140
+|-
+| Equip || behemoth
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+
+== Known Spells ==
+* Gluttons
+

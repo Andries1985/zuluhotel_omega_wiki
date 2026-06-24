@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Swamp Ostard =
+
+== Appearance ==
+[[File:Swamp_Ostard.png|thumb|Swamp Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 2001
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2001
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 25
+|-
+| DEX || 120
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || swampostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 55
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 55
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Lizardmanarcher =
+
+== Appearance ==
+[[File:Lizardmanarcher.png|thumb|Lizardmanarcher]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x24</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 75
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Tactics || 60
+|-
+| MaceFighting || 75
+|-
+| Archery || 80
+|-
+| Equip || lizardmanarcher
+|-
+| deathsnd || 0x1a6
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 30
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,88 @@
+[[Category:NPCs]]
+
+= Baby Blue =
+
+== Appearance ==
+[[File:Baby_Blue.png|thumb|Baby Blue]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>stormkillpcs</code>
+|-
+| '''Object Type''' || <code>776</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''NecroProtection''' || 50
+|-
+| '''FireProtection''' || 50
+|-
+| '''WaterProtection''' || 10
+|-
+| '''EarthProtection''' || 50
+|-
+| '''AirProtection''' || 50
+|-
+| '''HolyProtection''' || 50
+|-
+| '''PermPoisonImmunity''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 50
+|-
+| Tactics || 150
+|-
+| MaceFighting || 150
+|-
+| Magery || 35
+|-
+| Archery || 140
+|-
+| Equip || blueslaad
+|-
+| lootgroup || 103
+|-
+| speech || 35
+|-
+| provoke || 55
+|-
+| magicitemchance || 90
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Wallofstone
+

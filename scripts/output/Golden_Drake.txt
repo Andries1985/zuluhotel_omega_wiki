@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Golden Drake =
+
+== Appearance ==
+[[File:Golden_Drake.png|thumb|Golden Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>60</code>
+|-
+| '''Color Code''' || 48
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 600
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''EarthProtection''' || 140
+|-
+| '''FireProtection''' || 140
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 48
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 140
+|-
+| Parry || 100
+|-
+| Tactics || 110
+|-
+| MaceFighting || 150
+|-
+| DetectingHidden || 130
+|-
+| Equip || goldendrake
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 125
+|-
+| lootgroup || 37
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 125
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 75
+|-
+| Magicitemlevel || 5
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|}
+

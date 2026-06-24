@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Great Silver Wyrm =
+
+== Appearance ==
+[[File:Great_Silver_Wyrm.png|thumb|Great Silver Wyrm]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>1339</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 1400
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''BaseDexmod''' || 500
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 700
+|-
+| INT || 380
+|-
+| DEX || 230
+|-
+| Tactics || 170
+|-
+| MaceFighting || 175
+|-
+| Magery || 170
+|-
+| dstart || 10
+|}
+

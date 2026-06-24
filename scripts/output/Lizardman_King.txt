@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Lizardman King =
+
+== Appearance ==
+[[File:Lizardman_King.png|thumb|Lizardman King]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x21</code>
+|-
+| '''Color Code''' || 0x0465
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0465
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 65
+|-
+| DEX || 200
+|-
+| Tactics || 120
+|-
+| MaceFighting || 100
+|-
+| Equip || lizardmanking
+|-
+| deathsnd || 0x1a6
+|-
+| lootgroup || 56
+|-
+| provoke || 85
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Waiter =
+
+== Appearance ==
+[[File:Waiter.png|thumb|Waiter]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Cook
+|-
+| '''Equipt''' || innstaff
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| tasteidentification || 100
+|-
+| cooking || 00
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| Equip || waiter
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

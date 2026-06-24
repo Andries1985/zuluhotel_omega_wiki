@@ -1,0 +1,84 @@
+[[Category:NPCs]]
+
+= Mage =
+
+== Appearance ==
+[[File:Mage.png|thumb|Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 85
+|-
+| DEX || 80
+|-
+| Tactics || 80
+|-
+| MaceFighting || 85
+|-
+| Magery || 100
+|-
+| cast_pct || 45
+|-
+| num_casts || 20
+|-
+| Equip || evilmage
+|-
+| lootgroup || 57
+|-
+| speech || 35
+|-
+| provoke || 95
+|-
+| magicitemchance || 3
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Ebolt
+* Lightning
+* Harm
+* Summon_Fire
+* Fireball
+* Paralyze
+* Explosion
+

@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Giant =
+
+== Appearance ==
+[[File:Giant.png|thumb|Giant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1121</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 650
+|-
+| '''BaseIntmod''' || 120
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 70
+|-
+| DEX || 90
+|-
+| Tactics || 125
+|-
+| MaceFighting || 130
+|-
+| provoke || 115
+|-
+| dstart || 10
+|}
+

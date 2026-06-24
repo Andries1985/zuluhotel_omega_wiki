@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Greater Shadow =
+
+== Appearance ==
+[[File:Greater_Shadow.png|thumb|Greater Shadow]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>573</code>
+|-
+| '''Color Code''' || 1
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 175
+|-
+| '''PermMagicImmunity''' || 5
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''Permmr''' || 3
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''untamable''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 125
+|-
+| Fencing || 150
+|-
+| Parry || 100
+|-
+| DetectingHidden || 120
+|-
+| Equip || greatershadow
+|-
+| lootgroup || 78
+|-
+| MoveMode || LS
+|-
+| saywords || 1
+|-
+| dstart || 10
+|-
+| provoke || 130
+|-
+| MagicItemChance || 55
+|-
+| MagicItemLevel || 4
+|}
+

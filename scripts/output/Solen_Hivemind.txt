@@ -1,0 +1,142 @@
+[[Category:NPCs]]
+
+= Solen Hivemind =
+
+== Appearance ==
+[[File:Solen_Hivemind.png|thumb|Solen Hivemind]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>807</code>
+|-
+| '''Color Code''' || 1953
+|-
+| '''CustomHitsLevel''' || 900000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Ophidian
+|-
+| '''Boss''' || 1
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 2700
+|-
+| '''BaseDexmod''' || 350
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''PhysicalProtection''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1953
+|-
+| Gender || 0
+|-
+| STR || 195
+|-
+| INT || 50
+|-
+| DEX || 150
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| Equip || undeadflayer
+|-
+| cast_pct || 100
+|-
+| num_casts || 40
+|-
+| lootgroup || 105
+|-
+| magicitemchance || 80
+|-
+| Magicitemlevel || 8
+|-
+| virtue || 4
+|-
+| speech || 35
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| dstart || 10
+|-
+| provoke || 150
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Ebolt
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Kill
+* Abyssalflame
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+* Summon_Fire
+

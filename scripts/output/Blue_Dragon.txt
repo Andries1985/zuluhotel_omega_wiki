@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Blue Dragon =
+
+== Appearance ==
+[[File:Blue_Dragon.png|thumb|Blue Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>378</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 148 Skill
+|-
+| '''Stealing Required''' || 148 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 440
+|-
+| '''BaseIntmod''' || 260
+|-
+| '''BaseDexmod''' || 175
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 340
+|-
+| INT || 210
+|-
+| DEX || 155
+|-
+| Tactics || 138
+|-
+| MaceFighting || 148
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 92
+|-
+| provoke || 148
+|-
+| MagicItemChance || 88
+|-
+| MagicItemLevel || 8
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Stalker =
+
+== Appearance ==
+[[File:Stalker.png|thumb|Stalker]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1822</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 260
+|-
+| '''BaseIntmod''' || 130
+|-
+| '''BaseDexmod''' || 185
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 100
+|-
+| DEX || 170
+|-
+| Tactics || 110
+|-
+| MaceFighting || 120
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 205
+|-
+| lootgroup || 60
+|-
+| provoke || 120
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Siren =
+
+== Appearance ==
+[[File:Siren.png|thumb|Siren]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>641</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 165
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 160
+|-
+| DEX || 150
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 65
+|-
+| provoke || 125
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 6
+|}
+

@@ -1,0 +1,83 @@
+[[Category:NPCs]]
+
+= Farmer =
+
+== Appearance ==
+[[File:Farmer.png|thumb|Farmer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || farmer
+|-
+| '''Equipt''' || farmer
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| guardignore || 1
+|-
+| lumberjacking || 100
+|-
+| mining || 100
+|-
+| camping || 100
+|-
+| cooking || 100
+|-
+| alchemy || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| speech || 19
+|-
+| Equip || farmer
+|-
+| AttackAttribute || Wrestling
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

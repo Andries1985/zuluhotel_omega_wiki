@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Dark Strangler =
+
+== Appearance ==
+[[File:Dark_Strangler.png|thumb|Dark Strangler]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x8</code>
+|-
+| '''Color Code''' || 1285
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''AirProtection''' || i-50
+|-
+| '''EarthProtection''' || 125
+|-
+| '''WaterProtection''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1285
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 35
+|-
+| DEX || 100
+|-
+| Parry || 90
+|-
+| Hiding || 125
+|-
+| Tactics || 110
+|-
+| Macefighting || 150
+|-
+| Archery || 150
+|-
+| Equip || darkstrangler
+|-
+| lootgroup || 128
+|-
+| magicitemchance || 50
+|-
+| Magicitemlevel || 4
+|-
+| ammotype || 0xEED
+|-
+| missileweapon || 0x9a0f
+|-
+| ammoamount || 300
+|-
+| dstart || 10
+|-
+| provoke || 115
+|}
+

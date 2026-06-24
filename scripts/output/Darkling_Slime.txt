@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Darkling Slime =
+
+== Appearance ==
+[[File:Darkling_Slime.png|thumb|Darkling Slime]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>slime</code>
+|-
+| '''Object Type''' || <code>0x33</code>
+|-
+| '''Color Code''' || 25125
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''Slayer Type''' || Slime
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 25125
+|-
+| Gender || 0
+|-
+| STR || 50
+|-
+| INT || 5
+|-
+| DEX || 50
+|-
+| Poisoning || 40
+|-
+| Tactics || 100
+|-
+| Swordsmanship || 100
+|-
+| Equip || darklingslime
+|-
+| lootgroup || 125
+|-
+| dstart || 10
+|-
+| provoke || 90
+|}
+

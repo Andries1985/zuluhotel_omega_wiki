@@ -1,0 +1,115 @@
+[[Category:NPCs]]
+
+= Pestilence =
+
+== Appearance ==
+[[File:Pestilence.png|thumb|Pestilence]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>legendaryhunter</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1157
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''IsRanger''' || 3
+|-
+| '''SuperBoss''' || 1
+|-
+| '''BaseStrmod''' || 1300
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''FreeAction''' || 1
+|-
+| '''PhysicalProtection''' || 6
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''Permmr''' || 2
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''NecroProtection''' || 150
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1157
+|-
+| Gender || 0
+|-
+| STR || 4800
+|-
+| INT || 100
+|-
+| DEX || 950
+|-
+| Tactics || 100
+|-
+| Archery || 180
+|-
+| Hiding || 150
+|-
+| DetectingHidden || 200
+|-
+| MagicResistance || 120
+|-
+| Equip || legendaryhunter
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|-
+| provoke || 150
+|-
+| ammotype || 0xEED
+|-
+| missileweapon || 0x9a1a
+|-
+| ammoamount || 3000
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+

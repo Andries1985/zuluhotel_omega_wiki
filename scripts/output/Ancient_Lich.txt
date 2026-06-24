@@ -1,0 +1,60 @@
+[[Category:NPCs]]
+
+= Ancient Lich =
+
+== Appearance ==
+[[File:Ancient_Lich.png|thumb|Ancient Lich]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>1826</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 900
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 280
+|-
+| DEX || 120
+|-
+| Magery || 180
+|-
+| Tactics || 100
+|-
+| Equip || lich
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Mindblast
+

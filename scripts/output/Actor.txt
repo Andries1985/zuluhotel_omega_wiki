@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Actor =
+
+== Appearance ==
+[[File:Actor.png|thumb|Actor]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>meek</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| guardignore || 1
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| speech || 8
+|-
+| AttackAttribute || Wrestling
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dress || poor
+|-
+| dstart || 10
+|}
+

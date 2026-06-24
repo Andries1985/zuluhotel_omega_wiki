@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Mosquitos =
+
+== Appearance ==
+[[File:Mosquitos.png|thumb|Mosquitos]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1741</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 70
+|-
+| '''BaseIntmod''' || 35
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 35
+|-
+| DEX || 160
+|-
+| Tactics || 70
+|-
+| MaceFighting || 75
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 230
+|-
+| lootgroup || 18
+|-
+| provoke || 50
+|-
+| MagicItemChance || 20
+|-
+| MagicItemLevel || 1
+|}
+

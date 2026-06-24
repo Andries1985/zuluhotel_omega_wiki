@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Thou Shalt Pay =
+
+== Appearance ==
+[[File:Thou_Shalt_Pay.png|thumb|Thou Shalt Pay]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>instakillguard</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''target''' || 0
+|-
+| '''untamable''' || 1
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| dstart || 10
+|-
+| Swordsmanship || 500
+|-
+| Tactics || 500
+|-
+| Equip || guard
+|-
+| guardignore || 1
+|-
+| Privs || invul
+|-
+| Settings || invul
+|}
+

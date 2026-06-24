@@ -1,0 +1,57 @@
+[[Category:NPCs]]
+
+= Undead Knight =
+
+== Appearance ==
+[[File:Undead_Knight.png|thumb|Undead Knight]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1025</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 60
+|-
+| DEX || 120
+|-
+| Tactics || 130
+|-
+| Swordsmanship || 130
+|-
+| Parry || 110
+|-
+| Equip || undeadknight
+|-
+| dstart || 10
+|}
+

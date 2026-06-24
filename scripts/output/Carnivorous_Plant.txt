@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Carnivorous Plant =
+
+== Appearance ==
+[[File:Carnivorous_Plant.png|thumb|Carnivorous Plant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>immobile</code>
+|-
+| '''Object Type''' || <code>497</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 65 Skill
+|-
+| '''Stealing Required''' || 65 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 20
+|-
+| '''BaseIntmod''' || 20
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''EarthProtection''' || 100
+|-
+| '''AirProtection''' || i-50
+|-
+| '''FireProtection''' || i-50
+|-
+| '''WaterProtection''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 25
+|-
+| DEX || 100
+|-
+| Parry || 60
+|-
+| Magery || 100
+|-
+| Tactics || 100
+|-
+| MaceFighting || 150
+|-
+| Equip || reaper
+|-
+| lootgroup || 34
+|-
+| dstart || 10
+|-
+| provoke || 65
+|}
+

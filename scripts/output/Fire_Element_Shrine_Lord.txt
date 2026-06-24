@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Fire Element Shrine Lord =
+
+== Appearance ==
+[[File:Fire_Element_Shrine_Lord.png|thumb|Fire Element Shrine Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>fire</code>
+|-
+| '''Object Type''' || <code>0x0f</code>
+|-
+| '''Color Code''' || 1172
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1172
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Magery || 90
+|-
+| Inscription || 50
+|-
+| MaceFighting || 100
+|-
+| Tactics || 50
+|-
+| Meditation || 90
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| speech || 1
+|-
+| Equip || waterlordshrine
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

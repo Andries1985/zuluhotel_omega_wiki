@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Valley Ostard =
+
+== Appearance ==
+[[File:Valley_Ostard.png|thumb|Valley Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1301
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 175
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1301
+|-
+| Gender || 0
+|-
+| STR || 165
+|-
+| INT || 125
+|-
+| DEX || 175
+|-
+| Parry || 70
+|-
+| Tactics || 80
+|-
+| MaceFighting || 80
+|-
+| Equip || valleyostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 55
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 55
+|-
+| dstart || 10
+|}
+

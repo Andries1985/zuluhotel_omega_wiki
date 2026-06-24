@@ -1,0 +1,141 @@
+[[Category:NPCs]]
+
+= Frost Balron =
+
+== Appearance ==
+[[File:Frost_Balron.png|thumb|Frost Balron]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>43</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 700000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1200
+|-
+| '''BaseIntmod''' || 1900
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''Boss''' || 1
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 120
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 100
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| lootgroup || 105
+|-
+| provoke || 150
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Ebolt
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Wyvernstrike
+* Kill
+* Calllightning
+* Gustofair
+* Icestrike
+* Calllightning
+* Gustofair
+* Icestrike
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Massgust
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+

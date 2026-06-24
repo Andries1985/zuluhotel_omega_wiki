@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Ratlord =
+
+== Appearance ==
+[[File:Ratlord.png|thumb|Ratlord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x2d</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Ratkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 55
+|-
+| DEX || 200
+|-
+| Tactics || 100
+|-
+| Swordsmanship || 105
+|-
+| Equip || ratman_lord
+|-
+| lootgroup || 27
+|-
+| provoke || 80
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 1
+|-
+| dstart || 10
+|}
+

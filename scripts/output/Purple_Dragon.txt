@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Purple Dragon =
+
+== Appearance ==
+[[File:Purple_Dragon.png|thumb|Purple Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>861</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 147 Skill
+|-
+| '''Stealing Required''' || 147 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 435
+|-
+| '''BaseIntmod''' || 245
+|-
+| '''BaseDexmod''' || 182
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 335
+|-
+| INT || 195
+|-
+| DEX || 162
+|-
+| Tactics || 137
+|-
+| MaceFighting || 147
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 177
+|-
+| lootgroup || 90
+|-
+| provoke || 147
+|-
+| MagicItemChance || 86
+|-
+| MagicItemLevel || 8
+|}
+

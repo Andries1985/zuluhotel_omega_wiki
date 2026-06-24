@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Scarab Lord =
+
+== Appearance ==
+[[File:Scarab_Lord.png|thumb|Scarab Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1000</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 60
+|-
+| DEX || 140
+|-
+| Tactics || 110
+|-
+| MaceFighting || 120
+|-
+| provoke || 100
+|-
+| dstart || 10
+|}
+

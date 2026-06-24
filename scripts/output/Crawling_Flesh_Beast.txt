@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Crawling Flesh Beast =
+
+== Appearance ==
+[[File:Crawling_Flesh_Beast.png|thumb|Crawling Flesh Beast]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>498</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 122 Skill
+|-
+| '''Stealing Required''' || 122 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 310
+|-
+| '''BaseIntmod''' || 120
+|-
+| '''BaseDexmod''' || 140
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 245
+|-
+| INT || 95
+|-
+| DEX || 125
+|-
+| Tactics || 118
+|-
+| MaceFighting || 128
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 68
+|-
+| provoke || 122
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 6
+|}
+

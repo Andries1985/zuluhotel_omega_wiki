@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Mushroom Man =
+
+== Appearance ==
+[[File:Mushroom_Man.png|thumb|Mushroom Man]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1100</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 120
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 70
+|-
+| DEX || 100
+|-
+| Tactics || 95
+|-
+| MaceFighting || 100
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Dragon Pinecone Tail =
+
+== Appearance ==
+[[File:Dragon_Pinecone_Tail.png|thumb|Dragon Pinecone Tail]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1092</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Dragopnkin
+|-
+| '''BaseStrmod''' || 340
+|-
+| '''BaseIntmod''' || 170
+|-
+| '''BaseDexmod''' || 170
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 140
+|-
+| DEX || 155
+|-
+| Tactics || 125
+|-
+| MaceFighting || 135
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 185
+|-
+| lootgroup || 75
+|-
+| provoke || 130
+|-
+| MagicItemChance || 75
+|-
+| MagicItemLevel || 6
+|}
+

@@ -1,0 +1,59 @@
+[[Category:NPCs]]
+
+= Skeletal Mage =
+
+== Appearance ==
+[[File:Skeletal_Mage.png|thumb|Skeletal Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>511</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 180
+|-
+| DEX || 100
+|-
+| Magery || 130
+|-
+| Tactics || 90
+|-
+| Equip || skeletalwarrior
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Ebolt
+* Flamestrike
+

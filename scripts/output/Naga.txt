@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Naga =
+
+== Appearance ==
+[[File:Naga.png|thumb|Naga]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1002</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 140
+|-
+| DEX || 160
+|-
+| Tactics || 120
+|-
+| MaceFighting || 120
+|-
+| provoke || 120
+|-
+| dstart || 10
+|}
+

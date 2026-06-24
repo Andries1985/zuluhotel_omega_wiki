@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Dracula =
+
+== Appearance ==
+[[File:Dracula.png|thumb|Dracula]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''PermMagicImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 130
+|-
+| MaceFighting || 130
+|-
+| Equip || dracula
+|-
+| lootgroup || 69
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|-
+| provoke || 125
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 5
+|}
+

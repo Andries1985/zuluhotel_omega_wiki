@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Daemon Spawn =
+
+== Appearance ==
+[[File:Daemon_Spawn.png|thumb|Daemon Spawn]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>doppel</code>
+|-
+| '''Object Type''' || <code>0x09</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 100
+|-
+| DEX || 60
+|-
+| Magery || 90
+|-
+| Tactics || 70
+|-
+| MaceFighting || 100
+|-
+| Equip || daemonspawn
+|-
+| deathsnd || 0x16a
+|-
+| cast_pct || 12
+|-
+| num_casts || 4
+|-
+| lootgroup || 23
+|-
+| speech || 35
+|-
+| saywords || 1
+|-
+| graphics || 0xc 0 0 1
+|-
+| MagicItemChance || 30
+|-
+| MagicItemLevel || 3
+|-
+| provoke || 115
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Harm
+* Summon_Fire
+* Summon_Water
+* Summonskel
+

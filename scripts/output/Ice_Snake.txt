@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Ice Snake =
+
+== Appearance ==
+[[File:Ice_Snake.png|thumb|Ice Snake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1212</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 135
+|-
+| '''BaseIntmod''' || 45
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 135
+|-
+| INT || 45
+|-
+| DEX || 160
+|-
+| Tactics || 92
+|-
+| MaceFighting || 102
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 205
+|-
+| lootgroup || 32
+|-
+| provoke || 75
+|-
+| MagicItemChance || 38
+|-
+| MagicItemLevel || 3
+|}
+

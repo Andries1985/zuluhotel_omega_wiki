@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Headless One =
+
+== Appearance ==
+[[File:Headless_One.png|thumb|Headless One]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x1f</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 45 Skill
+|-
+| '''Stealing Required''' || 45 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 50
+|-
+| INT || 15
+|-
+| DEX || 50
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 85
+|-
+| Equip || headless
+|-
+| deathsnd || 0x19c
+|-
+| lootgroup || 3
+|-
+| provoke || 45
+|-
+| dstart || 10
+|}
+

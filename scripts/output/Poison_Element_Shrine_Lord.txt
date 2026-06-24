@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Poison Element Shrine Lord =
+
+== Appearance ==
+[[File:Poison_Element_Shrine_Lord.png|thumb|Poison Element Shrine Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>poison</code>
+|-
+| '''Object Type''' || <code>0x0d</code>
+|-
+| '''Color Code''' || 264
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 264
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Magery || 90
+|-
+| Inscription || 50
+|-
+| MaceFighting || 100
+|-
+| Tactics || 50
+|-
+| Meditation || 90
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| speech || 1
+|-
+| Equip || waterlordshrine
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

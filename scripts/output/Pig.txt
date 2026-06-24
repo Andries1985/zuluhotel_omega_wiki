@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Pig =
+
+== Appearance ==
+[[File:Pig.png|thumb|Pig]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1753</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 130
+|-
+| '''BaseIntmod''' || 35
+|-
+| '''BaseDexmod''' || 80
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 35
+|-
+| DEX || 80
+|-
+| Tactics || 80
+|-
+| MaceFighting || 85
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 140
+|-
+| lootgroup || 22
+|-
+| provoke || 55
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 2
+|}
+

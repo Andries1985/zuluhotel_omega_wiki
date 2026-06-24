@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Corrupted Shadow =
+
+== Appearance ==
+[[File:Corrupted_Shadow.png|thumb|Corrupted Shadow]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaoskillpcs</code>
+|-
+| '''Object Type''' || <code>573</code>
+|-
+| '''Color Code''' || 1304
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''Permmr''' || 4
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''untamable''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1304
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 100
+|-
+| Fencing || 175
+|-
+| Parry || 130
+|-
+| DetectingHidden || 130
+|-
+| Equip || shadowlord
+|-
+| lootgroup || 79
+|-
+| MoveMode || LS
+|-
+| saywords || 1
+|-
+| dstart || 10
+|-
+| provoke || 140
+|-
+| MagicItemChance || 35
+|-
+| MagicItemLevel || 5
+|}
+

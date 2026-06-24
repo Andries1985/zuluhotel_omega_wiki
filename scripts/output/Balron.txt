@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Balron =
+
+== Appearance ==
+[[File:Balron.png|thumb|Balron]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>851</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 350
+|-
+| INT || 160
+|-
+| DEX || 130
+|-
+| Tactics || 140
+|-
+| MaceFighting || 150
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 155
+|-
+| lootgroup || 90
+|-
+| provoke || 150
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 8
+|}
+

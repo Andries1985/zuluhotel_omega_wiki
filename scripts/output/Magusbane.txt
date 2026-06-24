@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Magusbane =
+
+== Appearance ==
+[[File:Magusbane.png|thumb|Magusbane]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x283</code>
+|-
+| '''Color Code''' || 1170
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 250
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''AttackTypeImmunities''' || 639
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1170
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 500
+|-
+| DEX || 250
+|-
+| Tactics || 130
+|-
+| MaceFighting || 150
+|-
+| Parry || 150
+|-
+| DetectingHidden || 90
+|-
+| Hiding || 130
+|-
+| Equip || daemonlieutenant
+|-
+| lootgroup || 75
+|-
+| dstart || 10
+|-
+| provoke || 135
+|}
+

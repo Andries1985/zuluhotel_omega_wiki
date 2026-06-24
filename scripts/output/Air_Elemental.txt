@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Air Elemental =
+
+== Appearance ==
+[[File:Air_Elemental.png|thumb|Air Elemental]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>494</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 240
+|-
+| '''BaseIntmod''' || 220
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 180
+|-
+| DEX || 160
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 190
+|-
+| lootgroup || 58
+|-
+| provoke || 120
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|}
+

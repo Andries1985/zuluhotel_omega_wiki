@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Brigand General =
+
+== Appearance ==
+[[File:Brigand_General.png|thumb|Brigand General]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || 50
+|-
+| '''Permmr''' || 2
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''IsWarrior''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 95
+|-
+| DEX || 80
+|-
+| Tactics || 130
+|-
+| Fencing || 100
+|-
+| Swordsmanship || 100
+|-
+| Parry || 100
+|-
+| Equip || brigand1
+|-
+| lootgroup || 47
+|-
+| mount || 0x3e9f 1109
+|-
+| provoke || 115
+|-
+| MagicItemChance || 40
+|-
+| Magicitemlevel || 3
+|-
+| dstart || 10
+|-
+| RunSpeed || 250
+|}
+

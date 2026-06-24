@@ -1,0 +1,141 @@
+[[Category:NPCs]]
+
+= Flaming Balron =
+
+== Appearance ==
+[[File:Flaming_Balron.png|thumb|Flaming Balron]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x09</code>
+|-
+| '''Color Code''' || 1694
+|-
+| '''CustomHitsLevel''' || 700000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 1900
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 1000
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''Boss''' || 1
+|-
+| '''NecroProtection''' || 200
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1694
+|-
+| Gender || 0
+|-
+| STR || 110
+|-
+| INT || 110
+|-
+| DEX || 110
+|-
+| Parry || 100
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| lootgroup || 105
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| provoke || 150
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Flamestrike
+* Flamestrike
+* Flamestrike
+* Meteorswarm
+* Teleport
+* Explosion
+* Manavamp
+* Sorcerersbane
+* Wyvernstrike
+* Plague
+* Kill
+* Abyssalflame
+* Abyssalflame
+* Abyssalflame
+* Abyssalflame
+* Abyssalflame
+* Shiftingearth
+* Risingfire
+* Massgust
+* Masswyvern
+* Masskill
+

@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Dragon =
+
+== Appearance ==
+[[File:Dragon.png|thumb|Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3b</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 650
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''FireProtection''' || 100
+|-
+| '''AirProtection''' || 50
+|-
+| '''WaterProtection''' || i-50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 150
+|-
+| Parry || 80
+|-
+| Tactics || 130
+|-
+| MaceFighting || 140
+|-
+| DetectingHidden || 130
+|-
+| Equip || dragon2
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 37
+|-
+| tameskill || 130
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 130
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 5
+|-
+| RunSpeed || 200
+|-
+| dstart || 10
+|}
+

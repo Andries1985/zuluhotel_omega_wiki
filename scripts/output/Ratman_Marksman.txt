@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Ratman Marksman =
+
+== Appearance ==
+[[File:Ratman_Marksman.png|thumb|Ratman Marksman]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>archerkillpcs</code>
+|-
+| '''Object Type''' || <code>0x2a</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Ratkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 60
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Tactics || 60
+|-
+| MaceFighting || 65
+|-
+| Archery || 100
+|-
+| Equip || ratmanmarksman
+|-
+| lootgroup || 52
+|-
+| ammotype || 0x1bfb
+|-
+| missileweapon || 0x0F4F
+|-
+| ammoamount || 30
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

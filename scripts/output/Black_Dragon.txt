@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Black Dragon =
+
+== Appearance ==
+[[File:Black_Dragon.png|thumb|Black Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1228</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 152 Skill
+|-
+| '''Stealing Required''' || 152 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 460
+|-
+| '''BaseIntmod''' || 260
+|-
+| '''BaseDexmod''' || 178
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 355
+|-
+| INT || 205
+|-
+| DEX || 158
+|-
+| Tactics || 140
+|-
+| MaceFighting || 150
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 94
+|-
+| provoke || 152
+|-
+| MagicItemChance || 89
+|-
+| MagicItemLevel || 8
+|}
+

@@ -1,0 +1,98 @@
+[[Category:NPCs]]
+
+= Mountain Wisp =
+
+== Appearance ==
+[[File:Mountain_Wisp.png|thumb|Mountain Wisp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>goodcaster</code>
+|-
+| '''Object Type''' || <code>0x3a</code>
+|-
+| '''Color Code''' || 0x0465
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''EarthProtection''' || 100
+|-
+| '''WaterProtection''' || 50
+|-
+| '''AirProtection''' || i-50
+|-
+| '''PhysicalProtection''' || 5
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0465
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 200
+|-
+| DEX || 175
+|-
+| Parry || 80
+|-
+| Tactics || 100
+|-
+| Swordsmanship || 80
+|-
+| Magery || 120
+|-
+| Equip || wisp
+|-
+| virtue || -5
+|-
+| guardignore || 1
+|-
+| speech || 7
+|-
+| provoke || 90
+|-
+| lootgroup || 125
+|-
+| magicitemchance || 45
+|-
+| MagicItemLevel || 3
+|-
+| saywords || 1
+|-
+| dstart || 10
+|-
+| Karma || 2000
+|}
+
+== Known Spells ==
+* Ebolt
+* Flamestrike
+* Lightning
+* Harm
+* Curse
+* Meteorswarm
+* Poison
+

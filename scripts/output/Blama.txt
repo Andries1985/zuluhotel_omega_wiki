@@ -1,0 +1,141 @@
+[[Category:NPCs]]
+
+= Blama =
+
+== Appearance ==
+[[File:Blama.png|thumb|Blama]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>220</code>
+|-
+| '''Color Code''' || 1172
+|-
+| '''CustomHitsLevel''' || 700000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 1100
+|-
+| '''BaseIntmod''' || 2000
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''PhysicalProtection''' || 1
+|-
+| '''Boss''' || 1
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-60
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1172
+|-
+| Gender || 0
+|-
+| STR || 275
+|-
+| INT || 475
+|-
+| DEX || 275
+|-
+| Parry || 200
+|-
+| Tactics || 180
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| provoke || 150
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Meteorswarm
+* Ebolt
+* Teleport
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Kill
+* Abyssalflame
+* Risingfire
+* Massgust
+* Masskill
+* Massvatten
+

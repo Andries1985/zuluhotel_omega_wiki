@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Large Kraken =
+
+== Appearance ==
+[[File:Large_Kraken.png|thumb|Large Kraken]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1958</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 390
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 135
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 310
+|-
+| INT || 130
+|-
+| DEX || 125
+|-
+| Tactics || 135
+|-
+| MaceFighting || 145
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 150
+|-
+| lootgroup || 82
+|-
+| provoke || 140
+|-
+| MagicItemChance || 82
+|-
+| MagicItemLevel || 7
+|}
+

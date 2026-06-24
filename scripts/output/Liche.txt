@@ -1,0 +1,95 @@
+[[Category:NPCs]]
+
+= Liche =
+
+== Appearance ==
+[[File:Liche.png|thumb|Liche]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x18</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''PermPoisonImmunity''' || 6
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 170
+|-
+| INT || 200
+|-
+| DEX || 70
+|-
+| Parry || 65
+|-
+| Tactics || 50
+|-
+| MaceFighting || 100
+|-
+| Magery || 120
+|-
+| EvaluatingIntelligence || 80
+|-
+| Equip || liche
+|-
+| cast_pct || 60
+|-
+| num_casts || 8
+|-
+| lootgroup || 23
+|-
+| speech || 35
+|-
+| magicitemchance || 80
+|-
+| Magicitemlevel || 3
+|-
+| dstart || 10
+|-
+| provoke || 80
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Ebolt
+* Lightning
+* Harm
+* Mindblast
+* Explosion
+* Fireball
+* Paralyze
+

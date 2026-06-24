@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Sand Drake =
+
+== Appearance ==
+[[File:Sand_Drake.png|thumb|Sand Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3d</code>
+|-
+| '''Color Code''' || 2107
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''AirProtection''' || 200
+|-
+| '''EarthProtection''' || 100
+|-
+| '''FireProtection''' || 200
+|-
+| '''NecroProtection''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2107
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 80
+|-
+| DEX || 100
+|-
+| Parry || 70
+|-
+| Tactics || 110
+|-
+| MaceFighting || 110
+|-
+| DetectingHidden || 110
+|-
+| Equip || sanddragon
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 36
+|-
+| tameskill || 115
+|-
+| food || meat
+|-
+| virtue || 7
+|-
+| provoke || 115
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 4
+|-
+| RunSpeed || 200
+|-
+| dstart || 10
+|}
+

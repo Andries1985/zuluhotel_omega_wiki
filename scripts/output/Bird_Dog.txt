@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Bird Dog =
+
+== Appearance ==
+[[File:Bird_Dog.png|thumb|Bird Dog]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xd9</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 20
+|-
+| INT || 15
+|-
+| DEX || 60
+|-
+| Tactics || 50
+|-
+| MaceFighting || 50
+|-
+| Equip || birddog
+|-
+| deathsnd || 0x8A
+|-
+| tameskill || 10
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 10
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Kappa =
+
+== Appearance ==
+[[File:Kappa.png|thumb|Kappa]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>kappa</code>
+|-
+| '''Object Type''' || <code>238</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Ratkin
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''Boss''' || 1
+|-
+| '''EarthProtection''' || 120
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 25
+|-
+| DEX || 300
+|-
+| Parry || 50
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || rat
+|-
+| deathsnd || 0x18d
+|-
+| food || meat
+|-
+| provoke || 150
+|-
+| lootgroup || 4
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| dstart || 10
+|-
+| RunSpeed || 250
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

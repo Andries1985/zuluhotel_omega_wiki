@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Windrunner =
+
+== Appearance ==
+[[File:Windrunner.png|thumb|Windrunner]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x582</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 100000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''BaseHpRegen''' || 200
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 120
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 145
+|-
+| DEX || 250
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Equip || behemoth
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| tameskill || 150
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

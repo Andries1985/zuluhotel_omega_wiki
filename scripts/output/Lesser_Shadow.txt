@@ -1,0 +1,106 @@
+[[Category:NPCs]]
+
+= Lesser Shadow =
+
+== Appearance ==
+[[File:Lesser_Shadow.png|thumb|Lesser Shadow]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>573</code>
+|-
+| '''Color Code''' || 1
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-50
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 2
+|-
+| '''FireProtection''' || 75
+|-
+| '''untamable''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 200
+|-
+| DEX || 100
+|-
+| Tactics || 125
+|-
+| Fencing || 130
+|-
+| EvaluatingIntelligence || 100
+|-
+| Parry || 100
+|-
+| DetectingHidden || 110
+|-
+| cast_pct || 60
+|-
+| num_casts || 6
+|-
+| Equip || lessershadow
+|-
+| lootgroup || 77
+|-
+| MoveMode || LS
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| provoke || 125
+|-
+| MagicItemChance || 55
+|-
+| MagicItemLevel || 4
+|}
+
+== Known Spells ==
+* Flamestrike
+* Kill
+* Abyssalflame
+* Ebolt
+* Sorcerersbane
+* Wyvernstrike
+* Decayingray
+

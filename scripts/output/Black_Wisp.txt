@@ -1,0 +1,96 @@
+[[Category:NPCs]]
+
+= Black Wisp =
+
+== Appearance ==
+[[File:Black_Wisp.png|thumb|Black Wisp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3a</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseDexmod''' || 400
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''EarthProtection''' || 100
+|-
+| '''WaterProtection''' || 50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 450
+|-
+| INT || 1000
+|-
+| DEX || 175
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| Equip || blackwisp
+|-
+| cast_pct || 60
+|-
+| num_casts || 8
+|-
+| lootgroup || 103
+|-
+| speech || 7
+|-
+| provoke || 100
+|-
+| magicitemchance || 55
+|-
+| MagicItemLevel || 6
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Ebolt
+* Flamestrike
+* Lightning
+* Explosion
+* Masscurse
+* Abyssalflame
+* Wyvernstrike
+* Spectretouch
+* Sorcerersbane
+* Wraithbreath
+* Decayingray
+

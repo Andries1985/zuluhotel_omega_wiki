@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Scourge Gladiator =
+
+== Appearance ==
+[[File:Scourge_Gladiator.png|thumb|Scourge Gladiator]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>loke</code>
+|-
+| '''Object Type''' || <code>351</code>
+|-
+| '''Color Code''' || 2150
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2150
+|-
+| Gender || 0
+|-
+| STR || 6000
+|-
+| INT || 550
+|-
+| DEX || 400
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Archery || 150
+|-
+| Magery || 150
+|-
+| MagicResistance || 100
+|-
+| Equip || loke
+|-
+| ammotype || 0xEED
+|-
+| missileweapon || 0x7cd4
+|-
+| ammoamount || 500
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 99
+|-
+| MagicItemLevel || 9
+|-
+| provoke || 150
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+

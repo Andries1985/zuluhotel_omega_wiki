@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Solen Apprentice Mage =
+
+== Appearance ==
+[[File:Solen_Apprentice_Mage.png|thumb|Solen Apprentice Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>805</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Ophidian
+|-
+| '''BaseStrmod''' || 125
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 150
+|-
+| DEX || 200
+|-
+| Parry || 70
+|-
+| Magery || 80
+|-
+| MaceFighting || 70
+|-
+| Tactics || 70
+|-
+| EvaluatingIntelligence || 80
+|-
+| cast_pct || 50
+|-
+| num_casts || 4
+|-
+| Equip || spider
+|-
+| lootgroup || 76
+|-
+| virtue || 2
+|-
+| provoke || 85
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Summon_Fire
+* Lightning
+* Ebolt
+* Fireball
+* Explosion
+* Flamestrike
+

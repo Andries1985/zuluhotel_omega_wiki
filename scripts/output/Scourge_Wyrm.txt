@@ -1,0 +1,117 @@
+[[Category:NPCs]]
+
+= Scourge Wyrm =
+
+== Appearance ==
+[[File:Scourge_Wyrm.png|thumb|Scourge Wyrm]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosfirebreather</code>
+|-
+| '''Object Type''' || <code>46</code>
+|-
+| '''Color Code''' || 2125
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''looter''' || 1
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 3000
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 550
+|-
+| '''Permmr''' || 6
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''PermMagicImmunity''' || 7
+|-
+| '''FreeAction''' || 1
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 6000
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|-
+| '''HolyProtection''' || i-80
+|-
+| '''NecroProtection''' || i-80
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2125
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 190
+|-
+| Magery || 150
+|-
+| Parry || 120
+|-
+| DetectingHidden || 200
+|-
+| Equip || ancientwyrm
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 150
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 99
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+

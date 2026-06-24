@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Asian Dragon =
+
+== Appearance ==
+[[File:Asian_Dragon.png|thumb|Asian Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1008</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 142 Skill
+|-
+| '''Stealing Required''' || 142 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 420
+|-
+| '''BaseIntmod''' || 270
+|-
+| '''BaseDexmod''' || 178
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 320
+|-
+| INT || 220
+|-
+| DEX || 158
+|-
+| Tactics || 132
+|-
+| MaceFighting || 142
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 178
+|-
+| lootgroup || 88
+|-
+| provoke || 142
+|-
+| MagicItemChance || 85
+|-
+| MagicItemLevel || 8
+|}
+

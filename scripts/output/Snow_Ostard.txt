@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Snow Ostard =
+
+== Appearance ==
+[[File:Snow_Ostard.png|thumb|Snow Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1156
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1156
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 100
+|-
+| DEX || 200
+|-
+| Parry || 100
+|-
+| Tactics || 90
+|-
+| MaceFighting || 100
+|-
+| Equip || snowostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 95
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+

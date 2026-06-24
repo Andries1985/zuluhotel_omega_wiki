@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Necro Frenzied Ostard =
+
+== Appearance ==
+[[File:Necro_Frenzied_Ostard.png|thumb|Necro Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 1282
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 160
+|-
+| '''BaseIntmod''' || 210
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1282
+|-
+| Gender || 0
+|-
+| STR || 225
+|-
+| INT || 125
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 160
+|-
+| Magery || 225
+|-
+| Equip || tropicalfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 120
+|-
+| food || meat
+|-
+| provoke || 120
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Decayingray
+* Sorcerersbane
+

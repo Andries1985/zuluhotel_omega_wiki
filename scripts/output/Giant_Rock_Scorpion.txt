@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Giant Rock Scorpion =
+
+== Appearance ==
+[[File:Giant_Rock_Scorpion.png|thumb|Giant Rock Scorpion]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x30</code>
+|-
+| '''Color Code''' || 1118
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1118
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 30
+|-
+| DEX || 70
+|-
+| Tactics || 70
+|-
+| MaceFighting || 130
+|-
+| Equip || rockscorpion
+|-
+| deathsnd || 0x192
+|-
+| tameskill || 80
+|-
+| food || meat
+|-
+| provoke || 80
+|-
+| dstart || 10
+|}
+

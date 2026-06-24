@@ -1,0 +1,108 @@
+[[Category:NPCs]]
+
+= Blue Slaad =
+
+== Appearance ==
+[[File:Blue_Slaad.png|thumb|Blue Slaad]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>stormkillpcs</code>
+|-
+| '''Object Type''' || <code>796</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1000000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PhysicalProtection''' || 15
+|-
+| '''NecroProtection''' || 200
+|-
+| '''HolyProtection''' || 200
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 120
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 2000
+|-
+| INT || 300
+|-
+| DEX || 50
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 150
+|-
+| Archery || 160
+|-
+| Equip || blueslaad
+|-
+| lootgroup || 106
+|-
+| speech || 35
+|-
+| provoke || 150
+|-
+| magicitemchance || 90
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 200
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+
+== Known Spells ==
+* Wallofstone
+

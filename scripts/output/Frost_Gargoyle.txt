@@ -1,0 +1,92 @@
+[[Category:NPCs]]
+
+= Frost Gargoyle =
+
+== Appearance ==
+[[File:Frost_Gargoyle.png|thumb|Frost Gargoyle]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x4</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Gargoyle
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''EarthProtection''' || i-25
+|-
+| '''FireProtection''' || 25
+|-
+| '''WaterProtection''' || 75
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 85
+|-
+| DEX || 85
+|-
+| Tactics || 120
+|-
+| MaceFighting || 135
+|-
+| Magery || 100
+|-
+| cast_pct || 25
+|-
+| num_casts || 6
+|-
+| Equip || frostgargoyle
+|-
+| deathsnd || 0x179
+|-
+| lootgroup || 38
+|-
+| speech || 54
+|-
+| provoke || 80
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Paralyze
+* Lightning
+* Ebolt
+

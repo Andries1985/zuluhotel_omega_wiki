@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Wind Frenzied Ostard =
+
+== Appearance ==
+[[File:Wind_Frenzied_Ostard.png|thumb|Wind Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 1173
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 40
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1173
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 85
+|-
+| Tactics || 100
+|-
+| MaceFighting || 140
+|-
+| Equip || frenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 65
+|-
+| food || veggie
+|-
+| provoke || 65
+|-
+| dstart || 10
+|}
+

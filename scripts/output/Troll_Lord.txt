@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Troll Lord =
+
+== Appearance ==
+[[File:Troll_Lord.png|thumb|Troll Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x37</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 30
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 55
+|-
+| DEX || 120
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Equip || troll_lord
+|-
+| lootgroup || 19
+|-
+| provoke || 90
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|}
+

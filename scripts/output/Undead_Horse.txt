@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Undead Horse =
+
+== Appearance ==
+[[File:Undead_Horse.png|thumb|Undead Horse]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1955</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 240
+|-
+| '''BaseIntmod''' || 70
+|-
+| '''BaseDexmod''' || 145
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 60
+|-
+| DEX || 135
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 180
+|-
+| lootgroup || 45
+|-
+| provoke || 95
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|}
+

@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Crystal Elemental =
+
+== Appearance ==
+[[File:Crystal_Elemental.png|thumb|Crystal Elemental]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1016</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 600
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 320
+|-
+| INT || 140
+|-
+| DEX || 110
+|-
+| Tactics || 115
+|-
+| MaceFighting || 115
+|-
+| dstart || 10
+|}
+

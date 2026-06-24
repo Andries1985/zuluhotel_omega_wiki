@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Ogre Rockthrower =
+
+== Appearance ==
+[[File:Ogre_Rockthrower.png|thumb|Ogre Rockthrower]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>rockthrower</code>
+|-
+| '''Object Type''' || <code>0x01</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 25
+|-
+| DEX || 60
+|-
+| Tactics || 100
+|-
+| MaceFighting || 120
+|-
+| Equip || ogrerockthrower
+|-
+| lootgroup || 14
+|-
+| speech || 6
+|-
+| provoke || 85
+|-
+| dstart || 10
+|}
+

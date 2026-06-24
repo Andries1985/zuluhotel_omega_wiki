@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Panther =
+
+== Appearance ==
+[[File:Panther.png|thumb|Panther]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xd6</code>
+|-
+| '''Color Code''' || 0x901
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x901
+|-
+| Gender || 0
+|-
+| STR || 65
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 60
+|-
+| Tactics || 50
+|-
+| MaceFighting || 75
+|-
+| Equip || panther
+|-
+| tameskill || 65
+|-
+| food || meat
+|-
+| provoke || 65
+|-
+| dstart || 10
+|}
+

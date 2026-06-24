@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Small Fish Creature =
+
+== Appearance ==
+[[File:Small_Fish_Creature.png|thumb|Small Fish Creature]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1835</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 40
+|-
+| '''BaseDexmod''' || 130
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 40
+|-
+| DEX || 130
+|-
+| Tactics || 80
+|-
+| MaceFighting || 85
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 160
+|-
+| lootgroup || 25
+|-
+| provoke || 60
+|-
+| MagicItemChance || 30
+|-
+| MagicItemLevel || 2
+|}
+

@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Insect Lord =
+
+== Appearance ==
+[[File:Insect_Lord.png|thumb|Insect Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1812</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Terathan
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 250
+|-
+| '''BaseDexmod''' || 280
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 120
+|-
+| DEX || 160
+|-
+| Tactics || 130
+|-
+| MaceFighting || 135
+|-
+| dstart || 10
+|}
+

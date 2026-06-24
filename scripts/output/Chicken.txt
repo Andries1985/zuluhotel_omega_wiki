@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Chicken =
+
+== Appearance ==
+[[File:Chicken.png|thumb|Chicken]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1756</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 35 Skill
+|-
+| '''Stealing Required''' || 35 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 60
+|-
+| '''BaseIntmod''' || 25
+|-
+| '''BaseDexmod''' || 110
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 60
+|-
+| INT || 25
+|-
+| DEX || 110
+|-
+| Tactics || 60
+|-
+| MaceFighting || 65
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 180
+|-
+| lootgroup || 12
+|-
+| provoke || 35
+|-
+| MagicItemChance || 10
+|-
+| MagicItemLevel || 1
+|}
+

@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Cougar =
+
+== Appearance ==
+[[File:Cougar.png|thumb|Cougar]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xd6</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 75
+|-
+| INT || 45
+|-
+| DEX || 80
+|-
+| Parry || 60
+|-
+| Tactics || 50
+|-
+| MaceFighting || 75
+|-
+| Equip || cougar
+|-
+| tameskill || 60
+|-
+| food || meat
+|-
+| provoke || 60
+|-
+| dstart || 10
+|}
+

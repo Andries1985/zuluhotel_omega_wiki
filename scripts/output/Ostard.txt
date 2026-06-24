@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Ostard =
+
+== Appearance ==
+[[File:Ostard.png|thumb|Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>1796</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 30
+|-
+| DEX || 100
+|-
+| Tactics || 80
+|-
+| MaceFighting || 85
+|-
+| dstart || 10
+|}
+

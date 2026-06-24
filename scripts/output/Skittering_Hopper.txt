@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Skittering Hopper =
+
+== Appearance ==
+[[File:Skittering_Hopper.png|thumb|Skittering Hopper]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>302</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 165
+|-
+| INT || 25
+|-
+| DEX || 180
+|-
+| Parry || 90
+|-
+| Tactics || 90
+|-
+| MaceFighting || 95
+|-
+| Equip || panther
+|-
+| tameskill || 85
+|-
+| food || meat
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

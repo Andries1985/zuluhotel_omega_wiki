@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Lizardmanmarksman =
+
+== Appearance ==
+[[File:Lizardmanmarksman.png|thumb|Lizardmanmarksman]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x24</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 85
+|-
+| INT || 35
+|-
+| DEX || 95
+|-
+| Tactics || 75
+|-
+| Macefighting || 75
+|-
+| Archery || 120
+|-
+| lootgroup || 52
+|-
+| Equip || lizardmanmarksman
+|-
+| deathsnd || 0x1a6
+|-
+| ammotype || 0x1bfb
+|-
+| missileweapon || 0x0F4F
+|-
+| ammoamount || 30
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

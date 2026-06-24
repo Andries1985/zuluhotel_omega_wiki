@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Celestial Dragon =
+
+== Appearance ==
+[[File:Celestial_Dragon.png|thumb|Celestial Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xc</code>
+|-
+| '''Color Code''' || 1301
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 750
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''PermPoisonImmunity''' || 5
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1301
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 140
+|-
+| Parry || 80
+|-
+| Tactics || 120
+|-
+| MaceFighting || 140
+|-
+| DetectingHidden || 130
+|-
+| Equip || celestialdragon
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 37
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 95
+|-
+| Magicitemlevel || 5
+|-
+| RunSpeed || 200
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Kodo =
+
+== Appearance ==
+[[File:Kodo.png|thumb|Kodo]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1845</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 240
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 110
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 240
+|-
+| INT || 50
+|-
+| DEX || 110
+|-
+| Tactics || 115
+|-
+| MaceFighting || 125
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 155
+|-
+| lootgroup || 52
+|-
+| provoke || 95
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|}
+

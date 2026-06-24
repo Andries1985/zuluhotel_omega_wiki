@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Tropical Ostard =
+
+== Appearance ==
+[[File:Tropical_Ostard.png|thumb|Tropical Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1155
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1155
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Parry || 100
+|-
+| Tactics || 90
+|-
+| MaceFighting || 100
+|-
+| Magery || 200
+|-
+| Equip || tropicalostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 105
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 105
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Harm
+* Fireball
+* Ebolt
+* Lightning
+* Flamestrike
+* Mindblast
+

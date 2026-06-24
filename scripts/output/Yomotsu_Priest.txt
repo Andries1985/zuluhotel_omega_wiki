@@ -1,0 +1,106 @@
+[[Category:NPCs]]
+
+= Yomotsu Priest =
+
+== Appearance ==
+[[File:Yomotsu_Priest.png|thumb|Yomotsu Priest]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>critterhealer</code>
+|-
+| '''Object Type''' || <code>253</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 1500
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''NecroProtection''' || 60
+|-
+| '''HolyProtection''' || 75
+|-
+| '''FireProtection''' || 75
+|-
+| '''WaterProtection''' || 75
+|-
+| '''EarthProtection''' || 95
+|-
+| '''AirProtection''' || 95
+|-
+| '''BaseHpRegen''' || 100
+|-
+| '''BaseManaRegen''' || 100
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 250
+|-
+| DEX || 150
+|-
+| Parry || 90
+|-
+| Magery || 140
+|-
+| MaceFighting || 110
+|-
+| Tactics || 90
+|-
+| Equip || evilspellbook
+|-
+| cast_pct || 50
+|-
+| num_casts || 4
+|-
+| lootgroup || 102
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| provoke || 110
+|}
+
+== Known Spells ==
+* Summon_Fire
+* Lightning
+* Ebolt
+* Explosion
+* Flamestrike
+

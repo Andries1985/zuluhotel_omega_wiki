@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Green Fungal Giant =
+
+== Appearance ==
+[[File:Green_Fungal_Giant.png|thumb|Green Fungal Giant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1920</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 320
+|-
+| '''BaseIntmod''' || 95
+|-
+| '''BaseDexmod''' || 115
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 85
+|-
+| DEX || 105
+|-
+| Tactics || 115
+|-
+| MaceFighting || 125
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 150
+|-
+| lootgroup || 65
+|-
+| provoke || 115
+|-
+| MagicItemChance || 68
+|-
+| MagicItemLevel || 6
+|}
+

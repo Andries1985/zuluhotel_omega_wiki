@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Red Fungal Giant =
+
+== Appearance ==
+[[File:Red_Fungal_Giant.png|thumb|Red Fungal Giant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1924</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 118 Skill
+|-
+| '''Stealing Required''' || 118 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 330
+|-
+| '''BaseIntmod''' || 95
+|-
+| '''BaseDexmod''' || 117
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 270
+|-
+| INT || 85
+|-
+| DEX || 107
+|-
+| Tactics || 118
+|-
+| MaceFighting || 128
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 149
+|-
+| lootgroup || 67
+|-
+| provoke || 118
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 6
+|}
+

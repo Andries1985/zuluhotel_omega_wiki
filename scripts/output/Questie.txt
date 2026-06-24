@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Questie =
+
+== Appearance ==
+[[File:Questie.png|thumb|Questie]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>questie</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''Snooping Required''' || 10 Skill
+|-
+| '''Stealing Required''' || 10 Skill
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 50
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 75
+|-
+| Equip || questie
+|-
+| guardignore || 1
+|-
+| virtue || -2
+|-
+| dstart || 10
+|}
+

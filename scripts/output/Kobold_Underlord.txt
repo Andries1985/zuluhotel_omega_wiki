@@ -1,0 +1,92 @@
+[[Category:NPCs]]
+
+= Kobold Underlord =
+
+== Appearance ==
+[[File:Kobold_Underlord.png|thumb|Kobold Underlord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x11</code>
+|-
+| '''Color Code''' || 466
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''NecroProtection''' || 125
+|-
+| '''HolyProtection''' || i-125
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 466
+|-
+| Gender || 0
+|-
+| STR || 102
+|-
+| INT || 200
+|-
+| DEX || 100
+|-
+| Magery || 130
+|-
+| EvaluatingIntelligence || 100
+|-
+| DetectingHidden || 90
+|-
+| cast_pct || 40
+|-
+| num_casts || 5
+|-
+| Equip || koboldenchanter
+|-
+| lootgroup || 37
+|-
+| virtue || 7
+|-
+| provoke || 90
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Decayingray
+* Darkness
+* Mindblast
+

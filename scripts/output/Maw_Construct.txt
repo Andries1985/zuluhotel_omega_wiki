@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Maw Construct =
+
+== Appearance ==
+[[File:Maw_Construct.png|thumb|Maw Construct]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1915</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Animated
+|-
+| '''BaseStrmod''' || 380
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 135
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 100
+|-
+| DEX || 135
+|-
+| Tactics || 135
+|-
+| MaceFighting || 145
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 155
+|-
+| lootgroup || 75
+|-
+| provoke || 130
+|-
+| MagicItemChance || 78
+|-
+| MagicItemLevel || 7
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Minion =
+
+== Appearance ==
+[[File:Minion.png|thumb|Minion]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1878</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 240
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 170
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 120
+|-
+| DEX || 155
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 190
+|-
+| lootgroup || 55
+|-
+| provoke || 110
+|-
+| MagicItemChance || 62
+|-
+| MagicItemLevel || 5
+|}
+

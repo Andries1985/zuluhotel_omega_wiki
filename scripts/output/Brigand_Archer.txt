@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Brigand Archer =
+
+== Appearance ==
+[[File:Brigand_Archer.png|thumb|Brigand Archer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 50
+|-
+| DEX || 50
+|-
+| Tactics || 60
+|-
+| Macefighting || 75
+|-
+| Archery || 140
+|-
+| Equip || mountedbrigandarcher
+|-
+| lootgroup || 41
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 30
+|-
+| provoke || 55
+|-
+| mount || 0x3e9f 1109
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|-
+| equip || brigand1
+|}
+

@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Plagued Rat =
+
+== Appearance ==
+[[File:Plagued_Rat.png|thumb|Plagued Rat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xee</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 20
+|-
+| INT || 100
+|-
+| DEX || 70
+|-
+| Tactics || 50
+|-
+| MaceFighting || 50
+|-
+| Magery || 40
+|-
+| Equip || plaguedrat
+|-
+| tameskill || 35
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 35
+|-
+| dstart || 10
+|}
+

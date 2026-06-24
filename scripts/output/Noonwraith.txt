@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Noonwraith =
+
+== Appearance ==
+[[File:Noonwraith.png|thumb|Noonwraith]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x1a</code>
+|-
+| '''Color Code''' || 25125
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''PermPoisonImmunity''' || 6
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 25125
+|-
+| Gender || 0
+|-
+| STR || 500
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Tactics || 200
+|-
+| Swordsmanship || 175
+|-
+| Equip || spectre
+|-
+| lootgroup || 40
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| provoke || 90
+|}
+

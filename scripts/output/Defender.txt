@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Defender =
+
+== Appearance ==
+[[File:Defender.png|thumb|Defender]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x21</code>
+|-
+| '''Color Code''' || 0x05AE
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x05AE
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 35
+|-
+| DEX || 80
+|-
+| Tactics || 90
+|-
+| MaceFighting || 100
+|-
+| Equip || lizardmandefender
+|-
+| deathsnd || 0x1a6
+|-
+| lootgroup || 56
+|-
+| provoke || 80
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Heavenly Drake =
+
+== Appearance ==
+[[File:Heavenly_Drake.png|thumb|Heavenly Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3c</code>
+|-
+| '''Color Code''' || 1181
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''PermPoisonImmunity''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1181
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 80
+|-
+| DEX || 100
+|-
+| Parry || 70
+|-
+| Tactics || 100
+|-
+| MaceFighting || 150
+|-
+| DetectingHidden || 115
+|-
+| Equip || heavenlydrake
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 125
+|-
+| lootgroup || 36
+|-
+| food || meat
+|-
+| virtue || 7
+|-
+| provoke || 125
+|-
+| MagicItemChance || 95
+|-
+| MagicItemLevel || 4
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|}
+

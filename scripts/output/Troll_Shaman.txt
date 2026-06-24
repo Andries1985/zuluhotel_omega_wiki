@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Troll Shaman =
+
+== Appearance ==
+[[File:Troll_Shaman.png|thumb|Troll Shaman]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>critterhealer</code>
+|-
+| '''Object Type''' || <code>0x36</code>
+|-
+| '''Color Code''' || 0x0220
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0220
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 85
+|-
+| DEX || 70
+|-
+| Tactics || 60
+|-
+| MaceFighting || 90
+|-
+| Magery || 90
+|-
+| Equip || trollshaman
+|-
+| num_casts || 4
+|-
+| cast_pct || 50
+|-
+| lootgroup || 54
+|-
+| provoke || 95
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Summon_Earth
+* Explosion
+

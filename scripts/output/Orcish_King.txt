@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Orcish King =
+
+== Appearance ==
+[[File:Orcish_King.png|thumb|Orcish King]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>7</code>
+|-
+| '''Color Code''' || 0x0465
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0465
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 50
+|-
+| DEX || 150
+|-
+| Tactics || 100
+|-
+| MaceFighting || 150
+|-
+| Equip || orcking
+|-
+| lootgroup || 13
+|-
+| provoke || 85
+|-
+| MagicItemChance || 75
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|}
+

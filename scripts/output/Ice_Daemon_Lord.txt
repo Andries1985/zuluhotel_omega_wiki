@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Ice Daemon Lord =
+
+== Appearance ==
+[[File:Ice_Daemon_Lord.png|thumb|Ice Daemon Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1188</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 142 Skill
+|-
+| '''Stealing Required''' || 142 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 375
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 157
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 290
+|-
+| INT || 160
+|-
+| DEX || 142
+|-
+| Tactics || 132
+|-
+| MaceFighting || 142
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 170
+|-
+| lootgroup || 80
+|-
+| provoke || 142
+|-
+| MagicItemChance || 83
+|-
+| MagicItemLevel || 7
+|}
+

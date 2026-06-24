@@ -1,0 +1,86 @@
+[[Category:NPCs]]
+
+= Ratmage =
+
+== Appearance ==
+[[File:Ratmage.png|thumb|Ratmage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x2a</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Ratkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 75
+|-
+| INT || 100
+|-
+| DEX || 80
+|-
+| Parry || 60
+|-
+| Tactics || 60
+|-
+| Swordsmanship || 65
+|-
+| Equip || orcmage
+|-
+| cast_pct || 40
+|-
+| num_casts || 8
+|-
+| lootgroup || 31
+|-
+| speech || 6
+|-
+| provoke || 80
+|-
+| magicitemchance || 45
+|-
+| MagicItemLevel || 2
+|-
+| saywords || 1
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Ebolt
+* Lightning
+* Harm
+* Poison
+* Magicarrow
+* Fireball
+* Paralyze
+

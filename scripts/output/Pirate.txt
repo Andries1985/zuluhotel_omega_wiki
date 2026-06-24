@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Pirate =
+
+== Appearance ==
+[[File:Pirate.png|thumb|Pirate]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 50
+|-
+| DEX || 200
+|-
+| Tactics || 80
+|-
+| Swordsmanship || 75
+|-
+| Equip || pirate
+|-
+| deathsnd || 0x15b
+|-
+| lootgroup || 47
+|-
+| speech || 46
+|-
+| dstart || 10
+|}
+

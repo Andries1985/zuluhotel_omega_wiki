@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Shade =
+
+== Appearance ==
+[[File:Shade.png|thumb|Shade]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 17969
+|-
+| '''Snooping Required''' || 65 Skill
+|-
+| '''Stealing Required''' || 65 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 17969
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Tactics || 80
+|-
+| MaceFighting || 105
+|-
+| Equip || shade
+|-
+| lootgroup || 25
+|-
+| equip || bewitchedsword
+|-
+| dstart || 10
+|-
+| provoke || 65
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 1
+|}
+

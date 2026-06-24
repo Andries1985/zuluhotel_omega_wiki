@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Fish Man =
+
+== Appearance ==
+[[File:Fish_Man.png|thumb|Fish Man]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1210</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 280
+|-
+| '''BaseIntmod''' || 120
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 95
+|-
+| DEX || 135
+|-
+| Tactics || 112
+|-
+| MaceFighting || 122
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 60
+|-
+| provoke || 115
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|}
+

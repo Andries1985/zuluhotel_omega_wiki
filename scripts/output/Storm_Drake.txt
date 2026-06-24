@@ -1,0 +1,93 @@
+[[Category:NPCs]]
+
+= Storm Drake =
+
+== Appearance ==
+[[File:Storm_Drake.png|thumb|Storm Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3d</code>
+|-
+| '''Color Code''' || 1966
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''AirProtection''' || 200
+|-
+| '''EarthProtection''' || 100
+|-
+| '''FireProtection''' || i-100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1966
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 140
+|-
+| Parry || 80
+|-
+| Tactics || 110
+|-
+| MaceFighting || 150
+|-
+| DetectingHidden || 110
+|-
+| Equip || stormdragon
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 120
+|-
+| lootgroup || 36
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 120
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 25
+|-
+| Magicitemlevel || 4
+|-
+| RunSpeed || 225
+|-
+| dstart || 10
+|}
+

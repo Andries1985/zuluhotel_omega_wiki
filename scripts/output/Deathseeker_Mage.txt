@@ -1,0 +1,62 @@
+[[Category:NPCs]]
+
+= Deathseeker Mage =
+
+== Appearance ==
+[[File:Deathseeker_Mage.png|thumb|Deathseeker Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>379</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 700
+|-
+| '''BaseDexmod''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 220
+|-
+| DEX || 110
+|-
+| Magery || 150
+|-
+| Tactics || 90
+|-
+| Equip || mage
+|-
+| provoke || 120
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Mindblast
+

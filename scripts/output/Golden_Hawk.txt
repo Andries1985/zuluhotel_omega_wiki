@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Golden Hawk =
+
+== Appearance ==
+[[File:Golden_Hawk.png|thumb|Golden Hawk]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0x05</code>
+|-
+| '''Color Code''' || 1127
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1127
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 40
+|-
+| DEX || 80
+|-
+| Tactics || 100
+|-
+| MaceFighting || 90
+|-
+| Equip || goldenhawk
+|-
+| tameskill || 35
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 35
+|-
+| dstart || 10
+|}
+

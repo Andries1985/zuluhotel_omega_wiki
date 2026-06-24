@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Blade Spider Male =
+
+== Appearance ==
+[[File:Blade_Spider_Male.png|thumb|Blade Spider Male]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 93 Skill
+|-
+| '''Stealing Required''' || 93 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 170
+|-
+| '''BaseIntmod''' || 55
+|-
+| '''BaseDexmod''' || 148
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 170
+|-
+| INT || 55
+|-
+| DEX || 148
+|-
+| Tactics || 103
+|-
+| MaceFighting || 113
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 198
+|-
+| lootgroup || 43
+|-
+| provoke || 93
+|-
+| MagicItemChance || 51
+|-
+| MagicItemLevel || 4
+|}
+

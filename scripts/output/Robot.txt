@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Robot =
+
+== Appearance ==
+[[File:Robot.png|thumb|Robot]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1083</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animated
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 80
+|-
+| DEX || 140
+|-
+| Tactics || 130
+|-
+| MaceFighting || 135
+|-
+| dstart || 10
+|}
+

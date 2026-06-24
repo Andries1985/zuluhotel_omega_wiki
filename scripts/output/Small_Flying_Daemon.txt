@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Small Flying Daemon =
+
+== Appearance ==
+[[File:Small_Flying_Daemon.png|thumb|Small Flying Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1747</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 210
+|-
+| '''BaseIntmod''' || 160
+|-
+| '''BaseDexmod''' || 185
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 130
+|-
+| DEX || 170
+|-
+| Tactics || 95
+|-
+| MaceFighting || 105
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 215
+|-
+| lootgroup || 52
+|-
+| provoke || 115
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 5
+|}
+

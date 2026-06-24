@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Shipwright =
+
+== Appearance ==
+[[File:Shipwright.png|thumb|Shipwright]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Shipwright
+|-
+| '''Equipt''' || merchant
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| fishing || 100
+|-
+| cartography || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| speech || 25
+|-
+| Equip || shipwright
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

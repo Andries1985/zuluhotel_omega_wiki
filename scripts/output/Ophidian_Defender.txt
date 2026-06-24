@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Ophidian Defender =
+
+== Appearance ==
+[[File:Ophidian_Defender.png|thumb|Ophidian Defender]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x56</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Ophidian
+|-
+| '''BaseStrmod''' || 75
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 25
+|-
+| DEX || 200
+|-
+| Parry || 70
+|-
+| Magery || 80
+|-
+| MaceFighting || 100
+|-
+| Tactics || 90
+|-
+| Equip || ophidiandefender
+|-
+| lootgroup || 70
+|-
+| virtue || 2
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+

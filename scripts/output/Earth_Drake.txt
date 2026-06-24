@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Earth Drake =
+
+== Appearance ==
+[[File:Earth_Drake.png|thumb|Earth Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3d</code>
+|-
+| '''Color Code''' || 1134
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''FireProtection''' || 200
+|-
+| '''WaterProtection''' || 100
+|-
+| '''AirProtection''' || i-100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1134
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 80
+|-
+| DEX || 50
+|-
+| Parry || 70
+|-
+| Tactics || 110
+|-
+| MaceFighting || 130
+|-
+| DetectingHidden || 110
+|-
+| Equip || earthdrake
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 36
+|-
+| tameskill || 115
+|-
+| food || meat
+|-
+| virtue || 7
+|-
+| provoke || 115
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 4
+|-
+| RunSpeed || 175
+|-
+| dstart || 10
+|}
+

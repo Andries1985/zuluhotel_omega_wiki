@@ -1,0 +1,83 @@
+[[Category:NPCs]]
+
+= Adept Mage =
+
+== Appearance ==
+[[File:Adept_Mage.png|thumb|Adept Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 95
+|-
+| DEX || 80
+|-
+| Tactics || 85
+|-
+| Macefighting || 85
+|-
+| Magery || 100
+|-
+| cast_pct || 45
+|-
+| num_casts || 8
+|-
+| Equip || eviladept
+|-
+| lootgroup || 25
+|-
+| speech || 35
+|-
+| provoke || 95
+|-
+| magicitemchance || 45
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Lightning
+* Fireball
+* Magicarrow
+* Ebolt
+

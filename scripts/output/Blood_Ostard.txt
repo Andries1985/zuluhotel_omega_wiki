@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Blood Ostard =
+
+== Appearance ==
+[[File:Blood_Ostard.png|thumb|Blood Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xd2</code>
+|-
+| '''Color Code''' || 38
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 38
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 25
+|-
+| DEX || 90
+|-
+| Parry || 30
+|-
+| Tactics || 70
+|-
+| MaceFighting || 60
+|-
+| Equip || desertostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 80
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 80
+|-
+| dstart || 10
+|}
+

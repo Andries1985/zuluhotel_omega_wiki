@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Dino Dragon =
+
+== Appearance ==
+[[File:Dino_Dragon.png|thumb|Dino Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1015</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 148 Skill
+|-
+| '''Stealing Required''' || 148 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 230
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 345
+|-
+| INT || 185
+|-
+| DEX || 162
+|-
+| Tactics || 138
+|-
+| MaceFighting || 148
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 180
+|-
+| lootgroup || 92
+|-
+| provoke || 148
+|-
+| MagicItemChance || 87
+|-
+| MagicItemLevel || 8
+|}
+

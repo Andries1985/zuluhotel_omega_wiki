@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Stomp =
+
+== Appearance ==
+[[File:Stomp.png|thumb|Stomp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x0e</code>
+|-
+| '''Color Code''' || 1280
+|-
+| '''CustomHitsLevel''' || 1000000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1280
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 200
+|-
+| DEX || 225
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Equip || behemoth
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

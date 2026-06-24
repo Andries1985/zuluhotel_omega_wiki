@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Slime =
+
+== Appearance ==
+[[File:Slime.png|thumb|Slime]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>slime</code>
+|-
+| '''Object Type''' || <code>0x33</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 45 Skill
+|-
+| '''Stealing Required''' || 45 Skill
+|-
+| '''Slayer Type''' || Slime
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 6
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 30
+|-
+| INT || 5
+|-
+| DEX || 40
+|-
+| Parry || 18
+|-
+| Poisoning || 40
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 30
+|-
+| Equip || slime
+|-
+| tameskill || 20
+|-
+| lootgroup || 3
+|-
+| provoke || 20
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Twisted Animation =
+
+== Appearance ==
+[[File:Twisted_Animation.png|thumb|Twisted Animation]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x245</code>
+|-
+| '''Color Code''' || 49408
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 600
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''IsWarrior''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 49408
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 140
+|-
+| Parry || 150
+|-
+| Equip || taintedanimation
+|-
+| lootgroup || 132
+|-
+| magicitemchance || 45
+|-
+| Magicitemlevel || 5
+|-
+| dstart || 10
+|-
+| provoke || 125
+|}
+

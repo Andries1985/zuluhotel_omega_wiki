@@ -1,0 +1,111 @@
+[[Category:NPCs]]
+
+= Golden Dragon =
+
+== Appearance ==
+[[File:Golden_Dragon.png|thumb|Golden Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xc</code>
+|-
+| '''Color Code''' || 48
+|-
+| '''CustomHitsLevel''' || 700000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''looter''' || 1
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 1050
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''Permmr''' || 6
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PermMagicImmunity''' || 7
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 48
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 200
+|-
+| DEX || 225
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 150
+|-
+| Parry || 100
+|-
+| DetectingHidden || 200
+|-
+| Equip || goldendragon
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 150
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 95
+|-
+| MagicItemLevel || 9
+|-
+| dstart || 10
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|-
+| RunSpeed || 250
+|}
+

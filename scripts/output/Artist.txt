@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Artist =
+
+== Appearance ==
+[[File:Artist.png|thumb|Artist]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>meek</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| guardignore || 1
+|-
+| Musicianship || 100
+|-
+| Peacemaking || 100
+|-
+| Tactics || 100
+|-
+| speech || 39
+|-
+| MaceFighting || 100
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dress || poor
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Rabbit =
+
+== Appearance ==
+[[File:Rabbit.png|thumb|Rabbit]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1754</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 40 Skill
+|-
+| '''Stealing Required''' || 40 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 70
+|-
+| '''BaseIntmod''' || 30
+|-
+| '''BaseDexmod''' || 140
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 30
+|-
+| DEX || 140
+|-
+| Tactics || 65
+|-
+| MaceFighting || 70
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 220
+|-
+| lootgroup || 10
+|-
+| provoke || 40
+|-
+| MagicItemChance || 15
+|-
+| MagicItemLevel || 1
+|}
+

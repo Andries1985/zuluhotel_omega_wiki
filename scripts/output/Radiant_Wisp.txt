@@ -1,0 +1,103 @@
+[[Category:NPCs]]
+
+= Radiant Wisp =
+
+== Appearance ==
+[[File:Radiant_Wisp.png|thumb|Radiant Wisp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>goodcaster</code>
+|-
+| '''Object Type''' || <code>0x3a</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 850
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''FireProtection''' || 125
+|-
+| '''NecroProtection''' || i-100
+|-
+| '''HolyProtection''' || 100
+|-
+| '''EarthProtection''' || 75
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 200
+|-
+| DEX || 175
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 140
+|-
+| Magery || 150
+|-
+| EvaluatingIntelligence || 150
+|-
+| Equip || radiantwisp
+|-
+| virtue || -5
+|-
+| guardignore || 1
+|-
+| speech || 7
+|-
+| provoke || 105
+|-
+| lootgroup || 80
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|-
+| saywords || 1
+|-
+| dstart || 10
+|-
+| Karma || 3000
+|}
+
+== Known Spells ==
+* Ebolt
+* Flamestrike
+* Explosion
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Darkness
+* Wraithbreath
+

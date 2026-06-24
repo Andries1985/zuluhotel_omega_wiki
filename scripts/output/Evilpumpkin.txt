@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Evilpumpkin =
+
+== Appearance ==
+[[File:Evilpumpkin.png|thumb|Evilpumpkin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1022</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1000000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''AirProtection''' || i-20
+|-
+| '''EarthProtection''' || 150
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''Boss''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 45
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Equip || behemoth
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

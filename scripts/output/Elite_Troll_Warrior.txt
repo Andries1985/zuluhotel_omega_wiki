@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Elite Troll Warrior =
+
+== Appearance ==
+[[File:Elite_Troll_Warrior.png|thumb|Elite Troll Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x37</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 135
+|-
+| INT || 55
+|-
+| DEX || 75
+|-
+| Tactics || 90
+|-
+| Swordsmanship || 95
+|-
+| Equip || troll5
+|-
+| lootgroup || 43
+|-
+| provoke || 85
+|-
+| dstart || 10
+|-
+| MagicItemChance || 30
+|-
+| MagicItemLevel || 2
+|}
+

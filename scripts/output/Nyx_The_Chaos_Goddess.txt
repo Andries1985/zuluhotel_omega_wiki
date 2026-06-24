@@ -1,0 +1,136 @@
+[[Category:NPCs]]
+
+= Nyx The Chaos Goddess =
+
+== Appearance ==
+[[File:Nyx_The_Chaos_Goddess.png|thumb|Nyx The Chaos Goddess]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>rikktor</code>
+|-
+| '''Object Type''' || <code>1125</code>
+|-
+| '''Color Code''' || 1183
+|-
+| '''CustomHitsLevel''' || 6000000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''BaseStrmod''' || 3050
+|-
+| '''BaseIntmod''' || 4000
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 500
+|-
+| '''PhysicalProtection''' || 16
+|-
+| '''AirProtection''' || 95
+|-
+| '''EarthProtection''' || 95
+|-
+| '''FireProtection''' || 95
+|-
+| '''WaterProtection''' || 70
+|-
+| '''NecroProtection''' || 95
+|-
+| '''HolyProtection''' || 55
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''Champion''' || 3
+|-
+| '''event''' || 1
+|-
+| '''IsMage''' || 6
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1183
+|-
+| Gender || 0
+|-
+| STR || 110
+|-
+| INT || 100
+|-
+| DEX || 200
+|-
+| DetectingHidden || 1000
+|-
+| Tactics || 200
+|-
+| Parry || 200
+|-
+| Magery || 200
+|-
+| Macefighting || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| cast_pct || 100
+|-
+| num_casts || 40
+|-
+| Equip || dragonking
+|-
+| lootgroup || 151
+|-
+| magicitemchance || 99
+|-
+| Magicitemlevel || 10
+|-
+| virtue || 2
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|-
+| RunSpeed || 250
+|}
+
+== Known Spells ==
+* Summonguardian
+* Summonguardian
+* Summonguardian
+* Enlightenment
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Massgust
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massholybolt
+* Champfire
+

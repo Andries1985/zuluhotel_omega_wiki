@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Brigand Marksmen =
+
+== Appearance ==
+[[File:Brigand_Marksmen.png|thumb|Brigand Marksmen]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 185
+|-
+| INT || 35
+|-
+| DEX || 95
+|-
+| Tactics || 75
+|-
+| Macefighting || 75
+|-
+| Archery || 100
+|-
+| Equip || brigandmarksmen
+|-
+| lootgroup || 52
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 30
+|-
+| provoke || 55
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|}
+

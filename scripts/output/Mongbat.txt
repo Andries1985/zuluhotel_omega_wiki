@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Mongbat =
+
+== Appearance ==
+[[File:Mongbat.png|thumb|Mongbat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x27</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 25 Skill
+|-
+| '''Stealing Required''' || 25 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 10
+|-
+| INT || 25
+|-
+| DEX || 50
+|-
+| Parry || 55
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 40
+|-
+| Equip || mongbat
+|-
+| deathsnd || 0x1ab
+|-
+| tameskill || 25
+|-
+| lootgroup || 3
+|-
+| provoke || 25
+|-
+| dstart || 10
+|}
+

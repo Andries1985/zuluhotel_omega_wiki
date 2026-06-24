@@ -1,0 +1,105 @@
+[[Category:NPCs]]
+
+= Bane =
+
+== Appearance ==
+[[File:Bane.png|thumb|Bane]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3ca</code>
+|-
+| '''Color Code''' || 1282
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 20
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''Permmr''' || 50
+|-
+| '''BaseManaRegen''' || 1000
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''NecroProtection''' || 75
+|-
+| '''FireProtection''' || 75
+|-
+| '''WaterProtection''' || 75
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || 75
+|-
+| '''HolyProtection''' || i-200
+|-
+| '''PermPoisonImmunity''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1282
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 50
+|-
+| DEX || 500
+|-
+| Archery || 130
+|-
+| DetectingHidden || 80
+|-
+| MaceFighting || 130
+|-
+| Magery || 130
+|-
+| Hiding || 130
+|-
+| Stealth || 130
+|-
+| Tactics || 130
+|-
+| Equip || trollarcher
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 55
+|-
+| lootgroup || 75
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| provoke || 130
+|}
+

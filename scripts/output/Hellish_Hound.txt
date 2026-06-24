@@ -1,0 +1,76 @@
+[[Category:NPCs]]
+
+= Hellish Hound =
+
+== Appearance ==
+[[File:Hellish_Hound.png|thumb|Hellish Hound]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0xe1</code>
+|-
+| '''Color Code''' || 232
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 232
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 50
+|-
+| DEX || 135
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Magery || 90
+|-
+| cast_pct || 35
+|-
+| num_casts || 6
+|-
+| Equip || hellhound
+|-
+| lootgroup || 61
+|-
+| tameskill || 95
+|-
+| food || meat
+|-
+| saywords || 1
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Fireball
+

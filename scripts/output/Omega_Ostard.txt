@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Omega Ostard =
+
+== Appearance ==
+[[File:Omega_Ostard.png|thumb|Omega Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>wolf</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 2164
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2164
+|-
+| Gender || 0
+|-
+| STR || 500
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || forestostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 150
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 150
+|-
+| dstart || 10
+|}
+

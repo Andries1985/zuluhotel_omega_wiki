@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Wight =
+
+== Appearance ==
+[[File:Wight.png|thumb|Wight]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>748</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 40
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 40
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''untamable''' || 1
+|-
+| '''BaseManaRegen''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 225
+|-
+| DEX || 80
+|-
+| Parry || 95
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 95
+|-
+| Magery || 130
+|-
+| cast_pct || 80
+|-
+| num_casts || 25
+|-
+| Equip || spectre
+|-
+| lootgroup || 59
+|-
+| provoke || 80
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Ebolt
+* Lightning
+* Harm
+* Manadrain
+* Explosion
+* Fireball
+* Paralyze
+

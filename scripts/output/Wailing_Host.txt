@@ -1,0 +1,92 @@
+[[Category:NPCs]]
+
+= Wailing Host =
+
+== Appearance ==
+[[File:Wailing_Host.png|thumb|Wailing Host]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>375</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 850
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 2
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 110
+|-
+| DEX || 95
+|-
+| Parry || 70
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Magery || 100
+|-
+| EvaluatingIntelligence || 100
+|-
+| DetectingHidden || 80
+|-
+| Wrestling || 90
+|-
+| cast_pct || 40
+|-
+| num_casts || 5
+|-
+| Equip || orcishnecromancer
+|-
+| lootgroup || 36
+|-
+| virtue || 6
+|-
+| provoke || 120
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Harm
+* Wraithbreath
+

@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Rabid Cat =
+
+== Appearance ==
+[[File:Rabid_Cat.png|thumb|Rabid Cat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xc9</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 12
+|-
+| INT || 15
+|-
+| DEX || 70
+|-
+| Tactics || 50
+|-
+| MaceFighting || 30
+|-
+| Equip || rabidcat
+|-
+| tameskill || 30
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 30
+|-
+| dstart || 10
+|}
+

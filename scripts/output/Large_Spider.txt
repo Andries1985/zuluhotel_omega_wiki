@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Large Spider =
+
+== Appearance ==
+[[File:Large_Spider.png|thumb|Large Spider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1107</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 87 Skill
+|-
+| '''Stealing Required''' || 87 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 155
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 145
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 155
+|-
+| INT || 50
+|-
+| DEX || 145
+|-
+| Tactics || 98
+|-
+| MaceFighting || 108
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 195
+|-
+| lootgroup || 37
+|-
+| provoke || 87
+|-
+| MagicItemChance || 47
+|-
+| MagicItemLevel || 4
+|}
+

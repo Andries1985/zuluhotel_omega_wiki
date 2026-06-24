@@ -1,0 +1,57 @@
+[[Category:NPCs]]
+
+= Red Dragon =
+
+== Appearance ==
+[[File:Red_Dragon.png|thumb|Red Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>1074</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 1200
+|-
+| '''BaseIntmod''' || 600
+|-
+| '''BaseDexmod''' || 400
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 600
+|-
+| INT || 300
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 160
+|-
+| Magery || 140
+|-
+| provoke || 150
+|-
+| dstart || 10
+|}
+

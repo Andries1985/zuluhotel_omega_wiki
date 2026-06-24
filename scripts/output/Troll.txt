@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Troll =
+
+== Appearance ==
+[[File:Troll.png|thumb|Troll]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1959</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 280
+|-
+| '''BaseIntmod''' || 75
+|-
+| '''BaseDexmod''' || 125
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 230
+|-
+| INT || 65
+|-
+| DEX || 115
+|-
+| Tactics || 115
+|-
+| MaceFighting || 125
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 160
+|-
+| lootgroup || 60
+|-
+| provoke || 110
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|}
+

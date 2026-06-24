@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Water Ostard =
+
+== Appearance ==
+[[File:Water_Ostard.png|thumb|Water Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1283
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1283
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 25
+|-
+| DEX || 120
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || mountainostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 75
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

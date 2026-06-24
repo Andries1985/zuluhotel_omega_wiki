@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Tentacled Monster =
+
+== Appearance ==
+[[File:Tentacled_Monster.png|thumb|Tentacled Monster]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1272</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 160
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 230
+|-
+| INT || 125
+|-
+| DEX || 145
+|-
+| Tactics || 115
+|-
+| MaceFighting || 125
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 70
+|-
+| provoke || 125
+|-
+| MagicItemChance || 72
+|-
+| MagicItemLevel || 6
+|}
+

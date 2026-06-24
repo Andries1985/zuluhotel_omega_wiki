@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Spectre =
+
+== Appearance ==
+[[File:Spectre.png|thumb|Spectre]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x1a</code>
+|-
+| '''Color Code''' || 25125
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''AttackTypeImmunities''' || 256
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 25125
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Tactics || 70
+|-
+| Swordsmanship || 75
+|-
+| Equip || spectre
+|-
+| lootgroup || 3
+|-
+| MagicItemChance || 5
+|-
+| MagicItemLevel || 1
+|-
+| dstart || 10
+|-
+| provoke || 60
+|}
+

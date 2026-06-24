@@ -1,0 +1,137 @@
+[[Category:NPCs]]
+
+= Succubus =
+
+== Appearance ==
+[[File:Succubus.png|thumb|Succubus]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>149</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 800000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 1500
+|-
+| '''BaseDexmod''' || 500
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''NecroProtection''' || 150
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseHpRegen''' || 100
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''IsMage''' || 2
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 330
+|-
+| DEX || 200
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| Equip || behemoth
+|-
+| lootgroup || 105
+|-
+| speech || 54
+|-
+| provoke || 150
+|-
+| magicitemchance || 80
+|-
+| MagicItemLevel || 9
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Ebolt
+* Explosion
+* Manavamp
+* Mindblast
+* Mindblast
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Kill
+* Abyssalflame
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+

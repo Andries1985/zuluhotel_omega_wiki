@@ -1,0 +1,99 @@
+[[Category:NPCs]]
+
+= Daemon Knight =
+
+== Appearance ==
+[[File:Daemon_Knight.png|thumb|Daemon Knight]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x09</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''PermPoisonImmunity''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 200
+|-
+| DEX || 70
+|-
+| Swordsmanship || 150
+|-
+| Parry || 65
+|-
+| Tactics || 100
+|-
+| MaceFighting || 120
+|-
+| Magery || 120
+|-
+| EvaluatingIntelligence || 80
+|-
+| Equip || daemonknight
+|-
+| deathsnd || 0x16a
+|-
+| lootgroup || 22
+|-
+| virtue || 3
+|-
+| speech || 35
+|-
+| Magicitemchance || 60
+|-
+| Magicitemlevel || 5
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| provoke || 120
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Mindblast
+* Chainlightning
+* Explosion
+* Meteorswarm
+* Summonskel
+

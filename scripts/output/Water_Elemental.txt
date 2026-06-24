@@ -1,0 +1,96 @@
+[[Category:NPCs]]
+
+= Water Elemental =
+
+== Appearance ==
+[[File:Water_Elemental.png|thumb|Water Elemental]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x10</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''nocorpse''' || 1
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''EarthProtection''' || i-50
+|-
+| '''FireProtection''' || 50
+|-
+| '''WaterProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 70
+|-
+| Parry || 55
+|-
+| Tactics || 100
+|-
+| Swordsmanship || 120
+|-
+| Magery || 90
+|-
+| EvaluatingIntelligence || 65
+|-
+| cast_pct || 40
+|-
+| num_casts || 20
+|-
+| Equip || waterelemental
+|-
+| lootgroup || 20
+|-
+| MoveMode || LS
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| provoke || 90
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 3
+|}
+
+== Known Spells ==
+* Ebolt
+* Lightning
+* Mindblast
+* Magicarrow
+* Chainlightning
+

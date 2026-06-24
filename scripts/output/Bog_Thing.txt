@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Bog Thing =
+
+== Appearance ==
+[[File:Bog_Thing.png|thumb|Bog Thing]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>780</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 100 Skill
+|-
+| '''Stealing Required''' || 100 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 65
+|-
+| DEX || 80
+|-
+| Tactics || 100
+|-
+| MaceFighting || 150
+|-
+| Equip || rockscorpion
+|-
+| lootgroup || 59
+|-
+| speech || 6
+|-
+| provoke || 100
+|-
+| MagicItemChance || 5
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|}
+

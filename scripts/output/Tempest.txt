@@ -1,0 +1,100 @@
+[[Category:NPCs]]
+
+= Tempest =
+
+== Appearance ==
+[[File:Tempest.png|thumb|Tempest]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>stormkillpcs</code>
+|-
+| '''Object Type''' || <code>573</code>
+|-
+| '''Color Code''' || 1170
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 800
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''NecroProtection''' || 25
+|-
+| '''FireProtection''' || 25
+|-
+| '''WaterProtection''' || 75
+|-
+| '''EarthProtection''' || 150
+|-
+| '''AirProtection''' || 200
+|-
+| '''HolyProtection''' || i-25
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''PhysicalProtection''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1170
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 150
+|-
+| Magery || 150
+|-
+| Archery || 140
+|-
+| Equip || shadowlord
+|-
+| lootgroup || 102
+|-
+| speech || 35
+|-
+| provoke || 120
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Calllightning
+* Gustofair
+* Stormspirit
+* Ebolt
+* Mindblast
+* Manavamp
+* Lightning
+

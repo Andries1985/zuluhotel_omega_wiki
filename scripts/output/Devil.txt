@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Devil =
+
+== Appearance ==
+[[File:Devil.png|thumb|Devil]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>382</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 340
+|-
+| '''BaseIntmod''' || 190
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 150
+|-
+| DEX || 140
+|-
+| Tactics || 125
+|-
+| MaceFighting || 135
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 78
+|-
+| provoke || 135
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 7
+|}
+

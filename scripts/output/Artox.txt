@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Artox =
+
+== Appearance ==
+[[File:Artox.png|thumb|Artox]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1739</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 175
+|-
+| '''BaseIntmod''' || 60
+|-
+| '''BaseDexmod''' || 130
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 60
+|-
+| DEX || 130
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 40
+|-
+| provoke || 85
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|}
+

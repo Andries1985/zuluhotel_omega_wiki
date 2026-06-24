@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Eviscerated Carcass =
+
+== Appearance ==
+[[File:Eviscerated_Carcass.png|thumb|Eviscerated Carcass]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x03</code>
+|-
+| '''Color Code''' || 1290
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 400
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''IsWarrior''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1290
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 5
+|-
+| DEX || 200
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 130
+|-
+| Equip || evisceratedcarcass
+|-
+| lootgroup || 131
+|-
+| magicitemchance || 50
+|-
+| Magicitemlevel || 4
+|-
+| dstart || 10
+|-
+| provoke || 125
+|}
+

@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Troll Warlord =
+
+== Appearance ==
+[[File:Troll_Warlord.png|thumb|Troll Warlord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x35</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 275
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 50
+|-
+| DEX || 90
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 130
+|-
+| Equip || trollwarlord
+|-
+| lootgroup || 19
+|-
+| provoke || 95
+|-
+| dstart || 10
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 3
+|}
+

@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Earth Elemental =
+
+== Appearance ==
+[[File:Earth_Elemental.png|thumb|Earth Elemental]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x0e</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''EarthProtection''' || 125
+|-
+| '''AirProtection''' || i-50
+|-
+| '''WaterProtection''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 35
+|-
+| DEX || 40
+|-
+| Parry || 75
+|-
+| Tactics || 90
+|-
+| MaceFighting || 120
+|-
+| Equip || earthelemental
+|-
+| lootgroup || 20
+|-
+| dstart || 10
+|-
+| provoke || 90
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 3
+|}
+

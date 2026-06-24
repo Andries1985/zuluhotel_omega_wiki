@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Giant Frost Spider =
+
+== Appearance ==
+[[File:Giant_Frost_Spider.png|thumb|Giant Frost Spider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spiders</code>
+|-
+| '''Object Type''' || <code>0x1c</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 50
+|-
+| DEX || 115
+|-
+| Tactics || 70
+|-
+| MaceFighting || 100
+|-
+| Equip || frostspider
+|-
+| tameskill || 80
+|-
+| food || meat
+|-
+| provoke || 80
+|-
+| dstart || 10
+|}
+

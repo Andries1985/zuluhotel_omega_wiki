@@ -1,0 +1,104 @@
+[[Category:NPCs]]
+
+= Cave Drake =
+
+== Appearance ==
+[[File:Cave_Drake.png|thumb|Cave Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3d</code>
+|-
+| '''Color Code''' || 1177
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''EarthProtection''' || 120
+|-
+| '''AirProtection''' || i-80
+|-
+| '''WaterProtection''' || 10
+|-
+| '''BaseManaRegen''' || 2000
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1177
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 500
+|-
+| DEX || 150
+|-
+| Parry || 100
+|-
+| Tactics || 130
+|-
+| MaceFighting || 140
+|-
+| Magery || 130
+|-
+| cast_pct || 60
+|-
+| num_casts || 8
+|-
+| Equip || dragon1
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 120
+|-
+| lootgroup || 36
+|-
+| food || meat
+|-
+| saywords || 1
+|-
+| virtue || 8
+|-
+| provoke || 120
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 55
+|-
+| Magicitemlevel || 4
+|-
+| RunSpeed || 175
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Paralyze
+* Weaken
+* Darkness
+* Shiftingearth
+* Meteorswarm
+

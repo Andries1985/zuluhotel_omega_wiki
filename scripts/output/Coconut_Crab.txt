@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Coconut Crab =
+
+== Appearance ==
+[[File:Coconut_Crab.png|thumb|Coconut Crab]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x5E6</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 160
+|-
+| DEX || 160
+|-
+| Parry || 100
+|-
+| Tactics || 120
+|-
+| MaceFighting || 160
+|-
+| Equip || emeraldfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 95
+|-
+| food || meat
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+

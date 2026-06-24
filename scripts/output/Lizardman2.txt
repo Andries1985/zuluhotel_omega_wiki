@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Lizardman2 =
+
+== Appearance ==
+[[File:Lizardman2.png|thumb|Lizardman2]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x23</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 65
+|-
+| Tactics || 70
+|-
+| Fencing || 75
+|-
+| MaceFighting || 75
+|-
+| Equip || lizardman2
+|-
+| deathsnd || 0x1a6
+|-
+| lootgroup || 12
+|-
+| provoke || 70
+|-
+| dstart || 10
+|}
+

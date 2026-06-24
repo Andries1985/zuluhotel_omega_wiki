@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Corrupted Terathan =
+
+== Appearance ==
+[[File:Corrupted_Terathan.png|thumb|Corrupted Terathan]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x46</code>
+|-
+| '''Color Code''' || 1304
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''Slayer Type''' || Terathan
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1304
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| MaceFighting || 120
+|-
+| Tactics || 100
+|-
+| Parry || 100
+|-
+| Equip || corruptedterathan
+|-
+| lootgroup || 127
+|-
+| magicitemchance || 90
+|-
+| Magicitemlevel || 3
+|-
+| speech || 6
+|-
+| dstart || 10
+|-
+| provoke || 105
+|-
+| MagicItemChance || 10
+|-
+| MagicItemLevel || 2
+|}
+

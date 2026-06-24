@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Llama =
+
+== Appearance ==
+[[File:Llama.png|thumb|Llama]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1768</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 130
+|-
+| '''BaseIntmod''' || 40
+|-
+| '''BaseDexmod''' || 95
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 40
+|-
+| DEX || 95
+|-
+| Tactics || 85
+|-
+| MaceFighting || 90
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 155
+|-
+| lootgroup || 28
+|-
+| provoke || 60
+|-
+| MagicItemChance || 30
+|-
+| MagicItemLevel || 2
+|}
+

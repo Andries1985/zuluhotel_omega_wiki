@@ -1,0 +1,100 @@
+[[Category:NPCs]]
+
+= Ebony Horror =
+
+== Appearance ==
+[[File:Ebony_Horror.png|thumb|Ebony Horror]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x18</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''BaseDexmod''' || 350
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''PhysicalProtection''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 200
+|-
+| DEX || 250
+|-
+| Tactics || 100
+|-
+| MaceFighting || 160
+|-
+| Magery || 175
+|-
+| Equip || daemonlieutenant
+|-
+| deathsnd || 0x16a
+|-
+| cast_pct || 12
+|-
+| num_casts || 4
+|-
+| lootgroup || 35
+|-
+| virtue || 8
+|-
+| speech || 35
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 6
+|-
+| dstart || 10
+|-
+| provoke || 130
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Explosion
+* Meteorswarm
+* Chainlightning
+* Summon_Daemon
+* Paralyze
+* Dispel
+* Masscurse
+* Summon_Fire
+* Summonskel
+

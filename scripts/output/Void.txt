@@ -1,0 +1,81 @@
+[[Category:NPCs]]
+
+= Void =
+
+== Appearance ==
+[[File:Void.png|thumb|Void]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x1a</code>
+|-
+| '''Color Code''' || 1157
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 225
+|-
+| '''BaseIntmod''' || 225
+|-
+| '''BaseDexmod''' || 225
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''untamable''' || 1
+|-
+| '''PermMagicImmunity''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1157
+|-
+| Gender || 0
+|-
+| STR || 225
+|-
+| INT || 200
+|-
+| DEX || 290
+|-
+| Tactics || 130
+|-
+| MaceFighting || 130
+|-
+| Parry || 70
+|-
+| Healing || 80
+|-
+| DetectingHidden || 100
+|-
+| Equip || drake1
+|-
+| lootgroup || 114
+|-
+| virtue || 4
+|-
+| provoke || 120
+|-
+| dstart || 10
+|-
+| MagicItemChance || 75
+|-
+| MagicItemLevel || 4
+|}
+

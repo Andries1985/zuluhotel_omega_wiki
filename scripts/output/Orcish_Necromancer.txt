@@ -1,0 +1,106 @@
+[[Category:NPCs]]
+
+= Orcish Necromancer =
+
+== Appearance ==
+[[File:Orcish_Necromancer.png|thumb|Orcish Necromancer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0X07</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''PhysicalProtection''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 102
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Parry || 70
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| EvaluatingIntelligence || 100
+|-
+| DetectingHidden || 90
+|-
+| Wrestling || 95
+|-
+| Magery || 110
+|-
+| cast_pct || 40
+|-
+| num_casts || 5
+|-
+| Equip || orcishnecromancer
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 37
+|-
+| food || meat
+|-
+| virtue || 7
+|-
+| provoke || 85
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Abyssalflame
+* Ebolt
+* Decayingray
+* Darkness
+

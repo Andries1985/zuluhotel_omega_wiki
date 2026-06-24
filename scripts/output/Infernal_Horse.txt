@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Infernal Horse =
+
+== Appearance ==
+[[File:Infernal_Horse.png|thumb|Infernal Horse]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xc8</code>
+|-
+| '''Color Code''' || 2077
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''AirProtection''' || 200
+|-
+| '''EarthProtection''' || 100
+|-
+| '''FireProtection''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2077
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 80
+|-
+| DEX || 100
+|-
+| Parry || 70
+|-
+| Tactics || 110
+|-
+| MaceFighting || 110
+|-
+| DetectingHidden || 120
+|-
+| Equip || infernodragon
+|-
+| deathsnd || 0xad
+|-
+| lootgroup || 36
+|-
+| tameskill || 150
+|-
+| food || meat
+|-
+| virtue || 7
+|-
+| provoke || 150
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|}
+

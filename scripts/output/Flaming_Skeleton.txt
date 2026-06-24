@@ -1,0 +1,84 @@
+[[Category:NPCs]]
+
+= Flaming Skeleton =
+
+== Appearance ==
+[[File:Flaming_Skeleton.png|thumb|Flaming Skeleton]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x39</code>
+|-
+| '''Color Code''' || 0x04b1
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x04b1
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 80
+|-
+| DEX || 80
+|-
+| Tactics || 50
+|-
+| MaceFighting || 120
+|-
+| Magery || 75
+|-
+| cast_pct || 25
+|-
+| num_casts || 4
+|-
+| Equip || flamingskeleton
+|-
+| lootgroup || 23
+|-
+| targetText || "Ego apokteinou"
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|-
+| provoke || 80
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Fireball
+* Explosion
+

@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Tainted Earth Shrine =
+
+== Appearance ==
+[[File:Tainted_Earth_Shrine.png|thumb|Tainted Earth Shrine]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x0e</code>
+|-
+| '''Color Code''' || 1078
+|-
+| '''CustomHitsLevel''' || 500000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''AirProtection''' || i-100
+|-
+| '''EarthProtection''' || 200
+|-
+| '''WaterProtection''' || 10
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''rise''' || earthshrine
+|-
+| '''risedelay''' || 30
+|-
+| '''FinalDeath''' || 1
+|-
+| '''event''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1078
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 45
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Equip || behemoth
+|-
+| lootgroup || 109
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 9
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

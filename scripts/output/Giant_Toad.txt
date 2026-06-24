@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Giant Toad =
+
+== Appearance ==
+[[File:Giant_Toad.png|thumb|Giant Toad]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x50</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| DEX || 25
+|-
+| INT || 20
+|-
+| Parry || 72
+|-
+| Tactics || 60
+|-
+| Swordsmanship || 60
+|-
+| Equip || toad
+|-
+| deathsnd || 0x26B
+|-
+| tameskill || 80
+|-
+| food || veggie
+|-
+| provoke || 80
+|-
+| dstart || 10
+|}
+

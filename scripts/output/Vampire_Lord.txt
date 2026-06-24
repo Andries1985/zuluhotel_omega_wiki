@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Vampire Lord =
+
+== Appearance ==
+[[File:Vampire_Lord.png|thumb|Vampire Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>1894</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 600
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 350
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 200
+|-
+| DEX || 180
+|-
+| Magery || 160
+|-
+| Tactics || 140
+|-
+| dstart || 10
+|}
+

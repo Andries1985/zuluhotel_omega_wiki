@@ -1,0 +1,101 @@
+[[Category:NPCs]]
+
+= Grave Spider =
+
+== Appearance ==
+[[File:Grave_Spider.png|thumb|Grave Spider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x1c</code>
+|-
+| '''Color Code''' || 1282
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 275
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''FireProtection''' || i-50
+|-
+| '''NecroProtection''' || 50
+|-
+| '''WaterProtection''' || 10
+|-
+| '''AirProtection''' || 50
+|-
+| '''EarthProtection''' || 25
+|-
+| '''BaseHpRegen''' || 200
+|-
+| '''BaseManaRegen''' || 2000
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1282
+|-
+| Gender || 0
+|-
+| STR || 290
+|-
+| INT || 300
+|-
+| DEX || 195
+|-
+| Parry || 100
+|-
+| Poisoning || 95
+|-
+| Tactics || 130
+|-
+| Swordsmanship || 130
+|-
+| Magery || 130
+|-
+| Equip || trollking
+|-
+| tameskill || 115
+|-
+| food || meat
+|-
+| provoke || 115
+|-
+| cast_pct || 60
+|-
+| num_casts || 22
+|-
+| lootgroup || 37
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Darkness
+* Poison
+

@@ -1,0 +1,137 @@
+[[Category:NPCs]]
+
+= Balron General =
+
+== Appearance ==
+[[File:Balron_General.png|thumb|Balron General]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>38</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1500
+|-
+| '''BaseIntmod''' || 1900
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''Permmr''' || 5
+|-
+| '''FreeAction''' || 1
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 1300
+|-
+| INT || 1000
+|-
+| DEX || 100
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 100
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| lootgroup || 106
+|-
+| provoke || 150
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| MagicItemChance || 85
+|-
+| MagicItemLevel || 9
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Ebolt
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Kill
+* Abyssalflame
+* Masswyvern
+* Masskill
+* Massshiftingearth
+* Massvatten
+

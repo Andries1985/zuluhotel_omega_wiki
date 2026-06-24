@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Venus Fly Trap =
+
+== Appearance ==
+[[File:Venus_Fly_Trap.png|thumb|Venus Fly Trap]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1234</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 240
+|-
+| '''BaseIntmod''' || 90
+|-
+| '''BaseDexmod''' || 220
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 50
+|-
+| DEX || 130
+|-
+| Tactics || 85
+|-
+| MaceFighting || 90
+|-
+| dstart || 10
+|}
+

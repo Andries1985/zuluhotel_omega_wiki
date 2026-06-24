@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Bonescythe Daemon =
+
+== Appearance ==
+[[File:Bonescythe_Daemon.png|thumb|Bonescythe Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1223</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 128 Skill
+|-
+| '''Stealing Required''' || 128 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 310
+|-
+| '''BaseIntmod''' || 155
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 240
+|-
+| INT || 125
+|-
+| DEX || 145
+|-
+| Tactics || 120
+|-
+| MaceFighting || 130
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 178
+|-
+| lootgroup || 72
+|-
+| provoke || 128
+|-
+| MagicItemChance || 75
+|-
+| MagicItemLevel || 6
+|}
+

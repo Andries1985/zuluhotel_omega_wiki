@@ -1,0 +1,105 @@
+[[Category:NPCs]]
+
+= Erebus The Chaos God =
+
+== Appearance ==
+[[File:Erebus_The_Chaos_God.png|thumb|Erebus The Chaos God]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>barracoon</code>
+|-
+| '''Object Type''' || <code>38</code>
+|-
+| '''Color Code''' || 1183
+|-
+| '''CustomHitsLevel''' || 3000000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 100
+|-
+| '''PhysicalProtection''' || 8
+|-
+| '''AirProtection''' || 95
+|-
+| '''EarthProtection''' || 95
+|-
+| '''FireProtection''' || 95
+|-
+| '''WaterProtection''' || 95
+|-
+| '''NecroProtection''' || 95
+|-
+| '''HolyProtection''' || 95
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''Champion''' || 3
+|-
+| '''event''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1183
+|-
+| Gender || 0
+|-
+| STR || 110
+|-
+| INT || 100
+|-
+| DEX || 200
+|-
+| DetectingHidden || 1000
+|-
+| Tactics || 150
+|-
+| Archery || 150
+|-
+| MaceFighting || 150
+|-
+| Parry || 120
+|-
+| Equip || barracoon
+|-
+| lootgroup || 150
+|-
+| magicitemchance || 99
+|-
+| Magicitemlevel || 9
+|-
+| virtue || 2
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|-
+| RunSpeed || 250
+|}
+

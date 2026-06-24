@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Fire Lizard =
+
+== Appearance ==
+[[File:Fire_Lizard.png|thumb|Fire Lizard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xca</code>
+|-
+| '''Color Code''' || 0x075a
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x075a
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 20
+|-
+| DEX || 70
+|-
+| Tactics || 100
+|-
+| MaceFighting || 130
+|-
+| Equip || firelizard
+|-
+| deathsnd || 0x1a6
+|-
+| MoveMode || LS
+|-
+| tameskill || 90
+|-
+| food || meat
+|-
+| provoke || 90
+|-
+| dstart || 10
+|}
+

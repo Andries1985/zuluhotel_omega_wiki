@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Bull =
+
+== Appearance ==
+[[File:Bull.png|thumb|Bull]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0xe9</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 20
+|-
+| DEX || 60
+|-
+| Parry || 50
+|-
+| Tactics || 50
+|-
+| MaceFighting || 70
+|-
+| Equip || bull2
+|-
+| deathsnd || 0x69
+|-
+| tameskill || 70
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 70
+|-
+| dstart || 10
+|}
+

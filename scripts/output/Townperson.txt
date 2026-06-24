@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Townperson =
+
+== Appearance ==
+[[File:Townperson.png|thumb|Townperson]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>townperson</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''Snooping Required''' || 10 Skill
+|-
+| '''Stealing Required''' || 10 Skill
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 50
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 75
+|-
+| noloot || 1
+|-
+| guardignore || 1
+|-
+| Karma || 2000
+|-
+| dstart || 10
+|-
+| speech || 5
+|-
+| dress || rich
+|-
+| title || i1
+|}
+

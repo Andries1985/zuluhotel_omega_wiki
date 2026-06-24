@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Pack Llama =
+
+== Appearance ==
+[[File:Pack_Llama.png|thumb|Pack Llama]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0x124</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''pack''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 60
+|-
+| INT || 25
+|-
+| DEX || 60
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 45
+|-
+| Equip || packllama
+|-
+| deathsnd || 0xba
+|-
+| tameskill || 45
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 45
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,103 @@
+[[Category:NPCs]]
+
+= Shadow Elemental =
+
+== Appearance ==
+[[File:Shadow_Elemental.png|thumb|Shadow Elemental]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0xF</code>
+|-
+| '''Color Code''' || Default
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''nocorpse''' || 1
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 1900
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 1000
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''NecroProtection''' || 125
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| color || 16385
+|-
+| truecolor || 16385
+|-
+| Gender || 0
+|-
+| STR || 170
+|-
+| INT || 195
+|-
+| DEX || 70
+|-
+| Parry || 160
+|-
+| Tactics || 100
+|-
+| Swordsmanship || 100
+|-
+| Magery || 130
+|-
+| EvaluatingIntelligence || 140
+|-
+| cast_pct || 40
+|-
+| num_casts || 10
+|-
+| Equip || greatwyrm
+|-
+| lootgroup || 22
+|-
+| dstart || 10
+|-
+| provoke || 120
+|-
+| saywords || 1
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|}
+
+== Known Spells ==
+* Kill
+* Plague
+* Icestrike
+* Abyssalflame
+* Decayingray
+* Gustofair
+* Risingfire
+* Sorcerersbane
+

@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Peacekeeper =
+
+== Appearance ==
+[[File:Peacekeeper.png|thumb|Peacekeeper]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>peacekeeper</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 500
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''NecroProtection''' || 8
+|-
+| '''FireProtection''' || 6
+|-
+| '''WaterProtection''' || 6
+|-
+| '''EarthProtection''' || 6
+|-
+| '''AirProtection''' || 6
+|-
+| '''HolyProtection''' || 6
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PhysicalProtection''' || 5
+|-
+| '''mountspawn''' || null
+|-
+| '''PeaceKeeper''' || 1
+|-
+| '''ignoremultis''' || 1
+|-
+| '''WarriorForHire''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 130
+|-
+| DEX || 130
+|-
+| Tactics || 200
+|-
+| Macefighting || 200
+|-
+| Swordsmanship || 200
+|-
+| Fencing || 200
+|-
+| Hiding || 200
+|-
+| Parry || 200
+|-
+| Healing || 200
+|-
+| Anatomy || 200
+|-
+| Equip || noble
+|}
+

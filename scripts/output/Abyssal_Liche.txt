@@ -1,0 +1,107 @@
+[[Category:NPCs]]
+
+= Abyssal Liche =
+
+== Appearance ==
+[[File:Abyssal_Liche.png|thumb|Abyssal Liche]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>380</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 1200
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''NecroProtection''' || 200
+|-
+| '''FireProtection''' || 175
+|-
+| '''HolyProtection''' || i-200
+|-
+| '''EarthProtection''' || 125
+|-
+| '''AirProtection''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 250
+|-
+| DEX || 250
+|-
+| Tactics || 100
+|-
+| MaceFighting || 130
+|-
+| Magery || 150
+|-
+| Parry || 70
+|-
+| Equip || daemonlieutenant
+|-
+| deathsnd || 0x16a
+|-
+| cast_pct || 60
+|-
+| num_casts || 20
+|-
+| Lootgroup || 35
+|-
+| Alignment || evil
+|-
+| virtue || 8
+|-
+| speech || 100
+|-
+| MagicItemChance || 95
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| provoke || 130
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Abyssalflame
+* Risingfire
+* Flamestrike
+* Paralyze
+* Spectretouch
+* Wyvernstrike
+

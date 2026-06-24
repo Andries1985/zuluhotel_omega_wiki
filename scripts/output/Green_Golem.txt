@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Green Golem =
+
+== Appearance ==
+[[File:Green_Golem.png|thumb|Green Golem]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1011</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 700
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 380
+|-
+| INT || 60
+|-
+| DEX || 90
+|-
+| Tactics || 115
+|-
+| MaceFighting || 125
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Rhinoceros Beetle =
+
+== Appearance ==
+[[File:Rhinoceros_Beetle.png|thumb|Rhinoceros Beetle]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>373</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 700000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''FireProtection''' || 20
+|-
+| '''NecroProtection''' || 50
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''Boss''' || 1
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 200
+|-
+| DEX || 225
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Equip || behemoth
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Troll Warrior =
+
+== Appearance ==
+[[File:Troll_Warrior.png|thumb|Troll Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x36</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 30
+|-
+| DEX || 70
+|-
+| Tactics || 85
+|-
+| MaceFighting || 85
+|-
+| Equip || troll4
+|-
+| lootgroup || 14
+|-
+| provoke || 85
+|-
+| dstart || 10
+|-
+| MagicItemChance || 30
+|-
+| MagicItemLevel || 2
+|}
+

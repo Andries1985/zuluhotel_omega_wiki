@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Stone Ostard =
+
+== Appearance ==
+[[File:Stone_Ostard.png|thumb|Stone Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 125
+|-
+| DEX || 200
+|-
+| Parry || 70
+|-
+| Tactics || 80
+|-
+| MaceFighting || 80
+|-
+| Equip || stoneostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 75
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

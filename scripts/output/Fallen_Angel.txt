@@ -1,0 +1,142 @@
+[[Category:NPCs]]
+
+= Fallen Angel =
+
+== Appearance ==
+[[File:Fallen_Angel.png|thumb|Fallen Angel]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x28</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 800000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1100
+|-
+| '''BaseIntmod''' || 2000
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''NecroProtection''' || 175
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1182
+|-
+| Gender || 0
+|-
+| STR || 375
+|-
+| INT || 575
+|-
+| DEX || 175
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| provoke || 150
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 85
+|-
+| MagicItemLevel || 9
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Summonguardian
+* Summonguardian
+* Summonguardian
+* Enlightenment
+* Gheal
+* Wrathofgod
+* Divinefury
+* Astralstorm
+* Apocalypse
+* Icestrike
+* Sanctuary
+* Seraphimswill
+* Angelicaura
+* Holybolt
+* Ebolt
+* Manavamp
+* Mindblast
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Massgust
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+

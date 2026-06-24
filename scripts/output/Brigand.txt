@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Brigand =
+
+== Appearance ==
+[[File:Brigand.png|thumb|Brigand]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 95
+|-
+| DEX || 200
+|-
+| Tactics || 85
+|-
+| Fencing || 85
+|-
+| Swordsmanship || 110
+|-
+| Parry || 80
+|-
+| Equip || brigandhorseman
+|-
+| lootgroup || 47
+|-
+| provoke || 55
+|-
+| mount || 0x3e9f 1109
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|}
+

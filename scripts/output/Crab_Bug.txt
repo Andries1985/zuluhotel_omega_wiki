@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Crab Bug =
+
+== Appearance ==
+[[File:Crab_Bug.png|thumb|Crab Bug]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1750</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 78 Skill
+|-
+| '''Stealing Required''' || 78 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 145
+|-
+| '''BaseIntmod''' || 45
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 145
+|-
+| INT || 45
+|-
+| DEX || 120
+|-
+| Tactics || 92
+|-
+| MaceFighting || 102
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 35
+|-
+| provoke || 78
+|-
+| MagicItemChance || 40
+|-
+| MagicItemLevel || 3
+|}
+

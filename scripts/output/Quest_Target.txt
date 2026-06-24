@@ -1,0 +1,59 @@
+[[Category:NPCs]]
+
+= Quest_Target =
+
+== Appearance ==
+[[File:Quest_Target.png|thumb|Quest_Target]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>noble</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 50
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 75
+|-
+| Equip || quest_target
+|-
+| dress || poor
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|}
+

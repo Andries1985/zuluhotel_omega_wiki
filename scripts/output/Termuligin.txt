@@ -1,0 +1,119 @@
+[[Category:NPCs]]
+
+= Termuligin =
+
+== Appearance ==
+[[File:Termuligin.png|thumb|Termuligin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>381</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 700000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 2700
+|-
+| '''BaseDexmod''' || 350
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''PhysicalProtection''' || 7
+|-
+| '''Boss''' || 1
+|-
+| '''IsMage''' || 2
+|-
+| '''NecroProtection''' || 100
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 50
+|-
+| DEX || 60
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 150
+|-
+| Equip || undeadflayer
+|-
+| cast_pct || 100
+|-
+| num_casts || 40
+|-
+| lootgroup || 105
+|-
+| virtue || 4
+|-
+| speech || 35
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| dstart || 10
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|-
+| provoke || 150
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+

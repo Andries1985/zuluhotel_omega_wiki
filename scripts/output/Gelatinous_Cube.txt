@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Gelatinous Cube =
+
+== Appearance ==
+[[File:Gelatinous_Cube.png|thumb|Gelatinous Cube]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1892</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Slime
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 90
+|-
+| '''BaseDexmod''' || 130
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 320
+|-
+| INT || 50
+|-
+| DEX || 70
+|-
+| Tactics || 110
+|-
+| MaceFighting || 115
+|-
+| dstart || 10
+|}
+

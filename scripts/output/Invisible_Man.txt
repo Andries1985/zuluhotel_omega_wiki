@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Invisible Man =
+
+== Appearance ==
+[[File:Invisible_Man.png|thumb|Invisible Man]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x1a8</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 76
+|-
+| DEX || 50
+|-
+| INT || 26
+|-
+| Fencing || 50
+|-
+| Parry || 50
+|-
+| Swordsmanship || 50
+|-
+| MaceFighting || 50
+|-
+| Tactics || 50
+|-
+| Equip || invisibleman
+|-
+| lootgroup || 47
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|}
+

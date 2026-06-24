@@ -1,0 +1,106 @@
+[[Category:NPCs]]
+
+= Inferno Wisp =
+
+== Appearance ==
+[[File:Inferno_Wisp.png|thumb|Inferno Wisp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3a</code>
+|-
+| '''Color Code''' || 1158
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 1500
+|-
+| '''BaseDexmod''' || 800
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''EarthProtection''' || 100
+|-
+| '''NecroProtection''' || 50
+|-
+| '''FireProtection''' || 200
+|-
+| '''AirProtection''' || i-50
+|-
+| '''WaterProtection''' || i-50
+|-
+| '''PermPoisonImmunity''' || 6
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1158
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 200
+|-
+| DEX || 175
+|-
+| Tactics || 150
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| Hiding || 200
+|-
+| Stealth || 200
+|-
+| Meditation || 200
+|-
+| Equip || blackwisp
+|-
+| cast_pct || 60
+|-
+| num_casts || 6
+|-
+| lootgroup || 75
+|-
+| speech || 7
+|-
+| provoke || 115
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Sorcerersbane
+* Explosion
+* Abyssalflame
+* Fireball
+* Risingfire
+* Wyvernstrike
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Serpent Warrior =
+
+== Appearance ==
+[[File:Serpent_Warrior.png|thumb|Serpent Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1225</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 145
+|-
+| '''BaseDexmod''' || 165
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 235
+|-
+| INT || 115
+|-
+| DEX || 150
+|-
+| Tactics || 118
+|-
+| MaceFighting || 128
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 180
+|-
+| lootgroup || 68
+|-
+| provoke || 125
+|-
+| MagicItemChance || 72
+|-
+| MagicItemLevel || 6
+|}
+

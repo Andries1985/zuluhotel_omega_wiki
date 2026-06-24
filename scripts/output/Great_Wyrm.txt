@@ -1,0 +1,103 @@
+[[Category:NPCs]]
+
+= Great Wyrm =
+
+== Appearance ==
+[[File:Great_Wyrm.png|thumb|Great Wyrm]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3b</code>
+|-
+| '''Color Code''' || 1159
+|-
+| '''CustomHitsLevel''' || 500000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 900
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 350
+|-
+| '''PermMagicImmunity''' || 5
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''BaseHpRegen''' || 250
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 150
+|-
+| '''AirProtection''' || 100
+|-
+| '''WaterProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1159
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 150
+|-
+| DEX || 200
+|-
+| Tactics || 180
+|-
+| MaceFighting || 200
+|-
+| Magery || 150
+|-
+| DetectingHidden || 150
+|-
+| Equip || greatwyrm
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 150
+|-
+| lootgroup || 105
+|-
+| virtue || 6
+|-
+| provoke || 150
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|-
+| dstart || 10
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|-
+| RunSpeed || 250
+|}
+

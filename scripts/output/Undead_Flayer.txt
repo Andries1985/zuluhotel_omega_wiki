@@ -1,0 +1,100 @@
+[[Category:NPCs]]
+
+= Undead Flayer =
+
+== Appearance ==
+[[File:Undead_Flayer.png|thumb|Undead Flayer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x18</code>
+|-
+| '''Color Code''' || 1172
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 2700
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''NecroProtection''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1172
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 150
+|-
+| DEX || 90
+|-
+| Magery || 175
+|-
+| Tactics || 150
+|-
+| MaceFighting || 160
+|-
+| Equip || undeadflayer
+|-
+| cast_pct || 25
+|-
+| num_casts || 6
+|-
+| lootgroup || 103
+|-
+| magicitemchance || 50
+|-
+| Magicitemlevel || 7
+|-
+| virtue || 4
+|-
+| speech || 35
+|-
+| dstart || 10
+|-
+| provoke || 130
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Darkness
+* Kill
+* Abyssalflame
+* Dispel
+* Masscurse
+

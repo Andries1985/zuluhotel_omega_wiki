@@ -1,0 +1,83 @@
+[[Category:NPCs]]
+
+= Provisioner =
+
+== Appearance ==
+[[File:Provisioner.png|thumb|Provisioner]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Provisioner
+|-
+| '''Equipt''' || Provisioner
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| lumberjacking || 100
+|-
+| mining || 100
+|-
+| healing || 100
+|-
+| anatomy || 100
+|-
+| forensicevaluation || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| speech || 29
+|-
+| Equip || provisioner
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

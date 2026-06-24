@@ -1,0 +1,111 @@
+[[Category:NPCs]]
+
+= Lesser Flesh Renderer =
+
+== Appearance ==
+[[File:Lesser_Flesh_Renderer.png|thumb|Lesser Flesh Renderer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>315</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 300000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''looter''' || 1
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 650
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''Permmr''' || 4
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''LesserBoss''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 160
+|-
+| Magery || 150
+|-
+| Parry || 100
+|-
+| DetectingHidden || 130
+|-
+| Equip || goldendragon
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 150
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| lootgroup || 107
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| RunSpeed || 200
+|-
+| dstart || 10
+|-
+| Karma || -7000
+|-
+| Fame || 7000
+|}
+

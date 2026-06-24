@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Terathan Warrior =
+
+== Appearance ==
+[[File:Terathan_Warrior.png|thumb|Terathan Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x46</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''Slayer Type''' || Terathan
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 2
+|-
+| '''PermPoisonImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 25
+|-
+| DEX || 95
+|-
+| Swordsmanship || 90
+|-
+| Tactics || 90
+|-
+| Parry || 75
+|-
+| Equip || terathanwarrior
+|-
+| lootgroup || 63
+|-
+| speech || 6
+|-
+| provoke || 90
+|-
+| dstart || 10
+|}
+

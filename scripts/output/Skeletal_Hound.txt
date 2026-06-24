@@ -1,0 +1,84 @@
+[[Category:NPCs]]
+
+= Skeletal Hound =
+
+== Appearance ==
+[[File:Skeletal_Hound.png|thumb|Skeletal Hound]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x5A1</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 140
+|-
+| '''BaseDexmod''' || 50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 250
+|-
+| DEX || 135
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Magery || 150
+|-
+| cast_pct || 75
+|-
+| num_casts || 8
+|-
+| Equip || solenmage
+|-
+| lootgroup || 61
+|-
+| tameskill || 120
+|-
+| food || meat
+|-
+| saywords || 1
+|-
+| provoke || 120
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Mindblast
+* Explosion
+* Fireball
+* Chainlightning
+* Paralyze
+

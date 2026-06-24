@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Vampire =
+
+== Appearance ==
+[[File:Vampire.png|thumb|Vampire]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''PermMagicImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 150
+|-
+| DEX || 150
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Magery || 100
+|-
+| cast_pct || 100
+|-
+| num_casts || 24
+|-
+| Equip || Vampire2
+|-
+| lootgroup || 71
+|-
+| speech || 54
+|-
+| dstart || 10
+|-
+| provoke || 105
+|-
+| saywords || 1
+|-
+| magicitemchance || 55
+|-
+| MagicItemLevel || 3
+|}
+
+== Known Spells ==
+* Poison
+* Lightning
+* Summonskel
+* Paralyze
+* Manadrain
+* Explosion
+

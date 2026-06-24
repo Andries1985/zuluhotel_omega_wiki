@@ -1,0 +1,82 @@
+[[Category:NPCs]]
+
+= Lizard Shaman =
+
+== Appearance ==
+[[File:Lizard_Shaman.png|thumb|Lizard Shaman]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>critterhealer</code>
+|-
+| '''Object Type''' || <code>0x21</code>
+|-
+| '''Color Code''' || 0x04C2
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x04C2
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 80
+|-
+| DEX || 100
+|-
+| Tactics || 80
+|-
+| MaceFighting || 75
+|-
+| Magery || 100
+|-
+| Equip || lizardmanshaman
+|-
+| deathsnd || 0x1a6
+|-
+| cast_pct || 50
+|-
+| num_casts || 20
+|-
+| lootgroup || 54
+|-
+| provoke || 80
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 1
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Summon_Fire
+* Ebolt
+* Curse
+

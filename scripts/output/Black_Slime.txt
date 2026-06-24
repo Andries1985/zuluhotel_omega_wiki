@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Black Slime =
+
+== Appearance ==
+[[File:Black_Slime.png|thumb|Black Slime]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>slime</code>
+|-
+| '''Object Type''' || <code>0x33</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 45 Skill
+|-
+| '''Stealing Required''' || 45 Skill
+|-
+| '''Slayer Type''' || Slime
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 5
+|-
+| DEX || 40
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Equip || blackslime
+|-
+| tameskill || 45
+|-
+| lootgroup || 3
+|-
+| provoke || 45
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|}
+

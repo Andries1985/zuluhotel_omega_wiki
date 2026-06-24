@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Swamp Boar =
+
+== Appearance ==
+[[File:Swamp_Boar.png|thumb|Swamp Boar]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xcb</code>
+|-
+| '''Color Code''' || 0x07d6
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x07d6
+|-
+| Gender || 0
+|-
+| STR || 50
+|-
+| INT || 15
+|-
+| DEX || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 80
+|-
+| Equip || SwampBoar
+|-
+| tameskill || 45
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 45
+|-
+| lootgroup || 64
+|-
+| dstart || 10
+|}
+

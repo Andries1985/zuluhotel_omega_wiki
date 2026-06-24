@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Kobold Marksman =
+
+== Appearance ==
+[[File:Kobold_Marksman.png|thumb|Kobold Marksman]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x11</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 20
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 50
+|-
+| DEX || 130
+|-
+| Tactics || 130
+|-
+| Archery || 130
+|-
+| Equip || koboldmarksman
+|-
+| lootgroup || 52
+|-
+| speech || 6
+|-
+| ammotype || 0xb200
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 50
+|-
+| provoke || 50
+|-
+| dstart || 10
+|}
+

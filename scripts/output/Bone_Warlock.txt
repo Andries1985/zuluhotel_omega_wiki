@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Bone Warlock =
+
+== Appearance ==
+[[File:Bone_Warlock.png|thumb|Bone Warlock]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x38</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 95
+|-
+| DEX || 84
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Magery || 100
+|-
+| cast_pct || 60
+|-
+| num_casts || 20
+|-
+| Equip || bonewarlock
+|-
+| lootgroup || 23
+|-
+| speech || 54
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|-
+| provoke || 60
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Lightning
+* Fireball
+* Summonskel
+* Paralyze
+* Ebolt
+

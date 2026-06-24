@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Shadow Ostard =
+
+== Appearance ==
+[[File:Shadow_Ostard.png|thumb|Shadow Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1904
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 175
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1904
+|-
+| Gender || 0
+|-
+| STR || 185
+|-
+| INT || 125
+|-
+| DEX || 175
+|-
+| Parry || 70
+|-
+| Tactics || 80
+|-
+| MaceFighting || 80
+|-
+| Equip || shadowostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 65
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 65
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Poison Dragon =
+
+== Appearance ==
+[[File:Poison_Dragon.png|thumb|Poison Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>1090</code>
+|-
+| '''Color Code''' || 1159
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 800
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''PermPoisonImmunity''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1159
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 200
+|-
+| DEX || 140
+|-
+| Parry || 80
+|-
+| Tactics || 120
+|-
+| MaceFighting || 140
+|-
+| Poisoning || 140
+|-
+| DetectingHidden || 130
+|-
+| Equip || poisondragon
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 37
+|-
+| tameskill || 140
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 140
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 75
+|-
+| Magicitemlevel || 6
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|}
+

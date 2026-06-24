@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Finch =
+
+== Appearance ==
+[[File:Finch.png|thumb|Finch]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>listener</code>
+|-
+| '''Object Type''' || <code>0x0</code>
+|-
+| '''Color Code''' || 25125
+|-
+| '''Equipt''' || clothes
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 25125
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| Swordsmanship || 120
+|-
+| Tactics || 100
+|-
+| Itemidentification || 90
+|-
+| Armslore || 80
+|-
+| Blacksmithy || 90
+|-
+| MaceFighting || 100
+|-
+| guardignore || 1
+|-
+| speech || 28
+|-
+| Equip || listener
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

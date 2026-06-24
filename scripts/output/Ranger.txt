@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Ranger =
+
+== Appearance ==
+[[File:Ranger.png|thumb|Ranger]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Bowyer
+|-
+| '''Equipt''' || Ranger
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 100 Skill
+|-
+| '''Stealing Required''' || 100 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| animallore || 100
+|-
+| camping || 100
+|-
+| cooking || 100
+|-
+| fishing || 100
+|-
+| veterinary || 100
+|-
+| animaltaming || 100
+|-
+| archery || 100
+|-
+| tracking || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| speech || 60
+|-
+| Equip || ranger
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

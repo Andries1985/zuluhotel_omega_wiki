@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Hulk =
+
+== Appearance ==
+[[File:Hulk.png|thumb|Hulk]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>369</code>
+|-
+| '''Color Code''' || 2160
+|-
+| '''CustomHitsLevel''' || 2000000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Slowest
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 2000
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 140
+|-
+| '''WaterProtection''' || 140
+|-
+| '''AirProtection''' || i-40
+|-
+| '''EarthProtection''' || 140
+|-
+| '''NecroProtection''' || 140
+|-
+| '''HolyProtection''' || i-100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2160
+|-
+| Gender || 0
+|-
+| STR || 500
+|-
+| INT || 45
+|-
+| DEX || 200
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| DetectingHidden || 200
+|-
+| Equip || hulk
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 99
+|-
+| MagicItemLevel || 9
+|-
+| provoke || 150
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+

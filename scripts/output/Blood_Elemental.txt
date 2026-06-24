@@ -1,0 +1,47 @@
+[[Category:NPCs]]
+
+= Blood Elemental =
+
+== Appearance ==
+[[File:Blood_Elemental.png|thumb|Blood Elemental]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>853</code>
+|-
+| '''Color Code''' || 1175
+|-
+| '''Slayer Type''' || Elemental
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1175
+|-
+| Gender || 0
+|-
+| STR || 350
+|-
+| INT || 120
+|-
+| DEX || 130
+|-
+| Tactics || 120
+|-
+| MaceFighting || 120
+|-
+| dstart || 10
+|}
+

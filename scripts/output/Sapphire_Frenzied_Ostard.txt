@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Sapphire Frenzied Ostard =
+
+== Appearance ==
+[[File:Sapphire_Frenzied_Ostard.png|thumb|Sapphire Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 1170
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1170
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 160
+|-
+| DEX || 160
+|-
+| Parry || 100
+|-
+| Tactics || 120
+|-
+| MaceFighting || 160
+|-
+| Equip || emeraldfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 95
+|-
+| food || meat
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+

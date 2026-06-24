@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Giant Spider =
+
+== Appearance ==
+[[File:Giant_Spider.png|thumb|Giant Spider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>859</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 220
+|-
+| '''BaseIntmod''' || 60
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 40
+|-
+| DEX || 130
+|-
+| Tactics || 90
+|-
+| MaceFighting || 90
+|-
+| dstart || 10
+|}
+

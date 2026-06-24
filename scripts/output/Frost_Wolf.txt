@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Frost Wolf =
+
+== Appearance ==
+[[File:Frost_Wolf.png|thumb|Frost Wolf]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xe1</code>
+|-
+| '''Color Code''' || 0x0482
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0482
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 25
+|-
+| DEX || 140
+|-
+| Tactics || 120
+|-
+| MaceFighting || 120
+|-
+| Equip || frostwolf
+|-
+| tameskill || 75
+|-
+| food || meat
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

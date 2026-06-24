@@ -1,0 +1,122 @@
+[[Category:NPCs]]
+
+= Bringer Of Death =
+
+== Appearance ==
+[[File:Bringer_Of_Death.png|thumb|Bringer Of Death]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3df</code>
+|-
+| '''Color Code''' || 1157
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseDexmod''' || 400
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''FireProtection''' || 150
+|-
+| '''WaterProtection''' || 10
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || 150
+|-
+| '''PhysicalProtection''' || 5
+|-
+| '''mountspawn''' || null
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1157
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 85
+|-
+| DEX || 100
+|-
+| Tactics || 150
+|-
+| Swordsmanship || 100
+|-
+| Magery || 150
+|-
+| Parry || 100
+|-
+| cast_pct || 45
+|-
+| num_casts || 20
+|-
+| Equip || twistedanimation
+|-
+| lootgroup || 35
+|-
+| speech || 35
+|-
+| provoke || 115
+|-
+| mount || 0x3ea4 1157
+|-
+| magicitemchance || 75
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Abyssalflame
+* Sorcerersbane
+* Masscurse
+* Calllightning
+* Risingfire
+* Blade_Spirit
+* Shiftingearth
+* Ebolt
+* Mindblast
+* Manavamp
+* Lightning
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Kill
+* Abyssalflame
+* Poison
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Small Bone Demon =
+
+== Appearance ==
+[[File:Small_Bone_Demon.png|thumb|Small Bone Demon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1172</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 155
+|-
+| INT || 75
+|-
+| DEX || 80
+|-
+| Tactics || 100
+|-
+| MaceFighting || 130
+|-
+| Equip || orcdefender
+|-
+| lootgroup || 13
+|-
+| speech || 6
+|-
+| provoke || 80
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|}
+

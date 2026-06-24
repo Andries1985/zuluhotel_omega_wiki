@@ -1,0 +1,82 @@
+[[Category:NPCs]]
+
+= Ice Fiend =
+
+== Appearance ==
+[[File:Ice_Fiend.png|thumb|Ice Fiend]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x09</code>
+|-
+| '''Color Code''' || 1170
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermMagicImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1170
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 125
+|-
+| MaceFighting || 175
+|-
+| Magery || 110
+|-
+| EvaluatingIntelligence || 110
+|-
+| Equip || icefiend
+|-
+| lootgroup || 22
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| provoke || 115
+|}
+
+== Known Spells ==
+* Poison
+* Lightning
+* Manadrain
+* Flamestrike
+* Ebolt
+

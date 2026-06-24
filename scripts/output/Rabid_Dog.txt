@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Rabid Dog =
+
+== Appearance ==
+[[File:Rabid_Dog.png|thumb|Rabid Dog]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xd9</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 30
+|-
+| INT || 15
+|-
+| DEX || 75
+|-
+| Tactics || 60
+|-
+| MaceFighting || 60
+|-
+| deathsnd || 0x8A
+|-
+| Equip || rabiddog
+|-
+| tameskill || 35
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 35
+|-
+| dstart || 10
+|}
+

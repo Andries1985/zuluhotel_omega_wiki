@@ -1,0 +1,90 @@
+[[Category:NPCs]]
+
+= Master Of The Wind =
+
+== Appearance ==
+[[File:Master_Of_The_Wind.png|thumb|Master Of The Wind]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 2
+|-
+| '''AirProtection''' || 100
+|-
+| '''EarthProtection''' || 50
+|-
+| '''FireProtection''' || i-50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 95
+|-
+| DEX || 80
+|-
+| Tactics || 100
+|-
+| Macefighting || 100
+|-
+| Magery || 150
+|-
+| cast_pct || 65
+|-
+| num_casts || 6
+|-
+| Equip || airmaster
+|-
+| lootgroup || 57
+|-
+| speech || 35
+|-
+| provoke || 95
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Summon_Air
+* Lightning
+* Chainlightning
+

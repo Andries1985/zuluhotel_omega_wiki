@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Skeletal Warrior =
+
+== Appearance ==
+[[File:Skeletal_Warrior.png|thumb|Skeletal Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1202</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 230
+|-
+| INT || 60
+|-
+| DEX || 110
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 120
+|-
+| dstart || 10
+|}
+

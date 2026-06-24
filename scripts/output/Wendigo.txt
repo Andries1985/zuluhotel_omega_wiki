@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Wendigo =
+
+== Appearance ==
+[[File:Wendigo.png|thumb|Wendigo]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1865</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 330
+|-
+| '''BaseIntmod''' || 140
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 255
+|-
+| INT || 110
+|-
+| DEX || 145
+|-
+| Tactics || 122
+|-
+| MaceFighting || 132
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 185
+|-
+| lootgroup || 72
+|-
+| provoke || 130
+|-
+| MagicItemChance || 75
+|-
+| MagicItemLevel || 6
+|}
+

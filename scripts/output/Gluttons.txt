@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Gluttons =
+
+== Appearance ==
+[[File:Gluttons.png|thumb|Gluttons]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>fastkillpcs</code>
+|-
+| '''Object Type''' || <code>154</code>
+|-
+| '''Color Code''' || 1169
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''FireProtection''' || i-100
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1169
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 200
+|-
+| DEX || 60
+|-
+| Parry || 50
+|-
+| Swordsmanship || 55
+|-
+| Tactics || 60
+|-
+| MaceFighting || 130
+|-
+| Magery || 140
+|-
+| Equip || gluttons2
+|-
+| lootgroup || 15
+|-
+| dstart || 10
+|-
+| provoke || 50
+|}
+

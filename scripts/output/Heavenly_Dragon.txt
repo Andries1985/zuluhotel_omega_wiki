@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Heavenly Dragon =
+
+== Appearance ==
+[[File:Heavenly_Dragon.png|thumb|Heavenly Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>1333</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 1300
+|-
+| '''BaseIntmod''' || 700
+|-
+| '''BaseDexmod''' || 450
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 650
+|-
+| INT || 350
+|-
+| DEX || 220
+|-
+| Tactics || 160
+|-
+| MaceFighting || 170
+|-
+| Magery || 160
+|-
+| dstart || 10
+|}
+

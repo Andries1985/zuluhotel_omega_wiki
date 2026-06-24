@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Skeleton Archer =
+
+== Appearance ==
+[[File:Skeleton_Archer.png|thumb|Skeleton Archer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x32</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 50
+|-
+| INT || 15
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| MaceFighting || 95
+|-
+| Archery || 60
+|-
+| Equip || skeletonarcher
+|-
+| lootgroup || 52
+|-
+| buddyText || "Emos hetairos"
+|-
+| leaderText || "Ego akoloutheou"
+|-
+| targetText || "Ego apokteinou"
+|-
+| ammotype || 0xf3f
+|-
+| ammoamount || 10
+|-
+| missileweapon || 0x13B2
+|-
+| dstart || 10
+|-
+| provoke || 50
+|}
+

@@ -1,0 +1,49 @@
+[[Category:NPCs]]
+
+= Acid Elemental =
+
+== Appearance ==
+[[File:Acid_Elemental.png|thumb|Acid Elemental]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>847</code>
+|-
+| '''Color Code''' || 1166
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''PermPoisonImmunity''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1166
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 150
+|-
+| DEX || 120
+|-
+| Tactics || 110
+|-
+| MaceFighting || 110
+|-
+| dstart || 10
+|}
+

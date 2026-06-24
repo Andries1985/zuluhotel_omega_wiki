@@ -1,0 +1,117 @@
+[[Category:NPCs]]
+
+= Deathmag =
+
+== Appearance ==
+[[File:Deathmag.png|thumb|Deathmag]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x1f</code>
+|-
+| '''Color Code''' || 0x4631
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 350
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''Permmr''' || 50
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 1000
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''FireProtection''' || 75
+|-
+| '''HolyProtection''' || i-50
+|-
+| '''NecroProtection''' || 75
+|-
+| '''WaterProtection''' || 75
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || 75
+|-
+| '''PermPoisonImmunity''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x4631
+|-
+| Gender || 0
+|-
+| STR || 222
+|-
+| INT || 500
+|-
+| DEX || 130
+|-
+| Tactics || 125
+|-
+| MaceFighting || 175
+|-
+| Magery || 195
+|-
+| Hiding || 130
+|-
+| DetectingHidden || 85
+|-
+| cast_pct || 60
+|-
+| num_casts || 20
+|-
+| Equip || daemonlieutenant
+|-
+| lootgroup || 103
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| provoke || 110
+|-
+| saywords || 1
+|-
+| speech || 35
+|}
+
+== Known Spells ==
+* Dispel
+* Masscurse
+* Risingfire
+* Abyssalflame
+* Wyvernstrike
+* Kill
+* Gustofair
+* Sorcerersbane
+* Decayingray
+* Darkness
+* Spectretouch
+* Wraithbreath
+

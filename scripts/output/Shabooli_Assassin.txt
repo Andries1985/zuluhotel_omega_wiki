@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Shabooli Assassin =
+
+== Appearance ==
+[[File:Shabooli_Assassin.png|thumb|Shabooli Assassin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>assassinkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1102
+|-
+| '''Snooping Required''' || 45 Skill
+|-
+| '''Stealing Required''' || 45 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1102
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 25
+|-
+| DEX || 110
+|-
+| Tactics || 110
+|-
+| Fencing || 110
+|-
+| Hiding || 70
+|-
+| Equip || zulu
+|-
+| dstart || 10
+|-
+| lootgroup || 121
+|-
+| provoke || 67
+|-
+| MagicItemChance || 5
+|-
+| MagicItemLevel || 1
+|}
+

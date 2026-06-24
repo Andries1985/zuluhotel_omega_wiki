@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Lasher =
+
+== Appearance ==
+[[File:Lasher.png|thumb|Lasher]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>daves_healer</code>
+|-
+| '''Object Type''' || <code>0x57F</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 510
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 575
+|-
+| INT || 575
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 150
+|-
+| Magery || 225
+|-
+| Equip || heavenlyfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 150
+|-
+| Karma || 6000
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 150
+|-
+| dstart || 10
+|}
+

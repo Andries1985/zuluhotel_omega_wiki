@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Kobold Horseman =
+
+== Appearance ==
+[[File:Kobold_Horseman.png|thumb|Kobold Horseman]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''IsWarrior''' || 1
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 300
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 95
+|-
+| DEX || 200
+|-
+| Tactics || 200
+|-
+| Swordsmanship || 200
+|-
+| Equip || Kobaldhorseman
+|-
+| lootgroup || 47
+|-
+| provoke || 90
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|-
+| mount || 0x3e9f 1109
+|}
+

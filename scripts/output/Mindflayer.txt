@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Mindflayer =
+
+== Appearance ==
+[[File:Mindflayer.png|thumb|Mindflayer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>634</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 260
+|-
+| '''BaseIntmod''' || 250
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 130
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 80
+|-
+| provoke || 140
+|-
+| MagicItemChance || 82
+|-
+| MagicItemLevel || 7
+|}
+

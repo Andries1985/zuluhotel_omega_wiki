@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Baby Kodo =
+
+== Appearance ==
+[[File:Baby_Kodo.png|thumb|Baby Kodo]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1963</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 67 Skill
+|-
+| '''Stealing Required''' || 67 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 145
+|-
+| '''BaseIntmod''' || 45
+|-
+| '''BaseDexmod''' || 118
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 145
+|-
+| INT || 45
+|-
+| DEX || 118
+|-
+| Tactics || 86
+|-
+| MaceFighting || 96
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 158
+|-
+| lootgroup || 31
+|-
+| provoke || 67
+|-
+| MagicItemChance || 36
+|-
+| MagicItemLevel || 3
+|}
+

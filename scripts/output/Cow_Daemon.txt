@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Cow Daemon =
+
+== Appearance ==
+[[File:Cow_Daemon.png|thumb|Cow Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>357</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 120
+|-
+| '''BaseDexmod''' || 140
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 95
+|-
+| DEX || 125
+|-
+| Tactics || 130
+|-
+| MaceFighting || 140
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 70
+|-
+| provoke || 125
+|-
+| MagicItemChance || 72
+|-
+| MagicItemLevel || 6
+|}
+

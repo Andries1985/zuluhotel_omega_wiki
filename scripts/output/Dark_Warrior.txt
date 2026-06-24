@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Dark Warrior =
+
+== Appearance ==
+[[File:Dark_Warrior.png|thumb|Dark Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || 50
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''mountspawn''' || null
+|-
+| '''IsWarrior''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 50
+|-
+| DEX || 50
+|-
+| Tactics || 130
+|-
+| Macefighting || 130
+|-
+| Swordsmanship || 130
+|-
+| Fencing || 130
+|-
+| Hiding || 100
+|-
+| Magery || 100
+|-
+| Equip || taintedwarrior1
+|-
+| lootgroup || 59
+|-
+| provoke || 105
+|-
+| mount || 0x3e9f 1109
+|-
+| MagicItemChance || 40
+|-
+| Magicitemlevel || 4
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Dispel
+* Teleport
+

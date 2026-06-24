@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Tiny Frog =
+
+== Appearance ==
+[[File:Tiny_Frog.png|thumb|Tiny Frog]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1091</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 60
+|-
+| '''BaseIntmod''' || 35
+|-
+| '''BaseDexmod''' || 140
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 60
+|-
+| INT || 35
+|-
+| DEX || 140
+|-
+| Tactics || 70
+|-
+| MaceFighting || 80
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 220
+|-
+| lootgroup || 15
+|-
+| provoke || 50
+|-
+| MagicItemChance || 20
+|-
+| MagicItemLevel || 1
+|}
+

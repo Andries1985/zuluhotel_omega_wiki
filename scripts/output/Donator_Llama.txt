@@ -1,0 +1,61 @@
+[[Category:NPCs]]
+
+= Donator Llama =
+
+== Appearance ==
+[[File:Donator_Llama.png|thumb|Donator Llama]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0xdc //220</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 900
+|-
+| INT || 25
+|-
+| DEX || 60
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 45
+|-
+| Equip || llama
+|-
+| deathsnd || 0xba
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|-
+| tameskill || 200
+|}
+

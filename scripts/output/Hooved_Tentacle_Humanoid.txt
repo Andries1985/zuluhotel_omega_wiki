@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Hooved Tentacle Humanoid =
+
+== Appearance ==
+[[File:Hooved_Tentacle_Humanoid.png|thumb|Hooved Tentacle Humanoid]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>508</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 310
+|-
+| '''BaseIntmod''' || 160
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 240
+|-
+| INT || 130
+|-
+| DEX || 135
+|-
+| Tactics || 118
+|-
+| MaceFighting || 128
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 172
+|-
+| lootgroup || 70
+|-
+| provoke || 125
+|-
+| MagicItemChance || 72
+|-
+| MagicItemLevel || 6
+|}
+

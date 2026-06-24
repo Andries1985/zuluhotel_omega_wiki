@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Flesh Horror =
+
+== Appearance ==
+[[File:Flesh_Horror.png|thumb|Flesh Horror]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1216</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 122 Skill
+|-
+| '''Stealing Required''' || 122 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 330
+|-
+| '''BaseIntmod''' || 140
+|-
+| '''BaseDexmod''' || 140
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 255
+|-
+| INT || 110
+|-
+| DEX || 125
+|-
+| Tactics || 122
+|-
+| MaceFighting || 132
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 162
+|-
+| lootgroup || 70
+|-
+| provoke || 122
+|-
+| MagicItemChance || 72
+|-
+| MagicItemLevel || 6
+|}
+

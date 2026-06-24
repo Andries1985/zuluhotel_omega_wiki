@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Myrmidon Mage =
+
+== Appearance ==
+[[File:Myrmidon_Mage.png|thumb|Myrmidon Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1201</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 260
+|-
+| '''BaseIntmod''' || 240
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 190
+|-
+| DEX || 140
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 170
+|-
+| lootgroup || 75
+|-
+| provoke || 130
+|-
+| MagicItemChance || 78
+|-
+| MagicItemLevel || 7
+|}
+

@@ -1,0 +1,99 @@
+[[Category:NPCs]]
+
+= Tiamat =
+
+== Appearance ==
+[[File:Tiamat.png|thumb|Tiamat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>798</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseHpRegen''' || 2000
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PhysicalProtection''' || 10
+|-
+| '''NecroProtection''' || 125
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 2000
+|-
+| INT || 200
+|-
+| DEX || 350
+|-
+| Tactics || 150
+|-
+| MaceFighting || 150
+|-
+| Magery || 135
+|-
+| Archery || 140
+|-
+| EvaluatingIntelligence || 135
+|-
+| Equip || tiamat
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+

@@ -1,0 +1,81 @@
+[[Category:NPCs]]
+
+= Vortex Naga =
+
+== Appearance ==
+[[File:Vortex_Naga.png|thumb|Vortex Naga]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>367</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''IsRanger''' || 3
+|-
+| '''vortexnaga''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 350
+|-
+| DEX || 300
+|-
+| Tactics || 130
+|-
+| Archery || 130
+|-
+| Hiding || 120
+|-
+| DetectingHidden || 120
+|-
+| Equip || vortexnaga
+|-
+| lootgroup || 131
+|-
+| magicitemchance || 60
+|-
+| Magicitemlevel || 5
+|-
+| dstart || 10
+|-
+| provoke || 105
+|-
+| ammotype || 0xEED
+|-
+| missileweapon || 0x9a1a
+|-
+| ammoamount || 300
+|}
+

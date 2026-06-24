@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Fire Serpent =
+
+== Appearance ==
+[[File:Fire_Serpent.png|thumb|Fire Serpent]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x15</code>
+|-
+| '''Color Code''' || 1158
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1158
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 80
+|-
+| DEX || 70
+|-
+| Tactics || 70
+|-
+| MaceFighting || 85
+|-
+| Magery || 100
+|-
+| Equip || flamingspider
+|-
+| tameskill || 90
+|-
+| food || meat
+|-
+| provoke || 90
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Phase Spider =
+
+== Appearance ==
+[[File:Phase_Spider.png|thumb|Phase Spider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x1c</code>
+|-
+| '''Color Code''' || 25125
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 25125
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 150
+|-
+| DEX || 50
+|-
+| Tactics || 70
+|-
+| MaceFighting || 125
+|-
+| Magery || 90
+|-
+| Equip || phasespider
+|-
+| tameskill || 95
+|-
+| food || meat
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Ebolt
+* Lightning
+* Harm
+* Magicarrow
+

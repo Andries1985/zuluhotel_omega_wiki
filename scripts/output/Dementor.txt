@@ -1,0 +1,125 @@
+[[Category:NPCs]]
+
+= Dementor =
+
+== Appearance ==
+[[File:Dementor.png|thumb|Dementor]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>375</code>
+|-
+| '''Color Code''' || 1664
+|-
+| '''CustomHitsLevel''' || 400000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 700
+|-
+| '''BaseIntmod''' || 2200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''EarthProtection''' || 120
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 3000
+|-
+| '''LesserBoss''' || 1
+|-
+| '''IsMage''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1664
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 150
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 150
+|-
+| Equip || undeadflayer
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| lootgroup || 107
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| virtue || 4
+|-
+| speech || 35
+|-
+| saywords || 1
+|-
+| provoke || 150
+|-
+| Karma || -7000
+|-
+| Fame || 7000
+|}
+
+== Known Spells ==
+* Ebolt
+* Teleport
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Kill
+* Wyvernstrike
+* Abyssalflame
+* Wraithbreath
+* Plague
+* Dispel
+* Massdispel
+* Curse
+* Masscurse
+

@@ -1,0 +1,131 @@
+[[Category:NPCs]]
+
+= Magma Lord =
+
+== Appearance ==
+[[File:Magma_Lord.png|thumb|Magma Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x0e</code>
+|-
+| '''Color Code''' || 2164
+|-
+| '''CustomHitsLevel''' || 400000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 2700
+|-
+| '''BaseDexmod''' || 350
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 120
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 3000
+|-
+| '''LesserBoss''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2164
+|-
+| Gender || 0
+|-
+| STR || 195
+|-
+| INT || 50
+|-
+| DEX || 150
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 150
+|-
+| Equip || undeadflayer
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| lootgroup || 107
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| virtue || 4
+|-
+| speech || 35
+|-
+| dstart || 10
+|-
+| provoke || 150
+|-
+| saywords || 1
+|-
+| Karma || -7000
+|-
+| Fame || 7000
+|-
+| Prop || NecroProtection i100
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Ebolt
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Kill
+* Abyssalflame
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Summon_Fire
+

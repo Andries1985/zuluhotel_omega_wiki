@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Tainted One =
+
+== Appearance ==
+[[File:Tainted_One.png|thumb|Tainted One]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>401</code>
+|-
+| '''Color Code''' || 1302
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''IsWarrior''' || 3
+|-
+| '''rise''' || evisceratedcarcass
+|-
+| '''risedelay''' || 2
+|-
+| '''FinalDeath''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1302
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 140
+|-
+| Parry || 130
+|-
+| Equip || taintedwarrior2
+|-
+| lootgroup || 131
+|-
+| magicitemchance || 50
+|-
+| Magicitemlevel || 4
+|-
+| dstart || 10
+|-
+| provoke || 105
+|}
+

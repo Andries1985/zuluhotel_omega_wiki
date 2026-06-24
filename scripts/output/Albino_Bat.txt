@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Albino Bat =
+
+== Appearance ==
+[[File:Albino_Bat.png|thumb|Albino Bat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1222</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 140
+|-
+| '''BaseIntmod''' || 60
+|-
+| '''BaseDexmod''' || 280
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 85
+|-
+| INT || 35
+|-
+| DEX || 165
+|-
+| Tactics || 75
+|-
+| MaceFighting || 80
+|-
+| dstart || 10
+|}
+

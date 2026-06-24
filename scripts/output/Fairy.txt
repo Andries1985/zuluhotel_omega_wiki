@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Fairy =
+
+== Appearance ==
+[[File:Fairy.png|thumb|Fairy]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>goodcaster</code>
+|-
+| '''Object Type''' || <code>1824</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 300
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 160
+|-
+| Magery || 130
+|-
+| Tactics || 80
+|-
+| dstart || 10
+|}
+

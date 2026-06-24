@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Stoneclaw Brute =
+
+== Appearance ==
+[[File:Stoneclaw_Brute.png|thumb|Stoneclaw Brute]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1949</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 370
+|-
+| '''BaseIntmod''' || 130
+|-
+| '''BaseDexmod''' || 140
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 290
+|-
+| INT || 105
+|-
+| DEX || 125
+|-
+| Tactics || 132
+|-
+| MaceFighting || 142
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 160
+|-
+| lootgroup || 78
+|-
+| provoke || 135
+|-
+| MagicItemChance || 78
+|-
+| MagicItemLevel || 7
+|}
+

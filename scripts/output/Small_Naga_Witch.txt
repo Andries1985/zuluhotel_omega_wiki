@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Small Naga Witch =
+
+== Appearance ==
+[[File:Small_Naga_Witch.png|thumb|Small Naga Witch]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>856</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 210
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 170
+|-
+| DEX || 145
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 180
+|-
+| lootgroup || 65
+|-
+| provoke || 125
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 6
+|}
+

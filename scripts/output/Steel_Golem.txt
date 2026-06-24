@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Steel Golem =
+
+== Appearance ==
+[[File:Steel_Golem.png|thumb|Steel Golem]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>111</code>
+|-
+| '''Color Code''' || 1309
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''NecroProtection''' || 25
+|-
+| '''HolyProtection''' || i-25
+|-
+| '''FireProtection''' || 25
+|-
+| '''EarthProtection''' || 25
+|-
+| '''AirProtection''' || 25
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1309
+|-
+| Gender || 0
+|-
+| STR || 450
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Parry || 120
+|-
+| Tactics || 140
+|-
+| MaceFighting || 140
+|-
+| Equip || earthelementallord
+|-
+| lootgroup || 21
+|-
+| dstart || 10
+|-
+| provoke || 110
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 3
+|}
+

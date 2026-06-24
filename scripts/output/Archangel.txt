@@ -1,0 +1,133 @@
+[[Category:NPCs]]
+
+= Archangel =
+
+== Appearance ==
+[[File:Archangel.png|thumb|Archangel]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosmultikillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1765
+|-
+| '''CustomHitsLevel''' || 1000000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''BaseDexmod''' || 400
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''Permmr''' || 6
+|-
+| '''HolyProtection''' || 100
+|-
+| '''NecroProtection''' || 100
+|-
+| '''PhysicalProtection''' || 8
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''FreeAction''' || 1
+|-
+| '''mountspawn''' || null
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1765
+|-
+| Gender || 0
+|-
+| STR || 2000
+|-
+| INT || 2000
+|-
+| DEX || 250
+|-
+| Tactics || 150
+|-
+| Swordsmanship || 150
+|-
+| Parry || 150
+|-
+| Hiding || 150
+|-
+| Magery || 150
+|-
+| Macefighting || 150
+|-
+| Archery || 150
+|-
+| DetectingHidden || 150
+|-
+| Equip || archangel
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 99
+|-
+| MagicItemLevel || 9
+|-
+| saywords || 1
+|-
+| dstart || 10
+|-
+| speech || 54
+|-
+| provoke || 150
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|-
+| mount || 0x3eaa 1182
+|}
+
+== Known Spells ==
+* Wraithbreath
+* Enlightenment
+* Wrathofgod
+* Divinefury
+* Astralstorm
+* Apocalypse
+* Icestrike
+* Sanctuary
+* Seraphimswill
+* Angelicaura
+* Summonguardian
+* Holybolt
+

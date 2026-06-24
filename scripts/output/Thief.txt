@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Thief =
+
+== Appearance ==
+[[File:Thief.png|thumb|Thief]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Thief
+|-
+| '''Equipt''' || 23
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| detecthidden || 100
+|-
+| hiding || 100
+|-
+| lockpicking || 100
+|-
+| snooping || 100
+|-
+| poisoning || 100
+|-
+| stealing || 100
+|-
+| stealth || 100
+|-
+| removetrap || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| speech || 58
+|-
+| Equip || thief
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

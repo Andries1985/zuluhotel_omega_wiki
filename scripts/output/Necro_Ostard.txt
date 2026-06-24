@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Necro Ostard =
+
+== Appearance ==
+[[File:Necro_Ostard.png|thumb|Necro Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1282
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 120
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1282
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Parry || 100
+|-
+| Tactics || 90
+|-
+| MaceFighting || 100
+|-
+| Magery || 200
+|-
+| Equip || tropicalostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 110
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| saywords || 1
+|-
+| provoke || 110
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Decayingray
+* Sorcerersbane
+

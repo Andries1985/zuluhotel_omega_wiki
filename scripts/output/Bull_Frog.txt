@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Bull Frog =
+
+== Appearance ==
+[[File:Bull_Frog.png|thumb|Bull Frog]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>80</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''untamable''' || 1
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''rise''' || wizardfrog
+|-
+| '''risedelay''' || 1
+|-
+| '''FinalDeath''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 20
+|-
+| DEX || 25
+|-
+| Parry || 75
+|-
+| Tactics || 60
+|-
+| Swordsmanship || 80
+|-
+| Equip || bullfrog
+|-
+| deathsnd || 0x270
+|-
+| food || veggie
+|-
+| provoke || 20
+|-
+| dstart || 10
+|}
+

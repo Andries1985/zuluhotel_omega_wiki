@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Hind =
+
+== Appearance ==
+[[File:Hind.png|thumb|Hind]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xed</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 30
+|-
+| INT || 15
+|-
+| DEX || 80
+|-
+| Parry || 23
+|-
+| MaceFighting || 50
+|-
+| Tactics || 50
+|-
+| Equip || deer
+|-
+| deathsnd || 0x85
+|-
+| provoke || 40
+|-
+| tameskill || 40
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|}
+

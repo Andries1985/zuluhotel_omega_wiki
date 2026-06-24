@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Obsidian Ostard =
+
+== Appearance ==
+[[File:Obsidian_Ostard.png|thumb|Obsidian Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 25
+|-
+| DEX || 120
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || mountainostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 85
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 85
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,101 @@
+[[Category:NPCs]]
+
+= Test Weapon Wyrm =
+
+== Appearance ==
+[[File:Test_Weapon_Wyrm.png|thumb|Test Weapon Wyrm]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3b</code>
+|-
+| '''Color Code''' || 1766
+|-
+| '''CustomHitsLevel''' || 500
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 1 Skill
+|-
+| '''Stealing Required''' || 1 Skill
+|-
+| '''BaseStrmod''' || 1
+|-
+| '''BaseIntmod''' || 1
+|-
+| '''BaseDexmod''' || 1
+|-
+| '''PermMagicImmunity''' || 1
+|-
+| '''PermPoisonImmunity''' || 1
+|-
+| '''BaseHpRegen''' || 250
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 1
+|-
+| '''AirProtection''' || 1
+|-
+| '''WaterProtection''' || 2
+|-
+| '''EarthProtection''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1766
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 150
+|-
+| DEX || 200
+|-
+| Tactics || 180
+|-
+| MaceFighting || 200
+|-
+| Magery || 150
+|-
+| DetectingHidden || 150
+|-
+| Equip || skeletalwarrior
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 150
+|-
+| lootgroup || 199
+|-
+| virtue || 6
+|-
+| provoke || 1
+|-
+| MagicItemChance || 99
+|-
+| MagicItemLevel || 10
+|-
+| dstart || 10
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|-
+| RunSpeed || 250
+|}
+

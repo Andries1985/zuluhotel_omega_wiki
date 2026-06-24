@@ -1,0 +1,111 @@
+[[Category:NPCs]]
+
+= Dark Lancer =
+
+== Appearance ==
+[[File:Dark_Lancer.png|thumb|Dark Lancer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>fastkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 400000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 700
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PhysicalProtection''' || 10
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''mountspawn''' || null
+|-
+| '''Boss''' || 1
+|-
+| '''IsWarrior''' || 4
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || 100
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 900
+|-
+| INT || 295
+|-
+| DEX || 400
+|-
+| Tactics || 180
+|-
+| Fencing || 180
+|-
+| Swordsmanship || 180
+|-
+| Parry || 180
+|-
+| Equip || darklancer
+|-
+| mount || 0x3e9f 1157
+|-
+| AR || 270
+|-
+| lootgroup || 105
+|-
+| provoke || 150
+|-
+| magicitemchance || 90
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

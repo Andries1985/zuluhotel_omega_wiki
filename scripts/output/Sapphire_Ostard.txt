@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Sapphire Ostard =
+
+== Appearance ==
+[[File:Sapphire_Ostard.png|thumb|Sapphire Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1170
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 175
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1170
+|-
+| Gender || 0
+|-
+| STR || 225
+|-
+| INT || 125
+|-
+| DEX || 175
+|-
+| Parry || 70
+|-
+| Tactics || 80
+|-
+| MaceFighting || 80
+|-
+| Equip || emeraldostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 75
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

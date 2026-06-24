@@ -1,0 +1,108 @@
+[[Category:NPCs]]
+
+= Spawn Of The Storm =
+
+== Appearance ==
+[[File:Spawn_Of_The_Storm.png|thumb|Spawn Of The Storm]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0xc7</code>
+|-
+| '''Color Code''' || 1182
+|-
+| '''CustomHitsLevel''' || 100000
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 1900
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermMagicImmunity''' || 5
+|-
+| '''BaseHpRegen''' || 20
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''EBSummons''' || 1
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''NecroProtection''' || 20
+|-
+| '''HolyProtection''' || 20
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 200
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1182
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 50
+|-
+| Equip || balron1
+|-
+| provoke || 100
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Summonsgustofair
+

@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Jungle Frenzied Ostard =
+
+== Appearance ==
+[[File:Jungle_Frenzied_Ostard.png|thumb|Jungle Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 1162
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 40
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1162
+|-
+| Gender || 0
+|-
+| STR || 290
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 80
+|-
+| Tactics || 100
+|-
+| MaceFighting || 140
+|-
+| Equip || mountainfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 110
+|-
+| food || meat
+|-
+| provoke || 110
+|-
+| dstart || 10
+|}
+

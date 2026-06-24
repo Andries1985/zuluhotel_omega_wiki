@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Bug =
+
+== Appearance ==
+[[File:Bug.png|thumb|Bug]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1135</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 120
+|-
+| '''BaseIntmod''' || 40
+|-
+| '''BaseDexmod''' || 260
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 25
+|-
+| DEX || 150
+|-
+| Tactics || 65
+|-
+| MaceFighting || 70
+|-
+| dstart || 10
+|}
+

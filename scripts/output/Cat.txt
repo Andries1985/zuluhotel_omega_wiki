@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Cat =
+
+== Appearance ==
+[[File:Cat.png|thumb|Cat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1776</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 45 Skill
+|-
+| '''Stealing Required''' || 45 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 75
+|-
+| '''BaseIntmod''' || 40
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 75
+|-
+| INT || 40
+|-
+| DEX || 150
+|-
+| Tactics || 75
+|-
+| MaceFighting || 80
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 210
+|-
+| lootgroup || 15
+|-
+| provoke || 45
+|-
+| MagicItemChance || 20
+|-
+| MagicItemLevel || 1
+|}
+

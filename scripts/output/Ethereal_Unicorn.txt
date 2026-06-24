@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Ethereal Unicorn =
+
+== Appearance ==
+[[File:Ethereal_Unicorn.png|thumb|Ethereal Unicorn]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>daves_healer</code>
+|-
+| '''Object Type''' || <code>0xC0</code>
+|-
+| '''Color Code''' || 16385
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 110
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 16385
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 175
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 150
+|-
+| Magery || 225
+|-
+| Equip || heavenlyfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 150
+|-
+| Karma || 3000
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 120
+|-
+| dstart || 10
+|}
+

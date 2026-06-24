@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Athissa =
+
+== Appearance ==
+[[File:Athissa.png|thumb|Athissa]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1864</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 310
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 165
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 240
+|-
+| INT || 160
+|-
+| DEX || 150
+|-
+| Tactics || 125
+|-
+| MaceFighting || 135
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 178
+|-
+| lootgroup || 75
+|-
+| provoke || 135
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 7
+|}
+

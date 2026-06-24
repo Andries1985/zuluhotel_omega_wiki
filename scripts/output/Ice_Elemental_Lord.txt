@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Ice Elemental Lord =
+
+== Appearance ==
+[[File:Ice_Elemental_Lord.png|thumb|Ice Elemental Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>365</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''nocorpse''' || 1
+|-
+| '''Snooping Required''' || 100 Skill
+|-
+| '''Stealing Required''' || 100 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''WaterProtection''' || 200
+|-
+| '''FireProtection''' || 100
+|-
+| '''EarthProtection''' || i-100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 210
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 160
+|-
+| Magery || 120
+|-
+| MoveMode || LS
+|-
+| Equip || waterelementallord
+|-
+| saywords || 1
+|-
+| lootgroup || 73
+|-
+| provoke || 100
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 4
+|}
+
+== Known Spells ==
+* Ebolt
+* Lightning
+* Chainlightning
+* Summon_Water
+

@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Water Daemon Lord =
+
+== Appearance ==
+[[File:Water_Daemon_Lord.png|thumb|Water Daemon Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>746</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 900000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 2000
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 120
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|-
+| '''PhysicalProtection''' || 5
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''Boss''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 1000
+|-
+| INT || 45
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Equip || behemoth
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|-
+| provoke || 150
+|}
+

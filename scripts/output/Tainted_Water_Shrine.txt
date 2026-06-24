@@ -1,0 +1,131 @@
+[[Category:NPCs]]
+
+= Tainted Water Shrine =
+
+== Appearance ==
+[[File:Tainted_Water_Shrine.png|thumb|Tainted Water Shrine]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>16</code>
+|-
+| '''Color Code''' || 2158
+|-
+| '''CustomHitsLevel''' || 800000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 1900
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''FireProtection''' || 150
+|-
+| '''WaterProtection''' || 10
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || 150
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''rise''' || waterlordshrine
+|-
+| '''risedelay''' || 30
+|-
+| '''FinalDeath''' || 1
+|-
+| '''event''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2158
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 40
+|-
+| num_casts || 5
+|-
+| Equip || balron1
+|-
+| lootgroup || 109
+|-
+| provoke || 150
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 9
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Summon_Water
+* Kill
+* Abyssalflame
+* Ebolt
+* Plague
+* Sorcerersbane
+* Wyvernstrike
+* Dispel
+* Spectretouch
+* Wraithbreath
+

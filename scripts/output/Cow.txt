@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Cow =
+
+== Appearance ==
+[[File:Cow.png|thumb|Cow]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0xe7</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 40
+|-
+| INT || 20
+|-
+| DEX || 50
+|-
+| Parry || 6
+|-
+| Tactics || 50
+|-
+| MaceFighting || 50
+|-
+| Equip || cow2
+|-
+| deathsnd || 0x7D
+|-
+| tameskill || 30
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 30
+|-
+| dstart || 10
+|}
+

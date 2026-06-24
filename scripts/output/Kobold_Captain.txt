@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Kobold Captain =
+
+== Appearance ==
+[[File:Kobold_Captain.png|thumb|Kobold Captain]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0X07</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 35
+|-
+| DEX || 95
+|-
+| Swordsmanship || 130
+|-
+| Tactics || 130
+|-
+| Equip || koboldcaptain
+|-
+| lootgroup || 42
+|-
+| speech || 6
+|-
+| provoke || 70
+|-
+| dstart || 10
+|}
+

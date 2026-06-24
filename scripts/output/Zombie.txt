@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Zombie =
+
+== Appearance ==
+[[File:Zombie.png|thumb|Zombie]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>858</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 30
+|-
+| DEX || 60
+|-
+| Tactics || 80
+|-
+| MaceFighting || 80
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Daemon Prince =
+
+== Appearance ==
+[[File:Daemon_Prince.png|thumb|Daemon Prince]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1191</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 220
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 310
+|-
+| INT || 170
+|-
+| DEX || 145
+|-
+| Tactics || 138
+|-
+| MaceFighting || 148
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 172
+|-
+| lootgroup || 85
+|-
+| provoke || 150
+|-
+| MagicItemChance || 88
+|-
+| MagicItemLevel || 8
+|}
+

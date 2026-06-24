@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Dark Elf Archer =
+
+== Appearance ==
+[[File:Dark_Elf_Archer.png|thumb|Dark Elf Archer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x191</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 155
+|-
+| INT || 85
+|-
+| DEX || 120
+|-
+| swordsmanship || 110
+|-
+| MaceFighting || 95
+|-
+| Tactics || 150
+|-
+| Archery || 150
+|-
+| Hiding || 100
+|-
+| Equip || drowarcher
+|-
+| lootgroup || 41
+|-
+| provoke || 85
+|-
+| dstart || 10
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 2
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 60
+|}
+

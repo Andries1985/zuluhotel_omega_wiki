@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Troll Chieftain =
+
+== Appearance ==
+[[File:Troll_Chieftain.png|thumb|Troll Chieftain]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x35</code>
+|-
+| '''Color Code''' || 0x0465
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 275
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0465
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 80
+|-
+| DEX || 70
+|-
+| Tactics || 130
+|-
+| Swordsmanship || 130
+|-
+| Equip || trollking
+|-
+| lootgroup || 60
+|-
+| provoke || 95
+|-
+| dstart || 10
+|-
+| MagicItemChance || 30
+|-
+| MagicItemLevel || 3
+|}
+

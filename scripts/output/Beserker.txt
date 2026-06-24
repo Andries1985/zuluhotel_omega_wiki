@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Beserker =
+
+== Appearance ==
+[[File:Beserker.png|thumb|Beserker]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>vortexai</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 400
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || i-50
+|-
+| '''Permmr''' || 6
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 2
+|-
+| '''IsWarrior''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 140
+|-
+| Parry || 150
+|-
+| Hiding || 100
+|-
+| Equip || bezerker
+|-
+| lootgroup || 132
+|-
+| magicitemchance || 50
+|-
+| Magicitemlevel || 5
+|-
+| dstart || 10
+|-
+| provoke || 110
+|}
+

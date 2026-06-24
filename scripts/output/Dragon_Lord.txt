@@ -1,0 +1,140 @@
+[[Category:NPCs]]
+
+= Dragon Lord =
+
+== Appearance ==
+[[File:Dragon_Lord.png|thumb|Dragon Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>1335</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1100000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''IsMage''' || 2
+|-
+| '''Boss''' || 1
+|-
+| '''BaseStrmod''' || 2000
+|-
+| '''BaseIntmod''' || 2000
+|-
+| '''BaseDexmod''' || 500
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 140
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| cast_pct || 80
+|-
+| num_casts || 40
+|-
+| Equip || undeadflayer
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 105
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| MoveMode || AL
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Mindblast
+* Sorcerersbane
+* Wyvernstrike
+* Abyssalflame
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+* Summondrag
+* Summondrag
+* Summondrag
+

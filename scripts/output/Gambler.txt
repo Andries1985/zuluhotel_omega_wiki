@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Gambler =
+
+== Appearance ==
+[[File:Gambler.png|thumb|Gambler]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>gambler</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 100
+|-
+| Macefighting || 140
+|-
+| AttackSpeed || 55
+|-
+| AttackDamage || 2d100
+|-
+| AttackAttribute || MaceFighting
+|-
+| Equip || gambler
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|}
+

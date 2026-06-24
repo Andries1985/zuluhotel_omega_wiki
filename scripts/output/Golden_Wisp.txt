@@ -1,0 +1,103 @@
+[[Category:NPCs]]
+
+= Golden Wisp =
+
+== Appearance ==
+[[File:Golden_Wisp.png|thumb|Golden Wisp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3a</code>
+|-
+| '''Color Code''' || 48
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 2700
+|-
+| '''BaseDexmod''' || 350
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''NecroProtection''' || 200
+|-
+| '''PhysicalProtection''' || 12
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 48
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Magery || 175
+|-
+| Tactics || 150
+|-
+| MaceFighting || 160
+|-
+| Equip || undeadflayer
+|-
+| cast_pct || 25
+|-
+| num_casts || 6
+|-
+| lootgroup || 104
+|-
+| magicitemchance || 80
+|-
+| Magicitemlevel || 6
+|-
+| virtue || 4
+|-
+| speech || 35
+|-
+| provoke || 100
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Explosion
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Darkness
+* Kill
+* Abyssalflame
+* Dispel
+* Masscurse
+

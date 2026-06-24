@@ -1,0 +1,116 @@
+[[Category:NPCs]]
+
+= Titan Warmaster =
+
+== Appearance ==
+[[File:Titan_Warmaster.png|thumb|Titan Warmaster]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>stormkillpcs</code>
+|-
+| '''Object Type''' || <code>0x4c</code>
+|-
+| '''Color Code''' || 2159
+|-
+| '''CustomHitsLevel''' || 2000000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''PhysicalProtection''' || 13
+|-
+| '''NecroProtection''' || 200
+|-
+| '''HolyProtection''' || 200
+|-
+| '''FireProtection''' || i-40
+|-
+| '''WaterProtection''' || 120
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2159
+|-
+| Gender || 0
+|-
+| STR || 4000
+|-
+| INT || 300
+|-
+| DEX || 150
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 150
+|-
+| Archery || 160
+|-
+| MagicResistance || 100
+|-
+| Equip || blueslaad
+|-
+| lootgroup || 106
+|-
+| speech || 35
+|-
+| provoke || 150
+|-
+| magicitemchance || 99
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 200
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+
+== Known Spells ==
+* Wallofstone
+* Wallofstone
+* Wallofstone
+* Energy_Field
+* Parafield
+* Dispel_Field
+* Poisonfield
+

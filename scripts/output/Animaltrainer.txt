@@ -1,0 +1,81 @@
+[[Category:NPCs]]
+
+= Animaltrainer =
+
+== Appearance ==
+[[File:Animaltrainer.png|thumb|Animaltrainer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animaltrainer</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''MerchantType''' || AnimalTrainer
+|-
+| '''Snooping Required''' || 40 Skill
+|-
+| '''Stealing Required''' || 40 Skill
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| speech || 38
+|-
+| AnimalLore || 100
+|-
+| AnimalTaming || 100
+|-
+| Anatomy || 100
+|-
+| Veterinary || 100
+|-
+| MaceFighting || 100
+|-
+| Equip || AnimalTrainer
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

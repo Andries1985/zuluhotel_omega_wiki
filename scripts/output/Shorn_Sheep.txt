@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Shorn Sheep =
+
+== Appearance ==
+[[File:Shorn_Sheep.png|thumb|Shorn Sheep]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1849</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Slow
+|-
+| '''Snooping Required''' || 40 Skill
+|-
+| '''Stealing Required''' || 40 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 85
+|-
+| '''BaseIntmod''' || 30
+|-
+| '''BaseDexmod''' || 80
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 85
+|-
+| INT || 30
+|-
+| DEX || 80
+|-
+| Tactics || 65
+|-
+| MaceFighting || 70
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 125
+|-
+| lootgroup || 15
+|-
+| provoke || 40
+|-
+| MagicItemChance || 15
+|-
+| MagicItemLevel || 1
+|}
+

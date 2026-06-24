@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Wraith Lord =
+
+== Appearance ==
+[[File:Wraith_Lord.png|thumb|Wraith Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1219</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 280
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 180
+|-
+| DEX || 160
+|-
+| Tactics || 130
+|-
+| MaceFighting || 130
+|-
+| dstart || 10
+|}
+

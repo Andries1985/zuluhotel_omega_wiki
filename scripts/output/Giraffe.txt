@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Giraffe =
+
+== Appearance ==
+[[File:Giraffe.png|thumb|Giraffe]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1789</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 180
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 50
+|-
+| DEX || 120
+|-
+| Tactics || 95
+|-
+| MaceFighting || 100
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 160
+|-
+| lootgroup || 40
+|-
+| provoke || 75
+|-
+| MagicItemChance || 40
+|-
+| MagicItemLevel || 3
+|}
+

@@ -1,0 +1,101 @@
+[[Category:NPCs]]
+
+= Vortex Beast =
+
+== Appearance ==
+[[File:Vortex_Beast.png|thumb|Vortex Beast]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>clocks</code>
+|-
+| '''Object Type''' || <code>763</code>
+|-
+| '''Color Code''' || 1945
+|-
+| '''CustomHitsLevel''' || 600000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 1050
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 120
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1945
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 45
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Archery || 150
+|-
+| Magery || 150
+|-
+| Equip || vortexbeast
+|-
+| ammotype || 0xEED
+|-
+| missileweapon || vortexbowweapon
+|-
+| ammoamount || 400
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

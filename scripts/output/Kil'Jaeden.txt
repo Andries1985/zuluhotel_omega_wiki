@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Kil'Jaeden =
+
+== Appearance ==
+[[File:Kil'Jaeden.png|thumb|Kil'Jaeden]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1927</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 160 Skill
+|-
+| '''Stealing Required''' || 160 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 280
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 380
+|-
+| INT || 220
+|-
+| DEX || 160
+|-
+| Tactics || 150
+|-
+| MaceFighting || 160
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 170
+|-
+| lootgroup || 95
+|-
+| provoke || 160
+|-
+| MagicItemChance || 95
+|-
+| MagicItemLevel || 9
+|}
+

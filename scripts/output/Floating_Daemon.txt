@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Floating Daemon =
+
+== Appearance ==
+[[File:Floating_Daemon.png|thumb|Floating Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1838</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 270
+|-
+| '''BaseIntmod''' || 190
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 210
+|-
+| INT || 155
+|-
+| DEX || 165
+|-
+| Tactics || 112
+|-
+| MaceFighting || 122
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 195
+|-
+| lootgroup || 70
+|-
+| provoke || 130
+|-
+| MagicItemChance || 75
+|-
+| MagicItemLevel || 6
+|}
+

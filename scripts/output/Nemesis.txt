@@ -1,0 +1,155 @@
+[[Category:NPCs]]
+
+= Nemesis =
+
+== Appearance ==
+[[File:Nemesis.png|thumb|Nemesis]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosmultikillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1765
+|-
+| '''CustomHitsLevel''' || 1000000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 800
+|-
+| '''BaseDexmod''' || 400
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''PhysicalProtection''' || 8
+|-
+| '''IsWarrior''' || 2
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''HealingIncrease''' || 7
+|-
+| '''FreeAction''' || 1
+|-
+| '''mountspawn''' || null
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1765
+|-
+| Gender || 0
+|-
+| STR || 2000
+|-
+| INT || 1000
+|-
+| DEX || 250
+|-
+| Tactics || 150
+|-
+| Swordsmanship || 150
+|-
+| Parry || 150
+|-
+| Hiding || 150
+|-
+| Magery || 150
+|-
+| Macefighting || 180
+|-
+| Archery || 150
+|-
+| DetectingHidden || 150
+|-
+| Equip || taintedmage
+|-
+| lootgroup || 106
+|-
+| magicitemchance || 99
+|-
+| Magicitemlevel || 9
+|-
+| RunSpeed || 250
+|-
+| saywords || 1
+|-
+| dstart || 10
+|-
+| provoke || 150
+|-
+| mount || 0x3ea4 1302
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Dispel
+* Masscurse
+* Meteorswarm
+* Ebolt
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Kill
+* Abyssalflame
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+

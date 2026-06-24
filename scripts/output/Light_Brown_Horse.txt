@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Light Brown Horse =
+
+== Appearance ==
+[[File:Light_Brown_Horse.png|thumb|Light Brown Horse]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>1769</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 95
+|-
+| '''BaseIntmod''' || 30
+|-
+| '''BaseDexmod''' || 85
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 95
+|-
+| INT || 30
+|-
+| DEX || 85
+|-
+| Parry || 45
+|-
+| Tactics || 55
+|-
+| MaceFighting || 65
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 170
+|-
+| tameskill || 50
+|-
+| provoke || 50
+|}
+

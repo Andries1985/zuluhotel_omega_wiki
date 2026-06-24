@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Giant Serpent =
+
+== Appearance ==
+[[File:Giant_Serpent.png|thumb|Giant Serpent]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x15</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 205
+|-
+| DEX || 70
+|-
+| INT || 75
+|-
+| Parry || 50
+|-
+| Tactics || 70
+|-
+| Swordsmanship || 80
+|-
+| Poisoning || 90
+|-
+| Equip || giantserpent
+|-
+| tameskill || 80
+|-
+| food || meat
+|-
+| provoke || 80
+|-
+| dstart || 10
+|}
+

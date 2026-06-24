@@ -1,0 +1,79 @@
+[[Category:NPCs]]
+
+= Hell Hound =
+
+== Appearance ==
+[[File:Hell_Hound.png|thumb|Hell Hound]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x42D</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 140
+|-
+| '''BaseDexmod''' || 50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 150
+|-
+| DEX || 135
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Magery || 130
+|-
+| cast_pct || 75
+|-
+| num_casts || 8
+|-
+| Equip || hellhound
+|-
+| lootgroup || 61
+|-
+| tameskill || 100
+|-
+| food || meat
+|-
+| saywords || 1
+|-
+| provoke || 100
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Magicarrow
+* Fireball
+* Explosion
+* Flamestrike
+

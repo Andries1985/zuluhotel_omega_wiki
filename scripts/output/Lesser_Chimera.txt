@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Lesser Chimera =
+
+== Appearance ==
+[[File:Lesser_Chimera.png|thumb|Lesser Chimera]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>269</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 350000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1350
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 120
+|-
+| '''EarthProtection''' || 20
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''BaseHpRegen''' || 1500
+|-
+| '''LesserBoss''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 1000
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 160
+|-
+| Equip || behemoth
+|-
+| lootgroup || 107
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| RunSpeed || 225
+|-
+| provoke || 150
+|-
+| Karma || -7000
+|-
+| Fame || 7000
+|}
+

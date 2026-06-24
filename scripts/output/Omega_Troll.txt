@@ -1,0 +1,89 @@
+[[Category:NPCs]]
+
+= Omega Troll =
+
+== Appearance ==
+[[File:Omega_Troll.png|thumb|Omega Troll]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>53</code>
+|-
+| '''Color Code''' || 2164
+|-
+| '''CustomHitsLevel''' || 350000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 1550
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 120
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''LesserBoss''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2164
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 45
+|-
+| DEX || 300
+|-
+| Tactics || 150
+|-
+| MaceFighting || 165
+|-
+| Equip || behemoth
+|-
+| lootgroup || 107
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 8
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -7000
+|-
+| Fame || 7000
+|}
+

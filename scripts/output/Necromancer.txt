@@ -1,0 +1,93 @@
+[[Category:NPCs]]
+
+= Necromancer =
+
+== Appearance ==
+[[File:Necromancer.png|thumb|Necromancer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''rise''' || lichelord
+|-
+| '''risedelay''' || 8
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 200
+|-
+| DEX || 80
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Magery || 150
+|-
+| cast_pct || 60
+|-
+| num_casts || 6
+|-
+| Equip || necromancer
+|-
+| lootgroup || 46
+|-
+| speech || 35
+|-
+| provoke || 95
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Summonskel
+* Fireball
+* Explosion
+* Wraithform
+* Liche
+* Darkness
+* Decayingray
+

@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Solen Defender =
+
+== Appearance ==
+[[File:Solen_Defender.png|thumb|Solen Defender]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>806</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Ophidian
+|-
+| '''BaseStrmod''' || 175
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 25
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Magery || 80
+|-
+| MaceFighting || 100
+|-
+| Tactics || 90
+|-
+| Equip || rockspider
+|-
+| lootgroup || 70
+|-
+| virtue || 2
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+

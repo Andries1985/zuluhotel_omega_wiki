@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Kobold Archer =
+
+== Appearance ==
+[[File:Kobold_Archer.png|thumb|Kobold Archer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x11</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 75
+|-
+| INT || 30
+|-
+| DEX || 85
+|-
+| Tactics || 85
+|-
+| Archery || 90
+|-
+| Equip || koboldarcher
+|-
+| lootgroup || 52
+|-
+| speech || 6
+|-
+| ammotype || 0xb200
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 30
+|-
+| provoke || 50
+|-
+| dstart || 10
+|}
+

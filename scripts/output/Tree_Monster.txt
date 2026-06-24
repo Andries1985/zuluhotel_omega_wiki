@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Tree Monster =
+
+== Appearance ==
+[[File:Tree_Monster.png|thumb|Tree Monster]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1748</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 130
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 320
+|-
+| INT || 75
+|-
+| DEX || 85
+|-
+| Tactics || 115
+|-
+| MaceFighting || 120
+|-
+| dstart || 10
+|}
+

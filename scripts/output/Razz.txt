@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Razz =
+
+== Appearance ==
+[[File:Razz.png|thumb|Razz]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>slime</code>
+|-
+| '''Object Type''' || <code>0x33</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Snooping Required''' || 45 Skill
+|-
+| '''Stealing Required''' || 45 Skill
+|-
+| '''Slayer Type''' || Slime
+|-
+| '''BaseStrmod''' || 60
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 30
+|-
+| '''PermPoisonImmunity''' || 6
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 30
+|-
+| INT || 5
+|-
+| DEX || 40
+|-
+| Parry || 18
+|-
+| Poisoning || 40
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 30
+|-
+| Equip || slime
+|-
+| tameskill || 25
+|-
+| lootgroup || 1
+|-
+| provoke || 25
+|-
+| dstart || 10
+|}
+

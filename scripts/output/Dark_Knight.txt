@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Dark Knight =
+
+== Appearance ==
+[[File:Dark_Knight.png|thumb|Dark Knight]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaoskillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 17969
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 20
+|-
+| '''BaseDexmod''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 17969
+|-
+| Gender || 0
+|-
+| STR || 450
+|-
+| INT || 170
+|-
+| DEX || 150
+|-
+| Tactics || 130
+|-
+| Fencing || 130
+|-
+| Swordsmanship || 130
+|-
+| Parry || 130
+|-
+| Healing || 90
+|-
+| Anatomy || 100
+|-
+| Hiding || 100
+|-
+| Equip || rogueknight
+|-
+| lootgroup || 59
+|-
+| provoke || 70
+|-
+| magicitemchance || 15
+|-
+| Magicitemlevel || 4
+|-
+| dstart || 10
+|}
+

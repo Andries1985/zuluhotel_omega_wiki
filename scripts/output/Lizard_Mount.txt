@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Lizard Mount =
+
+== Appearance ==
+[[File:Lizard_Mount.png|thumb|Lizard Mount]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1807</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 60
+|-
+| '''BaseDexmod''' || 130
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 60
+|-
+| DEX || 130
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 45
+|-
+| provoke || 95
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|}
+

@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Haunted Blade =
+
+== Appearance ==
+[[File:Haunted_Blade.png|thumb|Haunted Blade]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x266</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 65 Skill
+|-
+| '''Stealing Required''' || 65 Skill
+|-
+| '''Slayer Type''' || Animated
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 25
+|-
+| DEX || 150
+|-
+| MaceFighting || 85
+|-
+| Tactics || 90
+|-
+| Equip || hauntedblade
+|-
+| lootgroup || 47
+|-
+| speech || 6
+|-
+| provoke || 65
+|-
+| dstart || 10
+|}
+

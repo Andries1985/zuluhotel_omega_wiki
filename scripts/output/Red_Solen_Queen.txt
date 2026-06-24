@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Red Solen Queen =
+
+== Appearance ==
+[[File:Red_Solen_Queen.png|thumb|Red Solen Queen]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1312</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Ophidian
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 220
+|-
+| '''BaseDexmod''' || 260
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 110
+|-
+| DEX || 150
+|-
+| Tactics || 120
+|-
+| MaceFighting || 125
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Vortex Minion =
+
+== Appearance ==
+[[File:Vortex_Minion.png|thumb|Vortex Minion]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcsclock</code>
+|-
+| '''Object Type''' || <code>756</code>
+|-
+| '''Color Code''' || 2167
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 4
+|-
+| '''FireProtection''' || 100
+|-
+| '''NecroProtection''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2167
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Parry || 50
+|-
+| Swordsmanship || 55
+|-
+| Tactics || 60
+|-
+| MaceFighting || 130
+|-
+| Magery || 140
+|-
+| Equip || clock2
+|-
+| lootgroup || 15
+|-
+| dstart || 10
+|-
+| provoke || 50
+|}
+

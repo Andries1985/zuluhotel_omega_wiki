@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Frost Spider =
+
+== Appearance ==
+[[File:Frost_Spider.png|thumb|Frost Spider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>862</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 140
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 130
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 50
+|-
+| DEX || 130
+|-
+| Tactics || 95
+|-
+| MaceFighting || 105
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 190
+|-
+| lootgroup || 35
+|-
+| provoke || 85
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|}
+

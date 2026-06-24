@@ -1,0 +1,72 @@
+[[Category:NPCs]]
+
+= Thing =
+
+== Appearance ==
+[[File:Thing.png|thumb|Thing]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>humuc</code>
+|-
+| '''Object Type''' || <code>0x27</code>
+|-
+| '''Color Code''' || 746
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermMagicImmunity''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 746
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 75
+|-
+| DEX || 100
+|-
+| Tactics || 50
+|-
+| MaceFighting || 150
+|-
+| Magery || 75
+|-
+| Equip || humuc
+|-
+| dstart || 10
+|-
+| guardignore || 1
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Fireball
+* Flamestrike
+* Ebolt
+* Lightning
+* Harm
+* Mindblast
+* Chainlightning
+

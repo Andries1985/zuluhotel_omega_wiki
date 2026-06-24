@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Firecrow =
+
+== Appearance ==
+[[File:Firecrow.png|thumb|Firecrow]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x06</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 8
+|-
+| INT || 5
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| MaceFighting || 10
+|-
+| Equip || firecrow
+|-
+| tameskill || 25
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 25
+|-
+| dstart || 10
+|}
+

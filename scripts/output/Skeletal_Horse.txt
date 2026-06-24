@@ -1,0 +1,86 @@
+[[Category:NPCs]]
+
+= Skeletal Horse =
+
+== Appearance ==
+[[File:Skeletal_Horse.png|thumb|Skeletal Horse]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x319</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 550
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''PermMagicImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 150
+|-
+| EvaluatingIntelligence || 100
+|-
+| Tactics || 130
+|-
+| MaceFighting || 175
+|-
+| Magery || 250
+|-
+| Equip || nightmare
+|-
+| lootgroup || 35
+|-
+| tameskill || 120
+|-
+| deathsnd || 0x165
+|-
+| food || meat
+|-
+| provoke || 120
+|-
+| MagicItemChance || 55
+|-
+| MagicItemLevel || 5
+|-
+| saywords || 1
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Flamestrike
+* Abyssalflame
+* Ebolt
+* Spectretouch
+* Wraithbreath
+

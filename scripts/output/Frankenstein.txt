@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Frankenstein =
+
+== Appearance ==
+[[File:Frankenstein.png|thumb|Frankenstein]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0x599
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 250
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x599
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 130
+|-
+| MaceFighting || 130
+|-
+| Equip || Frankenstein
+|-
+| lootgroup || 37
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|-
+| provoke || 105
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|}
+

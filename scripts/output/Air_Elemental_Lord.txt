@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Air Elemental Lord =
+
+== Appearance ==
+[[File:Air_Elemental_Lord.png|thumb|Air Elemental Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x0d</code>
+|-
+| '''Color Code''' || 1050
+|-
+| '''nocorpse''' || 1
+|-
+| '''Snooping Required''' || 100 Skill
+|-
+| '''Stealing Required''' || 100 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''AirProtection''' || 200
+|-
+| '''EarthProtection''' || 100
+|-
+| '''FireProtection''' || i-100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1050
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 170
+|-
+| Magery || 100
+|-
+| lootgroup || 73
+|-
+| saywords || 1
+|-
+| Equip || airelementallord
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 4
+|-
+| provoke || 100
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Summon_Air
+* Blade_Spirit
+* Chainlightning
+

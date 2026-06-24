@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Spiked Daemon =
+
+== Appearance ==
+[[File:Spiked_Daemon.png|thumb|Spiked Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1235</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 320
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 245
+|-
+| INT || 120
+|-
+| DEX || 142
+|-
+| Tactics || 122
+|-
+| MaceFighting || 132
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 172
+|-
+| lootgroup || 70
+|-
+| provoke || 130
+|-
+| MagicItemChance || 74
+|-
+| MagicItemLevel || 6
+|}
+

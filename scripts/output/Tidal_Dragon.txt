@@ -1,0 +1,93 @@
+[[Category:NPCs]]
+
+= Tidal Dragon =
+
+== Appearance ==
+[[File:Tidal_Dragon.png|thumb|Tidal Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xc</code>
+|-
+| '''Color Code''' || 1165
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''FireProtection''' || 100
+|-
+| '''WaterProtection''' || 200
+|-
+| '''EarthProtection''' || i-100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1165
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 140
+|-
+| Parry || 80
+|-
+| Tactics || 100
+|-
+| MaceFighting || 120
+|-
+| DetectingHidden || 130
+|-
+| Equip || tidaldragon
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 140
+|-
+| lootgroup || 37
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 140
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 45
+|-
+| Magicitemlevel || 5
+|-
+| RunSpeed || 225
+|-
+| dstart || 10
+|}
+

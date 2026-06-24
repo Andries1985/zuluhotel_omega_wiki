@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Small Purple Fungal Giant =
+
+== Appearance ==
+[[File:Small_Purple_Fungal_Giant.png|thumb|Small Purple Fungal Giant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1921</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 107 Skill
+|-
+| '''Stealing Required''' || 107 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 285
+|-
+| '''BaseIntmod''' || 92
+|-
+| '''BaseDexmod''' || 118
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 225
+|-
+| INT || 82
+|-
+| DEX || 108
+|-
+| Tactics || 107
+|-
+| MaceFighting || 117
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 152
+|-
+| lootgroup || 56
+|-
+| provoke || 107
+|-
+| MagicItemChance || 61
+|-
+| MagicItemLevel || 5
+|}
+

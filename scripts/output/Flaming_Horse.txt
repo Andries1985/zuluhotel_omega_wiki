@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Flaming Horse =
+
+== Appearance ==
+[[File:Flaming_Horse.png|thumb|Flaming Horse]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1832</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 180
+|-
+| '''BaseIntmod''' || 70
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 70
+|-
+| DEX || 150
+|-
+| Tactics || 110
+|-
+| MaceFighting || 120
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 195
+|-
+| lootgroup || 45
+|-
+| provoke || 95
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|}
+

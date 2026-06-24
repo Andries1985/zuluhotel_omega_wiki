@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Raven =
+
+== Appearance ==
+[[File:Raven.png|thumb|Raven]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x06</code>
+|-
+| '''Color Code''' || 0x0455
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x0455
+|-
+| Gender || 0
+|-
+| STR || 5
+|-
+| INT || 5
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| MaceFighting || 20
+|-
+| Equip || evilbird
+|-
+| tameskill || 10
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 10
+|-
+| dstart || 10
+|}
+

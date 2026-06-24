@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Sand Dragon =
+
+== Appearance ==
+[[File:Sand_Dragon.png|thumb|Sand Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x3b</code>
+|-
+| '''Color Code''' || 2107
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 800
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 800
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''EarthProtection''' || 120
+|-
+| '''FireProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2107
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 200
+|-
+| DEX || 240
+|-
+| Parry || 150
+|-
+| Tactics || 150
+|-
+| MaceFighting || 150
+|-
+| DetectingHidden || 130
+|-
+| Hiding || 130
+|-
+| Equip || sanddragon
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 140
+|-
+| lootgroup || 37
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 140
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 50
+|-
+| Magicitemlevel || 5
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|}
+

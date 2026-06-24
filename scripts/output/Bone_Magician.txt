@@ -1,0 +1,88 @@
+[[Category:NPCs]]
+
+= Bone Magician =
+
+== Appearance ==
+[[File:Bone_Magician.png|thumb|Bone Magician]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x38</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 95
+|-
+| DEX || 80
+|-
+| Tactics || 60
+|-
+| MaceFighting || 80
+|-
+| Magery || 95
+|-
+| cast_pct || 60
+|-
+| num_casts || 6
+|-
+| Equip || bonemage
+|-
+| lootgroup || 39
+|-
+| speech || 54
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|-
+| provoke || 55
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Lightning
+* Summonskel
+* Fireball
+* Paralyze
+* Magicarrow
+* Harm
+* Poison
+

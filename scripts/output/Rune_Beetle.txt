@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Rune Beetle =
+
+== Appearance ==
+[[File:Rune_Beetle.png|thumb|Rune Beetle]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>244</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''PhysicalProtection''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 95
+|-
+| DEX || 120
+|-
+| Tactics || 120
+|-
+| MaceFighting || 130
+|-
+| Equip || orcdefender
+|-
+| tameskill || 110
+|-
+| RunSpeed || 180
+|-
+| lootgroup || 60
+|-
+| speech || 6
+|-
+| provoke || 110
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 5
+|}
+

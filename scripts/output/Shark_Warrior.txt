@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Shark Warrior =
+
+== Appearance ==
+[[File:Shark_Warrior.png|thumb|Shark Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1209</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 310
+|-
+| '''BaseIntmod''' || 125
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 245
+|-
+| INT || 100
+|-
+| DEX || 145
+|-
+| Tactics || 120
+|-
+| MaceFighting || 130
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 68
+|-
+| provoke || 125
+|-
+| MagicItemChance || 72
+|-
+| MagicItemLevel || 6
+|}
+

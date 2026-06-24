@@ -1,0 +1,100 @@
+[[Category:NPCs]]
+
+= Evil Spellbook =
+
+== Appearance ==
+[[File:Evil_Spellbook.png|thumb|Evil Spellbook]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3d9</code>
+|-
+| '''Color Code''' || 0x486
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Animated
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 700
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''PermPoisonImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x486
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 200
+|-
+| DEX || 500
+|-
+| Swordsmanship || 90
+|-
+| Parry || 65
+|-
+| Tactics || 85
+|-
+| MaceFighting || 175
+|-
+| Magery || 150
+|-
+| Healing || 100
+|-
+| cast_pct || 80
+|-
+| num_casts || 30
+|-
+| Equip || evilspellbook
+|-
+| lootgroup || 102
+|-
+| speech || 35
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| provoke || 110
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Chainlightning
+* Fireball
+* Explosion
+* Masscurse
+* Meteorswarm
+* Summonskel
+* Summonskelarmy
+* Paralyze
+

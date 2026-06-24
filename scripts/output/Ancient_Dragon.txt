@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Ancient Dragon =
+
+== Appearance ==
+[[File:Ancient_Dragon.png|thumb|Ancient Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1124</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 155 Skill
+|-
+| '''Stealing Required''' || 155 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 480
+|-
+| '''BaseIntmod''' || 290
+|-
+| '''BaseDexmod''' || 175
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 360
+|-
+| INT || 230
+|-
+| DEX || 155
+|-
+| Tactics || 142
+|-
+| MaceFighting || 152
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 172
+|-
+| lootgroup || 95
+|-
+| provoke || 155
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|}
+

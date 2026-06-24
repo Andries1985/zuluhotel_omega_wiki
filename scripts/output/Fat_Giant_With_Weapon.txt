@@ -1,0 +1,57 @@
+[[Category:NPCs]]
+
+= Fat Giant With Weapon =
+
+== Appearance ==
+[[File:Fat_Giant_With_Weapon.png|thumb|Fat Giant With Weapon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>844</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 800
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 480
+|-
+| INT || 90
+|-
+| DEX || 100
+|-
+| Tactics || 140
+|-
+| MaceFighting || 150
+|-
+| Equip || giant
+|-
+| provoke || 130
+|-
+| dstart || 10
+|}
+

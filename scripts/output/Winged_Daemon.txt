@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Winged Daemon =
+
+== Appearance ==
+[[File:Winged_Daemon.png|thumb|Winged Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1236</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 330
+|-
+| '''BaseIntmod''' || 170
+|-
+| '''BaseDexmod''' || 170
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 255
+|-
+| INT || 135
+|-
+| DEX || 155
+|-
+| Tactics || 125
+|-
+| MaceFighting || 135
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 185
+|-
+| lootgroup || 75
+|-
+| provoke || 135
+|-
+| MagicItemChance || 78
+|-
+| MagicItemLevel || 7
+|}
+

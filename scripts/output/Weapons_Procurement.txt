@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Weapons Procurement =
+
+== Appearance ==
+[[File:Weapons_Procurement.png|thumb|Weapons Procurement]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Weaponsmith
+|-
+| '''Equipt''' || weaponsmith
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| guardignore || 1
+|-
+| Tactics || 100
+|-
+| Fencing || 100
+|-
+| Swordsmanship || 100
+|-
+| MaceFighting || 100
+|-
+| Parry || 100
+|-
+| healing || 100
+|-
+| anatomy || 100
+|-
+| Wrestling || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| Equip || weaponsalesman
+|-
+| AttackAttribute || MaceFighting
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

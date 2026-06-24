@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Storm Wolf =
+
+== Appearance ==
+[[File:Storm_Wolf.png|thumb|Storm Wolf]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>fastkillpcs</code>
+|-
+| '''Object Type''' || <code>277</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 300000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 1050
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 120
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 145
+|-
+| DEX || 250
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Magery || 150
+|-
+| Equip || triwolfs
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+

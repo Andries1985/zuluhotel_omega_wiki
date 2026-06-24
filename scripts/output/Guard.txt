@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Guard =
+
+== Appearance ==
+[[File:Guard.png|thumb|Guard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>menogguard</code>
+|-
+| '''Object Type''' || <code>0x03DF</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Equipt''' || castleguard2
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''guardkill''' || 1
+|-
+| '''BaseStrmod''' || 1000
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseDexmod''' || 1000
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Swordsmanship || 200
+|-
+| Tactics || 200
+|-
+| Equip || CastleGuard2
+|-
+| guardignore || 1
+|-
+| virtue || -10
+|-
+| dstart || 10
+|}
+

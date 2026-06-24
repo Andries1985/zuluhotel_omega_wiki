@@ -1,0 +1,98 @@
+[[Category:NPCs]]
+
+= Infernal Wisp =
+
+== Appearance ==
+[[File:Infernal_Wisp.png|thumb|Infernal Wisp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3a</code>
+|-
+| '''Color Code''' || 232
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 800
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseDexmod''' || 400
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''EarthProtection''' || 175
+|-
+| '''WaterProtection''' || 75
+|-
+| '''AirProtection''' || i-75
+|-
+| '''NecroProtection''' || 75
+|-
+| '''HolyProtection''' || i-75
+|-
+| '''PhysicalProtection''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 232
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 140
+|-
+| DEX || 175
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| Equip || blackwisp
+|-
+| cast_pct || 60
+|-
+| num_casts || 8
+|-
+| lootgroup || 102
+|-
+| speech || 7
+|-
+| provoke || 95
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Explosion
+* Abyssalflame
+* Fireball
+* Summon_Fire
+

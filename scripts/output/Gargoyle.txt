@@ -1,0 +1,90 @@
+[[Category:NPCs]]
+
+= Gargoyle =
+
+== Appearance ==
+[[File:Gargoyle.png|thumb|Gargoyle]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x4</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Gargoyle
+|-
+| '''BaseStrmod''' || 40
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 200
+|-
+| DEX || 70
+|-
+| Tactics || 80
+|-
+| MaceFighting || 135
+|-
+| Magery || 90
+|-
+| EvaluatingIntelligence || 65
+|-
+| cast_pct || 40
+|-
+| num_casts || 8
+|-
+| Equip || gargoyle
+|-
+| deathsnd || 0x179
+|-
+| lootgroup || 38
+|-
+| speech || 54
+|-
+| provoke || 80
+|-
+| magicitemchance || 20
+|-
+| Magicitemlevel || 2
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Lightning
+* Harm
+* Mindblast
+* Magicarrow
+* Fireball
+

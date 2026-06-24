@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Bird =
+
+== Appearance ==
+[[File:Bird.png|thumb|Bird]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0x06</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 5
+|-
+| '''BaseIntmod''' || 5
+|-
+| '''BaseDexmod''' || 5
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 1
+|-
+| INT || 1
+|-
+| DEX || 45
+|-
+| Parry || 5
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 10
+|-
+| Equip || bird
+|-
+| tameskill || 5
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 5
+|-
+| dstart || 10
+|}
+

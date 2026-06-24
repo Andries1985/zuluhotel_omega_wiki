@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Tiny Daemon =
+
+== Appearance ==
+[[File:Tiny_Daemon.png|thumb|Tiny Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1231</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 180
+|-
+| '''BaseIntmod''' || 140
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 110
+|-
+| DEX || 165
+|-
+| Tactics || 90
+|-
+| MaceFighting || 100
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 210
+|-
+| lootgroup || 45
+|-
+| provoke || 95
+|-
+| MagicItemChance || 55
+|-
+| MagicItemLevel || 4
+|}
+

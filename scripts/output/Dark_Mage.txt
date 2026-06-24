@@ -1,0 +1,123 @@
+[[Category:NPCs]]
+
+= Dark Mage =
+
+== Appearance ==
+[[File:Dark_Mage.png|thumb|Dark Mage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 500
+|-
+| '''mountspawn''' || llama
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''IsMage''' || 2
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || 50
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''BaseManaRegen''' || 1000
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 60
+|-
+| Macefighting || 75
+|-
+| Archery || 130
+|-
+| Hiding || 100
+|-
+| Magery || 150
+|-
+| Equip || drowarcher
+|-
+| lootgroup || 41
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 200
+|-
+| provoke || 120
+|-
+| mount || 0x3ea6 1109
+|-
+| MagicItemChance || 40
+|-
+| Magicitemlevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Abyssalflame
+* Ebolt
+* Sorcerersbane
+* Dispel
+* Masscurse
+* Calllightning
+* Risingfire
+* Blade_Spirit
+* Shiftingearth
+* Mindblast
+* Manavamp
+* Lightning
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Decayingray
+* Kill
+* Abyssalflame
+* Poison
+

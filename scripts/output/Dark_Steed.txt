@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Dark Steed =
+
+== Appearance ==
+[[File:Dark_Steed.png|thumb|Dark Steed]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x72</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 220
+|-
+| EvaluatingIntelligence || 100
+|-
+| Tactics || 130
+|-
+| MaceFighting || 175
+|-
+| Magery || 150
+|-
+| Equip || nightmare
+|-
+| lootgroup || 35
+|-
+| tameskill || 125
+|-
+| food || meat
+|-
+| provoke || 125
+|-
+| MagicItemChance || 35
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|}
+

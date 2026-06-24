@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Mongrel Dog =
+
+== Appearance ==
+[[File:Mongrel_Dog.png|thumb|Mongrel Dog]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xd9</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 99
+|-
+| INT || 99
+|-
+| DEX || 99
+|-
+| Parry || 65
+|-
+| Tactics || 100
+|-
+| MaceFighting || 90
+|-
+| Equip || troll_lord
+|-
+| deathsnd || 0x16A
+|-
+| tameskill || 115
+|-
+| food || meat
+|-
+| lootgroup || 40
+|-
+| virtue || 2
+|-
+| MagicItemChance || 10
+|-
+| provoke || 115
+|-
+| dstart || 10
+|}
+

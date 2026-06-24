@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Hildisvini =
+
+== Appearance ==
+[[File:Hildisvini.png|thumb|Hildisvini]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xcb</code>
+|-
+| '''Color Code''' || 448
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 448
+|-
+| Gender || 0
+|-
+| STR || 60
+|-
+| INT || 45
+|-
+| DEX || 80
+|-
+| Tactics || 60
+|-
+| MaceFighting || 65
+|-
+| Equip || hildisvini
+|-
+| tameskill || 35
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 35
+|-
+| dstart || 10
+|}
+

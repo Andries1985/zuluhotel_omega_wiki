@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Vulture =
+
+== Appearance ==
+[[File:Vulture.png|thumb|Vulture]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1157</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 68 Skill
+|-
+| '''Stealing Required''' || 68 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 110
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 110
+|-
+| INT || 50
+|-
+| DEX || 155
+|-
+| Tactics || 85
+|-
+| MaceFighting || 95
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 215
+|-
+| lootgroup || 28
+|-
+| provoke || 68
+|-
+| MagicItemChance || 35
+|-
+| MagicItemLevel || 3
+|}
+

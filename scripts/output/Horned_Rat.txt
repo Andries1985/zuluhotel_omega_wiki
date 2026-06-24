@@ -1,0 +1,135 @@
+[[Category:NPCs]]
+
+= Horned Rat =
+
+== Appearance ==
+[[File:Horned_Rat.png|thumb|Horned Rat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>370</code>
+|-
+| '''Color Code''' || 1947
+|-
+| '''CustomHitsLevel''' || 700000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Ratkin
+|-
+| '''BaseStrmod''' || 1100
+|-
+| '''BaseIntmod''' || 2000
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''Permmr''' || 5
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''PermPoisonImmunity''' || 7
+|-
+| '''PhysicalProtection''' || 1
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 85
+|-
+| '''WaterProtection''' || 85
+|-
+| '''AirProtection''' || 85
+|-
+| '''EarthProtection''' || 85
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1947
+|-
+| Gender || 0
+|-
+| STR || 275
+|-
+| INT || 475
+|-
+| DEX || 275
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 150
+|-
+| cast_pct || 100
+|-
+| num_casts || 40
+|-
+| Equip || balron1
+|-
+| virtue || 2
+|-
+| speech || 35
+|-
+| provoke || 150
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|-
+| MoveMode || AL
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Flamestrike
+* Meteorswarm
+* Ebolt
+* Teleport
+* Explosion
+* Manavamp
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+

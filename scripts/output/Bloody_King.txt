@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Bloody King =
+
+== Appearance ==
+[[File:Bloody_King.png|thumb|Bloody King]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1951</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 180
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 310
+|-
+| INT || 140
+|-
+| DEX || 145
+|-
+| Tactics || 140
+|-
+| MaceFighting || 150
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 88
+|-
+| provoke || 150
+|-
+| MagicItemChance || 88
+|-
+| MagicItemLevel || 8
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Mutant Wolf Daemon =
+
+== Appearance ==
+[[File:Mutant_Wolf_Daemon.png|thumb|Mutant Wolf Daemon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1238</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 290
+|-
+| '''BaseIntmod''' || 130
+|-
+| '''BaseDexmod''' || 175
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 225
+|-
+| INT || 105
+|-
+| DEX || 160
+|-
+| Tactics || 118
+|-
+| MaceFighting || 128
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 195
+|-
+| lootgroup || 65
+|-
+| provoke || 125
+|-
+| MagicItemChance || 70
+|-
+| MagicItemLevel || 6
+|}
+

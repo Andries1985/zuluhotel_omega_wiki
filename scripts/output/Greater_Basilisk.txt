@@ -1,0 +1,74 @@
+[[Category:NPCs]]
+
+= Greater Basilisk =
+
+== Appearance ==
+[[File:Greater_Basilisk.png|thumb|Greater Basilisk]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0xce</code>
+|-
+| '''Color Code''' || 1282
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 500
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 500
+|-
+| '''IsMage''' || 2
+|-
+| '''PermPoisonImmunity''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1282
+|-
+| Gender || 0
+|-
+| STR || 225
+|-
+| INT || 125
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 160
+|-
+| Magery || 125
+|-
+| Equip || drake1
+|-
+| tameskill || 125
+|-
+| provoke || 125
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| virtue || 2
+|}
+
+== Known Spells ==
+* Wraithbreath
+

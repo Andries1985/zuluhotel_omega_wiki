@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Elite Warrior =
+
+== Appearance ==
+[[File:Elite_Warrior.png|thumb|Elite Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x24</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 40
+|-
+| DEX || 93
+|-
+| Tactics || 80
+|-
+| Macefighting || 90
+|-
+| Equip || lizardman6
+|-
+| deathsnd || 0x1a6
+|-
+| lootgroup || 14
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

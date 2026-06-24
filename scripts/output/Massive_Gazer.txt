@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Massive Gazer =
+
+== Appearance ==
+[[File:Massive_Gazer.png|thumb|Massive Gazer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1274</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Beholder
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 280
+|-
+| '''BaseDexmod''' || 115
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 200
+|-
+| DEX || 115
+|-
+| Tactics || 120
+|-
+| MaceFighting || 130
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 150
+|-
+| lootgroup || 80
+|-
+| provoke || 140
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 7
+|}
+

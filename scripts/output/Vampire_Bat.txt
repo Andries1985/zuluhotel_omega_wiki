@@ -1,0 +1,78 @@
+[[Category:NPCs]]
+
+= Vampire Bat =
+
+== Appearance ==
+[[File:Vampire_Bat.png|thumb|Vampire Bat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>chaosspellkillpcs</code>
+|-
+| '''Object Type''' || <code>317</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 40
+|-
+| '''BaseIntmod''' || 80
+|-
+| '''BaseDexmod''' || 20
+|-
+| '''BaseManaRegen''' || 250
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 150
+|-
+| DEX || 70
+|-
+| Tactics || 90
+|-
+| MaceFighting || 90
+|-
+| Magery || 120
+|-
+| cast_pct || 50
+|-
+| num_casts || 22
+|-
+| Equip || bat
+|-
+| tameskill || 95
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 115
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Manadrain
+

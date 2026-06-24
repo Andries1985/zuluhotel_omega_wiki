@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Giant Black Widow =
+
+== Appearance ==
+[[File:Giant_Black_Widow.png|thumb|Giant Black Widow]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1143</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 280
+|-
+| '''BaseIntmod''' || 80
+|-
+| '''BaseDexmod''' || 290
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 50
+|-
+| DEX || 170
+|-
+| Tactics || 95
+|-
+| MaceFighting || 100
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Poison Drake =
+
+== Appearance ==
+[[File:Poison_Drake.png|thumb|Poison Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x3d</code>
+|-
+| '''Color Code''' || 264
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''PermPoisonImmunity''' || 6
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 264
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 80
+|-
+| DEX || 100
+|-
+| Parry || 70
+|-
+| Tactics || 100
+|-
+| MaceFighting || 120
+|-
+| DetectingHidden || 110
+|-
+| Equip || poisondrake
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 36
+|-
+| tameskill || 120
+|-
+| food || meat
+|-
+| virtue || 7
+|-
+| provoke || 120
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 4
+|-
+| RunSpeed || 175
+|-
+| dstart || 10
+|}
+

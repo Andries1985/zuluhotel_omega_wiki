@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Timber Wolf =
+
+== Appearance ==
+[[File:Timber_Wolf.png|thumb|Timber Wolf]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1760</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 82 Skill
+|-
+| '''Stealing Required''' || 82 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 160
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 135
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 50
+|-
+| DEX || 135
+|-
+| Tactics || 95
+|-
+| MaceFighting || 105
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 185
+|-
+| lootgroup || 35
+|-
+| provoke || 82
+|-
+| MagicItemChance || 40
+|-
+| MagicItemLevel || 3
+|}
+

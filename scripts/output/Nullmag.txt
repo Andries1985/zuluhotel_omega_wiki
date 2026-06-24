@@ -1,0 +1,109 @@
+[[Category:NPCs]]
+
+= Nullmag =
+
+== Appearance ==
+[[File:Nullmag.png|thumb|Nullmag]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x1f</code>
+|-
+| '''Color Code''' || 0x04b9
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 350
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''Permmr''' || 50
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 1000
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''FireProtection''' || 75
+|-
+| '''NecroProtection''' || 25
+|-
+| '''WaterProtection''' || 75
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || 75
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x04b9
+|-
+| Gender || 0
+|-
+| STR || 222
+|-
+| INT || 500
+|-
+| DEX || 130
+|-
+| Tactics || 125
+|-
+| MaceFighting || 175
+|-
+| Magery || 170
+|-
+| Hiding || 90
+|-
+| cast_pct || 60
+|-
+| num_casts || 20
+|-
+| Equip || ogrelord
+|-
+| lootgroup || 22
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|-
+| provoke || 110
+|-
+| saywords || 1
+|-
+| speech || 35
+|}
+
+== Known Spells ==
+* Massdispel
+* Masscurse
+* Flamestrike
+* Fireball
+* Risingfire
+* Abyssalflame
+* Wyvernstrike
+* Paralyze
+

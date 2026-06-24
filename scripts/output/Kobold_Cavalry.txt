@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Kobold Cavalry =
+
+== Appearance ==
+[[File:Kobold_Cavalry.png|thumb|Kobold Cavalry]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || 50
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''mountspawn''' || null
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 350
+|-
+| Tactics || 130
+|-
+| Archery || 130
+|-
+| Hiding || 100
+|-
+| Equip || koboldelitecavalry
+|-
+| lootgroup || 41
+|-
+| ammotype || 0xb200
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 150
+|-
+| provoke || 90
+|-
+| mount || 0x3ea5 1109
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|}
+

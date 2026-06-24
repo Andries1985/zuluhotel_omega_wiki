@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Yellow Fungal Giant =
+
+== Appearance ==
+[[File:Yellow_Fungal_Giant.png|thumb|Yellow Fungal Giant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1926</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Normal
+|-
+| '''Snooping Required''' || 114 Skill
+|-
+| '''Stealing Required''' || 114 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 318
+|-
+| '''BaseIntmod''' || 93
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 258
+|-
+| INT || 83
+|-
+| DEX || 110
+|-
+| Tactics || 114
+|-
+| MaceFighting || 124
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 152
+|-
+| lootgroup || 64
+|-
+| provoke || 114
+|-
+| MagicItemChance || 67
+|-
+| MagicItemLevel || 6
+|}
+

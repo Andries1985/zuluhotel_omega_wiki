@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Poisonmare =
+
+== Appearance ==
+[[File:Poisonmare.png|thumb|Poisonmare]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>poisonkillpcs</code>
+|-
+| '''Object Type''' || <code>0xc8</code>
+|-
+| '''Color Code''' || 1169
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 250
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''PermMagicImmunity''' || 5
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1169
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 150
+|-
+| EvaluatingIntelligence || 100
+|-
+| Tactics || 130
+|-
+| MaceFighting || 175
+|-
+| Magery || 150
+|-
+| Equip || poisondragon
+|-
+| lootgroup || 35
+|-
+| tameskill || 145
+|-
+| food || meat
+|-
+| provoke || 145
+|-
+| MagicItemChance || 55
+|-
+| MagicItemLevel || 5
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|}
+

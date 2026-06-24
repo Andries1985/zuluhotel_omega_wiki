@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Skeleton =
+
+== Appearance ==
+[[File:Skeleton.png|thumb|Skeleton]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x39</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 50 Skill
+|-
+| '''Stealing Required''' || 50 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 50
+|-
+| INT || 20
+|-
+| DEX || 60
+|-
+| Parry || 50
+|-
+| Swordsmanship || 55
+|-
+| Tactics || 60
+|-
+| MaceFighting || 50
+|-
+| Equip || skeleton3
+|-
+| lootgroup || 15
+|-
+| buddyText || "Emos hetairos"
+|-
+| leaderText || "Ego akoloutheou"
+|-
+| targetText || "Ego apokteinou"
+|-
+| dstart || 10
+|-
+| provoke || 50
+|}
+

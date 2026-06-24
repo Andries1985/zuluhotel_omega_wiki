@@ -1,0 +1,106 @@
+[[Category:NPCs]]
+
+= Earthmag =
+
+== Appearance ==
+[[File:Earthmag.png|thumb|Earthmag]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x1f</code>
+|-
+| '''Color Code''' || 1765
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 350
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''Permmr''' || 50
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 1000
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''AirProtection''' || i-50
+|-
+| '''FireProtection''' || 25
+|-
+| '''NecroProtection''' || 50
+|-
+| '''WaterProtection''' || 100
+|-
+| '''EarthProtection''' || 225
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1765
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 500
+|-
+| DEX || 130
+|-
+| Tactics || 125
+|-
+| MaceFighting || 175
+|-
+| Magery || 145
+|-
+| cast_pct || 60
+|-
+| num_casts || 20
+|-
+| Equip || ogre
+|-
+| lootgroup || 102
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| provoke || 110
+|-
+| saywords || 1
+|-
+| speech || 35
+|}
+
+== Known Spells ==
+* Summon_Earth
+* Massdispel
+* Masscurse
+* Summon_Earth
+* Flamestrike
+* Paralyze
+* Summon_Earth
+

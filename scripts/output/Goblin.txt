@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Goblin =
+
+== Appearance ==
+[[File:Goblin.png|thumb|Goblin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>949</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 80
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 50
+|-
+| DEX || 110
+|-
+| Tactics || 80
+|-
+| MaceFighting || 85
+|-
+| dstart || 10
+|}
+

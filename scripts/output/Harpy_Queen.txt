@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Harpy Queen =
+
+== Appearance ==
+[[File:Harpy_Queen.png|thumb|Harpy Queen]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1005</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 380
+|-
+| '''BaseIntmod''' || 220
+|-
+| '''BaseDexmod''' || 300
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 120
+|-
+| DEX || 180
+|-
+| Tactics || 110
+|-
+| MaceFighting || 110
+|-
+| dstart || 10
+|}
+

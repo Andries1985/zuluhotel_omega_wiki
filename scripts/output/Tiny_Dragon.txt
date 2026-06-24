@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Tiny Dragon =
+
+== Appearance ==
+[[File:Tiny_Dragon.png|thumb|Tiny Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1260</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Dragon
+|-
+| '''BaseStrmod''' || 240
+|-
+| '''BaseIntmod''' || 180
+|-
+| '''BaseDexmod''' || 190
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 180
+|-
+| INT || 140
+|-
+| DEX || 170
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 200
+|-
+| lootgroup || 55
+|-
+| provoke || 115
+|-
+| MagicItemChance || 65
+|-
+| MagicItemLevel || 5
+|}
+

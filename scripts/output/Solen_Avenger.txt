@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Solen Avenger =
+
+== Appearance ==
+[[File:Solen_Avenger.png|thumb|Solen Avenger]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>806</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Ophidian
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 40
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 25
+|-
+| DEX || 200
+|-
+| Parry || 70
+|-
+| Magery || 80
+|-
+| MaceFighting || 100
+|-
+| Tactics || 100
+|-
+| Equip || rockspider
+|-
+| lootgroup || 71
+|-
+| virtue || 3
+|-
+| provoke || 95
+|-
+| dstart || 10
+|-
+| MagicItemChance || 20
+|-
+| MagicItemLevel || 2
+|}
+

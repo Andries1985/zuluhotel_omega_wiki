@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Kobold General =
+
+== Appearance ==
+[[File:Kobold_General.png|thumb|Kobold General]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0X07</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 99 Skill
+|-
+| '''Stealing Required''' || 99 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 205
+|-
+| INT || 55
+|-
+| DEX || 155
+|-
+| Tactics || 105
+|-
+| MaceFighting || 155
+|-
+| Equip || koboldgeneral
+|-
+| lootgroup || 13
+|-
+| provoke || 99
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|}
+

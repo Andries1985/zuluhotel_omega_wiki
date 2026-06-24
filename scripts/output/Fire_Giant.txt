@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Fire Giant =
+
+== Appearance ==
+[[File:Fire_Giant.png|thumb|Fire Giant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1003</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 700
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 180
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 420
+|-
+| INT || 100
+|-
+| DEX || 110
+|-
+| Tactics || 130
+|-
+| MaceFighting || 140
+|-
+| provoke || 120
+|-
+| dstart || 10
+|}
+

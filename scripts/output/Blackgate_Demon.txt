@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Blackgate Demon =
+
+== Appearance ==
+[[File:Blackgate_Demon.png|thumb|Blackgate Demon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>852</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 360
+|-
+| '''BaseIntmod''' || 190
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 280
+|-
+| INT || 150
+|-
+| DEX || 135
+|-
+| Tactics || 130
+|-
+| MaceFighting || 140
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 170
+|-
+| lootgroup || 78
+|-
+| provoke || 135
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 7
+|}
+

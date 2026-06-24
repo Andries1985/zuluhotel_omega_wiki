@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Earth Elemental Lord =
+
+== Appearance ==
+[[File:Earth_Elemental_Lord.png|thumb|Earth Elemental Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x0e</code>
+|-
+| '''Color Code''' || 1538
+|-
+| '''Snooping Required''' || 100 Skill
+|-
+| '''Stealing Required''' || 100 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 250
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''AirProtection''' || i-100
+|-
+| '''EarthProtection''' || 200
+|-
+| '''WaterProtection''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1538
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 45
+|-
+| DEX || 100
+|-
+| Tactics || 150
+|-
+| MaceFighting || 175
+|-
+| Equip || earthelementallord
+|-
+| lootgroup || 74
+|-
+| provoke || 100
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 4
+|}
+

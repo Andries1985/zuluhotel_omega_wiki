@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Troll Archer =
+
+== Appearance ==
+[[File:Troll_Archer.png|thumb|Troll Archer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x36</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Troll
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 40
+|-
+| DEX || 95
+|-
+| Tactics || 95
+|-
+| MaceFighting || 100
+|-
+| Archery || 95
+|-
+| Equip || trollarcher2
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 35
+|-
+| lootgroup || 41
+|-
+| provoke || 85
+|-
+| dstart || 10
+|-
+| MagicItemChance || 20
+|-
+| MagicItemLevel || 2
+|}
+

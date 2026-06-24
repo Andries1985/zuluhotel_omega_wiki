@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Black Crystal Monster =
+
+== Appearance ==
+[[File:Black_Crystal_Monster.png|thumb|Black Crystal Monster]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>642</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 130 Skill
+|-
+| '''Stealing Required''' || 130 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 330
+|-
+| '''BaseIntmod''' || 160
+|-
+| '''BaseDexmod''' || 150
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 260
+|-
+| INT || 130
+|-
+| DEX || 135
+|-
+| Tactics || 125
+|-
+| MaceFighting || 135
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 170
+|-
+| lootgroup || 75
+|-
+| provoke || 130
+|-
+| MagicItemChance || 78
+|-
+| MagicItemLevel || 6
+|}
+

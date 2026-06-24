@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Black Orc Warboss =
+
+== Appearance ==
+[[File:Black_Orc_Warboss.png|thumb|Black Orc Warboss]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>363</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 120 Skill
+|-
+| '''Stealing Required''' || 120 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 450
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''PhysicalProtection''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 500
+|-
+| INT || 75
+|-
+| DEX || 180
+|-
+| Tactics || 130
+|-
+| MaceFighting || 140
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 200
+|-
+| lootgroup || 102
+|-
+| speech || 6
+|-
+| provoke || 120
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 5
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,75 @@
+[[Category:NPCs]]
+
+= Raptalon =
+
+== Appearance ==
+[[File:Raptalon.png|thumb|Raptalon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x114</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 220
+|-
+| Parry || 120
+|-
+| Tactics || 130
+|-
+| MaceFighting || 160
+|-
+| Equip || nightmare
+|-
+| lootgroup || 35
+|-
+| tameskill || 125
+|-
+| food || meat
+|-
+| provoke || 125
+|-
+| MagicItemChance || 35
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|}
+

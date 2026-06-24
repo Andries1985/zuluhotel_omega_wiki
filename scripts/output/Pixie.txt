@@ -1,0 +1,102 @@
+[[Category:NPCs]]
+
+= Pixie =
+
+== Appearance ==
+[[File:Pixie.png|thumb|Pixie]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>goodcaster</code>
+|-
+| '''Object Type''' || <code>264</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 10000
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 2
+|-
+| '''Permmr''' || 3
+|-
+| '''EarthProtection''' || 100
+|-
+| '''AirProtection''' || i-50
+|-
+| '''WaterProtection''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 125
+|-
+| INT || 200
+|-
+| DEX || 175
+|-
+| Parry || 80
+|-
+| Tactics || 100
+|-
+| Swordsmanship || 80
+|-
+| Magery || 120
+|-
+| Equip || wisp
+|-
+| virtue || -5
+|-
+| guardignore || 1
+|-
+| saywords || 1
+|-
+| speech || 7
+|-
+| provoke || 90
+|-
+| lootgroup || 125
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| Karma || 2000
+|}
+
+== Known Spells ==
+* Ebolt
+* Flamestrike
+* Lightning
+* Harm
+* Curse
+* Meteorswarm
+* Holybolt
+

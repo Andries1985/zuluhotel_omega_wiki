@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Highland Ostard =
+
+== Appearance ==
+[[File:Highland_Ostard.png|thumb|Highland Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xdb</code>
+|-
+| '''Color Code''' || 1325
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1325
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 25
+|-
+| DEX || 120
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || highlandostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 65
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 65
+|-
+| dstart || 10
+|}
+

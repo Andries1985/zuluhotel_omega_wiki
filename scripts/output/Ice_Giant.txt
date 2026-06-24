@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Ice Giant =
+
+== Appearance ==
+[[File:Ice_Giant.png|thumb|Ice Giant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1024</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 720
+|-
+| '''BaseIntmod''' || 160
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 430
+|-
+| INT || 90
+|-
+| DEX || 105
+|-
+| Tactics || 130
+|-
+| MaceFighting || 135
+|-
+| provoke || 120
+|-
+| dstart || 10
+|}
+

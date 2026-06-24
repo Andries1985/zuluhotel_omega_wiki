@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Terror Ostard =
+
+== Appearance ==
+[[File:Terror_Ostard.png|thumb|Terror Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>0xd2</code>
+|-
+| '''Color Code''' || 1280
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 130
+|-
+| '''BaseIntmod''' || 110
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1280
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 25
+|-
+| DEX || 150
+|-
+| Parry || 30
+|-
+| Tactics || 70
+|-
+| MaceFighting || 60
+|-
+| Equip || desertostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 65
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 65
+|-
+| dstart || 10
+|}
+

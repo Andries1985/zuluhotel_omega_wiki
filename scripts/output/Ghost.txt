@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Ghost =
+
+== Appearance ==
+[[File:Ghost.png|thumb|Ghost]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x3ca</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 76
+|-
+| DEX || 50
+|-
+| INT || 26
+|-
+| Fencing || 50
+|-
+| Parry || 50
+|-
+| Swordsmanship || 50
+|-
+| Macefighting || 50
+|-
+| Tactics || 50
+|-
+| Equip || ghost
+|-
+| deathsnd || 0x183
+|-
+| lootgroup || 47
+|-
+| magicitemchance || 1
+|-
+| dstart || 10
+|-
+| provoke || 60
+|}
+

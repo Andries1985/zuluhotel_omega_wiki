@@ -1,0 +1,130 @@
+[[Category:NPCs]]
+
+= Sir Tom The Hunchback =
+
+== Appearance ==
+[[File:Sir_Tom_The_Hunchback.png|thumb|Sir Tom The Hunchback]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>chaoskillpcs</code>
+|-
+| '''Object Type''' || <code>267</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1000000
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 2000
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 550
+|-
+| '''NecroProtection''' || 100
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''Boss''' || 1
+|-
+| '''FireProtection''' || 20
+|-
+| '''WaterProtection''' || 20
+|-
+| '''AirProtection''' || 20
+|-
+| '''EarthProtection''' || 20
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 700
+|-
+| DEX || 255
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| Equip || behemoth
+|-
+| saywords || 1
+|-
+| cast_pct || 30
+|-
+| num_casts || 22
+|-
+| lootgroup || 105
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| provoke || 150
+|-
+| Karma || -10000
+|-
+| Fame || 10000
+|}
+
+== Known Spells ==
+* Ebolt
+* Teleport
+* Teleport
+* Teleport
+* Teleport
+* Manavamp
+* Mindblast
+* Mindblast
+* Mindblast
+* Mindblast
+* Sorcerersbane
+* Wraithbreath
+* Wyvernstrike
+* Plague
+* Massgust
+* Masswyvern
+* Masskill
+* Masscalllightning
+* Massicestrike
+* Massshiftingearth
+* Massvatten
+

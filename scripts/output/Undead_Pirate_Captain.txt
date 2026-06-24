@@ -1,0 +1,86 @@
+[[Category:NPCs]]
+
+= Undead Pirate Captain =
+
+== Appearance ==
+[[File:Undead_Pirate_Captain.png|thumb|Undead Pirate Captain]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 200
+|-
+| DEX || 150
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Magery || 100
+|-
+| cast_pct || 50
+|-
+| num_casts || 4
+|-
+| Equip || undeadpirate2
+|-
+| lootgroup || 23
+|-
+| speech || 54
+|-
+| MagicItemChance || 10
+|-
+| MagicItemLevel || 1
+|-
+| dstart || 10
+|-
+| provoke || 95
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Fireball
+* Explosion
+

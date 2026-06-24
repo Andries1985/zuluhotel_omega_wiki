@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Black Orc Warrior =
+
+== Appearance ==
+[[File:Black_Orc_Warrior.png|thumb|Black Orc Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1842</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 118 Skill
+|-
+| '''Stealing Required''' || 118 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 360
+|-
+| '''BaseIntmod''' || 75
+|-
+| '''BaseDexmod''' || 145
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 290
+|-
+| INT || 75
+|-
+| DEX || 125
+|-
+| Tactics || 125
+|-
+| MaceFighting || 135
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 178
+|-
+| lootgroup || 68
+|-
+| speech || 7
+|-
+| provoke || 118
+|-
+| MagicItemChance || 78
+|-
+| MagicItemLevel || 5
+|}
+

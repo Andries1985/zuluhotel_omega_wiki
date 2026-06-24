@@ -1,0 +1,113 @@
+[[Category:NPCs]]
+
+= Ancient Wyrm =
+
+== Appearance ==
+[[File:Ancient_Wyrm.png|thumb|Ancient Wyrm]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>46</code>
+|-
+| '''Color Code''' || 1175
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''looter''' || 1
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 1050
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''Permmr''' || 6
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PermMagicImmunity''' || 7
+|-
+| '''FreeAction''' || 1
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''BaseManaRegen''' || 60000
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1175
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 190
+|-
+| Magery || 150
+|-
+| Parry || 120
+|-
+| DetectingHidden || 200
+|-
+| Equip || ancientwyrm
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 150
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+

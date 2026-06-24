@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Warrior =
+
+== Appearance ==
+[[File:Warrior.png|thumb|Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x24</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 105
+|-
+| INT || 40
+|-
+| DEX || 93
+|-
+| Tactics || 80
+|-
+| Macefighting || 85
+|-
+| Equip || lizardman5
+|-
+| deathsnd || 0x1a6
+|-
+| lootgroup || 11
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

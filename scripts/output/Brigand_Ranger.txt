@@ -1,0 +1,99 @@
+[[Category:NPCs]]
+
+= Brigand Ranger =
+
+== Appearance ==
+[[File:Brigand_Ranger.png|thumb|Brigand Ranger]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>explosionkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || 50
+|-
+| '''Permmr''' || 4
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''mountspawn''' || obsidianostard
+|-
+| '''IsRanger''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 60
+|-
+| Macefighting || 75
+|-
+| Archery || 120
+|-
+| Hiding || 100
+|-
+| Equip || mountedbrigandarcher
+|-
+| lootgroup || 41
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| ammoamount || 150
+|-
+| provoke || 55
+|-
+| mount || 0x3ea5 1109
+|-
+| MagicItemChance || 40
+|-
+| Magicitemlevel || 4
+|-
+| dstart || 10
+|-
+| equip || brigand1
+|}
+

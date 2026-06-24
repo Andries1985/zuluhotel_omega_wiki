@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Stone Gargoyle =
+
+== Appearance ==
+[[File:Stone_Gargoyle.png|thumb|Stone Gargoyle]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x4</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Gargoyle
+|-
+| '''BaseStrmod''' || 400
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 95
+|-
+| INT || 80
+|-
+| DEX || 70
+|-
+| Tactics || 100
+|-
+| MaceFighting || 135
+|-
+| Equip || stonegargoyle
+|-
+| deathsnd || 0x179
+|-
+| lootgroup || 40
+|-
+| provoke || 75
+|-
+| MagicItemChance || 15
+|-
+| MagicItemLevel || 2
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Armorer =
+
+== Appearance ==
+[[File:Armorer.png|thumb|Armorer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>merchant</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''MerchantType''' || Armorer
+|-
+| '''Equipt''' || armorer
+|-
+| '''Slayer Type''' || Human
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| guardignore || 1
+|-
+| tactics || 100
+|-
+| swordsmanship || 100
+|-
+| macefighting || 100
+|-
+| fencing || 100
+|-
+| wrestling || 100
+|-
+| Parry || 100
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| speech || 23
+|-
+| Equip || armorer
+|-
+| AttackAttribute || Wrestling
+|-
+| AttackSpeed || 80
+|-
+| AttackDamage || 5d100
+|-
+| dstart || 10
+|}
+

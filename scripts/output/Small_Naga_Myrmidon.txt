@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Small Naga Myrmidon =
+
+== Appearance ==
+[[File:Small_Naga_Myrmidon.png|thumb|Small Naga Myrmidon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1076</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 128 Skill
+|-
+| '''Stealing Required''' || 128 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 160
+|-
+| '''BaseDexmod''' || 165
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 235
+|-
+| INT || 130
+|-
+| DEX || 150
+|-
+| Tactics || 118
+|-
+| MaceFighting || 128
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 178
+|-
+| lootgroup || 70
+|-
+| provoke || 128
+|-
+| MagicItemChance || 72
+|-
+| MagicItemLevel || 6
+|}
+

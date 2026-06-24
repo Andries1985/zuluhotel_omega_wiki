@@ -1,0 +1,114 @@
+[[Category:NPCs]]
+
+= Spider Lord =
+
+== Appearance ==
+[[File:Spider_Lord.png|thumb|Spider Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spiderlord</code>
+|-
+| '''Object Type''' || <code>173</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 2800
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 6
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermPoisonImmunity''' || 10
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''SuperBoss''' || 1
+|-
+| '''IsThief''' || 6
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 80
+|-
+| DEX || 200
+|-
+| Parry || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| DetectingHidden || 200
+|-
+| Equip || poisondragon
+|-
+| deathsnd || 0x192
+|-
+| lootgroup || 106
+|-
+| food || meat
+|-
+| virtue || 7
+|-
+| provoke || 150
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+
+== Known Spells ==
+* Superspider
+

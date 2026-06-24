@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Smegol Fish =
+
+== Appearance ==
+[[File:Smegol_Fish.png|thumb|Smegol Fish]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1122</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 180
+|-
+| '''BaseIntmod''' || 70
+|-
+| '''BaseDexmod''' || 220
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 110
+|-
+| INT || 40
+|-
+| DEX || 130
+|-
+| Tactics || 80
+|-
+| MaceFighting || 85
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Holy Wisp =
+
+== Appearance ==
+[[File:Holy_Wisp.png|thumb|Holy Wisp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>goodcaster</code>
+|-
+| '''Object Type''' || <code>0x3a</code>
+|-
+| '''Color Code''' || 1153
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 325
+|-
+| '''BaseDexmod''' || 60
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''Permmr''' || 8
+|-
+| '''EarthProtection''' || 100
+|-
+| '''FireProtection''' || 125
+|-
+| '''HolyProtection''' || 250
+|-
+| '''NecroProtection''' || i-50
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1153
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 200
+|-
+| DEX || 175
+|-
+| Tactics || 110
+|-
+| Swordsmanship || 110
+|-
+| Magery || 150
+|-
+| EvaluatingIntelligence || 100
+|-
+| Equip || holywisp
+|-
+| virtue || -5
+|-
+| guardignore || 1
+|-
+| speech || 7
+|-
+| provoke || 100
+|-
+| magicitemchance || 45
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|-
+| saywords || 1
+|-
+| Karma || 2000
+|}
+
+== Known Spells ==
+* Holybolt
+* Wrathofgod
+* Divinefury
+* Astralstorm
+* Icestrike
+* Risingfire
+* Shiftingearth
+* Gustofair
+

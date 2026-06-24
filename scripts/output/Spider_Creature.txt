@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Spider Creature =
+
+== Appearance ==
+[[File:Spider_Creature.png|thumb|Spider Creature]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1077</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 88 Skill
+|-
+| '''Stealing Required''' || 88 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 160
+|-
+| '''BaseIntmod''' || 55
+|-
+| '''BaseDexmod''' || 135
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 55
+|-
+| DEX || 135
+|-
+| Tactics || 100
+|-
+| MaceFighting || 110
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 185
+|-
+| lootgroup || 38
+|-
+| provoke || 88
+|-
+| MagicItemChance || 48
+|-
+| MagicItemLevel || 4
+|}
+

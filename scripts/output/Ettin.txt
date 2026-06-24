@@ -1,0 +1,71 @@
+[[Category:NPCs]]
+
+= Ettin =
+
+== Appearance ==
+[[File:Ettin.png|thumb|Ettin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x12</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 5
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 5
+|-
+| DEX || 120
+|-
+| Parry || 60
+|-
+| Tactics || 70
+|-
+| MaceFighting || 80
+|-
+| Equip || ettin2
+|-
+| deathsnd || 0x174
+|-
+| lootgroup || 123
+|-
+| magicitemchance || 2
+|-
+| Magicitemlevel || 1
+|-
+| provoke || 80
+|-
+| dstart || 10
+|}
+

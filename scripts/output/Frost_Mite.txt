@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Frost Mite =
+
+== Appearance ==
+[[File:Frost_Mite.png|thumb|Frost Mite]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0x0590</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || horse2
+|-
+| deathsnd || 0xad
+|-
+| tameskill || 45
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 45
+|-
+| dstart || 10
+|}
+

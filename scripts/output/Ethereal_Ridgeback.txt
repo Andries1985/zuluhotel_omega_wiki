@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Ethereal Ridgeback =
+
+== Appearance ==
+[[File:Ethereal_Ridgeback.png|thumb|Ethereal Ridgeback]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xC1</code>
+|-
+| '''Color Code''' || 16385
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''BaseStrmod''' || 40
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 16385
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 125
+|-
+| DEX || 200
+|-
+| Parry || 80
+|-
+| Tactics || 100
+|-
+| MaceFighting || 140
+|-
+| Equip || frenziedostard
+|-
+| tameskill || 125
+|-
+| food || meat
+|-
+| provoke || 125
+|-
+| dstart || 10
+|}
+

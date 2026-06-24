@@ -1,0 +1,91 @@
+[[Category:NPCs]]
+
+= Undead Lizard =
+
+== Appearance ==
+[[File:Undead_Lizard.png|thumb|Undead Lizard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x21</code>
+|-
+| '''Color Code''' || 0x4631
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 130
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|-
+| '''PermMagicImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x4631
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 170
+|-
+| DEX || 75
+|-
+| Tactics || 70
+|-
+| Macefighting || 125
+|-
+| Magery || 90
+|-
+| Equip || deadlizard
+|-
+| deathsnd || 0x1a6
+|-
+| cast_pct || 42
+|-
+| num_casts || 8
+|-
+| lootgroup || 46
+|-
+| food || meat
+|-
+| speech || 35
+|-
+| magicitemchance || 45
+|-
+| MagicItemLevel || 3
+|-
+| dstart || 10
+|-
+| provoke || 85
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Magicarrow
+* Ebolt
+* Explosion
+* Fireball
+

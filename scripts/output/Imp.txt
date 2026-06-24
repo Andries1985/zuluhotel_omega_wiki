@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Imp =
+
+== Appearance ==
+[[File:Imp.png|thumb|Imp]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0x27</code>
+|-
+| '''Color Code''' || 0x23
+|-
+| '''Snooping Required''' || 65 Skill
+|-
+| '''Stealing Required''' || 65 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x23
+|-
+| Gender || 0
+|-
+| STR || 75
+|-
+| INT || 75
+|-
+| DEX || 50
+|-
+| Tactics || 70
+|-
+| MaceFighting || 50
+|-
+| Equip || imp
+|-
+| deathsnd || 0x1ab
+|-
+| tameskill || 90
+|-
+| lootgroup || 3
+|-
+| provoke || 65
+|-
+| dstart || 10
+|}
+

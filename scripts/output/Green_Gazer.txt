@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Green Gazer =
+
+== Appearance ==
+[[File:Green_Gazer.png|thumb|Green Gazer]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1227</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 118 Skill
+|-
+| '''Stealing Required''' || 118 Skill
+|-
+| '''Slayer Type''' || Beholder
+|-
+| '''BaseStrmod''' || 210
+|-
+| '''BaseIntmod''' || 240
+|-
+| '''BaseDexmod''' || 108
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 165
+|-
+| INT || 175
+|-
+| DEX || 108
+|-
+| Tactics || 98
+|-
+| MaceFighting || 108
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 158
+|-
+| lootgroup || 62
+|-
+| provoke || 118
+|-
+| MagicItemChance || 68
+|-
+| MagicItemLevel || 6
+|}
+

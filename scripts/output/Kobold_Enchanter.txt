@@ -1,0 +1,88 @@
+[[Category:NPCs]]
+
+= Kobold Enchanter =
+
+== Appearance ==
+[[File:Kobold_Enchanter.png|thumb|Kobold Enchanter]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x11</code>
+|-
+| '''Color Code''' || 466
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 466
+|-
+| Gender || 0
+|-
+| STR || 155
+|-
+| INT || 200
+|-
+| DEX || 80
+|-
+| EvaluatingIntelligence || 100
+|-
+| Magery || 100
+|-
+| cast_pct || 50
+|-
+| num_casts || 25
+|-
+| Equip || koboldenchanter
+|-
+| lootgroup || 31
+|-
+| speech || 6
+|-
+| provoke || 80
+|-
+| magicitemchance || 45
+|-
+| MagicItemLevel || 4
+|-
+| saywords || 1
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Harm
+* Fireball
+* Paralyze
+* Summon_Water
+* Chainlightning
+* Summonguardian
+

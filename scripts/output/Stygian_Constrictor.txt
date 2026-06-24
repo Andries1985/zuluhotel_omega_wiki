@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Stygian Constrictor =
+
+== Appearance ==
+[[File:Stygian_Constrictor.png|thumb|Stygian Constrictor]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x15</code>
+|-
+| '''Color Code''' || 1157
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 175
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1157
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| DEX || 100
+|-
+| INT || 75
+|-
+| Tactics || 90
+|-
+| Swordsmanship || 100
+|-
+| Poisoning || 90
+|-
+| Equip || stygianconstrictor
+|-
+| tameskill || 100
+|-
+| food || meat
+|-
+| provoke || 100
+|-
+| dstart || 10
+|}
+

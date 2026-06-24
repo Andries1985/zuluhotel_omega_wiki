@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Valkerie =
+
+== Appearance ==
+[[File:Valkerie.png|thumb|Valkerie]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x1e</code>
+|-
+| '''Color Code''' || 148
+|-
+| '''Snooping Required''' || 75 Skill
+|-
+| '''Stealing Required''' || 75 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 148
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 70
+|-
+| DEX || 80
+|-
+| Tactics || 90
+|-
+| MaceFighting || 95
+|-
+| Equip || valkerie
+|-
+| deathsnd || 0x197
+|-
+| lootgroup || 29
+|-
+| provoke || 75
+|-
+| dstart || 10
+|}
+

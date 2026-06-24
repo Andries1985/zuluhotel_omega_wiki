@@ -1,0 +1,61 @@
+[[Category:NPCs]]
+
+= Donator Ostard =
+
+== Appearance ==
+[[File:Donator_Ostard.png|thumb|Donator Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>barker</code>
+|-
+| '''Object Type''' || <code>0xdb //219</code>
+|-
+| '''Color Code''' || 1850
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1850
+|-
+| Gender || 0
+|-
+| STR || 900
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 40
+|-
+| Tactics || 50
+|-
+| MaceFighting || 60
+|-
+| Equip || forestostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 200
+|-
+| guardignore || 1
+|-
+| dstart || 10
+|}
+

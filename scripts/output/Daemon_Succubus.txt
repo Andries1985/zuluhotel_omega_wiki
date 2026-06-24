@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Daemon Succubus =
+
+== Appearance ==
+[[File:Daemon_Succubus.png|thumb|Daemon Succubus]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>524</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 280
+|-
+| '''BaseIntmod''' || 210
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 210
+|-
+| INT || 170
+|-
+| DEX || 145
+|-
+| Tactics || 110
+|-
+| MaceFighting || 120
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 180
+|-
+| lootgroup || 75
+|-
+| provoke || 135
+|-
+| MagicItemChance || 78
+|-
+| MagicItemLevel || 6
+|}
+

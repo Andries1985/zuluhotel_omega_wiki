@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Alligator =
+
+== Appearance ==
+[[File:Alligator.png|thumb|Alligator]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>849</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 160
+|-
+| '''BaseIntmod''' || 40
+|-
+| '''BaseDexmod''' || 90
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 40
+|-
+| DEX || 90
+|-
+| Tactics || 90
+|-
+| MaceFighting || 100
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 160
+|-
+| lootgroup || 30
+|-
+| provoke || 70
+|-
+| MagicItemChance || 40
+|-
+| MagicItemLevel || 3
+|}
+

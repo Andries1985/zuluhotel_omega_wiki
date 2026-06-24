@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Magma Golem =
+
+== Appearance ==
+[[File:Magma_Golem.png|thumb|Magma Golem]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1737</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 750
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 420
+|-
+| INT || 80
+|-
+| DEX || 95
+|-
+| Tactics || 125
+|-
+| MaceFighting || 135
+|-
+| dstart || 10
+|}
+

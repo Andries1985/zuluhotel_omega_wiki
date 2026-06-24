@@ -1,0 +1,63 @@
+[[Category:NPCs]]
+
+= Healer Of Amberyl =
+
+== Appearance ==
+[[File:Healer_Of_Amberyl.png|thumb|Healer Of Amberyl]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Good
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>daves_healer</code>
+|-
+| '''Object Type''' || <code>0x191</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''equipt''' || acleric
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 33784
+|-
+| Gender || 1
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 100
+|-
+| Magery || 200
+|-
+| Macefighting || 200
+|-
+| Privs || invul
+|-
+| Settings || invul
+|-
+| guardignore || 1
+|-
+| Equip || healer
+|-
+| dstart || 10
+|}
+

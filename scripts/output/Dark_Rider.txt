@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Dark Rider =
+
+== Appearance ==
+[[File:Dark_Rider.png|thumb|Dark Rider]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 600
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 300
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || 50
+|-
+| '''BaseHpRegen''' || 500
+|-
+| '''PermPoisonImmunity''' || 2
+|-
+| '''mountspawn''' || null
+|-
+| '''IsWarrior''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 100
+|-
+| DEX || 100
+|-
+| Tactics || 120
+|-
+| Fencing || 140
+|-
+| Parry || 150
+|-
+| Hiding || 100
+|-
+| Equip || bewitchedspear
+|-
+| lootgroup || 132
+|-
+| MagicItemChance || 40
+|-
+| Magicitemlevel || 5
+|-
+| dstart || 10
+|-
+| mount || 0x3e9f 1109
+|-
+| provoke || 105
+|}
+

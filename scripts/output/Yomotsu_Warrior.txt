@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Yomotsu Warrior =
+
+== Appearance ==
+[[File:Yomotsu_Warrior.png|thumb|Yomotsu Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>245</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 2
+|-
+| '''NecroProtection''' || 40
+|-
+| '''HolyProtection''' || 60
+|-
+| '''FireProtection''' || 75
+|-
+| '''WaterProtection''' || 50
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || 50
+|-
+| '''BaseHpRegen''' || 200
+|-
+| '''PermPoisonImmunity''' || 2
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 150
+|-
+| INT || 25
+|-
+| DEX || 150
+|-
+| Parry || 120
+|-
+| Tactics || 140
+|-
+| Swordsmanship || 140
+|-
+| Equip || skeletalwarrior
+|-
+| lootgroup || 60
+|-
+| provoke || 110
+|-
+| MagicItemChance || 80
+|-
+| MagicItemLevel || 4
+|}
+

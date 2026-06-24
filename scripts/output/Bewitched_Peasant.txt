@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Bewitched Peasant =
+
+== Appearance ==
+[[File:Bewitched_Peasant.png|thumb|Bewitched Peasant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 33784
+|-
+| '''Snooping Required''' || 55 Skill
+|-
+| '''Stealing Required''' || 55 Skill
+|-
+| '''rise''' || skeleton2
+|-
+| '''risedelay''' || 25
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| equip || cothes
+|-
+| TrueColor || 33784
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 50
+|-
+| DEX || 50
+|-
+| Tactics || 50
+|-
+| Swordsmanship || 75
+|-
+| Equip || bewitchedpeasant
+|-
+| lootgroup || 47
+|-
+| dstart || 10
+|-
+| provoke || 55
+|}
+

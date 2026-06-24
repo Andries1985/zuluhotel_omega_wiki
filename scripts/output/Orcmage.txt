@@ -1,0 +1,85 @@
+[[Category:NPCs]]
+
+= Orcmage =
+
+== Appearance ==
+[[File:Orcmage.png|thumb|Orcmage]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x11</code>
+|-
+| '''Color Code''' || 201
+|-
+| '''Snooping Required''' || 80 Skill
+|-
+| '''Stealing Required''' || 80 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 201
+|-
+| Gender || 0
+|-
+| STR || 115
+|-
+| INT || 100
+|-
+| DEX || 80
+|-
+| Tactics || 50
+|-
+| MaceFighting || 75
+|-
+| Magery || 100
+|-
+| Equip || orcmage
+|-
+| cast_pct || 40
+|-
+| num_casts || 8
+|-
+| lootgroup || 31
+|-
+| speech || 6
+|-
+| provoke || 80
+|-
+| magicitemchance || 45
+|-
+| MagicItemLevel || 2
+|-
+| saywords || 1
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Lightning
+* Harm
+* Poison
+* Magicarrow
+* Fireball
+* Paralyze
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Black Bear =
+
+== Appearance ==
+[[File:Black_Bear.png|thumb|Black Bear]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1851</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 205
+|-
+| '''BaseIntmod''' || 45
+|-
+| '''BaseDexmod''' || 118
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 205
+|-
+| INT || 45
+|-
+| DEX || 118
+|-
+| Tactics || 110
+|-
+| MaceFighting || 120
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 162
+|-
+| lootgroup || 45
+|-
+| provoke || 90
+|-
+| MagicItemChance || 44
+|-
+| MagicItemLevel || 4
+|}
+

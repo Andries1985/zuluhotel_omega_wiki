@@ -1,0 +1,93 @@
+[[Category:NPCs]]
+
+= Rock Dragon =
+
+== Appearance ==
+[[File:Rock_Dragon.png|thumb|Rock Dragon]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xc</code>
+|-
+| '''Color Code''' || 1765
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 140 Skill
+|-
+| '''Stealing Required''' || 140 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 700
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''FireProtection''' || 200
+|-
+| '''WaterProtection''' || 100
+|-
+| '''AirProtection''' || i-100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1765
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 50
+|-
+| Parry || 80
+|-
+| Tactics || 130
+|-
+| MaceFighting || 140
+|-
+| DetectingHidden || 130
+|-
+| Equip || rockdragon
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 140
+|-
+| lootgroup || 37
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 140
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 65
+|-
+| Magicitemlevel || 5
+|-
+| RunSpeed || 200
+|-
+| dstart || 10
+|}
+

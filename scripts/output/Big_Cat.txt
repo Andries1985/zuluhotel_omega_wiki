@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Big Cat =
+
+== Appearance ==
+[[File:Big_Cat.png|thumb|Big Cat]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1777</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 88 Skill
+|-
+| '''Stealing Required''' || 88 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 165
+|-
+| '''BaseIntmod''' || 55
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 165
+|-
+| INT || 55
+|-
+| DEX || 155
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 200
+|-
+| lootgroup || 38
+|-
+| provoke || 88
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|}
+

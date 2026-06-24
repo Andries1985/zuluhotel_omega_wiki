@@ -1,0 +1,124 @@
+[[Category:NPCs]]
+
+= Dragon King =
+
+== Appearance ==
+[[File:Dragon_King.png|thumb|Dragon King]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>dragonking</code>
+|-
+| '''Object Type''' || <code>377</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 1500000
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''looter''' || 1
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 3000
+|-
+| '''BaseDexmod''' || 250
+|-
+| '''BaseHpRegen''' || 1000
+|-
+| '''BaseManaRegen''' || 20000
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FreeAction''' || 1
+|-
+| '''Permmr''' || 6
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''PermMagicImmunity''' || 7
+|-
+| '''NecroProtection''' || 50
+|-
+| '''HolyProtection''' || 100
+|-
+| '''FireProtection''' || 120
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 40
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 1000
+|-
+| INT || 200
+|-
+| DEX || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Magery || 200
+|-
+| Parry || 200
+|-
+| DetectingHidden || 200
+|-
+| EvaluatingIntelligence || 200
+|-
+| Equip || dragonking
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 150
+|-
+| virtue || 8
+|-
+| provoke || 150
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 95
+|-
+| MagicItemLevel || 9
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|-
+| saywords || 0
+|}
+
+== Known Spells ==
+* Masseld
+

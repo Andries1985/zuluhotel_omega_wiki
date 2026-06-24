@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Bird Creature =
+
+== Appearance ==
+[[File:Bird_Creature.png|thumb|Bird Creature]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1014</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 120
+|-
+| '''BaseIntmod''' || 60
+|-
+| '''BaseDexmod''' || 160
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 60
+|-
+| DEX || 160
+|-
+| Tactics || 90
+|-
+| MaceFighting || 100
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 210
+|-
+| lootgroup || 30
+|-
+| provoke || 70
+|-
+| MagicItemChance || 35
+|-
+| MagicItemLevel || 3
+|}
+

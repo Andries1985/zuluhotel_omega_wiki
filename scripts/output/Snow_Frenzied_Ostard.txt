@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Snow Frenzied Ostard =
+
+== Appearance ==
+[[File:Snow_Frenzied_Ostard.png|thumb|Snow Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 1156
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1156
+|-
+| Gender || 0
+|-
+| STR || 225
+|-
+| INT || 125
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 160
+|-
+| Equip || snowfrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 105
+|-
+| food || meat
+|-
+| provoke || 105
+|-
+| dstart || 10
+|}
+

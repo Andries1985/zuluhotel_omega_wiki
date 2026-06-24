@@ -1,0 +1,59 @@
+[[Category:NPCs]]
+
+= Deathseeker Lord =
+
+== Appearance ==
+[[File:Deathseeker_Lord.png|thumb|Deathseeker Lord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>380</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 450
+|-
+| '''BaseDexmod''' || 350
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 320
+|-
+| INT || 190
+|-
+| DEX || 160
+|-
+| Tactics || 150
+|-
+| Swordsmanship || 150
+|-
+| Magery || 130
+|-
+| Equip || darkwarrior
+|-
+| provoke || 140
+|-
+| dstart || 10
+|}
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Grizzly Bear =
+
+== Appearance ==
+[[File:Grizzly_Bear.png|thumb|Grizzly Bear]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1766</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 95 Skill
+|-
+| '''Stealing Required''' || 95 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 220
+|-
+| '''BaseIntmod''' || 45
+|-
+| '''BaseDexmod''' || 110
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 220
+|-
+| INT || 45
+|-
+| DEX || 110
+|-
+| Tactics || 115
+|-
+| MaceFighting || 125
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 165
+|-
+| lootgroup || 48
+|-
+| provoke || 95
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|}
+

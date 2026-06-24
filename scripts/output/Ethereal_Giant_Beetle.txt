@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Ethereal Giant Beetle =
+
+== Appearance ==
+[[File:Ethereal_Giant_Beetle.png|thumb|Ethereal Giant Beetle]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xC3</code>
+|-
+| '''Color Code''' || 16385
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 16385
+|-
+| Gender || 0
+|-
+| STR || 230
+|-
+| INT || 130
+|-
+| DEX || 130
+|-
+| Parry || 65
+|-
+| Poisoning || 90
+|-
+| Tactics || 70
+|-
+| Swordsmanship || 85
+|-
+| Equip || orc3
+|-
+| deathsnd || 0x192
+|-
+| tameskill || 125
+|-
+| food || meat
+|-
+| provoke || 125
+|-
+| dstart || 10
+|}
+

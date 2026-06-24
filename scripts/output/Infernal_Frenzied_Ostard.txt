@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Infernal Frenzied Ostard =
+
+== Appearance ==
+[[File:Infernal_Frenzied_Ostard.png|thumb|Infernal Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 2077
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 50
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2077
+|-
+| Gender || 0
+|-
+| STR || 475
+|-
+| INT || 125
+|-
+| DEX || 200
+|-
+| Parry || 110
+|-
+| Tactics || 110
+|-
+| MaceFighting || 160
+|-
+| Equip || firefrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 145
+|-
+| food || meat
+|-
+| provoke || 145
+|-
+| dstart || 10
+|}
+

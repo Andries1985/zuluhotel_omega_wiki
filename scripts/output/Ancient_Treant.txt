@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Ancient Treant =
+
+== Appearance ==
+[[File:Ancient_Treant.png|thumb|Ancient Treant]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1346</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 850
+|-
+| '''BaseIntmod''' || 250
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 450
+|-
+| INT || 120
+|-
+| DEX || 110
+|-
+| Tactics || 140
+|-
+| MaceFighting || 145
+|-
+| dstart || 10
+|}
+

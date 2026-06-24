@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Typhoon Drake =
+
+== Appearance ==
+[[File:Typhoon_Drake.png|thumb|Typhoon Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1911</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 135 Skill
+|-
+| '''Stealing Required''' || 135 Skill
+|-
+| '''Slayer Type''' || Dragopnkin
+|-
+| '''BaseStrmod''' || 345
+|-
+| '''BaseIntmod''' || 185
+|-
+| '''BaseDexmod''' || 175
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 265
+|-
+| INT || 150
+|-
+| DEX || 162
+|-
+| Tactics || 128
+|-
+| MaceFighting || 138
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 188
+|-
+| lootgroup || 76
+|-
+| provoke || 135
+|-
+| MagicItemChance || 77
+|-
+| MagicItemLevel || 7
+|}
+

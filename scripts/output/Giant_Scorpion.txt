@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Giant Scorpion =
+
+== Appearance ==
+[[File:Giant_Scorpion.png|thumb|Giant Scorpion]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x30</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 25
+|-
+| DEX || 80
+|-
+| Parry || 65
+|-
+| Poisoning || 90
+|-
+| Tactics || 70
+|-
+| Swordsmanship || 85
+|-
+| Equip || scorp
+|-
+| deathsnd || 0x192
+|-
+| tameskill || 70
+|-
+| food || meat
+|-
+| provoke || 70
+|-
+| dstart || 10
+|}
+

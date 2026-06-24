@@ -1,0 +1,87 @@
+[[Category:NPCs]]
+
+= Sapling Of The Worldtree =
+
+== Appearance ==
+[[File:Sapling_Of_The_Worldtree.png|thumb|Sapling Of The Worldtree]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1816</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''CustomHitsLevel''' || 2500000
+|-
+| '''Snooping Required''' || 150 Skill
+|-
+| '''Stealing Required''' || 150 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 2050
+|-
+| '''BaseIntmod''' || 100
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''FreeAction''' || 1
+|-
+| '''PermPoisonImmunity''' || 8
+|-
+| '''BaseHpRegen''' || 2000
+|-
+| '''SuperBoss''' || 1
+|-
+| '''FireProtection''' || 40
+|-
+| '''WaterProtection''' || 40
+|-
+| '''AirProtection''' || 40
+|-
+| '''EarthProtection''' || 120
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 2000
+|-
+| INT || 450
+|-
+| DEX || 200
+|-
+| Tactics || 200
+|-
+| MaceFighting || 200
+|-
+| Equip || vrykol
+|-
+| lootgroup || 106
+|-
+| MagicItemChance || 90
+|-
+| MagicItemLevel || 9
+|-
+| provoke || 150
+|-
+| Karma || -15000
+|-
+| Fame || 15000
+|}
+

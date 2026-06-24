@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Kobold Elite Warrior =
+
+== Appearance ==
+[[File:Kobold_Elite_Warrior.png|thumb|Kobold Elite Warrior]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0X07</code>
+|-
+| '''Color Code''' || 2130
+|-
+| '''Snooping Required''' || 70 Skill
+|-
+| '''Stealing Required''' || 70 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 2130
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 25
+|-
+| DEX || 85
+|-
+| Swordsmanship || 125
+|-
+| Tactics || 105
+|-
+| Equip || koboldelite
+|-
+| lootgroup || 42
+|-
+| speech || 6
+|-
+| provoke || 70
+|-
+| dstart || 10
+|-
+| Magicitemchance || 6
+|-
+| Magicitemlevel || 3
+|}
+

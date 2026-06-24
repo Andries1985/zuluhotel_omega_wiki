@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Sheep =
+
+== Appearance ==
+[[File:Sheep.png|thumb|Sheep]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1755</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Slow
+|-
+| '''Snooping Required''' || 45 Skill
+|-
+| '''Stealing Required''' || 45 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 90
+|-
+| '''BaseIntmod''' || 35
+|-
+| '''BaseDexmod''' || 85
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 90
+|-
+| INT || 35
+|-
+| DEX || 85
+|-
+| Tactics || 70
+|-
+| MaceFighting || 75
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 130
+|-
+| lootgroup || 18
+|-
+| provoke || 45
+|-
+| MagicItemChance || 20
+|-
+| MagicItemLevel || 1
+|}
+

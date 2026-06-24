@@ -1,0 +1,77 @@
+[[Category:NPCs]]
+
+= Skeletal Assassin =
+
+== Appearance ==
+[[File:Skeletal_Assassin.png|thumb|Skeletal Assassin]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x32</code>
+|-
+| '''Color Code''' || 0x4631
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0x4631
+|-
+| Gender || 0
+|-
+| STR || 120
+|-
+| INT || 50
+|-
+| DEX || 115
+|-
+| Tactics || 60
+|-
+| Swordsmanship || 90
+|-
+| Hiding || 90
+|-
+| Stealth || 85
+|-
+| Equip || skeletalassassin
+|-
+| lootgroup || 1
+|-
+| buddyText || "Emos hetairos"
+|-
+| leaderText || "Ego akoloutheou"
+|-
+| targetText || "Ego apokteinou"
+|-
+| dstart || 10
+|-
+| provoke || 60
+|-
+| magicitemchance || 4
+|}
+

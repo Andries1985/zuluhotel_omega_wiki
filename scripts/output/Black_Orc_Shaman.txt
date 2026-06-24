@@ -1,0 +1,105 @@
+[[Category:NPCs]]
+
+= Black Orc Shaman =
+
+== Appearance ==
+[[File:Black_Orc_Shaman.png|thumb|Black Orc Shaman]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>379</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 1000
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''NecroProtection''' || 100
+|-
+| '''FireProtection''' || 50
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || 75
+|-
+| '''PhysicalProtection''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 250
+|-
+| DEX || 250
+|-
+| Tactics || 100
+|-
+| MaceFighting || 130
+|-
+| Magery || 150
+|-
+| Parry || 90
+|-
+| Equip || bloodliche
+|-
+| deathsnd || 0x16a
+|-
+| cast_pct || 60
+|-
+| num_casts || 20
+|-
+| Lootgroup || 35
+|-
+| Alignment || evil
+|-
+| virtue || 8
+|-
+| speech || 100
+|-
+| MagicItemChance || 75
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| provoke || 115
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Ebolt
+* Lightning
+* Chainlightning
+* Fireball
+* Explosion
+* Meteorswarm
+* Paralyze
+

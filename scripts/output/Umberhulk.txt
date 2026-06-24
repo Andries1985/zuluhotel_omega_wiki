@@ -1,0 +1,81 @@
+[[Category:NPCs]]
+
+= Umberhulk =
+
+== Appearance ==
+[[File:Umberhulk.png|thumb|Umberhulk]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>359</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Giantkin
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 150
+|-
+| '''WaterProtection''' || 50
+|-
+| '''EarthProtection''' || i-125
+|-
+| '''FireProtection''' || 125
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 65
+|-
+| DEX || 80
+|-
+| Tactics || 150
+|-
+| MaceFighting || 150
+|-
+| Parry || 150
+|-
+| Hiding || 150
+|-
+| Stealth || 150
+|-
+| Equip || ogrelord
+|-
+| lootgroup || 59
+|-
+| speech || 6
+|-
+| provoke || 115
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|}
+

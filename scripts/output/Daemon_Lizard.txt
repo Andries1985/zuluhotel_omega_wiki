@@ -1,0 +1,55 @@
+[[Category:NPCs]]
+
+= Daemon Lizard =
+
+== Appearance ==
+[[File:Daemon_Lizard.png|thumb|Daemon Lizard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1103</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 280
+|-
+| '''BaseIntmod''' || 120
+|-
+| '''BaseDexmod''' || 220
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 160
+|-
+| INT || 70
+|-
+| DEX || 140
+|-
+| Tactics || 100
+|-
+| MaceFighting || 105
+|-
+| provoke || 90
+|-
+| dstart || 10
+|}
+

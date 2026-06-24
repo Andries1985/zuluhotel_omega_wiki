@@ -1,0 +1,98 @@
+[[Category:NPCs]]
+
+= Ophidian Queen =
+
+== Appearance ==
+[[File:Ophidian_Queen.png|thumb|Ophidian Queen]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x57</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 105 Skill
+|-
+| '''Stealing Required''' || 105 Skill
+|-
+| '''Slayer Type''' || Ophidian
+|-
+| '''BaseStrmod''' || 150
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 5
+|-
+| '''PermPoisonImmunity''' || 4
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 200
+|-
+| DEX || 60
+|-
+| Parry || 60
+|-
+| Magery || 120
+|-
+| Swordsmanship || 70
+|-
+| Tactics || 50
+|-
+| MaceFighting || 100
+|-
+| Equip || ophidianqueen
+|-
+| cast_pct || 20
+|-
+| num_casts || 3
+|-
+| lootgroup || 37
+|-
+| virtue || 2
+|-
+| MagicItemChance || 40
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| provoke || 105
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Poison
+* Flamestrike
+* Ebolt
+* Lightning
+* Mindblast
+* Explosion
+* Meteorswarm
+* Chainlightning
+* Paralyze
+* Dispel
+* Masscurse
+

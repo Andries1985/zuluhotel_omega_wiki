@@ -1,0 +1,53 @@
+[[Category:NPCs]]
+
+= Black Orc =
+
+== Appearance ==
+[[File:Black_Orc.png|thumb|Black Orc]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1018</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Slayer Type''' || Orc
+|-
+| '''BaseStrmod''' || 350
+|-
+| '''BaseIntmod''' || 120
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 70
+|-
+| DEX || 120
+|-
+| Tactics || 110
+|-
+| MaceFighting || 115
+|-
+| dstart || 10
+|}
+

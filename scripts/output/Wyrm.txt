@@ -1,0 +1,93 @@
+[[Category:NPCs]]
+
+= Wyrm =
+
+== Appearance ==
+[[File:Wyrm.png|thumb|Wyrm]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>firebreather</code>
+|-
+| '''Object Type''' || <code>61</code>
+|-
+| '''Color Code''' || 1159
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 125 Skill
+|-
+| '''Stealing Required''' || 125 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 600
+|-
+| '''BaseIntmod''' || 200
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''AirProtection''' || 75
+|-
+| '''EarthProtection''' || 25
+|-
+| '''FireProtection''' || i-25
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1159
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 180
+|-
+| Parry || 100
+|-
+| Tactics || 110
+|-
+| MaceFighting || 150
+|-
+| DetectingHidden || 130
+|-
+| Equip || wyrm
+|-
+| deathsnd || 0x16f
+|-
+| tameskill || 125
+|-
+| lootgroup || 37
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 125
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 75
+|-
+| Magicitemlevel || 5
+|-
+| RunSpeed || 250
+|-
+| dstart || 10
+|}
+

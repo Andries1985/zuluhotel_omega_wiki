@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Stone Frenzied Ostard =
+
+== Appearance ==
+[[File:Stone_Frenzied_Ostard.png|thumb|Stone Frenzied Ostard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xda</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 100
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 160
+|-
+| DEX || 160
+|-
+| Parry || 100
+|-
+| Tactics || 120
+|-
+| MaceFighting || 160
+|-
+| Equip || stonefrenziedostard
+|-
+| deathsnd || 0xa3
+|-
+| tameskill || 95
+|-
+| food || meat
+|-
+| provoke || 95
+|-
+| dstart || 10
+|}
+

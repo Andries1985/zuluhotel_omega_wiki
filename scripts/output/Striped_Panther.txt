@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Striped Panther =
+
+== Appearance ==
+[[File:Striped_Panther.png|thumb|Striped Panther]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1098</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 92 Skill
+|-
+| '''Stealing Required''' || 92 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 175
+|-
+| '''BaseIntmod''' || 65
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 175
+|-
+| INT || 65
+|-
+| DEX || 155
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 205
+|-
+| lootgroup || 40
+|-
+| provoke || 92
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|}
+

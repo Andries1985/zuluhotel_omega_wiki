@@ -1,0 +1,65 @@
+[[Category:NPCs]]
+
+= Saint Bernard =
+
+== Appearance ==
+[[File:Saint_Bernard.png|thumb|Saint Bernard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x60D</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 70
+|-
+| INT || 25
+|-
+| DEX || 65
+|-
+| deathsnd || 0x8A
+|-
+| Tactics || 60
+|-
+| MaceFighting || 75
+|-
+| Equip || wardog
+|-
+| tameskill || 50
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 50
+|-
+| dstart || 10
+|}
+

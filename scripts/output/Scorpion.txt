@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Scorpion =
+
+== Appearance ==
+[[File:Scorpion.png|thumb|Scorpion]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1817</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 165
+|-
+| '''BaseIntmod''' || 50
+|-
+| '''BaseDexmod''' || 125
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 165
+|-
+| INT || 50
+|-
+| DEX || 125
+|-
+| Tactics || 98
+|-
+| MaceFighting || 108
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 175
+|-
+| lootgroup || 38
+|-
+| provoke || 85
+|-
+| MagicItemChance || 45
+|-
+| MagicItemLevel || 4
+|}
+

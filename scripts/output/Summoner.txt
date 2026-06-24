@@ -1,0 +1,92 @@
+[[Category:NPCs]]
+
+= Summoner =
+
+== Appearance ==
+[[File:Summoner.png|thumb|Summoner]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x190</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 400
+|-
+| '''BaseDexmod''' || 300
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 85
+|-
+| DEX || 200
+|-
+| Tactics || 150
+|-
+| MaceFighting || 150
+|-
+| Magery || 150
+|-
+| Archery || 140
+|-
+| cast_pct || 45
+|-
+| num_casts || 20
+|-
+| Equip || necromancer
+|-
+| ammotype || 0xf3f
+|-
+| missileweapon || 0x13B2
+|-
+| lootgroup || 57
+|-
+| speech || 35
+|-
+| provoke || 110
+|-
+| MagicItemChance || 50
+|-
+| MagicItemLevel || 4
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Earthspirit
+* Flamespirit
+* Waterspirit
+* Stormspirit
+* Blade_Spirit
+* Summon_Spirit
+* Vortex
+

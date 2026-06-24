@@ -1,0 +1,97 @@
+[[Category:NPCs]]
+
+= Sporelord =
+
+== Appearance ==
+[[File:Sporelord.png|thumb|Sporelord]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>1099</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 85 Skill
+|-
+| '''Stealing Required''' || 85 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 300
+|-
+| '''BaseIntmod''' || 150
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 3
+|-
+| '''EarthProtection''' || 125
+|-
+| '''AirProtection''' || i-50
+|-
+| '''WaterProtection''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 400
+|-
+| INT || 1000
+|-
+| DEX || 80
+|-
+| Tactics || 80
+|-
+| MaceFighting || 100
+|-
+| Magery || 130
+|-
+| cast_pct || 50
+|-
+| num_casts || 20
+|-
+| Equip || orcmastermage
+|-
+| lootgroup || 31
+|-
+| speech || 6
+|-
+| provoke || 85
+|-
+| magicitemchance || 65
+|-
+| MagicItemLevel || 6
+|-
+| saywords || 1
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Shiftingearth
+* Calllightning
+* Gustofair
+* Risingfire
+* Earthspirit
+* Stormspirit
+* Flamespirit
+* Waterspirit
+* Shiftingearth
+* Chainlightning
+

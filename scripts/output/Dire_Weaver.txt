@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Dire Weaver =
+
+== Appearance ==
+[[File:Dire_Weaver.png|thumb|Dire Weaver]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spiders</code>
+|-
+| '''Object Type''' || <code>0x1c</code>
+|-
+| '''Color Code''' || 1409
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 650
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''PermPoisonImmunity''' || 6
+|-
+| '''IsThief''' || 1
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1409
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 25
+|-
+| DEX || 100
+|-
+| Parry || 85
+|-
+| Poisoning || 70
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 135
+|-
+| Equip || direweaver
+|-
+| food || meat
+|-
+| dstart || 10
+|}
+

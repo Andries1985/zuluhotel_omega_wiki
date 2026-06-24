@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Rabid Rabbit =
+
+== Appearance ==
+[[File:Rabid_Rabbit.png|thumb|Rabid Rabbit]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0xCD</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 350
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 80
+|-
+| INT || 15
+|-
+| DEX || 200
+|-
+| Tactics || 70
+|-
+| Fencing || 75
+|-
+| Equip || rabidrabbit
+|-
+| deathsnd || 0xcc
+|-
+| tameskill || 55
+|-
+| food || meat
+|-
+| guardignore || 1
+|-
+| provoke || 55
+|-
+| dstart || 10
+|}
+

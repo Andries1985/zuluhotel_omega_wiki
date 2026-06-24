@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Silver Serpent =
+
+== Appearance ==
+[[File:Silver_Serpent.png|thumb|Silver Serpent]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>poisonkillpcs</code>
+|-
+| '''Object Type''' || <code>0x15</code>
+|-
+| '''Color Code''' || 1282
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 80
+|-
+| '''BaseIntmod''' || 80
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermPoisonImmunity''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1282
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| DEX || 100
+|-
+| INT || 75
+|-
+| Parry || 100
+|-
+| Tactics || 110
+|-
+| Swordsmanship || 130
+|-
+| Poisoning || 130
+|-
+| Equip || giantserpent
+|-
+| tameskill || 115
+|-
+| food || meat
+|-
+| provoke || 115
+|-
+| dstart || 10
+|}
+

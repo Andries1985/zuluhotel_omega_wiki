@@ -1,0 +1,60 @@
+[[Category:NPCs]]
+
+= Dark Wizard =
+
+== Appearance ==
+[[File:Dark_Wizard.png|thumb|Dark Wizard]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>507</code>
+|-
+| '''Color Code''' || 1109
+|-
+| '''Slayer Type''' || Human
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 600
+|-
+| '''BaseDexmod''' || 200
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1109
+|-
+| Gender || 0
+|-
+| STR || 130
+|-
+| INT || 230
+|-
+| DEX || 100
+|-
+| Magery || 160
+|-
+| Tactics || 80
+|-
+| Equip || mage
+|-
+| dstart || 10
+|}
+
+== Known Spells ==
+* Flamestrike
+* Lightning
+* Poison
+

@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Big Wolf =
+
+== Appearance ==
+[[File:Big_Wolf.png|thumb|Big Wolf]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1803</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 92 Skill
+|-
+| '''Stealing Required''' || 92 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 190
+|-
+| '''BaseIntmod''' || 55
+|-
+| '''BaseDexmod''' || 145
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 190
+|-
+| INT || 55
+|-
+| DEX || 145
+|-
+| Tactics || 110
+|-
+| MaceFighting || 120
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 195
+|-
+| lootgroup || 38
+|-
+| provoke || 92
+|-
+| MagicItemChance || 42
+|-
+| MagicItemLevel || 4
+|}
+

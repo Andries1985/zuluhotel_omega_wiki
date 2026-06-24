@@ -1,0 +1,109 @@
+[[Category:NPCs]]
+
+= Undead Llama =
+
+== Appearance ==
+[[File:Undead_Llama.png|thumb|Undead Llama]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>220</code>
+|-
+| '''Color Code''' || 1093
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Undead
+|-
+| '''BaseStrmod''' || 550
+|-
+| '''BaseIntmod''' || 500
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''PermMagicImmunity''' || 4
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''PermPoisonImmunity''' || 8
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1093
+|-
+| Gender || 0
+|-
+| STR || 100
+|-
+| INT || 200
+|-
+| DEX || 140
+|-
+| Parry || 80
+|-
+| Tactics || 110
+|-
+| MaceFighting || 130
+|-
+| Magery || 140
+|-
+| EvaluatingIntelligence || 140
+|-
+| DetectingHidden || 120
+|-
+| cast_pct || 40
+|-
+| num_casts || 5
+|-
+| Equip || dracoliche
+|-
+| deathsnd || 0x165
+|-
+| tameskill || 150
+|-
+| lootgroup || 103
+|-
+| food || meat
+|-
+| virtue || 8
+|-
+| provoke || 135
+|-
+| MoveMode || AL
+|-
+| magicitemchance || 95
+|-
+| Magicitemlevel || 5
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Kill
+* Abyssalflame
+* Ebolt
+* Plague
+* Sorcerersbane
+* Wyvernstrike
+* Decayingray
+* Spectretouch
+* Wraithbreath
+

@@ -1,0 +1,73 @@
+[[Category:NPCs]]
+
+= Corpser =
+
+== Appearance ==
+[[File:Corpser.png|thumb|Corpser]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>immobile</code>
+|-
+| '''Object Type''' || <code>0x8</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''Snooping Required''' || 60 Skill
+|-
+| '''Stealing Required''' || 60 Skill
+|-
+| '''Slayer Type''' || Plant
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''EarthProtection''' || 125
+|-
+| '''AirProtection''' || i-50
+|-
+| '''WaterProtection''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 140
+|-
+| INT || 35
+|-
+| DEX || 95
+|-
+| Parry || 20
+|-
+| Hiding || 75
+|-
+| Tactics || 90
+|-
+| Macefighting || 105
+|-
+| Equip || corpser
+|-
+| lootgroup || 34
+|-
+| dstart || 10
+|-
+| provoke || 60
+|}
+

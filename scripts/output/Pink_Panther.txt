@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Pink Panther =
+
+== Appearance ==
+[[File:Pink_Panther.png|thumb|Pink Panther]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>1834</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fastest
+|-
+| '''Snooping Required''' || 90 Skill
+|-
+| '''Stealing Required''' || 90 Skill
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 170
+|-
+| '''BaseIntmod''' || 60
+|-
+| '''BaseDexmod''' || 155
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 170
+|-
+| INT || 60
+|-
+| DEX || 155
+|-
+| Tactics || 105
+|-
+| MaceFighting || 115
+|-
+| Equip || orcdefender
+|-
+| RunSpeed || 200
+|-
+| lootgroup || 40
+|-
+| provoke || 90
+|-
+| MagicItemChance || 48
+|-
+| MagicItemLevel || 4
+|}
+

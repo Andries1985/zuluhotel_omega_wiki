@@ -1,0 +1,81 @@
+[[Category:NPCs]]
+
+= Stone Golem =
+
+== Appearance ==
+[[File:Stone_Golem.png|thumb|Stone Golem]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>111</code>
+|-
+| '''Color Code''' || 1157
+|-
+| '''Snooping Required''' || 110 Skill
+|-
+| '''Stealing Required''' || 110 Skill
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 30
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|-
+| '''NecroProtection''' || 25
+|-
+| '''HolyProtection''' || i-25
+|-
+| '''FireProtection''' || 25
+|-
+| '''EarthProtection''' || 75
+|-
+| '''AirProtection''' || i-25
+|-
+| '''WaterProtection''' || 25
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1157
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 100
+|-
+| DEX || 90
+|-
+| Parry || 120
+|-
+| Tactics || 100
+|-
+| MaceFighting || 100
+|-
+| Equip || earthelementallord
+|-
+| lootgroup || 21
+|-
+| dstart || 10
+|-
+| provoke || 110
+|-
+| MagicItemChance || 25
+|-
+| MagicItemLevel || 3
+|}
+

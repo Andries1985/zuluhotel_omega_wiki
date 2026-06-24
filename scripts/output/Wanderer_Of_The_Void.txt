@@ -1,0 +1,104 @@
+[[Category:NPCs]]
+
+= Wanderer Of The Void =
+
+== Appearance ==
+[[File:Wanderer_Of_The_Void.png|thumb|Wanderer Of The Void]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>316</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Daemon
+|-
+| '''BaseStrmod''' || 1350
+|-
+| '''BaseIntmod''' || 2000
+|-
+| '''BaseDexmod''' || 100
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''Permmr''' || 8
+|-
+| '''FireProtection''' || 125
+|-
+| '''NecroProtection''' || 100
+|-
+| '''HolyProtection''' || i-100
+|-
+| '''EarthProtection''' || 100
+|-
+| '''IsMage''' || 3
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 300
+|-
+| INT || 200
+|-
+| DEX || 150
+|-
+| Tactics || 120
+|-
+| Swordsmanship || 140
+|-
+| Magery || 150
+|-
+| EvaluatingIntelligence || 150
+|-
+| Equip || umbralflicker
+|-
+| speech || 7
+|-
+| lootgroup || 104
+|-
+| provoke || 120
+|-
+| magicitemchance || 85
+|-
+| MagicItemLevel || 7
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Flamestrike
+* Explosion
+* Calllightning
+* Gustofair
+* Icestrike
+* Shiftingearth
+* Risingfire
+* Kill
+* Abyssalflame
+* Plague
+* Sorcerersbane
+* Wyvernstrike
+* Dispel
+* Masscurse
+* Wraithbreath
+

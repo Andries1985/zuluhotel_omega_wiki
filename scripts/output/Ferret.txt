@@ -1,0 +1,69 @@
+[[Category:NPCs]]
+
+= Ferret =
+
+== Appearance ==
+[[File:Ferret.png|thumb|Ferret]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Neutral
+|-
+| '''Hostile''' || No
+|-
+| '''AI Script''' || <code>animal</code>
+|-
+| '''Object Type''' || <code>279</code>
+|-
+| '''Color Code''' || 0
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Animal
+|-
+| '''BaseStrmod''' || 10
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 10
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 0
+|-
+| Gender || 0
+|-
+| STR || 10
+|-
+| INT || 10
+|-
+| DEX || 60
+|-
+| Parry || 5
+|-
+| MaceFighting || 20
+|-
+| Tactics || 50
+|-
+| Equip || Rabbit
+|-
+| deathsnd || 0xCC
+|-
+| tameskill || 5
+|-
+| food || veggie
+|-
+| guardignore || 1
+|-
+| provoke || 5
+|-
+| dstart || 10
+|}
+

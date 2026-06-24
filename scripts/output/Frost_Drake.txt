@@ -1,0 +1,100 @@
+[[Category:NPCs]]
+
+= Frost Drake =
+
+== Appearance ==
+[[File:Frost_Drake.png|thumb|Frost Drake]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>spellkillpcs</code>
+|-
+| '''Object Type''' || <code>0x3d</code>
+|-
+| '''Color Code''' || 1154
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Snooping Required''' || 115 Skill
+|-
+| '''Stealing Required''' || 115 Skill
+|-
+| '''Slayer Type''' || Dragonkin
+|-
+| '''BaseStrmod''' || 200
+|-
+| '''BaseIntmod''' || 300
+|-
+| '''BaseDexmod''' || 200
+|-
+| '''EarthProtection''' || i-25
+|-
+| '''FireProtection''' || 25
+|-
+| '''WaterProtection''' || 75
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1154
+|-
+| Gender || 0
+|-
+| STR || 250
+|-
+| INT || 185
+|-
+| DEX || 90
+|-
+| Tactics || 100
+|-
+| MaceFighting || 120
+|-
+| Magery || 110
+|-
+| cast_pct || 40
+|-
+| num_casts || 3
+|-
+| Equip || frostdrake
+|-
+| deathsnd || 0x16f
+|-
+| lootgroup || 36
+|-
+| tameskill || 115
+|-
+| food || meat
+|-
+| virtue || 6
+|-
+| provoke || 115
+|-
+| MagicItemChance || 60
+|-
+| MagicItemLevel || 3
+|-
+| RunSpeed || 175
+|-
+| dstart || 10
+|-
+| saywords || 1
+|}
+
+== Known Spells ==
+* Chainlightning
+* Ebolt
+* Flamestrike
+* Meteorswarm
+* Lightning
+

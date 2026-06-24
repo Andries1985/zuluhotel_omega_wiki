@@ -1,0 +1,67 @@
+[[Category:NPCs]]
+
+= Mage Hunter =
+
+== Appearance ==
+[[File:Mage_Hunter.png|thumb|Mage Hunter]]
+
+----
+
+== General Information ==
+{| class="wikitable"
+! Property !! Details
+|-
+| '''Alignment''' || Evil
+|-
+| '''Hostile''' || Yes
+|-
+| '''AI Script''' || <code>killpcs</code>
+|-
+| '''Object Type''' || <code>0x23e</code>
+|-
+| '''Color Code''' || 1170
+|-
+| '''MoveSpeed''' || Fast
+|-
+| '''Slayer Type''' || Elemental
+|-
+| '''BaseStrmod''' || 100
+|-
+| '''BaseIntmod''' || 10
+|-
+| '''BaseDexmod''' || 50
+|-
+| '''PermPoisonImmunity''' || 5
+|-
+| '''PermMagicImmunity''' || 8
+|-
+| '''AttackTypeImmunities''' || 639
+|}
+
+== Attributes & Combat Skills ==
+{| class="wikitable"
+! Attribute/Skill !! Value
+|-
+| TrueColor || 1170
+|-
+| Gender || 0
+|-
+| STR || 200
+|-
+| INT || 15
+|-
+| DEX || 100
+|-
+| Poisoning || 100
+|-
+| Tactics || 130
+|-
+| MaceFighting || 150
+|-
+| DetectingHidden || 100
+|-
+| Equip || magehunter
+|-
+| dstart || 10
+|}
+
