@@ -1,128 +1,89 @@
 [[Category:NPCs]]
 [[Category:Human]]
 
-= Dark Mage =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Dark_Mage.png|thumb|Dark Mage]]
+  <div class="uo-card-canvas">
+    [[File:Dark_Mage.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Dark Mage</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Human|Human]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 1109
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Human
-|-
-| '''BaseStrmod''' || 500
-|-
-| '''BaseIntmod''' || 500
-|-
-| '''BaseDexmod''' || 500
-|-
-| '''mountspawn''' || llama
-|-
-| '''Snooping Required''' || 105 Skill
-|-
-| '''Stealing Required''' || 105 Skill
-|-
-| '''IsMage''' || 2
-|-
-| '''PermMagicImmunity''' || 3
-|-
-| '''NecroProtection''' || 50
-|-
-| '''HolyProtection''' || 50
-|-
-| '''BaseHpRegen''' || 500
-|-
-| '''PermPoisonImmunity''' || 3
-|-
-| '''BaseManaRegen''' || 1000
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Human|Human]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1109
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 100
-|-
-| DEX || 100
-|-
-| Tactics || 60
-|-
-| Macefighting || 75
-|-
-| Archery || 130
-|-
-| Hiding || 100
-|-
-| Magery || 150
-|-
-| Equip || drowarcher
-|-
-| lootgroup || 41
-|-
-| ammotype || 0xf3f
-|-
-| missileweapon || 0x13B2
-|-
-| ammoamount || 200
-|-
-| provoke || 120
-|-
-| mount || 0x3ea6 1109
-|-
-| MagicItemChance || 40
-|-
-| Magicitemlevel || 5
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">41</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">mountspawn</span><span class="uo-value">llama</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">105 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">105 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">IsMage</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseManaRegen</span><span class="uo-value">1000</span></div>
+  </div>
 
-== Known Spells ==
-* Flamestrike
-* Abyssalflame
-* Ebolt
-* Sorcerersbane
-* Dispel
-* Masscurse
-* Calllightning
-* Risingfire
-* Blade_Spirit
-* Shiftingearth
-* Mindblast
-* Manavamp
-* Lightning
-* Wraithbreath
-* Wyvernstrike
-* Plague
-* Decayingray
-* Kill
-* Abyssalflame
-* Poison
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hiding</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">drowarcher</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammotype</span><span class="uo-value">0xf3f</span></div>
+    <div class="uo-data-row"><span class="uo-label">missileweapon</span><span class="uo-value">0x13B2</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammoamount</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">mount</span><span class="uo-value">0x3ea6 1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Abyssalflame</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Sorcerersbane</span>
+    <span class="uo-spell-tag">Dispel</span>
+    <span class="uo-spell-tag">Masscurse</span>
+    <span class="uo-spell-tag">Calllightning</span>
+    <span class="uo-spell-tag">Risingfire</span>
+    <span class="uo-spell-tag">Blade_Spirit</span>
+    <span class="uo-spell-tag">Shiftingearth</span>
+    <span class="uo-spell-tag">Mindblast</span>
+    <span class="uo-spell-tag">Manavamp</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Wraithbreath</span>
+    <span class="uo-spell-tag">Wyvernstrike</span>
+    <span class="uo-spell-tag">Plague</span>
+    <span class="uo-spell-tag">Decayingray</span>
+    <span class="uo-spell-tag">Kill</span>
+    <span class="uo-spell-tag">Abyssalflame</span>
+    <span class="uo-spell-tag">Poison</span>
+  </div>
+
+</div>

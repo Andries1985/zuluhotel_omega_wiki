@@ -1,76 +1,51 @@
 [[Category:NPCs]]
 [[Category:Skeletons, Mummys, Zombies]]
 
-= Skeleton Protector =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Skeleton_Protector.png|thumb|Skeleton Protector]]
+  <div class="uo-card-canvas">
+    [[File:Skeleton_Protector.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Skeleton Protector</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Skeletons, Mummys, Zombies|Skeletons, Mummys, Zombies]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0x39</code>
-|-
-| '''Color Code''' || 1170
-|-
-| '''Snooping Required''' || 60 Skill
-|-
-| '''Stealing Required''' || 60 Skill
-|-
-| '''Slayer Type''' || Undead
-|-
-| '''BaseStrmod''' || 200
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 100
-|-
-| '''PermPoisonImmunity''' || 3
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Skeletons, Mummys, Zombies|Skeletons, Mummys, Zombies]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">57</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1170
-|-
-| Gender || 0
-|-
-| STR || 140
-|-
-| INT || 70
-|-
-| DEX || 110
-|-
-| Tactics || 130
-|-
-| Swordsmanship || 125
-|-
-| Parry || 60
-|-
-| Equip || troll6
-|-
-| lootgroup || 16
-|-
-| targetText || "Ego apokteinou"
-|-
-| MagicItemChance || 10
-|-
-| provoke || 60
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x39</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1170</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">16</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">60 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">60 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">3</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1170</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">troll6</span></div>
+    <div class="uo-data-row"><span class="uo-label">targetText</span><span class="uo-value">"Ego apokteinou"</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

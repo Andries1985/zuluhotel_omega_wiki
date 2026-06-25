@@ -1,103 +1,70 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Mountain Wisp =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Mountain_Wisp.png|thumb|Mountain Wisp]]
+  <div class="uo-card-canvas">
+    [[File:Mountain_Wisp.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Mountain Wisp</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Good
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>goodcaster</code>
-|-
-| '''Object Type''' || <code>0x3a</code>
-|-
-| '''Color Code''' || 0x0465
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 100
-|-
-| '''BaseIntmod''' || 300
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermPoisonImmunity''' || 6
-|-
-| '''Permmr''' || 8
-|-
-| '''EarthProtection''' || 100
-|-
-| '''WaterProtection''' || 50
-|-
-| '''AirProtection''' || i-50
-|-
-| '''PhysicalProtection''' || 5
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">58</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0x0465
-|-
-| Gender || 0
-|-
-| STR || 125
-|-
-| INT || 200
-|-
-| DEX || 175
-|-
-| Parry || 80
-|-
-| Tactics || 100
-|-
-| Swordsmanship || 80
-|-
-| Magery || 120
-|-
-| Equip || wisp
-|-
-| virtue || -5
-|-
-| guardignore || 1
-|-
-| speech || 7
-|-
-| provoke || 90
-|-
-| lootgroup || 125
-|-
-| magicitemchance || 45
-|-
-| MagicItemLevel || 3
-|-
-| saywords || 1
-|-
-| dstart || 10
-|-
-| Karma || 2000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>goodcaster</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x3a</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0x0465</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Permmr</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">i-50</span></div>
+    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">5</span></div>
+  </div>
 
-== Known Spells ==
-* Ebolt
-* Flamestrike
-* Lightning
-* Harm
-* Curse
-* Meteorswarm
-* Poison
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">0x0465</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">wisp</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">-5</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">7</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">2000</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Harm</span>
+    <span class="uo-spell-tag">Curse</span>
+    <span class="uo-spell-tag">Meteorswarm</span>
+    <span class="uo-spell-tag">Poison</span>
+  </div>
+
+</div>

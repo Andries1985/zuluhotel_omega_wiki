@@ -1,79 +1,54 @@
 [[Category:NPCs]]
 [[Category:Frenzied Ostards]]
 
-= Earth Frenzied Ostard =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Earth_Frenzied_Ostard.png|thumb|Earth Frenzied Ostard]]
+  <div class="uo-card-canvas">
+    [[File:Earth_Frenzied_Ostard.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Earth Frenzied Ostard</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Frenzied Ostards|Frenzied Ostards]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0xda</code>
-|-
-| '''Color Code''' || 1183
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''BaseStrmod''' || 260
-|-
-| '''BaseIntmod''' || 210
-|-
-| '''BaseDexmod''' || 200
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Frenzied Ostards|Frenzied Ostards]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">218</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1183
-|-
-| Gender || 0
-|-
-| STR || 225
-|-
-| INT || 125
-|-
-| DEX || 200
-|-
-| Parry || 110
-|-
-| Tactics || 110
-|-
-| MaceFighting || 160
-|-
-| Magery || 225
-|-
-| Equip || tropicalfrenziedostard
-|-
-| deathsnd || 0xa3
-|-
-| tameskill || 120
-|-
-| food || meat
-|-
-| provoke || 120
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xda</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1183</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">260</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">210</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+  </div>
 
-== Known Spells ==
-* Shiftingearth
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1183</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">225</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">225</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">tropicalfrenziedostard</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0xa3</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Shiftingearth</span>
+  </div>
+
+</div>

@@ -1,92 +1,63 @@
 [[Category:NPCs]]
 [[Category:Ophidians]]
 
-= Solen Shaman =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Solen_Shaman.png|thumb|Solen Shaman]]
+  <div class="uo-card-canvas">
+    [[File:Solen_Shaman.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Solen Shaman</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Ophidians|Ophidians]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>critterhealer</code>
-|-
-| '''Object Type''' || <code>807</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 95 Skill
-|-
-| '''Stealing Required''' || 95 Skill
-|-
-| '''Slayer Type''' || Ophidian
-|-
-| '''BaseStrmod''' || 100
-|-
-| '''BaseIntmod''' || 300
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermPoisonImmunity''' || 2
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Ophidians|Ophidians]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">807</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 150
-|-
-| INT || 150
-|-
-| DEX || 150
-|-
-| Parry || 90
-|-
-| Magery || 120
-|-
-| Tactics || 70
-|-
-| MaceFighting || 100
-|-
-| Equip || rockspider
-|-
-| cast_pct || 50
-|-
-| num_casts || 4
-|-
-| lootgroup || 69
-|-
-| MagicItemChance || 30
-|-
-| MagicItemLevel || 2
-|-
-| dstart || 10
-|-
-| provoke || 95
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>critterhealer</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>807</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">69</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Ophidian</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">2</span></div>
+  </div>
 
-== Known Spells ==
-* Summon_Fire
-* Lightning
-* Ebolt
-* Fireball
-* Explosion
-* Flamestrike
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">rockspider</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">30</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Summon_Fire</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Explosion</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+  </div>
+
+</div>

@@ -1,103 +1,68 @@
 [[Category:NPCs]]
 [[Category:Human]]
 
-= Snow Maiden =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Snow_Maiden.png|thumb|Snow Maiden]]
+  <div class="uo-card-canvas">
+    [[File:Snow_Maiden.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Snow Maiden</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Human|Human]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>stormkillpcs</code>
-|-
-| '''Object Type''' || <code>252</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Slayer Type''' || Human
-|-
-| '''BaseStrmod''' || 500
-|-
-| '''BaseIntmod''' || 800
-|-
-| '''BaseDexmod''' || 300
-|-
-| '''PermMagicImmunity''' || 4
-|-
-| '''NecroProtection''' || 25
-|-
-| '''FireProtection''' || 25
-|-
-| '''WaterProtection''' || 75
-|-
-| '''EarthProtection''' || 150
-|-
-| '''AirProtection''' || 200
-|-
-| '''HolyProtection''' || i-25
-|-
-| '''PermPoisonImmunity''' || 4
-|-
-| '''PhysicalProtection''' || 4
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Human|Human]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">252</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 200
-|-
-| DEX || 200
-|-
-| Tactics || 150
-|-
-| MaceFighting || 150
-|-
-| Magery || 150
-|-
-| Archery || 140
-|-
-| Equip || shadowlord
-|-
-| lootgroup || 102
-|-
-| speech || 35
-|-
-| provoke || 120
-|-
-| MagicItemChance || 85
-|-
-| MagicItemLevel || 6
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>stormkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>252</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">102</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">800</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-25</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">4</span></div>
+  </div>
 
-== Known Spells ==
-* Calllightning
-* Gustofair
-* Stormspirit
-* Ebolt
-* Mindblast
-* Manavamp
-* Lightning
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">shadowlord</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Calllightning</span>
+    <span class="uo-spell-tag">Gustofair</span>
+    <span class="uo-spell-tag">Stormspirit</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Mindblast</span>
+    <span class="uo-spell-tag">Manavamp</span>
+    <span class="uo-spell-tag">Lightning</span>
+  </div>
+
+</div>

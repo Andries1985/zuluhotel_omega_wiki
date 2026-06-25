@@ -1,121 +1,79 @@
 [[Category:NPCs]]
 [[Category:Vortex Beast Summons]]
 
-= Titan Warmaster =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Titan_Warmaster.png|thumb|Titan Warmaster]]
+  <div class="uo-card-canvas">
+    [[File:Titan_Warmaster.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Titan Warmaster</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Vortex Beast Summons|Vortex Beast Summons]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>stormkillpcs</code>
-|-
-| '''Object Type''' || <code>0x4c</code>
-|-
-| '''Color Code''' || 2159
-|-
-| '''CustomHitsLevel''' || 2000000
-|-
-| '''Snooping Required''' || 150 Skill
-|-
-| '''Stealing Required''' || 150 Skill
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Giantkin
-|-
-| '''BaseStrmod''' || 2050
-|-
-| '''BaseIntmod''' || 800
-|-
-| '''SuperBoss''' || 1
-|-
-| '''FreeAction''' || 1
-|-
-| '''PermMagicImmunity''' || 4
-|-
-| '''PermPoisonImmunity''' || 5
-|-
-| '''PhysicalProtection''' || 13
-|-
-| '''NecroProtection''' || 200
-|-
-| '''HolyProtection''' || 200
-|-
-| '''FireProtection''' || i-40
-|-
-| '''WaterProtection''' || 120
-|-
-| '''AirProtection''' || 40
-|-
-| '''EarthProtection''' || 120
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Vortex Beast Summons|Vortex Beast Summons]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">76</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 2159
-|-
-| Gender || 0
-|-
-| STR || 4000
-|-
-| INT || 300
-|-
-| DEX || 150
-|-
-| Tactics || 200
-|-
-| MaceFighting || 200
-|-
-| Magery || 150
-|-
-| Archery || 160
-|-
-| MagicResistance || 100
-|-
-| Equip || blueslaad
-|-
-| lootgroup || 106
-|-
-| speech || 35
-|-
-| provoke || 150
-|-
-| magicitemchance || 99
-|-
-| MagicItemLevel || 9
-|-
-| RunSpeed || 200
-|-
-| dstart || 10
-|-
-| saywords || 1
-|-
-| Karma || -15000
-|-
-| Fame || 15000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>stormkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x4c</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2159</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">106</span></div>
+    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">2000000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Giantkin</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">2050</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">800</span></div>
+    <div class="uo-data-row"><span class="uo-label">SuperBoss</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">FreeAction</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">13</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">i-40</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">120</span></div>
+  </div>
 
-== Known Spells ==
-* Wallofstone
-* Wallofstone
-* Wallofstone
-* Energy_Field
-* Parafield
-* Dispel_Field
-* Poisonfield
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">2159</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">4000</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicResistance</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">blueslaad</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">99</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">9</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Wallofstone</span>
+    <span class="uo-spell-tag">Wallofstone</span>
+    <span class="uo-spell-tag">Wallofstone</span>
+    <span class="uo-spell-tag">Energy_Field</span>
+    <span class="uo-spell-tag">Parafield</span>
+    <span class="uo-spell-tag">Dispel_Field</span>
+    <span class="uo-spell-tag">Poisonfield</span>
+  </div>
+
+</div>

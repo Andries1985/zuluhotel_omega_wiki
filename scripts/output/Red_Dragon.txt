@@ -1,62 +1,42 @@
 [[Category:NPCs]]
 [[Category:Dragons]]
 
-= Red Dragon =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Red_Dragon.png|thumb|Red Dragon]]
+  <div class="uo-card-canvas">
+    [[File:Red_Dragon.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Red Dragon</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Dragons|Dragons]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>firebreather</code>
-|-
-| '''Object Type''' || <code>1074</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Slayer Type''' || Dragon
-|-
-| '''BaseStrmod''' || 1200
-|-
-| '''BaseIntmod''' || 600
-|-
-| '''BaseDexmod''' || 400
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Dragons|Dragons]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1074</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 600
-|-
-| INT || 300
-|-
-| DEX || 200
-|-
-| Tactics || 150
-|-
-| MaceFighting || 160
-|-
-| Magery || 140
-|-
-| provoke || 150
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>firebreather</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>1074</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragon</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">1200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">600</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">400</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">600</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

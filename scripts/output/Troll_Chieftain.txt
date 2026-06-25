@@ -1,72 +1,49 @@
 [[Category:NPCs]]
 [[Category:Trolls]]
 
-= Troll Chieftain =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Troll_Chieftain.png|thumb|Troll Chieftain]]
+  <div class="uo-card-canvas">
+    [[File:Troll_Chieftain.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Troll Chieftain</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Trolls|Trolls]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0x35</code>
-|-
-| '''Color Code''' || 0x0465
-|-
-| '''Snooping Required''' || 95 Skill
-|-
-| '''Stealing Required''' || 95 Skill
-|-
-| '''Slayer Type''' || Troll
-|-
-| '''BaseStrmod''' || 275
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 150
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Trolls|Trolls]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">53</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0x0465
-|-
-| Gender || 0
-|-
-| STR || 175
-|-
-| INT || 80
-|-
-| DEX || 70
-|-
-| Tactics || 130
-|-
-| Swordsmanship || 130
-|-
-| Equip || trollking
-|-
-| lootgroup || 60
-|-
-| provoke || 95
-|-
-| dstart || 10
-|-
-| MagicItemChance || 30
-|-
-| MagicItemLevel || 3
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x35</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0x0465</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Troll</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">275</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">150</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">0x0465</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">trollking</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">30</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">3</span></div>
+  </div>
+
+</div>

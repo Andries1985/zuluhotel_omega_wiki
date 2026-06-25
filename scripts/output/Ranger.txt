@@ -1,94 +1,59 @@
 [[Category:NPCs]]
 [[Category:Settings					invul]]
 
-= Ranger =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Ranger.png|thumb|Ranger]]
+  <div class="uo-card-canvas">
+    [[File:Ranger.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Ranger</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Settings					invul|Settings					invul]]
-|-
-| '''Alignment''' || Good
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>merchant</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 33784
-|-
-| '''MerchantType''' || Bowyer
-|-
-| '''Equipt''' || Ranger
-|-
-| '''Slayer Type''' || Human
-|-
-| '''Snooping Required''' || 100 Skill
-|-
-| '''Stealing Required''' || 100 Skill
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Settings					invul|Settings					invul]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 33784
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 200
-|-
-| DEX || 200
-|-
-| animallore || 100
-|-
-| camping || 100
-|-
-| cooking || 100
-|-
-| fishing || 100
-|-
-| veterinary || 100
-|-
-| animaltaming || 100
-|-
-| archery || 100
-|-
-| tracking || 100
-|-
-| Privs || invul
-|-
-| Settings || invul
-|-
-| guardignore || 1
-|-
-| speech || 60
-|-
-| Equip || ranger
-|-
-| AttackAttribute || MaceFighting
-|-
-| AttackSpeed || 80
-|-
-| AttackDamage || 5d100
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>merchant</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
+    <div class="uo-data-row"><span class="uo-label">MerchantType</span><span class="uo-value">Bowyer</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Ranger</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">100 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">100 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">33784</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">animallore</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">camping</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">cooking</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">fishing</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">veterinary</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">animaltaming</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">archery</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">tracking</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Privs</span><span class="uo-value">invul</span></div>
+    <div class="uo-data-row"><span class="uo-label">Settings</span><span class="uo-value">invul</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">ranger</span></div>
+    <div class="uo-data-row"><span class="uo-label">AttackAttribute</span><span class="uo-value">MaceFighting</span></div>
+    <div class="uo-data-row"><span class="uo-label">AttackSpeed</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">AttackDamage</span><span class="uo-value">5d100</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

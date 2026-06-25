@@ -1,130 +1,84 @@
 [[Category:NPCs]]
 [[Category:Champion Boss's]]
 
-= Rikktor =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Rikktor.png|thumb|Rikktor]]
+  <div class="uo-card-canvas">
+    [[File:Rikktor.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Rikktor</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Champion Boss's|Champion Boss's]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>rikktor</code>
-|-
-| '''Object Type''' || <code>385</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''CustomHitsLevel''' || 6000000
-|-
-| '''MoveSpeed''' || Fastest
-|-
-| '''BaseStrmod''' || 3050
-|-
-| '''BaseIntmod''' || 4000
-|-
-| '''BaseDexmod''' || 250
-|-
-| '''BaseHpRegen''' || 500
-|-
-| '''BaseManaRegen''' || 500
-|-
-| '''PhysicalProtection''' || 16
-|-
-| '''AirProtection''' || 95
-|-
-| '''EarthProtection''' || 95
-|-
-| '''FireProtection''' || 95
-|-
-| '''WaterProtection''' || 70
-|-
-| '''NecroProtection''' || 95
-|-
-| '''HolyProtection''' || 95
-|-
-| '''FreeAction''' || 1
-|-
-| '''PermPoisonImmunity''' || 6
-|-
-| '''Champion''' || 2
-|-
-| '''event''' || 1
-|-
-| '''IsMage''' || 6
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Champion Boss's|Champion Boss's]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">385</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 110
-|-
-| INT || 100
-|-
-| DEX || 200
-|-
-| DetectingHidden || 1000
-|-
-| Tactics || 200
-|-
-| Parry || 200
-|-
-| Magery || 200
-|-
-| Macefighting || 200
-|-
-| EvaluatingIntelligence || 200
-|-
-| cast_pct || 100
-|-
-| num_casts || 40
-|-
-| Equip || dragonking
-|-
-| lootgroup || 151
-|-
-| magicitemchance || 99
-|-
-| Magicitemlevel || 10
-|-
-| virtue || 2
-|-
-| dstart || 10
-|-
-| saywords || 1
-|-
-| Karma || -15000
-|-
-| Fame || 15000
-|-
-| RunSpeed || 250
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>rikktor</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>385</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">151</span></div>
+    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">6000000</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fastest</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">3050</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">4000</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseManaRegen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">16</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">FreeAction</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Champion</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">event</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">IsMage</span><span class="uo-value">6</span></div>
+  </div>
 
-== Known Spells ==
-* Summondrag
-* Massvatten
-* Massgust
-* Masswyvern
-* Masskill
-* Masscalllightning
-* Massicestrike
-* Massshiftingearth
-* Massholybolt
-* Champfire
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">dragonking</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">99</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">250</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Summondrag</span>
+    <span class="uo-spell-tag">Massvatten</span>
+    <span class="uo-spell-tag">Massgust</span>
+    <span class="uo-spell-tag">Masswyvern</span>
+    <span class="uo-spell-tag">Masskill</span>
+    <span class="uo-spell-tag">Masscalllightning</span>
+    <span class="uo-spell-tag">Massicestrike</span>
+    <span class="uo-spell-tag">Massshiftingearth</span>
+    <span class="uo-spell-tag">Massholybolt</span>
+    <span class="uo-spell-tag">Champfire</span>
+  </div>
+
+</div>

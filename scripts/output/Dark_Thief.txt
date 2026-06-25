@@ -1,99 +1,66 @@
 [[Category:NPCs]]
 [[Category:Human]]
 
-= Dark Thief =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Dark_Thief.png|thumb|Dark Thief]]
+  <div class="uo-card-canvas">
+    [[File:Dark_Thief.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Dark Thief</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Human|Human]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 1109
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Human
-|-
-| '''Snooping Required''' || 105 Skill
-|-
-| '''Stealing Required''' || 105 Skill
-|-
-| '''BaseStrmod''' || 300
-|-
-| '''BaseIntmod''' || 300
-|-
-| '''BaseDexmod''' || 300
-|-
-| '''NecroProtection''' || 50
-|-
-| '''HolyProtection''' || 50
-|-
-| '''BaseHpRegen''' || 500
-|-
-| '''PermPoisonImmunity''' || 3
-|-
-| '''mountspawn''' || null
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Human|Human]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1109
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 50
-|-
-| DEX || 50
-|-
-| Tactics || 60
-|-
-| Macefighting || 75
-|-
-| Archery || 140
-|-
-| Hiding || 100
-|-
-| Magery || 110
-|-
-| Equip || poisonelemental
-|-
-| lootgroup || 36
-|-
-| provoke || 105
-|-
-| mount || 0x3e9f 1109
-|-
-| MagicItemChance || 40
-|-
-| Magicitemlevel || 4
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">36</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">105 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">105 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">mountspawn</span><span class="uo-value">null</span></div>
+  </div>
 
-== Known Spells ==
-* Poison
-* Wyvernstrike
-* Plague
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hiding</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">poisonelemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">mount</span><span class="uo-value">0x3e9f 1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Poison</span>
+    <span class="uo-spell-tag">Wyvernstrike</span>
+    <span class="uo-spell-tag">Plague</span>
+  </div>
+
+</div>

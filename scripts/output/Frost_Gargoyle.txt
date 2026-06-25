@@ -1,97 +1,66 @@
 [[Category:NPCs]]
 [[Category:Gargoyles]]
 
-= Frost Gargoyle =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Frost_Gargoyle.png|thumb|Frost Gargoyle]]
+  <div class="uo-card-canvas">
+    [[File:Frost_Gargoyle.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Frost Gargoyle</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Gargoyles|Gargoyles]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x4</code>
-|-
-| '''Color Code''' || 1154
-|-
-| '''Snooping Required''' || 80 Skill
-|-
-| '''Stealing Required''' || 80 Skill
-|-
-| '''Slayer Type''' || Gargoyle
-|-
-| '''BaseStrmod''' || 100
-|-
-| '''BaseIntmod''' || 200
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermMagicImmunity''' || 3
-|-
-| '''EarthProtection''' || i-25
-|-
-| '''FireProtection''' || 25
-|-
-| '''WaterProtection''' || 75
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Gargoyles|Gargoyles]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">4</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1154
-|-
-| Gender || 0
-|-
-| STR || 150
-|-
-| INT || 85
-|-
-| DEX || 85
-|-
-| Tactics || 120
-|-
-| MaceFighting || 135
-|-
-| Magery || 100
-|-
-| cast_pct || 25
-|-
-| num_casts || 6
-|-
-| Equip || frostgargoyle
-|-
-| deathsnd || 0x179
-|-
-| lootgroup || 38
-|-
-| speech || 54
-|-
-| provoke || 80
-|-
-| MagicItemChance || 25
-|-
-| MagicItemLevel || 2
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x4</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1154</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">38</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Gargoyle</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">i-25</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">75</span></div>
+  </div>
 
-== Known Spells ==
-* Paralyze
-* Lightning
-* Ebolt
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1154</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">135</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">frostgargoyle</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x179</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">54</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Paralyze</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Ebolt</span>
+  </div>
+
+</div>

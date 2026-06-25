@@ -1,72 +1,49 @@
 [[Category:NPCs]]
 [[Category:Animals]]
 
-= Silver Serpent =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Silver_Serpent.png|thumb|Silver Serpent]]
+  <div class="uo-card-canvas">
+    [[File:Silver_Serpent.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Silver Serpent</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Animals|Animals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>poisonkillpcs</code>
-|-
-| '''Object Type''' || <code>0x15</code>
-|-
-| '''Color Code''' || 1282
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''BaseStrmod''' || 80
-|-
-| '''BaseIntmod''' || 80
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermPoisonImmunity''' || 8
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Animals|Animals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">21</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1282
-|-
-| Gender || 0
-|-
-| STR || 250
-|-
-| DEX || 100
-|-
-| INT || 75
-|-
-| Parry || 100
-|-
-| Tactics || 110
-|-
-| Swordsmanship || 130
-|-
-| Poisoning || 130
-|-
-| Equip || giantserpent
-|-
-| tameskill || 115
-|-
-| food || meat
-|-
-| provoke || 115
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>poisonkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x15</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1282</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">115</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">8</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1282</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Poisoning</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">giantserpent</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">115</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

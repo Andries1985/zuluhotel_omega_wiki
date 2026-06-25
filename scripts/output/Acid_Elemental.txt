@@ -1,54 +1,40 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Acid Elemental =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Acid_Elemental.png|thumb|Acid Elemental]]
+  <div class="uo-card-canvas">
+    [[File:Acid_Elemental.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Acid Elemental</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>847</code>
-|-
-| '''Color Code''' || 1166
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''PermPoisonImmunity''' || 8
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">847</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1166
-|-
-| Gender || 0
-|-
-| STR || 300
-|-
-| INT || 150
-|-
-| DEX || 120
-|-
-| Tactics || 110
-|-
-| MaceFighting || 110
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>847</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1166</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">8</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1166</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

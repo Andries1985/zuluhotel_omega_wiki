@@ -1,76 +1,48 @@
 [[Category:NPCs]]
 [[Category:Slimes]]
 
-= Slime =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Slime.png|thumb|Slime]]
+  <div class="uo-card-canvas">
+    [[File:Slime.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Slime</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Slimes|Slimes]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>slime</code>
-|-
-| '''Object Type''' || <code>0x33</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 45 Skill
-|-
-| '''Stealing Required''' || 45 Skill
-|-
-| '''Slayer Type''' || Slime
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermPoisonImmunity''' || 6
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Slimes|Slimes]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">51</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 30
-|-
-| INT || 5
-|-
-| DEX || 40
-|-
-| Parry || 18
-|-
-| Poisoning || 40
-|-
-| Tactics || 50
-|-
-| Swordsmanship || 30
-|-
-| Equip || slime
-|-
-| tameskill || 20
-|-
-| lootgroup || 3
-|-
-| provoke || 20
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>slime</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x33</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">45 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">45 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Slime</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">6</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">30</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">18</span></div>
+    <div class="uo-data-row"><span class="uo-label">Poisoning</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">30</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">slime</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

@@ -1,81 +1,57 @@
 [[Category:NPCs]]
 [[Category:Daemon]]
 
-= Hellish Hound =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Hellish_Hound.png|thumb|Hellish Hound]]
+  <div class="uo-card-canvas">
+    [[File:Hellish_Hound.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Hellish Hound</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Daemon|Daemon]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0xe1</code>
-|-
-| '''Color Code''' || 232
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Daemon
-|-
-| '''BaseStrmod''' || 50
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 50
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Daemon|Daemon]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">225</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 232
-|-
-| Gender || 0
-|-
-| STR || 120
-|-
-| INT || 50
-|-
-| DEX || 135
-|-
-| Tactics || 100
-|-
-| MaceFighting || 110
-|-
-| Magery || 90
-|-
-| cast_pct || 35
-|-
-| num_casts || 6
-|-
-| Equip || hellhound
-|-
-| lootgroup || 61
-|-
-| tameskill || 95
-|-
-| food || meat
-|-
-| saywords || 1
-|-
-| provoke || 95
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xe1</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">232</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">61</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">50</span></div>
+  </div>
 
-== Known Spells ==
-* Fireball
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">232</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">135</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">hellhound</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Fireball</span>
+  </div>
+
+</div>

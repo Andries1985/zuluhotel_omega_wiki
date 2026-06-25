@@ -1,106 +1,72 @@
 [[Category:NPCs]]
 [[Category:Plants]]
 
-= Forest Lord =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Forest_Lord.png|thumb|Forest Lord]]
+  <div class="uo-card-canvas">
+    [[File:Forest_Lord.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Forest Lord</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Plants|Plants]]
-|-
-| '''Alignment''' || Good
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>123</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Snooping Required''' || 85 Skill
-|-
-| '''Stealing Required''' || 85 Skill
-|-
-| '''Slayer Type''' || Plant
-|-
-| '''BaseStrmod''' || 300
-|-
-| '''BaseIntmod''' || 150
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermMagicImmunity''' || 3
-|-
-| '''EarthProtection''' || 125
-|-
-| '''AirProtection''' || i-50
-|-
-| '''WaterProtection''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Plants|Plants]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">123</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 400
-|-
-| INT || 1000
-|-
-| DEX || 80
-|-
-| Tactics || 80
-|-
-| MaceFighting || 100
-|-
-| Magery || 130
-|-
-| cast_pct || 50
-|-
-| num_casts || 20
-|-
-| Equip || orcmastermage
-|-
-| lootgroup || 31
-|-
-| Karma || 2000
-|-
-| speech || 6
-|-
-| provoke || 85
-|-
-| magicitemchance || 65
-|-
-| MagicItemLevel || 6
-|-
-| saywords || 1
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>123</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">31</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">85 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">85 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Plant</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">i-50</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">10</span></div>
+  </div>
 
-== Known Spells ==
-* Shiftingearth
-* Calllightning
-* Gustofair
-* Risingfire
-* Earthspirit
-* Stormspirit
-* Flamespirit
-* Waterspirit
-* Shiftingearth
-* Chainlightning
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">400</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">orcmastermage</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">2000</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Shiftingearth</span>
+    <span class="uo-spell-tag">Calllightning</span>
+    <span class="uo-spell-tag">Gustofair</span>
+    <span class="uo-spell-tag">Risingfire</span>
+    <span class="uo-spell-tag">Earthspirit</span>
+    <span class="uo-spell-tag">Stormspirit</span>
+    <span class="uo-spell-tag">Flamespirit</span>
+    <span class="uo-spell-tag">Waterspirit</span>
+    <span class="uo-spell-tag">Shiftingearth</span>
+    <span class="uo-spell-tag">Chainlightning</span>
+  </div>
+
+</div>

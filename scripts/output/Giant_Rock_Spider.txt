@@ -1,70 +1,47 @@
 [[Category:NPCs]]
 [[Category:Animals]]
 
-= Giant Rock Spider =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Giant_Rock_Spider.png|thumb|Giant Rock Spider]]
+  <div class="uo-card-canvas">
+    [[File:Giant_Rock_Spider.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Giant Rock Spider</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Animals|Animals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>spiders</code>
-|-
-| '''Object Type''' || <code>0x1c</code>
-|-
-| '''Color Code''' || 1118
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''BaseStrmod''' || 100
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermPoisonImmunity''' || 3
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Animals|Animals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">28</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1118
-|-
-| Gender || 0
-|-
-| STR || 85
-|-
-| INT || 40
-|-
-| DEX || 100
-|-
-| Tactics || 100
-|-
-| MaceFighting || 110
-|-
-| Equip || rockspider
-|-
-| tameskill || 80
-|-
-| food || meat
-|-
-| provoke || 80
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spiders</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x1c</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1118</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">3</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1118</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">rockspider</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

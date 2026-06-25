@@ -1,68 +1,43 @@
 [[Category:NPCs]]
 [[Category:Hardcoded Client Mounts]]
 
-= War Boar =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:War_Boar.png|thumb|War Boar]]
+  <div class="uo-card-canvas">
+    [[File:War_Boar.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">War Boar</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0x5F6</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''BaseStrmod''' || 110
-|-
-| '''BaseIntmod''' || 110
-|-
-| '''BaseDexmod''' || 110
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1526</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 60
-|-
-| INT || 45
-|-
-| DEX || 80
-|-
-| Tactics || 160
-|-
-| MaceFighting || 165
-|-
-| Equip || hildisvini
-|-
-| tameskill || 85
-|-
-| food || meat
-|-
-| guardignore || 1
-|-
-| provoke || 85
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x5F6</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">110</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">165</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">hildisvini</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

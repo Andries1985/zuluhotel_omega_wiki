@@ -1,58 +1,40 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Ice Golem =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Ice_Golem.png|thumb|Ice Golem]]
+  <div class="uo-card-canvas">
+    [[File:Ice_Golem.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Ice Golem</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>1012</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 650
-|-
-| '''BaseIntmod''' || 120
-|-
-| '''BaseDexmod''' || 140
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1012</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 360
-|-
-| INT || 70
-|-
-| DEX || 85
-|-
-| Tactics || 110
-|-
-| MaceFighting || 120
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>1012</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">650</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">140</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">360</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

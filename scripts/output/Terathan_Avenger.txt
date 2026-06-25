@@ -1,80 +1,51 @@
 [[Category:NPCs]]
 [[Category:Terathan]]
 
-= Terathan Avenger =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Terathan_Avenger.png|thumb|Terathan Avenger]]
+  <div class="uo-card-canvas">
+    [[File:Terathan_Avenger.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Terathan Avenger</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Terathan|Terathan]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0x46</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 95 Skill
-|-
-| '''Stealing Required''' || 95 Skill
-|-
-| '''Slayer Type''' || Terathan
-|-
-| '''BaseStrmod''' || 275
-|-
-| '''BaseIntmod''' || 150
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Terathan|Terathan]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">70</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 150
-|-
-| INT || 100
-|-
-| DEX || 150
-|-
-| Magery || 80
-|-
-| MaceFighting || 95
-|-
-| Tactics || 100
-|-
-| Parry || 75
-|-
-| Equip || terathanavenger
-|-
-| lootgroup || 68
-|-
-| virtue || 3
-|-
-| speech || 6
-|-
-| provoke || 95
-|-
-| dstart || 10
-|-
-| MagicItemChance || 10
-|-
-| MagicItemLevel || 2
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x46</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">68</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Terathan</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">275</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">terathanavenger</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">2</span></div>
+  </div>
+
+</div>

@@ -1,105 +1,74 @@
 [[Category:NPCs]]
 [[Category:Animated]]
 
-= Evil Spellbook =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Evil_Spellbook.png|thumb|Evil Spellbook]]
+  <div class="uo-card-canvas">
+    [[File:Evil_Spellbook.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Evil Spellbook</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Animated|Animated]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x3d9</code>
-|-
-| '''Color Code''' || 0x486
-|-
-| '''Snooping Required''' || 110 Skill
-|-
-| '''Stealing Required''' || 110 Skill
-|-
-| '''Slayer Type''' || Animated
-|-
-| '''BaseStrmod''' || 250
-|-
-| '''BaseIntmod''' || 700
-|-
-| '''BaseDexmod''' || 100
-|-
-| '''PermMagicImmunity''' || 3
-|-
-| '''PermPoisonImmunity''' || 2
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Animated|Animated]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">985</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0x486
-|-
-| Gender || 0
-|-
-| STR || 250
-|-
-| INT || 200
-|-
-| DEX || 500
-|-
-| Swordsmanship || 90
-|-
-| Parry || 65
-|-
-| Tactics || 85
-|-
-| MaceFighting || 175
-|-
-| Magery || 150
-|-
-| Healing || 100
-|-
-| cast_pct || 80
-|-
-| num_casts || 30
-|-
-| Equip || evilspellbook
-|-
-| lootgroup || 102
-|-
-| speech || 35
-|-
-| MagicItemChance || 80
-|-
-| MagicItemLevel || 5
-|-
-| dstart || 10
-|-
-| provoke || 110
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x3d9</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0x486</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">102</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">110 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">110 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animated</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">700</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">2</span></div>
+  </div>
 
-== Known Spells ==
-* Flamestrike
-* Ebolt
-* Lightning
-* Chainlightning
-* Fireball
-* Explosion
-* Masscurse
-* Meteorswarm
-* Summonskel
-* Summonskelarmy
-* Paralyze
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">0x486</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Healing</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">30</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">evilspellbook</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Chainlightning</span>
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Explosion</span>
+    <span class="uo-spell-tag">Masscurse</span>
+    <span class="uo-spell-tag">Meteorswarm</span>
+    <span class="uo-spell-tag">Summonskel</span>
+    <span class="uo-spell-tag">Summonskelarmy</span>
+    <span class="uo-spell-tag">Paralyze</span>
+  </div>
+
+</div>

@@ -1,70 +1,46 @@
 [[Category:NPCs]]
 [[Category:Hardcoded Client Mounts]]
 
-= Ethereal Ridgeback =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Ethereal_Ridgeback.png|thumb|Ethereal Ridgeback]]
+  <div class="uo-card-canvas">
+    [[File:Ethereal_Ridgeback.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Ethereal Ridgeback</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0xC1</code>
-|-
-| '''Color Code''' || 16385
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''BaseStrmod''' || 40
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 100
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">193</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 16385
-|-
-| Gender || 0
-|-
-| STR || 175
-|-
-| INT || 125
-|-
-| DEX || 200
-|-
-| Parry || 80
-|-
-| Tactics || 100
-|-
-| MaceFighting || 140
-|-
-| Equip || frenziedostard
-|-
-| tameskill || 125
-|-
-| food || meat
-|-
-| provoke || 125
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xC1</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">16385</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">16385</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">frenziedostard</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

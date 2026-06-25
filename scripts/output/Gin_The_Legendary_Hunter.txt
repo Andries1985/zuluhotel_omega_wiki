@@ -1,118 +1,72 @@
 [[Category:NPCs]]
 [[Category:Human Boss's]]
 
-= Gin The Legendary Hunter =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Gin_The_Legendary_Hunter.png|thumb|Gin The Legendary Hunter]]
+  <div class="uo-card-canvas">
+    [[File:Gin_The_Legendary_Hunter.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Gin The Legendary Hunter</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Human Boss's|Human Boss's]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>legendaryhunter</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 1157
-|-
-| '''CustomHitsLevel''' || 1500000
-|-
-| '''MoveSpeed''' || Fastest
-|-
-| '''Snooping Required''' || 150 Skill
-|-
-| '''Stealing Required''' || 150 Skill
-|-
-| '''Slayer Type''' || Human
-|-
-| '''IsRanger''' || 3
-|-
-| '''SuperBoss''' || 1
-|-
-| '''BaseStrmod''' || 1300
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 150
-|-
-| '''FreeAction''' || 1
-|-
-| '''PhysicalProtection''' || 5
-|-
-| '''PermMagicImmunity''' || 3
-|-
-| '''Permmr''' || 2
-|-
-| '''PermPoisonImmunity''' || 8
-|-
-| '''NecroProtection''' || 150
-|-
-| '''HolyProtection''' || i-100
-|-
-| '''FireProtection''' || 40
-|-
-| '''WaterProtection''' || 40
-|-
-| '''AirProtection''' || 40
-|-
-| '''EarthProtection''' || 40
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Human Boss's|Human Boss's]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1157
-|-
-| Gender || 0
-|-
-| STR || 1000
-|-
-| INT || 200
-|-
-| DEX || 400
-|-
-| Tactics || 100
-|-
-| Archery || 150
-|-
-| Hiding || 150
-|-
-| DetectingHidden || 200
-|-
-| Equip || legendaryhunter
-|-
-| lootgroup || 106
-|-
-| MagicItemChance || 80
-|-
-| MagicItemLevel || 9
-|-
-| RunSpeed || 250
-|-
-| dstart || 10
-|-
-| provoke || 150
-|-
-| ammotype || 0xEED
-|-
-| missileweapon || 0x9a1a
-|-
-| ammoamount || 3000
-|-
-| Karma || -15000
-|-
-| Fame || 15000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>legendaryhunter</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1157</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">106</span></div>
+    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">1500000</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fastest</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">IsRanger</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">SuperBoss</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">1300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">FreeAction</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">Permmr</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-100</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">40</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1157</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">400</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hiding</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">legendaryhunter</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">9</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammotype</span><span class="uo-value">0xEED</span></div>
+    <div class="uo-data-row"><span class="uo-label">missileweapon</span><span class="uo-value">0x9a1a</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammoamount</span><span class="uo-value">3000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
+  </div>
+
+</div>

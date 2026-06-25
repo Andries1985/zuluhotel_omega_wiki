@@ -1,74 +1,48 @@
 [[Category:NPCs]]
 [[Category:Animals]]
 
-= Large Gazer =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Large_Gazer.png|thumb|Large Gazer]]
+  <div class="uo-card-canvas">
+    [[File:Large_Gazer.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Large Gazer</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Animals|Animals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>1104</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Snooping Required''' || 105 Skill
-|-
-| '''Stealing Required''' || 105 Skill
-|-
-| '''Slayer Type''' || Beholder
-|-
-| '''BaseStrmod''' || 180
-|-
-| '''BaseIntmod''' || 120
-|-
-| '''BaseDexmod''' || 110
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Animals|Animals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1104</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 180
-|-
-| INT || 120
-|-
-| DEX || 110
-|-
-| Tactics || 95
-|-
-| MaceFighting || 105
-|-
-| Equip || orcdefender
-|-
-| RunSpeed || 160
-|-
-| lootgroup || 55
-|-
-| provoke || 105
-|-
-| MagicItemChance || 60
-|-
-| MagicItemLevel || 5
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>1104</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">55</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">105 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">105 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Beholder</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">110</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">orcdefender</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">5</span></div>
+  </div>
+
+</div>

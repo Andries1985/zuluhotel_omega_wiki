@@ -1,77 +1,57 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Thing =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Thing.png|thumb|Thing]]
+  <div class="uo-card-canvas">
+    [[File:Thing.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Thing</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Good
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>humuc</code>
-|-
-| '''Object Type''' || <code>0x27</code>
-|-
-| '''Color Code''' || 746
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 50
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 100
-|-
-| '''PermMagicImmunity''' || 4
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">39</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 746
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 75
-|-
-| DEX || 100
-|-
-| Tactics || 50
-|-
-| MaceFighting || 150
-|-
-| Magery || 75
-|-
-| Equip || humuc
-|-
-| dstart || 10
-|-
-| guardignore || 1
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>humuc</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x27</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">746</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">4</span></div>
+  </div>
 
-== Known Spells ==
-* Fireball
-* Flamestrike
-* Ebolt
-* Lightning
-* Harm
-* Mindblast
-* Chainlightning
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">746</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">humuc</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Harm</span>
+    <span class="uo-spell-tag">Mindblast</span>
+    <span class="uo-spell-tag">Chainlightning</span>
+  </div>
+
+</div>

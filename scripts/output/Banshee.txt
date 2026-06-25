@@ -1,99 +1,66 @@
 [[Category:NPCs]]
 [[Category:Undead]]
 
-= Banshee =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Banshee.png|thumb|Banshee]]
+  <div class="uo-card-canvas">
+    [[File:Banshee.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Banshee</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Undead|Undead]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>310</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Undead
-|-
-| '''BaseStrmod''' || 350
-|-
-| '''BaseIntmod''' || 250
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermMagicImmunity''' || 2
-|-
-| '''PermPoisonImmunity''' || 2
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Undead|Undead]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">310</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 110
-|-
-| DEX || 95
-|-
-| Parry || 70
-|-
-| Tactics || 100
-|-
-| MaceFighting || 100
-|-
-| Magery || 100
-|-
-| EvaluatingIntelligence || 100
-|-
-| DetectingHidden || 80
-|-
-| Wrestling || 90
-|-
-| cast_pct || 40
-|-
-| num_casts || 5
-|-
-| Equip || orcishnecromancer
-|-
-| lootgroup || 36
-|-
-| virtue || 6
-|-
-| provoke || 120
-|-
-| MagicItemChance || 70
-|-
-| MagicItemLevel || 4
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>310</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">36</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">350</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">2</span></div>
+  </div>
 
-== Known Spells ==
-* Fireball
-* Ebolt
-* Lightning
-* Harm
-* Curse
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Wrestling</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">orcishnecromancer</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Harm</span>
+    <span class="uo-spell-tag">Curse</span>
+  </div>
+
+</div>

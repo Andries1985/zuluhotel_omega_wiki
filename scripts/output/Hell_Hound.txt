@@ -1,84 +1,58 @@
 [[Category:NPCs]]
 [[Category:Hardcoded Client Mounts]]
 
-= Hell Hound =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Hell_Hound.png|thumb|Hell Hound]]
+  <div class="uo-card-canvas">
+    [[File:Hell_Hound.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Hell Hound</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x42D</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Daemon
-|-
-| '''BaseStrmod''' || 150
-|-
-| '''BaseIntmod''' || 140
-|-
-| '''BaseDexmod''' || 50
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1069</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 120
-|-
-| INT || 150
-|-
-| DEX || 135
-|-
-| Tactics || 100
-|-
-| MaceFighting || 110
-|-
-| Magery || 130
-|-
-| cast_pct || 75
-|-
-| num_casts || 8
-|-
-| Equip || hellhound
-|-
-| lootgroup || 61
-|-
-| tameskill || 100
-|-
-| food || meat
-|-
-| saywords || 1
-|-
-| provoke || 100
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x42D</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">61</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">50</span></div>
+  </div>
 
-== Known Spells ==
-* Magicarrow
-* Fireball
-* Explosion
-* Flamestrike
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">135</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">hellhound</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Magicarrow</span>
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Explosion</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+  </div>
+
+</div>

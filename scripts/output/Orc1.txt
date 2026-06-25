@@ -1,72 +1,47 @@
 [[Category:NPCs]]
 [[Category:Orcs]]
 
-= Orc1 =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Orc1.png|thumb|Orc1]]
+  <div class="uo-card-canvas">
+    [[File:Orc1.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Orc1</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Orcs|Orcs]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0x11</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 70 Skill
-|-
-| '''Stealing Required''' || 70 Skill
-|-
-| '''Slayer Type''' || Orc
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Orcs|Orcs]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">17</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 70
-|-
-| INT || 25
-|-
-| DEX || 80
-|-
-| Parry || 55
-|-
-| Tactics || 60
-|-
-| Fencing || 65
-|-
-| Equip || orc1
-|-
-| lootgroup || 1
-|-
-| speech || 6
-|-
-| provoke || 70
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x11</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">70 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">70 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">55</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fencing</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">orc1</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

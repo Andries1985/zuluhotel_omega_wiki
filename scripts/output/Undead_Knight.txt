@@ -1,62 +1,42 @@
 [[Category:NPCs]]
 [[Category:Undead]]
 
-= Undead Knight =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Undead_Knight.png|thumb|Undead Knight]]
+  <div class="uo-card-canvas">
+    [[File:Undead_Knight.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Undead Knight</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Undead|Undead]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>1025</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Slayer Type''' || Undead
-|-
-| '''BaseStrmod''' || 450
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 200
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Undead|Undead]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1025</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 250
-|-
-| INT || 60
-|-
-| DEX || 120
-|-
-| Tactics || 130
-|-
-| Swordsmanship || 130
-|-
-| Parry || 110
-|-
-| Equip || undeadknight
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>1025</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">450</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">undeadknight</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

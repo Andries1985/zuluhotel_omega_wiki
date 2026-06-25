@@ -1,64 +1,45 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Rock Golem =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Rock_Golem.png|thumb|Rock Golem]]
+  <div class="uo-card-canvas">
+    [[File:Rock_Golem.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Rock Golem</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>496</code>
-|-
-| '''Color Code''' || 2403
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 800
-|-
-| '''BaseIntmod''' || 50
-|-
-| '''BaseDexmod''' || 100
-|-
-| '''PhysicalProtection''' || 8
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">496</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 2403
-|-
-| Gender || 0
-|-
-| STR || 400
-|-
-| INT || 50
-|-
-| DEX || 80
-|-
-| Tactics || 120
-|-
-| MaceFighting || 130
-|-
-| Parry || 150
-|-
-| provoke || 100
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>496</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2403</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">800</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">8</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">2403</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">400</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

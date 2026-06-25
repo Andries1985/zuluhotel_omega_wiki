@@ -1,112 +1,72 @@
 [[Category:NPCs]]
 [[Category:Daemon]]
 
-= Abyssal Liche =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Abyssal_Liche.png|thumb|Abyssal Liche]]
+  <div class="uo-card-canvas">
+    [[File:Abyssal_Liche.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Abyssal Liche</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Daemon|Daemon]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>380</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 130 Skill
-|-
-| '''Stealing Required''' || 130 Skill
-|-
-| '''Slayer Type''' || Daemon
-|-
-| '''BaseStrmod''' || 550
-|-
-| '''BaseIntmod''' || 1200
-|-
-| '''BaseDexmod''' || 150
-|-
-| '''PermMagicImmunity''' || 6
-|-
-| '''PermPoisonImmunity''' || 6
-|-
-| '''NecroProtection''' || 200
-|-
-| '''FireProtection''' || 175
-|-
-| '''HolyProtection''' || i-200
-|-
-| '''EarthProtection''' || 125
-|-
-| '''AirProtection''' || 150
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Daemon|Daemon]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">380</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 250
-|-
-| INT || 250
-|-
-| DEX || 250
-|-
-| Tactics || 100
-|-
-| MaceFighting || 130
-|-
-| Magery || 150
-|-
-| Parry || 70
-|-
-| Equip || daemonlieutenant
-|-
-| deathsnd || 0x16a
-|-
-| cast_pct || 60
-|-
-| num_casts || 20
-|-
-| Lootgroup || 35
-|-
-| Alignment || evil
-|-
-| virtue || 8
-|-
-| speech || 100
-|-
-| MagicItemChance || 95
-|-
-| MagicItemLevel || 5
-|-
-| dstart || 10
-|-
-| provoke || 130
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>380</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">130 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">130 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">550</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">1200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-200</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">150</span></div>
+  </div>
 
-== Known Spells ==
-* Abyssalflame
-* Risingfire
-* Flamestrike
-* Paralyze
-* Spectretouch
-* Wyvernstrike
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">daemonlieutenant</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x16a</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Abyssalflame</span>
+    <span class="uo-spell-tag">Risingfire</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Paralyze</span>
+    <span class="uo-spell-tag">Spectretouch</span>
+    <span class="uo-spell-tag">Wyvernstrike</span>
+  </div>
+
+</div>

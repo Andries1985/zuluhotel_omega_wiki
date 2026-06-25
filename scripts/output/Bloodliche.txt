@@ -1,103 +1,73 @@
 [[Category:NPCs]]
 [[Category:Undead]]
 
-= Bloodliche =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Bloodliche.png|thumb|Bloodliche]]
+  <div class="uo-card-canvas">
+    [[File:Bloodliche.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Bloodliche</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Undead|Undead]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x18</code>
-|-
-| '''Color Code''' || 0x04b9
-|-
-| '''Snooping Required''' || 100 Skill
-|-
-| '''Stealing Required''' || 100 Skill
-|-
-| '''Slayer Type''' || Undead
-|-
-| '''BaseStrmod''' || 275
-|-
-| '''BaseIntmod''' || 750
-|-
-| '''BaseDexmod''' || 150
-|-
-| '''PermPoisonImmunity''' || 4
-|-
-| '''PermMagicImmunity''' || 3
-|-
-| '''NecroProtection''' || 150
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Undead|Undead]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">24</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0x04b9
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 150
-|-
-| DEX || 60
-|-
-| Magery || 175
-|-
-| Tactics || 50
-|-
-| MaceFighting || 160
-|-
-| Equip || bloodliche
-|-
-| cast_pct || 25
-|-
-| num_casts || 6
-|-
-| lootgroup || 22
-|-
-| MagicItemChance || 55
-|-
-| MagicItemLevel || 5
-|-
-| virtue || 4
-|-
-| speech || 35
-|-
-| dstart || 10
-|-
-| provoke || 100
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x18</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0x04b9</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">22</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">100 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">100 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">275</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">750</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">150</span></div>
+  </div>
 
-== Known Spells ==
-* Poison
-* Flamestrike
-* Ebolt
-* Lightning
-* Mindblast
-* Explosion
-* Meteorswarm
-* Chainlightning
-* Summon_Daemon
-* Paralyze
-* Summonskel
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">0x04b9</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">bloodliche</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">55</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Poison</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Mindblast</span>
+    <span class="uo-spell-tag">Explosion</span>
+    <span class="uo-spell-tag">Meteorswarm</span>
+    <span class="uo-spell-tag">Chainlightning</span>
+    <span class="uo-spell-tag">Summon_Daemon</span>
+    <span class="uo-spell-tag">Paralyze</span>
+    <span class="uo-spell-tag">Summonskel</span>
+  </div>
+
+</div>

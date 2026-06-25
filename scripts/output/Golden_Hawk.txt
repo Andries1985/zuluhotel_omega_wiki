@@ -1,68 +1,45 @@
 [[Category:NPCs]]
 [[Category:Animals]]
 
-= Golden Hawk =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Golden_Hawk.png|thumb|Golden Hawk]]
+  <div class="uo-card-canvas">
+    [[File:Golden_Hawk.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Golden Hawk</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Animals|Animals]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>animal</code>
-|-
-| '''Object Type''' || <code>0x05</code>
-|-
-| '''Color Code''' || 1127
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Animals|Animals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">5</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1127
-|-
-| Gender || 0
-|-
-| STR || 80
-|-
-| INT || 40
-|-
-| DEX || 80
-|-
-| Tactics || 100
-|-
-| MaceFighting || 90
-|-
-| Equip || goldenhawk
-|-
-| tameskill || 35
-|-
-| food || veggie
-|-
-| guardignore || 1
-|-
-| provoke || 35
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>animal</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x05</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1127</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1127</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">goldenhawk</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">veggie</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

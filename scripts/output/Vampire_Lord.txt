@@ -1,58 +1,40 @@
 [[Category:NPCs]]
 [[Category:Undead]]
 
-= Vampire Lord =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Vampire_Lord.png|thumb|Vampire Lord]]
+  <div class="uo-card-canvas">
+    [[File:Vampire_Lord.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Vampire Lord</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Undead|Undead]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>1894</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Slayer Type''' || Undead
-|-
-| '''BaseStrmod''' || 600
-|-
-| '''BaseIntmod''' || 500
-|-
-| '''BaseDexmod''' || 350
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Undead|Undead]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1894</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 300
-|-
-| INT || 200
-|-
-| DEX || 180
-|-
-| Magery || 160
-|-
-| Tactics || 140
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>1894</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">600</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">350</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

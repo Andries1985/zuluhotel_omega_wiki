@@ -1,96 +1,61 @@
 [[Category:NPCs]]
 [[Category:Dragons]]
 
-= Inferno Dragon =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Inferno_Dragon.png|thumb|Inferno Dragon]]
+  <div class="uo-card-canvas">
+    [[File:Inferno_Dragon.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Inferno Dragon</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Dragons|Dragons]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>firebreather</code>
-|-
-| '''Object Type''' || <code>0x3b</code>
-|-
-| '''Color Code''' || 1172
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Snooping Required''' || 140 Skill
-|-
-| '''Stealing Required''' || 140 Skill
-|-
-| '''Slayer Type''' || Dragonkin
-|-
-| '''BaseStrmod''' || 400
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermMagicImmunity''' || 4
-|-
-| '''FireProtection''' || 200
-|-
-| '''WaterProtection''' || i-100
-|-
-| '''AirProtection''' || 100
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Dragons|Dragons]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">59</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1172
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 100
-|-
-| DEX || 150
-|-
-| Parry || 80
-|-
-| Tactics || 120
-|-
-| MaceFighting || 140
-|-
-| DetectingHidden || 130
-|-
-| Equip || infernodragon
-|-
-| deathsnd || 0x16f
-|-
-| tameskill || 140
-|-
-| lootgroup || 37
-|-
-| food || meat
-|-
-| virtue || 8
-|-
-| provoke || 140
-|-
-| magicitemchance || 45
-|-
-| MagicItemLevel || 5
-|-
-| RunSpeed || 200
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>firebreather</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x3b</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1172</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">37</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">140 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">140 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragonkin</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">400</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">i-100</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">100</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1172</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">infernodragon</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x16f</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

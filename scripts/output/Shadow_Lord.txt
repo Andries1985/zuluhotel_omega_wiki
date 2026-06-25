@@ -1,94 +1,60 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Shadow Lord =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Shadow_Lord.png|thumb|Shadow Lord]]
+  <div class="uo-card-canvas">
+    [[File:Shadow_Lord.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Shadow Lord</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>573</code>
-|-
-| '''Color Code''' || 1
-|-
-| '''Snooping Required''' || 135 Skill
-|-
-| '''Stealing Required''' || 135 Skill
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 550
-|-
-| '''BaseIntmod''' || 200
-|-
-| '''BaseDexmod''' || 200
-|-
-| '''PermMagicImmunity''' || 6
-|-
-| '''NecroProtection''' || 100
-|-
-| '''HolyProtection''' || i-100
-|-
-| '''Permmr''' || 4
-|-
-| '''BaseHpRegen''' || 500
-|-
-| '''PermPoisonImmunity''' || 4
-|-
-| '''untamable''' || 1
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">573</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 100
-|-
-| DEX || 100
-|-
-| Tactics || 100
-|-
-| Fencing || 175
-|-
-| Parry || 130
-|-
-| DetectingHidden || 130
-|-
-| Equip || shadowlord
-|-
-| lootgroup || 79
-|-
-| MoveMode || LS
-|-
-| saywords || 1
-|-
-| dstart || 10
-|-
-| provoke || 135
-|-
-| MagicItemChance || 55
-|-
-| MagicItemLevel || 5
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>573</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">135</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">79</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">135 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">135 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">550</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Permmr</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">untamable</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fencing</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">shadowlord</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveMode</span><span class="uo-value">LS</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">55</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">5</span></div>
+  </div>
+
+</div>

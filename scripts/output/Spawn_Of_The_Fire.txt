@@ -1,113 +1,73 @@
 [[Category:NPCs]]
 [[Category:DO NOT REMOVE]]
 
-= Spawn Of The Fire =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Spawn_Of_The_Fire.png|thumb|Spawn Of The Fire]]
+  <div class="uo-card-canvas">
+    [[File:Spawn_Of_The_Fire.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Spawn Of The Fire</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:DO NOT REMOVE|DO NOT REMOVE]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0xc7</code>
-|-
-| '''Color Code''' || 1258
-|-
-| '''CustomHitsLevel''' || 100000
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 500
-|-
-| '''BaseIntmod''' || 1900
-|-
-| '''BaseDexmod''' || 50
-|-
-| '''PermMagicImmunity''' || 5
-|-
-| '''BaseHpRegen''' || 20
-|-
-| '''BaseManaRegen''' || 60000
-|-
-| '''EBSummons''' || 1
-|-
-| '''PermPoisonImmunity''' || 5
-|-
-| '''NecroProtection''' || 20
-|-
-| '''HolyProtection''' || 20
-|-
-| '''FireProtection''' || 200
-|-
-| '''WaterProtection''' || 20
-|-
-| '''AirProtection''' || 20
-|-
-| '''EarthProtection''' || 20
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:DO NOT REMOVE|DO NOT REMOVE]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">199</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1258
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 100
-|-
-| DEX || 100
-|-
-| Parry || 200
-|-
-| Tactics || 200
-|-
-| MaceFighting || 200
-|-
-| Magery || 200
-|-
-| EvaluatingIntelligence || 200
-|-
-| DetectingHidden || 200
-|-
-| cast_pct || 80
-|-
-| num_casts || 50
-|-
-| Equip || balron1
-|-
-| provoke || 100
-|-
-| virtue || 2
-|-
-| speech || 35
-|-
-| MoveMode || AL
-|-
-| dstart || 10
-|-
-| saywords || 1
-|-
-| Karma || -10000
-|-
-| Fame || 10000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xc7</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1258</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">100000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">1900</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseManaRegen</span><span class="uo-value">60000</span></div>
+    <div class="uo-data-row"><span class="uo-label">EBSummons</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">20</span></div>
+  </div>
 
-== Known Spells ==
-* Summonsrisingfire
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1258</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">balron1</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveMode</span><span class="uo-value">AL</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-10000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">10000</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Summonsrisingfire</span>
+  </div>
+
+</div>

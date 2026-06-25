@@ -1,82 +1,52 @@
 [[Category:NPCs]]
 [[Category:Plants]]
 
-= Carnivorous Plant =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Carnivorous_Plant.png|thumb|Carnivorous Plant]]
+  <div class="uo-card-canvas">
+    [[File:Carnivorous_Plant.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Carnivorous Plant</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Plants|Plants]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>immobile</code>
-|-
-| '''Object Type''' || <code>497</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 65 Skill
-|-
-| '''Stealing Required''' || 65 Skill
-|-
-| '''Slayer Type''' || Plant
-|-
-| '''BaseStrmod''' || 20
-|-
-| '''BaseIntmod''' || 20
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermPoisonImmunity''' || 4
-|-
-| '''EarthProtection''' || 100
-|-
-| '''AirProtection''' || i-50
-|-
-| '''FireProtection''' || i-50
-|-
-| '''WaterProtection''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Plants|Plants]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">497</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 300
-|-
-| INT || 25
-|-
-| DEX || 100
-|-
-| Parry || 60
-|-
-| Magery || 100
-|-
-| Tactics || 100
-|-
-| MaceFighting || 150
-|-
-| Equip || reaper
-|-
-| lootgroup || 34
-|-
-| dstart || 10
-|-
-| provoke || 65
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>immobile</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>497</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">34</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">65 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">65 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Plant</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">i-50</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">i-50</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">reaper</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

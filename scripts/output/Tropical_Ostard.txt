@@ -1,84 +1,59 @@
 [[Category:NPCs]]
 [[Category:Ostards]]
 
-= Tropical Ostard =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Tropical_Ostard.png|thumb|Tropical Ostard]]
+  <div class="uo-card-canvas">
+    [[File:Tropical_Ostard.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Tropical Ostard</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Ostards|Ostards]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0xdb</code>
-|-
-| '''Color Code''' || 1155
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 300
-|-
-| '''BaseDexmod''' || 200
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Ostards|Ostards]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">219</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1155
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 200
-|-
-| DEX || 200
-|-
-| Parry || 100
-|-
-| Tactics || 90
-|-
-| MaceFighting || 100
-|-
-| Magery || 200
-|-
-| Equip || tropicalostard
-|-
-| deathsnd || 0xa3
-|-
-| tameskill || 105
-|-
-| food || meat
-|-
-| guardignore || 1
-|-
-| provoke || 105
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xdb</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1155</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+  </div>
 
-== Known Spells ==
-* Harm
-* Fireball
-* Ebolt
-* Lightning
-* Flamestrike
-* Mindblast
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1155</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">tropicalostard</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0xa3</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Harm</span>
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Mindblast</span>
+  </div>
+
+</div>

@@ -1,58 +1,40 @@
 [[Category:NPCs]]
 [[Category:Orcs]]
 
-= Orc Bowman =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Orc_Bowman.png|thumb|Orc Bowman]]
+  <div class="uo-card-canvas">
+    [[File:Orc_Bowman.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Orc Bowman</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Orcs|Orcs]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>393</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Slayer Type''' || Orc
-|-
-| '''BaseStrmod''' || 280
-|-
-| '''BaseIntmod''' || 120
-|-
-| '''BaseDexmod''' || 240
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Orcs|Orcs]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">393</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 160
-|-
-| INT || 70
-|-
-| DEX || 140
-|-
-| Tactics || 100
-|-
-| Archery || 130
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>393</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">280</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">240</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

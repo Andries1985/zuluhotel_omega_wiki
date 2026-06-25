@@ -1,102 +1,70 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Holy Wisp =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Holy_Wisp.png|thumb|Holy Wisp]]
+  <div class="uo-card-canvas">
+    [[File:Holy_Wisp.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Holy Wisp</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Good
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>goodcaster</code>
-|-
-| '''Object Type''' || <code>0x3a</code>
-|-
-| '''Color Code''' || 1153
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 150
-|-
-| '''BaseIntmod''' || 325
-|-
-| '''BaseDexmod''' || 60
-|-
-| '''PermPoisonImmunity''' || 6
-|-
-| '''Permmr''' || 8
-|-
-| '''EarthProtection''' || 100
-|-
-| '''FireProtection''' || 125
-|-
-| '''HolyProtection''' || 250
-|-
-| '''NecroProtection''' || i-50
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">58</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1153
-|-
-| Gender || 0
-|-
-| STR || 150
-|-
-| INT || 200
-|-
-| DEX || 175
-|-
-| Tactics || 110
-|-
-| Swordsmanship || 110
-|-
-| Magery || 150
-|-
-| EvaluatingIntelligence || 100
-|-
-| Equip || holywisp
-|-
-| virtue || -5
-|-
-| guardignore || 1
-|-
-| speech || 7
-|-
-| provoke || 100
-|-
-| magicitemchance || 45
-|-
-| MagicItemLevel || 3
-|-
-| dstart || 10
-|-
-| saywords || 1
-|-
-| Karma || 2000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>goodcaster</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x3a</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1153</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">325</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Permmr</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">i-50</span></div>
+  </div>
 
-== Known Spells ==
-* Holybolt
-* Wrathofgod
-* Divinefury
-* Astralstorm
-* Icestrike
-* Risingfire
-* Shiftingearth
-* Gustofair
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1153</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">holywisp</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">-5</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">7</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">2000</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Holybolt</span>
+    <span class="uo-spell-tag">Wrathofgod</span>
+    <span class="uo-spell-tag">Divinefury</span>
+    <span class="uo-spell-tag">Astralstorm</span>
+    <span class="uo-spell-tag">Icestrike</span>
+    <span class="uo-spell-tag">Risingfire</span>
+    <span class="uo-spell-tag">Shiftingearth</span>
+    <span class="uo-spell-tag">Gustofair</span>
+  </div>
+
+</div>

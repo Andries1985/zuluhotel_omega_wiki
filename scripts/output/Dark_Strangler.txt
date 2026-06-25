@@ -1,90 +1,58 @@
 [[Category:NPCs]]
 [[Category:Plants]]
 
-= Dark Strangler =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Dark_Strangler.png|thumb|Dark Strangler]]
+  <div class="uo-card-canvas">
+    [[File:Dark_Strangler.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Dark Strangler</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Plants|Plants]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>explosionkillpcs</code>
-|-
-| '''Object Type''' || <code>0x8</code>
-|-
-| '''Color Code''' || 1285
-|-
-| '''Snooping Required''' || 115 Skill
-|-
-| '''Stealing Required''' || 115 Skill
-|-
-| '''Slayer Type''' || Plant
-|-
-| '''BaseStrmod''' || 300
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 100
-|-
-| '''AirProtection''' || i-50
-|-
-| '''EarthProtection''' || 125
-|-
-| '''WaterProtection''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Plants|Plants]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">8</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1285
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 35
-|-
-| DEX || 100
-|-
-| Parry || 90
-|-
-| Hiding || 125
-|-
-| Tactics || 110
-|-
-| Macefighting || 150
-|-
-| Archery || 150
-|-
-| Equip || darkstrangler
-|-
-| lootgroup || 128
-|-
-| magicitemchance || 50
-|-
-| Magicitemlevel || 4
-|-
-| ammotype || 0xEED
-|-
-| missileweapon || 0x9a0f
-|-
-| ammoamount || 300
-|-
-| dstart || 10
-|-
-| provoke || 115
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>explosionkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x8</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1285</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">115</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">128</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">115 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">115 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Plant</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">i-50</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1285</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hiding</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">darkstrangler</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammotype</span><span class="uo-value">0xEED</span></div>
+    <div class="uo-data-row"><span class="uo-label">missileweapon</span><span class="uo-value">0x9a0f</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammoamount</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

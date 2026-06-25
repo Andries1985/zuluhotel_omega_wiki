@@ -1,93 +1,62 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Snow Elemental =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Snow_Elemental.png|thumb|Snow Elemental]]
+  <div class="uo-card-canvas">
+    [[File:Snow_Elemental.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Snow Elemental</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>199</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''nocorpse''' || 1
-|-
-| '''Snooping Required''' || 90 Skill
-|-
-| '''Stealing Required''' || 90 Skill
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 170
-|-
-| '''BaseIntmod''' || 200
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''EarthProtection''' || i-25
-|-
-| '''FireProtection''' || 25
-|-
-| '''WaterProtection''' || 75
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">199</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 140
-|-
-| INT || 110
-|-
-| DEX || 70
-|-
-| Tactics || 110
-|-
-| MaceFighting || 175
-|-
-| Magery || 110
-|-
-| cast_pct || 35
-|-
-| num_casts || 8
-|-
-| Equip || iceelemental
-|-
-| lootgroup || 20
-|-
-| MagicItemChance || 50
-|-
-| MagicItemLevel || 4
-|-
-| dstart || 10
-|-
-| saywords || 1
-|-
-| provoke || 90
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>199</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">nocorpse</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">90 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">90 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">170</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">i-25</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">75</span></div>
+  </div>
 
-== Known Spells ==
-* Lightning
-* Chainlightning
-* Icestrike
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">iceelemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Chainlightning</span>
+    <span class="uo-spell-tag">Icestrike</span>
+  </div>
+
+</div>

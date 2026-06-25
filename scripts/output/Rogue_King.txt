@@ -1,102 +1,61 @@
 [[Category:NPCs]]
 [[Category:Human]]
 
-= Rogue King =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Rogue_King.png|thumb|Rogue King]]
+  <div class="uo-card-canvas">
+    [[File:Rogue_King.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Rogue King</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Human|Human]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>explosionkillpcs</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Human
-|-
-| '''BaseStrmod''' || 550
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 300
-|-
-| '''NecroProtection''' || 50
-|-
-| '''FireProtection''' || 75
-|-
-| '''WaterProtection''' || 10
-|-
-| '''EarthProtection''' || 50
-|-
-| '''AirProtection''' || 50
-|-
-| '''HolyProtection''' || i-50
-|-
-| '''mountspawn''' || null
-|-
-| '''IsRanger''' || 1
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Human|Human]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 100
-|-
-| DEX || 300
-|-
-| Tactics || 60
-|-
-| Macefighting || 75
-|-
-| Archery || 135
-|-
-| Hiding || 100
-|-
-| Equip || mountedbrigandarcher
-|-
-| lootgroup || 69
-|-
-| ammotype || 0xf3f
-|-
-| missileweapon || 0x13B2
-|-
-| ammoamount || 300
-|-
-| provoke || 150
-|-
-| mount || 0x3e9f 1109
-|-
-| MagicItemChance || 60
-|-
-| MagicItemLevel || 6
-|-
-| dstart || 10
-|-
-| saywords || 1
-|-
-| equip || brigand1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>explosionkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">69</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">550</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-50</span></div>
+    <div class="uo-data-row"><span class="uo-label">mountspawn</span><span class="uo-value">null</span></div>
+    <div class="uo-data-row"><span class="uo-label">IsRanger</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">135</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hiding</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">mountedbrigandarcher</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammotype</span><span class="uo-value">0xf3f</span></div>
+    <div class="uo-data-row"><span class="uo-label">missileweapon</span><span class="uo-value">0x13B2</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammoamount</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">mount</span><span class="uo-value">0x3e9f 1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">equip</span><span class="uo-value">brigand1</span></div>
+  </div>
+
+</div>

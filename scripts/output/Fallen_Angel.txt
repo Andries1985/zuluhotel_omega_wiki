@@ -1,147 +1,101 @@
 [[Category:NPCs]]
 [[Category:Glutton Summons]]
 
-= Fallen Angel =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Fallen_Angel.png|thumb|Fallen Angel]]
+  <div class="uo-card-canvas">
+    [[File:Fallen_Angel.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Fallen Angel</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Glutton Summons|Glutton Summons]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>chaosspellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x28</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''CustomHitsLevel''' || 800000
-|-
-| '''Snooping Required''' || 150 Skill
-|-
-| '''Stealing Required''' || 150 Skill
-|-
-| '''Slayer Type''' || Daemon
-|-
-| '''BaseStrmod''' || 1100
-|-
-| '''BaseIntmod''' || 2000
-|-
-| '''BaseDexmod''' || 200
-|-
-| '''BaseHpRegen''' || 500
-|-
-| '''Permmr''' || 5
-|-
-| '''BaseManaRegen''' || 60000
-|-
-| '''PermMagicImmunity''' || 8
-|-
-| '''NecroProtection''' || 175
-|-
-| '''PermPoisonImmunity''' || 8
-|-
-| '''Boss''' || 1
-|-
-| '''FireProtection''' || 120
-|-
-| '''WaterProtection''' || 20
-|-
-| '''AirProtection''' || 20
-|-
-| '''EarthProtection''' || 20
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Glutton Summons|Glutton Summons]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">40</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1182
-|-
-| Gender || 0
-|-
-| STR || 375
-|-
-| INT || 575
-|-
-| DEX || 175
-|-
-| Parry || 200
-|-
-| Tactics || 200
-|-
-| MaceFighting || 200
-|-
-| Magery || 200
-|-
-| EvaluatingIntelligence || 200
-|-
-| DetectingHidden || 200
-|-
-| cast_pct || 80
-|-
-| num_casts || 40
-|-
-| Equip || balron1
-|-
-| virtue || 2
-|-
-| speech || 35
-|-
-| provoke || 150
-|-
-| lootgroup || 105
-|-
-| MagicItemChance || 85
-|-
-| MagicItemLevel || 9
-|-
-| MoveMode || AL
-|-
-| dstart || 10
-|-
-| saywords || 1
-|-
-| Karma || -10000
-|-
-| Fame || 10000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>chaosspellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x28</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">800000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">1100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">2000</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Permmr</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseManaRegen</span><span class="uo-value">60000</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">20</span></div>
+  </div>
 
-== Known Spells ==
-* Summonguardian
-* Summonguardian
-* Summonguardian
-* Enlightenment
-* Gheal
-* Wrathofgod
-* Divinefury
-* Astralstorm
-* Apocalypse
-* Icestrike
-* Sanctuary
-* Seraphimswill
-* Angelicaura
-* Holybolt
-* Ebolt
-* Manavamp
-* Mindblast
-* Calllightning
-* Gustofair
-* Icestrike
-* Shiftingearth
-* Massgust
-* Masscalllightning
-* Massicestrike
-* Massshiftingearth
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1182</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">375</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">575</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">balron1</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">9</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveMode</span><span class="uo-value">AL</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-10000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">10000</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Summonguardian</span>
+    <span class="uo-spell-tag">Summonguardian</span>
+    <span class="uo-spell-tag">Summonguardian</span>
+    <span class="uo-spell-tag">Enlightenment</span>
+    <span class="uo-spell-tag">Gheal</span>
+    <span class="uo-spell-tag">Wrathofgod</span>
+    <span class="uo-spell-tag">Divinefury</span>
+    <span class="uo-spell-tag">Astralstorm</span>
+    <span class="uo-spell-tag">Apocalypse</span>
+    <span class="uo-spell-tag">Icestrike</span>
+    <span class="uo-spell-tag">Sanctuary</span>
+    <span class="uo-spell-tag">Seraphimswill</span>
+    <span class="uo-spell-tag">Angelicaura</span>
+    <span class="uo-spell-tag">Holybolt</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Manavamp</span>
+    <span class="uo-spell-tag">Mindblast</span>
+    <span class="uo-spell-tag">Calllightning</span>
+    <span class="uo-spell-tag">Gustofair</span>
+    <span class="uo-spell-tag">Icestrike</span>
+    <span class="uo-spell-tag">Shiftingearth</span>
+    <span class="uo-spell-tag">Massgust</span>
+    <span class="uo-spell-tag">Masscalllightning</span>
+    <span class="uo-spell-tag">Massicestrike</span>
+    <span class="uo-spell-tag">Massshiftingearth</span>
+  </div>
+
+</div>

@@ -1,88 +1,63 @@
 [[Category:NPCs]]
 [[Category:Beholders]]
 
-= Frigid Eye =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Frigid_Eye.png|thumb|Frigid Eye]]
+  <div class="uo-card-canvas">
+    [[File:Frigid_Eye.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Frigid Eye</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Beholders|Beholders]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x16</code>
-|-
-| '''Color Code''' || 1154
-|-
-| '''Snooping Required''' || 80 Skill
-|-
-| '''Stealing Required''' || 80 Skill
-|-
-| '''Slayer Type''' || Beholder
-|-
-| '''BaseStrmod''' || 150
-|-
-| '''BaseIntmod''' || 350
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Beholders|Beholders]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">22</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1154
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 100
-|-
-| DEX || 90
-|-
-| Tactics || 65
-|-
-| MaceFighting || 100
-|-
-| Magery || 95
-|-
-| cast_pct || 50
-|-
-| num_casts || 20
-|-
-| Equip || frostgazer
-|-
-| deathsnd || 0x17e
-|-
-| lootgroup || 54
-|-
-| provoke || 80
-|-
-| magicitemchance || 2
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x16</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1154</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">54</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Beholder</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">350</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
-== Known Spells ==
-* Chainlightning
-* Explosion
-* Weaken
-* Paralyze
-* Fireball
-* Lightning
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1154</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">frostgazer</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x17e</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Chainlightning</span>
+    <span class="uo-spell-tag">Explosion</span>
+    <span class="uo-spell-tag">Weaken</span>
+    <span class="uo-spell-tag">Paralyze</span>
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Lightning</span>
+  </div>
+
+</div>

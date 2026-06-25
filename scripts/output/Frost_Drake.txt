@@ -1,105 +1,71 @@
 [[Category:NPCs]]
 [[Category:Drakes]]
 
-= Frost Drake =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Frost_Drake.png|thumb|Frost Drake]]
+  <div class="uo-card-canvas">
+    [[File:Frost_Drake.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Frost Drake</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Drakes|Drakes]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x3d</code>
-|-
-| '''Color Code''' || 1154
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Snooping Required''' || 115 Skill
-|-
-| '''Stealing Required''' || 115 Skill
-|-
-| '''Slayer Type''' || Dragonkin
-|-
-| '''BaseStrmod''' || 200
-|-
-| '''BaseIntmod''' || 300
-|-
-| '''BaseDexmod''' || 200
-|-
-| '''EarthProtection''' || i-25
-|-
-| '''FireProtection''' || 25
-|-
-| '''WaterProtection''' || 75
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Drakes|Drakes]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">61</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1154
-|-
-| Gender || 0
-|-
-| STR || 250
-|-
-| INT || 185
-|-
-| DEX || 90
-|-
-| Tactics || 100
-|-
-| MaceFighting || 120
-|-
-| Magery || 110
-|-
-| cast_pct || 40
-|-
-| num_casts || 3
-|-
-| Equip || frostdrake
-|-
-| deathsnd || 0x16f
-|-
-| lootgroup || 36
-|-
-| tameskill || 115
-|-
-| food || meat
-|-
-| virtue || 6
-|-
-| provoke || 115
-|-
-| MagicItemChance || 60
-|-
-| MagicItemLevel || 3
-|-
-| RunSpeed || 175
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x3d</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1154</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">115</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">36</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">115 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">115 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragonkin</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">i-25</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">75</span></div>
+  </div>
 
-== Known Spells ==
-* Chainlightning
-* Ebolt
-* Flamestrike
-* Meteorswarm
-* Lightning
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1154</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">185</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">frostdrake</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x16f</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">115</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Chainlightning</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Meteorswarm</span>
+    <span class="uo-spell-tag">Lightning</span>
+  </div>
+
+</div>

@@ -1,78 +1,50 @@
 [[Category:NPCs]]
 [[Category:Orcs]]
 
-= Archer =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Archer.png|thumb|Archer]]
+  <div class="uo-card-canvas">
+    [[File:Archer.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Archer</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Orcs|Orcs]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>explosionkillpcs</code>
-|-
-| '''Object Type''' || <code>0x11</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 75 Skill
-|-
-| '''Stealing Required''' || 75 Skill
-|-
-| '''Slayer Type''' || Orc
-|-
-| '''BaseStrmod''' || 100
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 100
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Orcs|Orcs]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">17</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 70
-|-
-| INT || 25
-|-
-| DEX || 80
-|-
-| Tactics || 80
-|-
-| MaceFighting || 85
-|-
-| Archery || 85
-|-
-| Equip || orcarcher
-|-
-| lootgroup || 52
-|-
-| speech || 6
-|-
-| ammotype || 0xf3f
-|-
-| missileweapon || 0x13B2
-|-
-| ammoamount || 30
-|-
-| provoke || 75
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>explosionkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x11</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">52</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">75 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">75 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">orcarcher</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammotype</span><span class="uo-value">0xf3f</span></div>
+    <div class="uo-data-row"><span class="uo-label">missileweapon</span><span class="uo-value">0x13B2</span></div>
+    <div class="uo-data-row"><span class="uo-label">ammoamount</span><span class="uo-value">30</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

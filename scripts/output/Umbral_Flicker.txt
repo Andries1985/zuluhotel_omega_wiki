@@ -1,107 +1,77 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Umbral Flicker =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Umbral_Flicker.png|thumb|Umbral Flicker]]
+  <div class="uo-card-canvas">
+    [[File:Umbral_Flicker.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Umbral Flicker</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x3a</code>
-|-
-| '''Color Code''' || 25125
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 850
-|-
-| '''BaseIntmod''' || 2000
-|-
-| '''BaseDexmod''' || 100
-|-
-| '''PermPoisonImmunity''' || 6
-|-
-| '''Permmr''' || 8
-|-
-| '''FireProtection''' || 125
-|-
-| '''NecroProtection''' || 100
-|-
-| '''HolyProtection''' || i-100
-|-
-| '''EarthProtection''' || 100
-|-
-| '''IsMage''' || 4
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">58</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 25125
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 200
-|-
-| DEX || 150
-|-
-| Tactics || 120
-|-
-| Swordsmanship || 140
-|-
-| Magery || 150
-|-
-| EvaluatingIntelligence || 150
-|-
-| Equip || umbralflicker
-|-
-| speech || 7
-|-
-| lootgroup || 104
-|-
-| provoke || 125
-|-
-| magicitemchance || 85
-|-
-| MagicItemLevel || 7
-|-
-| saywords || 1
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x3a</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">25125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">104</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">850</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">2000</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Permmr</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-100</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">IsMage</span><span class="uo-value">4</span></div>
+  </div>
 
-== Known Spells ==
-* Flamestrike
-* Explosion
-* Calllightning
-* Gustofair
-* Icestrike
-* Shiftingearth
-* Risingfire
-* Kill
-* Abyssalflame
-* Plague
-* Sorcerersbane
-* Wyvernstrike
-* Dispel
-* Masscurse
-* Wraithbreath
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">25125</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">umbralflicker</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">7</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">7</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Explosion</span>
+    <span class="uo-spell-tag">Calllightning</span>
+    <span class="uo-spell-tag">Gustofair</span>
+    <span class="uo-spell-tag">Icestrike</span>
+    <span class="uo-spell-tag">Shiftingearth</span>
+    <span class="uo-spell-tag">Risingfire</span>
+    <span class="uo-spell-tag">Kill</span>
+    <span class="uo-spell-tag">Abyssalflame</span>
+    <span class="uo-spell-tag">Plague</span>
+    <span class="uo-spell-tag">Sorcerersbane</span>
+    <span class="uo-spell-tag">Wyvernstrike</span>
+    <span class="uo-spell-tag">Dispel</span>
+    <span class="uo-spell-tag">Masscurse</span>
+    <span class="uo-spell-tag">Wraithbreath</span>
+  </div>
+
+</div>

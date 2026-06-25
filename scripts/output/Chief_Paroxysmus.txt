@@ -1,100 +1,61 @@
 [[Category:NPCs]]
 [[Category:Glutton Summons]]
 
-= Chief Paroxysmus =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Chief_Paroxysmus.png|thumb|Chief Paroxysmus]]
+  <div class="uo-card-canvas">
+    [[File:Chief_Paroxysmus.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Chief Paroxysmus</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Glutton Summons|Glutton Summons]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>256</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''CustomHitsLevel''' || 2000000
-|-
-| '''MoveSpeed''' || Fastest
-|-
-| '''Snooping Required''' || 150 Skill
-|-
-| '''Stealing Required''' || 150 Skill
-|-
-| '''Slayer Type''' || Daemon
-|-
-| '''BaseStrmod''' || 2050
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 200
-|-
-| '''FreeAction''' || 1
-|-
-| '''PermPoisonImmunity''' || 8
-|-
-| '''BaseHpRegen''' || 1000
-|-
-| '''SuperBoss''' || 1
-|-
-| '''FireProtection''' || 40
-|-
-| '''WaterProtection''' || 40
-|-
-| '''AirProtection''' || 40
-|-
-| '''EarthProtection''' || 120
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Glutton Summons|Glutton Summons]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">256</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 2000
-|-
-| INT || 450
-|-
-| DEX || 200
-|-
-| Parry || 200
-|-
-| Tactics || 200
-|-
-| MaceFighting || 200
-|-
-| DetectingHidden || 200
-|-
-| Equip || vrykol
-|-
-| lootgroup || 106
-|-
-| MagicItemChance || 90
-|-
-| MagicItemLevel || 9
-|-
-| RunSpeed || 250
-|-
-| provoke || 150
-|-
-| Karma || -15000
-|-
-| Fame || 15000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>256</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">106</span></div>
+    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">2000000</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fastest</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">2050</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">FreeAction</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">SuperBoss</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">120</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">2000</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">450</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">vrykol</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">9</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
+  </div>
+
+</div>

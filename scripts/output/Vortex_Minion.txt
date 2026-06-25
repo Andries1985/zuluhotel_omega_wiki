@@ -1,80 +1,53 @@
 [[Category:NPCs]]
 [[Category:Vortex Beast Summons]]
 
-= Vortex Minion =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Vortex_Minion.png|thumb|Vortex Minion]]
+  <div class="uo-card-canvas">
+    [[File:Vortex_Minion.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Vortex Minion</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Vortex Beast Summons|Vortex Beast Summons]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcsclock</code>
-|-
-| '''Object Type''' || <code>756</code>
-|-
-| '''Color Code''' || 2167
-|-
-| '''Snooping Required''' || 50 Skill
-|-
-| '''Stealing Required''' || 50 Skill
-|-
-| '''Slayer Type''' || Giantkin
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermPoisonImmunity''' || 4
-|-
-| '''FireProtection''' || 100
-|-
-| '''NecroProtection''' || 150
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Vortex Beast Summons|Vortex Beast Summons]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">756</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 2167
-|-
-| Gender || 0
-|-
-| STR || 400
-|-
-| INT || 200
-|-
-| DEX || 200
-|-
-| Parry || 50
-|-
-| Swordsmanship || 55
-|-
-| Tactics || 60
-|-
-| MaceFighting || 130
-|-
-| Magery || 140
-|-
-| Equip || clock2
-|-
-| lootgroup || 15
-|-
-| dstart || 10
-|-
-| provoke || 50
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcsclock</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>756</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2167</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">15</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">50 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">50 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Giantkin</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">150</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">2167</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">400</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">55</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">clock2</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

@@ -1,88 +1,60 @@
 [[Category:NPCs]]
 [[Category:Human]]
 
-= Adept Mage =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Adept_Mage.png|thumb|Adept Mage]]
+  <div class="uo-card-canvas">
+    [[File:Adept_Mage.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Adept Mage</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Human|Human]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 95 Skill
-|-
-| '''Stealing Required''' || 95 Skill
-|-
-| '''Slayer Type''' || Human
-|-
-| '''BaseStrmod''' || 100
-|-
-| '''BaseIntmod''' || 200
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Human|Human]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 95
-|-
-| DEX || 80
-|-
-| Tactics || 85
-|-
-| Macefighting || 85
-|-
-| Magery || 100
-|-
-| cast_pct || 45
-|-
-| num_casts || 8
-|-
-| Equip || eviladept
-|-
-| lootgroup || 25
-|-
-| speech || 35
-|-
-| provoke || 95
-|-
-| magicitemchance || 45
-|-
-| MagicItemLevel || 2
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">95 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
-== Known Spells ==
-* Lightning
-* Fireball
-* Magicarrow
-* Ebolt
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">eviladept</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Magicarrow</span>
+    <span class="uo-spell-tag">Ebolt</span>
+  </div>
+
+</div>

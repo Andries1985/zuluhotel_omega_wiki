@@ -1,78 +1,51 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Energy Vortex =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Energy_Vortex.png|thumb|Energy Vortex]]
+  <div class="uo-card-canvas">
+    [[File:Energy_Vortex.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Energy Vortex</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0x23d</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 125 Skill
-|-
-| '''Stealing Required''' || 125 Skill
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''nocorpse''' || 1
-|-
-| '''BaseStrmod''' || 200
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 100
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">573</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 205
-|-
-| Gender || 0
-|-
-| STR || 150
-|-
-| INT || 100
-|-
-| DEX || 90
-|-
-| Poisoning || 100
-|-
-| Tactics || 125
-|-
-| MaceFighting || 200
-|-
-| Equip || vortex1
-|-
-| MoveMode || LS
-|-
-| tameskill || 165
-|-
-| food || meat
-|-
-| dstart || 10
-|-
-| provoke || 125
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x23d</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">125 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">125 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">nocorpse</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">205</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Poisoning</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">vortex1</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveMode</span><span class="uo-value">LS</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">165</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

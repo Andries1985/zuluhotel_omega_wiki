@@ -1,97 +1,67 @@
 [[Category:NPCs]]
 [[Category:Kobolds]]
 
-= Kobold Underlord =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Kobold_Underlord.png|thumb|Kobold Underlord]]
+  <div class="uo-card-canvas">
+    [[File:Kobold_Underlord.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Kobold Underlord</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Kobolds|Kobolds]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x11</code>
-|-
-| '''Color Code''' || 466
-|-
-| '''Snooping Required''' || 90 Skill
-|-
-| '''Stealing Required''' || 90 Skill
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Orc
-|-
-| '''BaseStrmod''' || 150
-|-
-| '''BaseIntmod''' || 300
-|-
-| '''BaseDexmod''' || 10
-|-
-| '''PermMagicImmunity''' || 3
-|-
-| '''NecroProtection''' || 125
-|-
-| '''HolyProtection''' || i-125
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Kobolds|Kobolds]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">17</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 466
-|-
-| Gender || 0
-|-
-| STR || 102
-|-
-| INT || 200
-|-
-| DEX || 100
-|-
-| Magery || 130
-|-
-| EvaluatingIntelligence || 100
-|-
-| DetectingHidden || 90
-|-
-| cast_pct || 40
-|-
-| num_casts || 5
-|-
-| Equip || koboldenchanter
-|-
-| lootgroup || 37
-|-
-| virtue || 7
-|-
-| provoke || 90
-|-
-| MagicItemChance || 45
-|-
-| MagicItemLevel || 4
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x11</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">466</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">37</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">90 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">90 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">125</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-125</span></div>
+  </div>
 
-== Known Spells ==
-* Flamestrike
-* Ebolt
-* Decayingray
-* Darkness
-* Mindblast
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">466</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">102</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">koboldenchanter</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">7</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Decayingray</span>
+    <span class="uo-spell-tag">Darkness</span>
+    <span class="uo-spell-tag">Mindblast</span>
+  </div>
+
+</div>

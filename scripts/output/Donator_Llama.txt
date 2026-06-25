@@ -1,66 +1,43 @@
 [[Category:NPCs]]
 [[Category:DONATOR ANIMALS]]
 
-= Donator Llama =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Donator_Llama.png|thumb|Donator Llama]]
+  <div class="uo-card-canvas">
+    [[File:Donator_Llama.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Donator Llama</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:DONATOR ANIMALS|DONATOR ANIMALS]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>barker</code>
-|-
-| '''Object Type''' || <code>0xdc //220</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:DONATOR ANIMALS|DONATOR ANIMALS]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">0xdc //220</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 33784
-|-
-| Gender || 0
-|-
-| STR || 900
-|-
-| INT || 25
-|-
-| DEX || 60
-|-
-| Parry || 40
-|-
-| Tactics || 50
-|-
-| MaceFighting || 45
-|-
-| Equip || llama
-|-
-| deathsnd || 0xba
-|-
-| guardignore || 1
-|-
-| dstart || 10
-|-
-| tameskill || 200
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>barker</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xdc //220</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">33784</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">900</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">llama</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0xba</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">200</span></div>
+  </div>
+
+</div>

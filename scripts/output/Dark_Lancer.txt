@@ -1,116 +1,68 @@
 [[Category:NPCs]]
 [[Category:Human Boss's]]
 
-= Dark Lancer =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Dark_Lancer.png|thumb|Dark Lancer]]
+  <div class="uo-card-canvas">
+    [[File:Dark_Lancer.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Dark Lancer</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Human Boss's|Human Boss's]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>fastkillpcs</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''CustomHitsLevel''' || 400000
-|-
-| '''Snooping Required''' || 150 Skill
-|-
-| '''Stealing Required''' || 150 Skill
-|-
-| '''MoveSpeed''' || Fastest
-|-
-| '''Slayer Type''' || Human
-|-
-| '''BaseStrmod''' || 700
-|-
-| '''BaseIntmod''' || 100
-|-
-| '''BaseDexmod''' || 50
-|-
-| '''PermMagicImmunity''' || 8
-|-
-| '''PermPoisonImmunity''' || 8
-|-
-| '''PhysicalProtection''' || 10
-|-
-| '''BaseHpRegen''' || 1000
-|-
-| '''mountspawn''' || null
-|-
-| '''Boss''' || 1
-|-
-| '''IsWarrior''' || 4
-|-
-| '''NecroProtection''' || 100
-|-
-| '''HolyProtection''' || 100
-|-
-| '''FireProtection''' || 20
-|-
-| '''WaterProtection''' || 20
-|-
-| '''AirProtection''' || 20
-|-
-| '''EarthProtection''' || 20
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Human Boss's|Human Boss's]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 900
-|-
-| INT || 295
-|-
-| DEX || 400
-|-
-| Tactics || 180
-|-
-| Fencing || 180
-|-
-| Swordsmanship || 180
-|-
-| Parry || 180
-|-
-| Equip || darklancer
-|-
-| mount || 0x3e9f 1157
-|-
-| AR || 270
-|-
-| lootgroup || 105
-|-
-| provoke || 150
-|-
-| magicitemchance || 90
-|-
-| MagicItemLevel || 9
-|-
-| RunSpeed || 250
-|-
-| dstart || 10
-|-
-| Karma || -10000
-|-
-| Fame || 10000
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>fastkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">400000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fastest</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">700</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">8</span></div>
+    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">mountspawn</span><span class="uo-value">null</span></div>
+    <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">IsWarrior</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">20</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">900</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">295</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">400</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fencing</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">darklancer</span></div>
+    <div class="uo-data-row"><span class="uo-label">mount</span><span class="uo-value">0x3e9f 1157</span></div>
+    <div class="uo-data-row"><span class="uo-label">AR</span><span class="uo-value">270</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">9</span></div>
+    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-10000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">10000</span></div>
+  </div>
+
+</div>

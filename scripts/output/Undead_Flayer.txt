@@ -1,105 +1,75 @@
 [[Category:NPCs]]
 [[Category:Undead]]
 
-= Undead Flayer =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Undead_Flayer.png|thumb|Undead Flayer]]
+  <div class="uo-card-canvas">
+    [[File:Undead_Flayer.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Undead Flayer</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Undead|Undead]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x18</code>
-|-
-| '''Color Code''' || 1172
-|-
-| '''Snooping Required''' || 130 Skill
-|-
-| '''Stealing Required''' || 130 Skill
-|-
-| '''Slayer Type''' || Undead
-|-
-| '''BaseStrmod''' || 1000
-|-
-| '''BaseIntmod''' || 2700
-|-
-| '''BaseDexmod''' || 250
-|-
-| '''PermPoisonImmunity''' || 5
-|-
-| '''PermMagicImmunity''' || 6
-|-
-| '''NecroProtection''' || 150
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Undead|Undead]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">24</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 1172
-|-
-| Gender || 0
-|-
-| STR || 300
-|-
-| INT || 150
-|-
-| DEX || 90
-|-
-| Magery || 175
-|-
-| Tactics || 150
-|-
-| MaceFighting || 160
-|-
-| Equip || undeadflayer
-|-
-| cast_pct || 25
-|-
-| num_casts || 6
-|-
-| lootgroup || 103
-|-
-| magicitemchance || 50
-|-
-| Magicitemlevel || 7
-|-
-| virtue || 4
-|-
-| speech || 35
-|-
-| dstart || 10
-|-
-| provoke || 130
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x18</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1172</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">103</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">130 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">130 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">2700</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">150</span></div>
+  </div>
 
-== Known Spells ==
-* Poison
-* Flamestrike
-* Ebolt
-* Lightning
-* Wraithbreath
-* Wyvernstrike
-* Plague
-* Decayingray
-* Darkness
-* Kill
-* Abyssalflame
-* Dispel
-* Masscurse
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1172</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">undeadflayer</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">7</span></div>
+    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Poison</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+    <span class="uo-spell-tag">Ebolt</span>
+    <span class="uo-spell-tag">Lightning</span>
+    <span class="uo-spell-tag">Wraithbreath</span>
+    <span class="uo-spell-tag">Wyvernstrike</span>
+    <span class="uo-spell-tag">Plague</span>
+    <span class="uo-spell-tag">Decayingray</span>
+    <span class="uo-spell-tag">Darkness</span>
+    <span class="uo-spell-tag">Kill</span>
+    <span class="uo-spell-tag">Abyssalflame</span>
+    <span class="uo-spell-tag">Dispel</span>
+    <span class="uo-spell-tag">Masscurse</span>
+  </div>
+
+</div>

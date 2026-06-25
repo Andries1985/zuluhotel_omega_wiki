@@ -1,72 +1,47 @@
 [[Category:NPCs]]
 [[Category:Ratman]]
 
-= Ratman2 =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Ratman2.png|thumb|Ratman2]]
+  <div class="uo-card-canvas">
+    [[File:Ratman2.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Ratman2</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Ratman|Ratman]]
-|-
-| '''Alignment''' || Evil
-|-
-| '''Hostile''' || Yes
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0x2c</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''Snooping Required''' || 70 Skill
-|-
-| '''Stealing Required''' || 70 Skill
-|-
-| '''Slayer Type''' || Ratkin
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Ratman|Ratman]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">44</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 70
-|-
-| INT || 25
-|-
-| DEX || 80
-|-
-| Macefighting || 65
-|-
-| Parry || 60
-|-
-| Tactics || 50
-|-
-| Swordsmanship || 65
-|-
-| Equip || ratman2
-|-
-| lootgroup || 4
-|-
-| provoke || 70
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x2c</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">70 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">70 Skill</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Ratkin</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">ratman2</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

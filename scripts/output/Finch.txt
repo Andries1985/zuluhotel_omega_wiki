@@ -1,84 +1,53 @@
 [[Category:NPCs]]
 [[Category:Unknown]]
 
-= Finch =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Finch.png|thumb|Finch]]
+  <div class="uo-card-canvas">
+    [[File:Finch.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Finch</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Unknown|Unknown]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>listener</code>
-|-
-| '''Object Type''' || <code>0x0</code>
-|-
-| '''Color Code''' || 25125
-|-
-| '''Equipt''' || clothes
-|-
-| '''Slayer Type''' || Human
-|-
-| '''BaseStrmod''' || 10
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Unknown|Unknown]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">0</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 25125
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 200
-|-
-| DEX || 200
-|-
-| Privs || invul
-|-
-| Settings || invul
-|-
-| Swordsmanship || 120
-|-
-| Tactics || 100
-|-
-| Itemidentification || 90
-|-
-| Armslore || 80
-|-
-| Blacksmithy || 90
-|-
-| MaceFighting || 100
-|-
-| guardignore || 1
-|-
-| speech || 28
-|-
-| Equip || listener
-|-
-| AttackAttribute || MaceFighting
-|-
-| AttackSpeed || 80
-|-
-| AttackDamage || 5d100
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>listener</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x0</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">25125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">clothes</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">25125</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Privs</span><span class="uo-value">invul</span></div>
+    <div class="uo-data-row"><span class="uo-label">Settings</span><span class="uo-value">invul</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Itemidentification</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Armslore</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Blacksmithy</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">28</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">listener</span></div>
+    <div class="uo-data-row"><span class="uo-label">AttackAttribute</span><span class="uo-value">MaceFighting</span></div>
+    <div class="uo-data-row"><span class="uo-label">AttackSpeed</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">AttackDamage</span><span class="uo-value">5d100</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

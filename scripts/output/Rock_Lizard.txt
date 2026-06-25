@@ -1,70 +1,46 @@
 [[Category:NPCs]]
 [[Category:Dragonkin]]
 
-= Rock Lizard =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Rock_Lizard.png|thumb|Rock Lizard]]
+  <div class="uo-card-canvas">
+    [[File:Rock_Lizard.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Rock Lizard</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Dragonkin|Dragonkin]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>killpcs</code>
-|-
-| '''Object Type''' || <code>0xca</code>
-|-
-| '''Color Code''' || 0x060a
-|-
-| '''Slayer Type''' || Dragonkin
-|-
-| '''BaseStrmod''' || 100
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Dragonkin|Dragonkin]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">202</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0x060a
-|-
-| Gender || 0
-|-
-| STR || 90
-|-
-| INT || 20
-|-
-| DEX || 70
-|-
-| Tactics || 100
-|-
-| MaceFighting || 130
-|-
-| Equip || rocklizard
-|-
-| deathsnd || 0x1a6
-|-
-| MoveMode || LS
-|-
-| tameskill || 75
-|-
-| food || meat
-|-
-| provoke || 75
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xca</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0x060a</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragonkin</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">0x060a</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">rocklizard</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x1a6</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveMode</span><span class="uo-value">LS</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

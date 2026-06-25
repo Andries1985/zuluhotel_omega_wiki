@@ -1,78 +1,49 @@
 [[Category:NPCs]]
 [[Category:Hardcoded Client Mounts]]
 
-= Ki-Rin =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Ki-Rin.png|thumb|Ki-Rin]]
+  <div class="uo-card-canvas">
+    [[File:Ki-Rin.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Ki-Rin</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]
-|-
-| '''Alignment''' || Good
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>daves_healer</code>
-|-
-| '''Object Type''' || <code>0x84</code>
-|-
-| '''Color Code''' || 0
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Animal
-|-
-| '''BaseStrmod''' || 50
-|-
-| '''BaseIntmod''' || 10
-|-
-| '''BaseDexmod''' || 200
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Hardcoded Client Mounts|Hardcoded Client Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">132</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 0
-|-
-| Gender || 0
-|-
-| STR || 175
-|-
-| INT || 175
-|-
-| DEX || 200
-|-
-| Parry || 110
-|-
-| Tactics || 110
-|-
-| MaceFighting || 160
-|-
-| Magery || 225
-|-
-| Equip || heavenlyfrenziedostard
-|-
-| deathsnd || 0x3EF
-|-
-| tameskill || 150
-|-
-| Karma || 2000
-|-
-| food || veggie
-|-
-| guardignore || 1
-|-
-| provoke || 120
-|-
-| dstart || 10
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>daves_healer</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x84</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">200</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">175</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">160</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">225</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">heavenlyfrenziedostard</span></div>
+    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x3EF</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">2000</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">veggie</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+</div>

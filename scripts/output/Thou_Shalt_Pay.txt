@@ -1,70 +1,46 @@
 [[Category:NPCs]]
 [[Category:Settings					invul]]
 
-= Thou Shalt Pay =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Thou_Shalt_Pay.png|thumb|Thou Shalt Pay]]
+  <div class="uo-card-canvas">
+    [[File:Thou_Shalt_Pay.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Thou Shalt Pay</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Settings					invul|Settings					invul]]
-|-
-| '''Alignment''' || Good
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>instakillguard</code>
-|-
-| '''Object Type''' || <code>0x190</code>
-|-
-| '''Color Code''' || 33784
-|-
-| '''target''' || 0
-|-
-| '''untamable''' || 1
-|-
-| '''Slayer Type''' || Human
-|-
-| '''BaseStrmod''' || 1000
-|-
-| '''BaseIntmod''' || 1000
-|-
-| '''BaseDexmod''' || 10
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Settings					invul|Settings					invul]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| TrueColor || 33784
-|-
-| Gender || 0
-|-
-| STR || 200
-|-
-| INT || 200
-|-
-| DEX || 200
-|-
-| dstart || 10
-|-
-| Swordsmanship || 500
-|-
-| Tactics || 500
-|-
-| Equip || guard
-|-
-| guardignore || 1
-|-
-| Privs || invul
-|-
-| Settings || invul
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>instakillguard</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
+    <div class="uo-data-row"><span class="uo-label">untamable</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+  </div>
 
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">33784</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">guard</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Privs</span><span class="uo-value">invul</span></div>
+    <div class="uo-data-row"><span class="uo-label">Settings</span><span class="uo-value">invul</span></div>
+  </div>
+
+</div>

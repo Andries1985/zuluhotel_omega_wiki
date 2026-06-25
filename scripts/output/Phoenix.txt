@@ -1,105 +1,68 @@
 [[Category:NPCs]]
 [[Category:Elementals]]
 
-= Phoenix =
+<div class="uo-profile-card">
 
-== Appearance ==
-[[File:Phoenix.png|thumb|Phoenix]]
+  <div class="uo-card-canvas">
+    [[File:Phoenix.png|240px]]
+  </div>
 
-----
+  <div class="uo-card-title">Phoenix</div>
 
-== General Information ==
-{| class="wikitable"
-! Property !! Details
-|-
-| '''Config Category''' || [[Category:Elementals|Elementals]]
-|-
-| '''Alignment''' || Neutral
-|-
-| '''Hostile''' || No
-|-
-| '''AI Script''' || <code>spellkillpcs</code>
-|-
-| '''Object Type''' || <code>0x05</code>
-|-
-| '''Color Code''' || 1645
-|-
-| '''MoveSpeed''' || Fast
-|-
-| '''Slayer Type''' || Elemental
-|-
-| '''BaseStrmod''' || 350
-|-
-| '''BaseIntmod''' || 400
-|-
-| '''BaseDexmod''' || 300
-|-
-| '''FireProtection''' || 200
-|-
-| '''AirProtection''' || 00
-|-
-| '''WaterProtection''' || i-100
-|-
-| '''rise''' || phoenix
-|-
-| '''risedelay''' || 4
-|-
-| '''FinalDeath''' || 5
-|}
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">5</span></div>
+  </div>
 
-== Attributes & Combat Skills ==
-{| class="wikitable"
-! Attribute/Skill !! Value
-|-
-| { || 
-|-
-| noloot || 1
-|-
-| TrueColor || 1645
-|-
-| Gender || 0
-|-
-| STR || 100
-|-
-| INT || 100
-|-
-| DEX || 100
-|-
-| Tactics || 110
-|-
-| Swordsmanship || 140
-|-
-| Magery || 130
-|-
-| EvaluatingIntelligence || 120
-|-
-| DetectingHidden || 100
-|-
-| cast_pct || 50
-|-
-| num_casts || 4
-|-
-| Equip || phoenix
-|-
-| MagicItemChance || 95
-|-
-| MagicItemLevel || 4
-|-
-| tameskill || 105
-|-
-| food || veggie
-|-
-| guardignore || 1
-|-
-| provoke || 105
-|-
-| dstart || 10
-|-
-| saywords || 1
-|}
+  <div class="uo-section-header">General Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x05</code></span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1645</span></div>
+    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">350</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">400</span></div>
+    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">00</span></div>
+    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">i-100</span></div>
+    <div class="uo-data-row"><span class="uo-label">rise</span><span class="uo-value">phoenix</span></div>
+    <div class="uo-data-row"><span class="uo-label">risedelay</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">FinalDeath</span><span class="uo-value">5</span></div>
+  </div>
 
-== Known Spells ==
-* Fireball
-* Explosion
-* Flamestrike
+  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">noloot</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1645</span></div>
+    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">phoenix</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">4</span></div>
+    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">veggie</span></div>
+    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+  </div>
 
+  <div class="uo-section-header">Known Spells</div>
+  <div class="uo-spell-tag-list">
+    <span class="uo-spell-tag">Fireball</span>
+    <span class="uo-spell-tag">Explosion</span>
+    <span class="uo-spell-tag">Flamestrike</span>
+  </div>
+
+</div>
