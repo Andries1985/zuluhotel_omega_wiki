@@ -13,62 +13,69 @@
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Orcs|Orcs]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">7</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0X07</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1109</span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">85</span></div>
-    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">37</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">85 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">85 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">300</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">3</span></div>
-    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-100</span></div>
-    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">5</span></div>
-    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">102</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">300</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1109</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">102</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">70</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">90</span></div>
-    <div class="uo-data-row"><span class="uo-label">Wrestling</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
     <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">110</span></div>
-    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">5</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">orcishnecromancer</span></div>
-    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x16f</span></div>
-    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
-    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">7</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">25</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">4</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Wrestling</span><span class="uo-value">95</span></div>
+  </div>
+
+  <div class="uo-section-header">Resistances</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Holyprotection</span><span class="uo-value">-100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">Necroprotection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Physicalprotection</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">5</span></div>
   </div>
 
   <div class="uo-section-header">Known Spells</div>
-  <div class="uo-spell-tag-list">
-    <span class="uo-spell-tag">Flamestrike</span>
-    <span class="uo-spell-tag">Abyssalflame</span>
-    <span class="uo-spell-tag">Ebolt</span>
-    <span class="uo-spell-tag">Decayingray</span>
-    <span class="uo-spell-tag">Darkness</span>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Abyssalflame]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 2</span><span class="uo-value">[[Darkness]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 3</span><span class="uo-value">[[Decayingray]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 4</span><span class="uo-value">[[Ebolt]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 5</span><span class="uo-value">[[Flamestrike]]</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">85</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 37|37]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">4</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1109</span></div>
+    <div class="uo-data-row"><span class="uo-label">Evaluatingintelligence</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">7</span></div>
   </div>
 
 </div>

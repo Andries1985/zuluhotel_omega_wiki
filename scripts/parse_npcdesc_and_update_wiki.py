@@ -2,8 +2,8 @@
 """
 Zuluhotel Omega NPC Configuration Parser
 ========================================
-Description: Parses 'npcdesc.cfg', groups specific keys to Loot Information and
-             Slayer Types, and formats the payload for MediaWiki rendering.
+Description: Parses 'npcdesc.cfg', resolves header string corruption bugs,
+             and handles automated sorting into structured MediaWiki infobox code blocks.
 """
 
 import sys
@@ -61,7 +61,9 @@ def parse_npcs(config_text):
         if stripped.startswith('//'):
             header_content = stripped.lstrip('/').strip()
             if header_content and not header_content.startswith('==') and not re.match(r'^[\s*/#=-]+$', header_content):
-                current_category = header_content
+                # Critical bug fix: Strip braces instantly from header tracking strings
+                header_content = header_content.replace('}', '').replace('{', '').strip()
+                current_category = header_content if header_content else "Townsfolk"
                 continue
 
         if not in_block:
@@ -80,7 +82,11 @@ def parse_npcs(config_text):
 
             if '}' in stripped:
                 if not is_block_commented:
-                    npc_data = process_npc_block(template_id, block_lines, current_category)
+                    # Final safety fallback sweep right before grouping
+                    secure_cat = current_category.replace('}', '').replace('{', '').strip()
+                    final_cat = secure_cat if secure_cat else "Townsfolk"
+                    
+                    npc_data = process_npc_block(template_id, block_lines, final_cat)
                     if npc_data:
                         npcs.append(npc_data)
 
@@ -96,6 +102,7 @@ def process_npc_block(template_id, lines, assigned_category):
         'template': template_id,
         'category': assigned_category,
         'summary': {},
+        'skill_requirements': {},
         'loot': {},
         'other': {},
         'resistances': {},
@@ -104,14 +111,17 @@ def process_npc_block(template_id, lines, assigned_category):
         'spells': []
     }
 
-    DROPPED_PROPERTIES = {'dstart', 'saywords', 'movemode', 'deathsnd', 'cast_pct', 'num_casts', 'equip', 'truecolor', '{'}
+    DROPPED_PROPERTIES = {
+        'dstart', 'saywords', 'movemode', 'deathsnd', 'cast_pct', 'num_casts', 
+        'equip', 'truecolor', '{', 'speech', 'guardignore', 'dress', 'script', 
+        'settings', 'privs'
+    }
     CORE_STATS = {'str', 'dex', 'int', 'basestrmod', 'basedexmod', 'baseintmod'}
     
-    # Valid skills derived strictly from image_842ddb.png
     VALID_SKILLS = {
         "alchemy", "anatomy", "animal lore", "item identification", "arms lore", 
         "parrying", "begging", "blacksmithing", "bowcraft/fletching", "peacemaking", 
-        "camping", "carpentry", "cartography", "cooking", "detecting hidden", 
+        "camping", "carpentry", "cartography", "cooking", "detecting hidden", "detectinghidden",
         "enticement", "evaluating intelligence", "healing", "fishing", "forensic evaluation", 
         "herding", "hiding", "provocation", "inscription", "lockpicking", 
         "magery", "resisting spells", "tactics", "snooping", "musicianship", 
@@ -159,11 +169,15 @@ def process_npc_block(template_id, lines, assigned_category):
 
         if final_key.lower() == 'parry': final_key = 'Parrying'
         elif final_key.lower() == 'macefighting': final_key = 'Mace Fighting'
+        elif final_key.lower() == 'detectinghidden': final_key = 'Detecting Hidden'
         elif final_key.lower() == 'tameskill': final_key = 'Taming Required'
         elif final_key.lower() == 'provoke': final_key = 'Provocation Required'
         elif final_key.lower() == 'snoopme': final_key = 'Snooping Required'
         elif final_key.lower() == 'stealme': final_key = 'Stealing Required'
         elif final_key.lower() == 'peacemaking': final_key = 'Peacemaking Required'
+        elif final_key.lower() == 'permmagicimmunity': final_key = 'Magic Immunity'
+        elif final_key.lower() == 'permpoisonimmunity': final_key = 'Poison Immunity'
+        elif final_key.lower() == 'permmr': final_key = 'Magic Reflect'
 
         if final_key.title() == 'Gender' and final_val.strip() == '0':
             continue
@@ -174,9 +188,11 @@ def process_npc_block(template_id, lines, assigned_category):
 
         if final_key.lower() in ['alignment', 'objtype', 'type']:
             npc_data['summary'][final_key.lower()] = final_val
+        elif 'required' in final_key.lower():
+            npc_data['skill_requirements'][final_key_title] = final_val
         elif final_key.lower() in ['lootgroup', 'magicitemchance', 'magicitemlevel']:
             npc_data['loot'][final_key_title] = final_val
-        elif final_key.lower().endswith('protection'):
+        elif final_key.lower().endswith('protection') or final_key.lower() in ['magic immunity', 'poison immunity', 'magic reflect']:
             npc_data['resistances'][final_key_title] = final_val
         elif final_key.lower() in CORE_STATS:
             npc_data['attributes'][final_key_title] = final_val
@@ -252,7 +268,14 @@ def generate_mediawiki_pages(npcs, output_dir):
                     f.write(f'    <div class="uo-data-row"><span class="uo-label">Spell {index}</span><span class="uo-value">[[{spell}]]</span></div>\n')
                 f.write('  </div>\n\n')
 
-            # 6. Loot Information Section (New Block)
+            # 6. Skill Requirements Section
+            if npc['skill_requirements']:
+                f.write('  <div class="uo-section-header">Skill Requirements</div>\n  <div class="uo-data-group">\n')
+                for req_k, req_v in sorted(npc['skill_requirements'].items()):
+                    f.write(f'    <div class="uo-data-row"><span class="uo-label">{req_k}</span><span class="uo-value">{req_v}</span></div>\n')
+                f.write('  </div>\n\n')
+
+            # 7. Loot Information Section
             if npc['loot']:
                 f.write('  <div class="uo-section-header">Loot Information</div>\n  <div class="uo-data-group">\n')
                 for key, val in sorted(npc['loot'].items()):
@@ -262,12 +285,12 @@ def generate_mediawiki_pages(npcs, output_dir):
                         f.write(f'    <div class="uo-data-row"><span class="uo-label">{key}</span><span class="uo-value">{val}</span></div>\n')
                 f.write('  </div>\n\n')
 
-            # 7. Other Section
+            # 8. Other Section
             if npc['other']:
                 f.write('  <div class="uo-section-header">Other</div>\n  <div class="uo-data-group">\n')
                 for key, val in sorted(npc['other'].items()):
                     if key.lower() == 'hostile': val = 'Yes' if val == '1' else 'No'
-                    elif key.lower() in ['script', 'objtype']: val = f"<code>{val.lower()}</code>"
+                    elif key.lower() in ['objtype']: val = f"<code>{val.lower()}</code>"
                     f.write(f'    <div class="uo-data-row"><span class="uo-label">{key}</span><span class="uo-value">{val}</span></div>\n')
                 f.write('  </div>\n\n')
                 

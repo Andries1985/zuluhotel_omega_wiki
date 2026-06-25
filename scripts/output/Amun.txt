@@ -13,38 +13,44 @@
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Undead|Undead]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1205</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>1205</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0x0455</span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">13</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Undead</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">0x0455</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">155</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">75</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
     <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">130</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">orcdefender</span></div>
-    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">6</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">3</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">3</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   </div>
 
 </div>

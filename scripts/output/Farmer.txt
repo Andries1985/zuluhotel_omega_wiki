@@ -13,44 +13,43 @@
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Settings					invul|Settings					invul]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>merchant</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x190</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-    <div class="uo-data-row"><span class="uo-label">MerchantType</span><span class="uo-value">farmer</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">farmer</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">60 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">60 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">33784</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">lumberjacking</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">mining</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">camping</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">cooking</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">alchemy</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Privs</span><span class="uo-value">invul</span></div>
-    <div class="uo-data-row"><span class="uo-label">Settings</span><span class="uo-value">invul</span></div>
-    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">19</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">farmer</span></div>
-    <div class="uo-data-row"><span class="uo-label">AttackAttribute</span><span class="uo-value">Wrestling</span></div>
-    <div class="uo-data-row"><span class="uo-label">AttackSpeed</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">AttackDamage</span><span class="uo-value">5d100</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alchemy</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Camping</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Cooking</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Lumberjacking</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mining</span><span class="uo-value">100</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">60</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Attackattribute</span><span class="uo-value">Wrestling</span></div>
+    <div class="uo-data-row"><span class="uo-label">Attackdamage</span><span class="uo-value">5D100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Attackspeed</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
+    <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Farmer</span></div>
+    <div class="uo-data-row"><span class="uo-label">Merchanttype</span><span class="uo-value">Farmer</span></div>
   </div>
 
 </div>

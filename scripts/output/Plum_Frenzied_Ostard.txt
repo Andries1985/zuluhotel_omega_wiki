@@ -12,36 +12,38 @@
   <div class="uo-section-header">Summary</div>
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Frenzied Ostards|Frenzied Ostards]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">218</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0xda</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1163</span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">65</span></div>
-    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1163</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">180</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">25</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">85</span></div>
     <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">140</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">frenziedostard</span></div>
-    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0xa3</span></div>
-    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">65</span></div>
-    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">veggie</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">65</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1163</span></div>
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
   </div>
 
 </div>

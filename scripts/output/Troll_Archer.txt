@@ -13,41 +13,48 @@
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Trolls|Trolls]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Troll</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">54</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>explosionkillpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x36</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">85</span></div>
-    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">41</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">85 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">85 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Troll</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">33784</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">90</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">100</span></div>
     <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">trollarcher2</span></div>
-    <div class="uo-data-row"><span class="uo-label">ammotype</span><span class="uo-value">0xf3f</span></div>
-    <div class="uo-data-row"><span class="uo-label">missileweapon</span><span class="uo-value">0x13B2</span></div>
-    <div class="uo-data-row"><span class="uo-label">ammoamount</span><span class="uo-value">35</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">95</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">85</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">85</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 41|41]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">2</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Ammoamount</span><span class="uo-value">35</span></div>
+    <div class="uo-data-row"><span class="uo-label">Ammotype</span><span class="uo-value">0Xf3F</span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">Missileweapon</span><span class="uo-value">0X13B2</span></div>
   </div>
 
 </div>

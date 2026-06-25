@@ -13,52 +13,59 @@
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Gargoyles|Gargoyles]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Gargoyle</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">4</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x4</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">38</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Gargoyle</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">70</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">120</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">70</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">135</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">135</span></div>
     <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">90</span></div>
-    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">65</span></div>
-    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">8</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">gargoyle</span></div>
-    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x179</span></div>
-    <div class="uo-data-row"><span class="uo-label">speech</span><span class="uo-value">54</span></div>
-    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">2</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">80</span></div>
+  </div>
+
+  <div class="uo-section-header">Resistances</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">2</span></div>
   </div>
 
   <div class="uo-section-header">Known Spells</div>
-  <div class="uo-spell-tag-list">
-    <span class="uo-spell-tag">Lightning</span>
-    <span class="uo-spell-tag">Harm</span>
-    <span class="uo-spell-tag">Mindblast</span>
-    <span class="uo-spell-tag">Magicarrow</span>
-    <span class="uo-spell-tag">Fireball</span>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Fireball]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 2</span><span class="uo-value">[[Harm]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 3</span><span class="uo-value">[[Lightning]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 4</span><span class="uo-value">[[Magicarrow]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 5</span><span class="uo-value">[[Mindblast]]</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 38|38]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">2</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Evaluatingintelligence</span><span class="uo-value">65</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   </div>
 
 </div>

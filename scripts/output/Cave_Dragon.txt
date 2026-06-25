@@ -38,6 +38,7 @@
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">-100</span></div>
     <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">4</span></div>
     <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">10</span></div>
   </div>
 
@@ -49,6 +50,12 @@
     <div class="uo-data-row"><span class="uo-label">Spell 4</span><span class="uo-value">[[Paralyze]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Spell 5</span><span class="uo-value">[[Shiftingearth]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Spell 6</span><span class="uo-value">[[Weaken]]</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">130</span></div>
   </div>
 
   <div class="uo-section-header">Loot Information</div>
@@ -65,10 +72,6 @@
     <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
     <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
     <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
-    <div class="uo-data-row"><span class="uo-label">Permmagicimmunity</span><span class="uo-value">4</span></div>
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">130</span></div>
-    <div class="uo-data-row"><span class="uo-label">Script</span><span class="uo-value"><code>chaosspellkillpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">130</span></div>
     <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">8</span></div>
   </div>
 

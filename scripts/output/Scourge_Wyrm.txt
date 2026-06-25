@@ -13,62 +13,72 @@
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Dragon Boss's|Dragon Boss's]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragonkin</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">46</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>chaosfirebreather</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>46</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2125</span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">106</span></div>
-    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">1500000</span></div>
-    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150 Skill</span></div>
-    <div class="uo-data-row"><span class="uo-label">looter</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragonkin</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">3000</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">500</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">550</span></div>
-    <div class="uo-data-row"><span class="uo-label">Permmr</span><span class="uo-value">6</span></div>
-    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">5</span></div>
-    <div class="uo-data-row"><span class="uo-label">PermMagicImmunity</span><span class="uo-value">7</span></div>
-    <div class="uo-data-row"><span class="uo-label">FreeAction</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">500</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseManaRegen</span><span class="uo-value">6000</span></div>
-    <div class="uo-data-row"><span class="uo-label">SuperBoss</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">120</span></div>
-    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">i-80</span></div>
-    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">i-80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">3000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">550</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">500</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">2125</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">190</span></div>
+    <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">190</span></div>
     <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">120</span></div>
-    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">ancientwyrm</span></div>
-    <div class="uo-data-row"><span class="uo-label">deathsnd</span><span class="uo-value">0x16f</span></div>
-    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">8</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">99</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">9</span></div>
-    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">250</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">150</span></div>
+  </div>
+
+  <div class="uo-section-header">Resistances</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fireprotection</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Holyprotection</span><span class="uo-value">-80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">7</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magic Reflect</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Necroprotection</span><span class="uo-value">-80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">40</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">150</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 106|106]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">99</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">9</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">6000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2125</span></div>
+    <div class="uo-data-row"><span class="uo-label">Customhitslevel</span><span class="uo-value">1500000</span></div>
     <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Freeaction</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Looter</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Superboss</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">8</span></div>
   </div>
 
 </div>

@@ -16,82 +16,86 @@
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1125</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>rikktor</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>1125</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1183</span></div>
-    <div class="uo-data-row"><span class="uo-label">Loot Group</span><span class="uo-value">151</span></div>
-    <div class="uo-data-row"><span class="uo-label">CustomHitsLevel</span><span class="uo-value">6000000</span></div>
-    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fastest</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">3050</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">4000</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">250</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseHpRegen</span><span class="uo-value">500</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseManaRegen</span><span class="uo-value">500</span></div>
-    <div class="uo-data-row"><span class="uo-label">PhysicalProtection</span><span class="uo-value">16</span></div>
-    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">EarthProtection</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">70</span></div>
-    <div class="uo-data-row"><span class="uo-label">NecroProtection</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">HolyProtection</span><span class="uo-value">55</span></div>
-    <div class="uo-data-row"><span class="uo-label">FreeAction</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">PermPoisonImmunity</span><span class="uo-value">6</span></div>
-    <div class="uo-data-row"><span class="uo-label">Champion</span><span class="uo-value">3</span></div>
-    <div class="uo-data-row"><span class="uo-label">event</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">IsMage</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">110</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">3050</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">4000</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1183</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">110</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">1000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">1000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
     <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Macefighting</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">dragonking</span></div>
-    <div class="uo-data-row"><span class="uo-label">magicitemchance</span><span class="uo-value">99</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">virtue</span><span class="uo-value">2</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
-    <div class="uo-data-row"><span class="uo-label">RunSpeed</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+  </div>
+
+  <div class="uo-section-header">Resistances</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fireprotection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Holyprotection</span><span class="uo-value">55</span></div>
+    <div class="uo-data-row"><span class="uo-label">Necroprotection</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Physicalprotection</span><span class="uo-value">16</span></div>
+    <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">70</span></div>
   </div>
 
   <div class="uo-section-header">Known Spells</div>
-  <div class="uo-spell-tag-list">
-    <span class="uo-spell-tag">Summonguardian</span>
-    <span class="uo-spell-tag">Summonguardian</span>
-    <span class="uo-spell-tag">Summonguardian</span>
-    <span class="uo-spell-tag">Enlightenment</span>
-    <span class="uo-spell-tag">Calllightning</span>
-    <span class="uo-spell-tag">Gustofair</span>
-    <span class="uo-spell-tag">Icestrike</span>
-    <span class="uo-spell-tag">Shiftingearth</span>
-    <span class="uo-spell-tag">Massgust</span>
-    <span class="uo-spell-tag">Masscalllightning</span>
-    <span class="uo-spell-tag">Massicestrike</span>
-    <span class="uo-spell-tag">Massshiftingearth</span>
-    <span class="uo-spell-tag">Massvatten</span>
-    <span class="uo-spell-tag">Massgust</span>
-    <span class="uo-spell-tag">Masswyvern</span>
-    <span class="uo-spell-tag">Masskill</span>
-    <span class="uo-spell-tag">Masscalllightning</span>
-    <span class="uo-spell-tag">Massicestrike</span>
-    <span class="uo-spell-tag">Massshiftingearth</span>
-    <span class="uo-spell-tag">Massholybolt</span>
-    <span class="uo-spell-tag">Champfire</span>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Calllightning]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 2</span><span class="uo-value">[[Champfire]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 3</span><span class="uo-value">[[Enlightenment]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 4</span><span class="uo-value">[[Gustofair]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 5</span><span class="uo-value">[[Icestrike]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 6</span><span class="uo-value">[[Masscalllightning]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 7</span><span class="uo-value">[[Masscalllightning]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 8</span><span class="uo-value">[[Massgust]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 9</span><span class="uo-value">[[Massgust]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 10</span><span class="uo-value">[[Massholybolt]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 11</span><span class="uo-value">[[Massicestrike]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 12</span><span class="uo-value">[[Massicestrike]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 13</span><span class="uo-value">[[Masskill]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 14</span><span class="uo-value">[[Massshiftingearth]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 15</span><span class="uo-value">[[Massshiftingearth]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 16</span><span class="uo-value">[[Massvatten]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 17</span><span class="uo-value">[[Masswyvern]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 18</span><span class="uo-value">[[Shiftingearth]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 19</span><span class="uo-value">[[Summonguardian]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 20</span><span class="uo-value">[[Summonguardian]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 21</span><span class="uo-value">[[Summonguardian]]</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 151|151]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">99</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Champion</span><span class="uo-value">3</span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1183</span></div>
+    <div class="uo-data-row"><span class="uo-label">Customhitslevel</span><span class="uo-value">6000000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Evaluatingintelligence</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Event</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Freeaction</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">Ismage</span><span class="uo-value">6</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
+    <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">2</span></div>
   </div>
 
 </div>

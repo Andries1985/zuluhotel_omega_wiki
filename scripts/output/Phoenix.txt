@@ -12,57 +12,64 @@
   <div class="uo-section-header">Summary</div>
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">5</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>spellkillpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>0x05</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1645</span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">105</span></div>
-    <div class="uo-data-row"><span class="uo-label">MoveSpeed</span><span class="uo-value">Fast</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">350</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">400</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">300</span></div>
-    <div class="uo-data-row"><span class="uo-label">FireProtection</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">AirProtection</span><span class="uo-value">00</span></div>
-    <div class="uo-data-row"><span class="uo-label">WaterProtection</span><span class="uo-value">i-100</span></div>
-    <div class="uo-data-row"><span class="uo-label">rise</span><span class="uo-value">phoenix</span></div>
-    <div class="uo-data-row"><span class="uo-label">risedelay</span><span class="uo-value">4</span></div>
-    <div class="uo-data-row"><span class="uo-label">FinalDeath</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">350</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">300</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">400</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">noloot</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">TrueColor</span><span class="uo-value">1645</span></div>
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
-    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">100</span></div>
     <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">130</span></div>
-    <div class="uo-data-row"><span class="uo-label">EvaluatingIntelligence</span><span class="uo-value">120</span></div>
-    <div class="uo-data-row"><span class="uo-label">DetectingHidden</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">cast_pct</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">num_casts</span><span class="uo-value">4</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">phoenix</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemChance</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">MagicItemLevel</span><span class="uo-value">4</span></div>
-    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">105</span></div>
-    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">veggie</span></div>
-    <div class="uo-data-row"><span class="uo-label">guardignore</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">saywords</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">140</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+  </div>
+
+  <div class="uo-section-header">Resistances</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">00</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fireprotection</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">-100</span></div>
   </div>
 
   <div class="uo-section-header">Known Spells</div>
-  <div class="uo-spell-tag-list">
-    <span class="uo-spell-tag">Fireball</span>
-    <span class="uo-spell-tag">Explosion</span>
-    <span class="uo-spell-tag">Flamestrike</span>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Explosion]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 2</span><span class="uo-value">[[Fireball]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Spell 3</span><span class="uo-value">[[Flamestrike]]</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">105</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">105</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">4</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1645</span></div>
+    <div class="uo-data-row"><span class="uo-label">Evaluatingintelligence</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Finaldeath</span><span class="uo-value">5</span></div>
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+    <div class="uo-data-row"><span class="uo-label">Noloot</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Rise</span><span class="uo-value">Phoenix</span></div>
+    <div class="uo-data-row"><span class="uo-label">Risedelay</span><span class="uo-value">4</span></div>
   </div>
 
 </div>

@@ -12,32 +12,36 @@
   <div class="uo-section-header">Summary</div>
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Animals|Animals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">302</span></div>
   </div>
 
-  <div class="uo-section-header">General Information</div>
+  <div class="uo-section-header">Attributes</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">AI Script</span><span class="uo-value"><code>killpcs</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Object Type</span><span class="uo-value"><code>302</code></span></div>
-    <div class="uo-data-row"><span class="uo-label">Provoke</span><span class="uo-value">75</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseStrmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseIntmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">BaseDexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">165</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">180</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
   </div>
 
-  <div class="uo-section-header">Attributes & Skills</div>
+  <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">STR</span><span class="uo-value">165</span></div>
-    <div class="uo-data-row"><span class="uo-label">INT</span><span class="uo-value">25</span></div>
-    <div class="uo-data-row"><span class="uo-label">DEX</span><span class="uo-value">180</span></div>
-    <div class="uo-data-row"><span class="uo-label">Parry</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">95</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">90</span></div>
     <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">90</span></div>
-    <div class="uo-data-row"><span class="uo-label">MaceFighting</span><span class="uo-value">95</span></div>
-    <div class="uo-data-row"><span class="uo-label">Equip</span><span class="uo-value">panther</span></div>
-    <div class="uo-data-row"><span class="uo-label">tameskill</span><span class="uo-value">85</span></div>
-    <div class="uo-data-row"><span class="uo-label">food</span><span class="uo-value">meat</span></div>
-    <div class="uo-data-row"><span class="uo-label">dstart</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">85</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
   </div>
 
 </div>
