@@ -3,7 +3,7 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
     [[File:Evilpumpkin.png|240px]]
   </div>
 
@@ -35,8 +35,8 @@
 
   <div class="uo-section-header">Resistances</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">-20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">-20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">150</span></div>
     <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">7</span></div>
   </div>
 

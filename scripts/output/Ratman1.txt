@@ -3,7 +3,7 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative;">
     [[File:Ratman1.png|240px]]
   </div>
 

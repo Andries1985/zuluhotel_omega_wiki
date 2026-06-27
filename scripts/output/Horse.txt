@@ -1,17 +1,406 @@
 [[Category:NPCs]]
-[[Category:Animals]]
+[[Category:Mounts]]
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
-    [[File:Horse.png|240px]]
+{{#tag:tabber|
+ HORSE2 =
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
+    [[File:Horse_HORSE2.png|240px]]
   </div>
 
   <div class="uo-card-title">Horse</div>
 
   <div class="uo-section-header">Summary</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Animals|Animals]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Mounts|Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">200</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE =
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
+    [[File:Horse_HORSE.png|240px]]
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Mounts|Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">204</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE3 =
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
+    [[File:Horse_HORSE3.png|240px]]
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Mounts|Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">226</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE4 =
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
+    [[File:Horse_HORSE4.png|240px]]
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Mounts|Mounts]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">228</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">90</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">25</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
+    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE5 =
+  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
+    [[File:Horse_HORSE5.png|240px]]
+    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1372</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">3</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE6 =
+  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
+    [[File:Horse_HORSE6.png|240px]]
+    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1373</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">3</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE7 =
+  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
+    [[File:Horse_HORSE7.png|240px]]
+    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1374</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">3</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE8 =
+  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
+    [[File:Horse_HORSE8.png|240px]]
+    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1376</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">3</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  </div>
+
+{{!}}-{{!}}
+ HORSE9 =
+  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
+    [[File:Horse_HORSE9.png|240px]]
+    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
+  </div>
+
+  <div class="uo-card-title">Horse</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
     <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1377</span></div>
@@ -53,4 +442,5 @@
     <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   </div>
 
+}}
 </div>

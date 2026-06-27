@@ -1,17 +1,18 @@
 [[Category:NPCs]]
-[[Category:Daemon]]
+[[Category:Uncategorized]]
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
     [[File:Harpy_Queen.png|240px]]
+    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
   </div>
 
   <div class="uo-card-title">Harpy Queen</div>
 
   <div class="uo-section-header">Summary</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Daemon|Daemon]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
     <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1005</span></div>

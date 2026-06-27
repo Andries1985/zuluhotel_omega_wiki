@@ -3,8 +3,10 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
-    [[File:Test_Weapon_Wyrm.png|240px]]
+{{#tag:tabber|
+ TESTWYRMWEAPONS =
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
+    [[File:Test_Weapon_Wyrm_TESTWYRMWEAPONS.png|240px]]
   </div>
 
   <div class="uo-card-title">Test Weapon Wyrm</div>
@@ -36,12 +38,84 @@
 
   <div class="uo-section-header">Resistances</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">2</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fireprotection</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">1</span></div>
     <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">1</span></div>
     <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">2</span></div>
+  </div>
+
+  <div class="uo-section-header">Skill Requirements</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">150</span></div>
+  </div>
+
+  <div class="uo-section-header">Loot Information</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 199|199]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">99</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">9</span></div>
+  </div>
+
+  <div class="uo-section-header">Other</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1151</span></div>
+    <div class="uo-data-row"><span class="uo-label">Customhitslevel</span><span class="uo-value">500</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">10000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-10000</span></div>
+    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
+    <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">250</span></div>
+    <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">6</span></div>
+  </div>
+
+{{!}}-{{!}}
+ TESTWYRMWEAPONSFURY =
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
+    [[File:Test_Weapon_Wyrm_TESTWYRMWEAPONSFURY.png|240px]]
+  </div>
+
+  <div class="uo-card-title">Test Weapon Wyrm</div>
+
+  <div class="uo-section-header">Summary</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Testing Mobs|Testing Mobs]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">59</span></div>
+  </div>
+
+  <div class="uo-section-header">Attributes</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">1</span></div>
+  </div>
+
+  <div class="uo-section-header">Skills</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">180</span></div>
+  </div>
+
+  <div class="uo-section-header">Resistances</div>
+  <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">2</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">1</span></div>
+    <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">2</span></div>
   </div>
 
   <div class="uo-section-header">Skill Requirements</div>
@@ -73,4 +147,5 @@
     <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">6</span></div>
   </div>
 
+}}
 </div>

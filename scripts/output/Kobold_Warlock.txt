@@ -3,7 +3,7 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
     [[File:Kobold_Warlock.png|240px]]
   </div>
 
@@ -29,6 +29,7 @@
 
   <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
+    <div class="uo-data-row"><span class="uo-label">Evaluating Intelligence</span><span class="uo-value">100</span></div>
     <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">100</span></div>
   </div>
 
@@ -61,7 +62,6 @@
   <div class="uo-section-header">Other</div>
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">466</span></div>
-    <div class="uo-data-row"><span class="uo-label">Evaluatingintelligence</span><span class="uo-value">100</span></div>
     <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   </div>
 

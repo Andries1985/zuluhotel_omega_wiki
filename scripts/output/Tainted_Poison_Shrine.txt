@@ -3,7 +3,7 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
     [[File:Tainted_Poison_Shrine.png|240px]]
   </div>
 
@@ -30,6 +30,7 @@
   <div class="uo-section-header">Skills</div>
   <div class="uo-data-group">
     <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">200</span></div>
+    <div class="uo-data-row"><span class="uo-label">Evaluating Intelligence</span><span class="uo-value">200</span></div>
     <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
     <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
     <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">200</span></div>
@@ -38,15 +39,15 @@
 
   <div class="uo-section-header">Resistances</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">75</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fireprotection</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Holyprotection</span><span class="uo-value">-100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">75</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">150</span></div>
+    <div class="uo-data-row"><span class="uo-label">Holy Protection</span><span class="uo-value">-100</span></div>
     <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">8</span></div>
     <div class="uo-data-row"><span class="uo-label">Magic Reflect</span><span class="uo-value">5</span></div>
-    <div class="uo-data-row"><span class="uo-label">Necroprotection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Necro Protection</span><span class="uo-value">100</span></div>
     <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">8</span></div>
-    <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">10</span></div>
+    <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">10</span></div>
   </div>
 
   <div class="uo-section-header">Known Spells</div>
@@ -81,7 +82,6 @@
     <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">60000</span></div>
     <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2158</span></div>
     <div class="uo-data-row"><span class="uo-label">Customhitslevel</span><span class="uo-value">500000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Evaluatingintelligence</span><span class="uo-value">200</span></div>
     <div class="uo-data-row"><span class="uo-label">Event</span><span class="uo-value">1</span></div>
     <div class="uo-data-row"><span class="uo-label">Finaldeath</span><span class="uo-value">1</span></div>
     <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>

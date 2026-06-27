@@ -1,9 +1,9 @@
 [[Category:NPCs]]
-[[Category:Glutton Summons]]
+[[Category:Daemon Boss's]]
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
     [[File:Greater_Bone_Daemon.png|240px]]
   </div>
 
@@ -11,7 +11,7 @@
 
   <div class="uo-section-header">Summary</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Glutton Summons|Glutton Summons]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Daemon Boss's|Daemon Boss's]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
     <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">308</span></div>
@@ -35,11 +35,11 @@
 
   <div class="uo-section-header">Resistances</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">120</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fireprotection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">20</span></div>
     <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">8</span></div>
-    <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">20</span></div>
+    <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">20</span></div>
   </div>
 
   <div class="uo-section-header">Skill Requirements</div>

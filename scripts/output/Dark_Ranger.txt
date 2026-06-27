@@ -3,7 +3,7 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
     [[File:Dark_Ranger.png|240px]]
   </div>
 
@@ -37,8 +37,8 @@
 
   <div class="uo-section-header">Resistances</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Holyprotection</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Necroprotection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Holy Protection</span><span class="uo-value">50</span></div>
+    <div class="uo-data-row"><span class="uo-label">Necro Protection</span><span class="uo-value">50</span></div>
     <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">3</span></div>
   </div>
 

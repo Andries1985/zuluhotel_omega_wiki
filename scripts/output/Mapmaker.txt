@@ -1,9 +1,9 @@
 [[Category:NPCs]]
-[[Category:Settings					invul]]
+[[Category:]]
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
     [[File:Mapmaker.png|240px]]
   </div>
 
@@ -11,7 +11,7 @@
 
   <div class="uo-section-header">Summary</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Settings					invul|Settings					invul]]</span></div>
+    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:|]]</span></div>
     <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
     <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Human</span></div>
     <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">400</span></div>

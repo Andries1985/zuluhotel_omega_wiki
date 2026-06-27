@@ -3,7 +3,7 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas">
+  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
     [[File:Elder_Guardian_Buran.png|240px]]
   </div>
 
@@ -37,15 +37,15 @@
 
   <div class="uo-section-header">Resistances</div>
   <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Airprotection</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">Earthprotection</span><span class="uo-value">120</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fireprotection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">120</span></div>
+    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">40</span></div>
     <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">3</span></div>
     <div class="uo-data-row"><span class="uo-label">Magic Reflect</span><span class="uo-value">2</span></div>
-    <div class="uo-data-row"><span class="uo-label">Necroprotection</span><span class="uo-value">100</span></div>
+    <div class="uo-data-row"><span class="uo-label">Necro Protection</span><span class="uo-value">100</span></div>
     <div class="uo-data-row"><span class="uo-label">Physicalprotection</span><span class="uo-value">8</span></div>
     <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">6</span></div>
-    <div class="uo-data-row"><span class="uo-label">Waterprotection</span><span class="uo-value">40</span></div>
+    <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">40</span></div>
   </div>
 
   <div class="uo-section-header">Skill Requirements</div>
