@@ -3,45 +3,42 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Stygian_Shrine_Lord.png|240px]]
-  </div>
-
   <div class="uo-card-title">Stygian Shrine Lord</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Shrine Lords|Shrine Lords]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">199</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Stygian_Shrine_Lord.png|240px]]
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Shrine Lords|Shrine Lords]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">199</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Inscription</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">90</span></div>
-    <div class="uo-data-row"><span class="uo-label">Meditation</span><span class="uo-value">90</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">210</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">210</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">210</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Attackattribute</span><span class="uo-value">Macefighting</span></div>
-    <div class="uo-data-row"><span class="uo-label">Attackdamage</span><span class="uo-value">5D100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Attackspeed</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1174</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Inscription</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">90</span></div>
+  <div class="uo-data-row"><span class="uo-label">Meditation</span><span class="uo-value">90</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+</div>
+
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Attack Attribute</span><span class="uo-value">Macefighting</span></div>
+  <div class="uo-data-row"><span class="uo-label">Attack Damage</span><span class="uo-value">5D100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1174</span></div>
+</div>
 
 </div>

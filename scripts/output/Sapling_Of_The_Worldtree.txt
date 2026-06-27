@@ -1,70 +1,67 @@
 [[Category:NPCs]]
-[[Category:Plant Boss's]]
+[[Category:Plant Boss'S]]
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Sapling_Of_The_Worldtree.png|240px]]
-  </div>
-
   <div class="uo-card-title">Sapling Of The Worldtree</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Plant Boss's|Plant Boss's]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Plant</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1816</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Sapling_Of_The_Worldtree.png|240px]]
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">2000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">450</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">2050</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">100</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Plant Boss'S|Plant Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Plant</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1816</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">4050</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">400</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">550</span></div>
+</div>
 
-  <div class="uo-section-header">Resistances</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">120</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">40</span></div>
-    <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">8</span></div>
-    <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">40</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150</span></div>
-  </div>
+<div class="uo-section-header">Resistances</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">40</span></div>
+  <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">120</span></div>
+  <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">40</span></div>
+  <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">40</span></div>
+  <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">8</span></div>
+  <div class="uo-data-row"><span class="uo-label">Free Action</span><span class="uo-value">1</span></div>
+</div>
 
-  <div class="uo-section-header">Loot Information</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 106|106]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">90</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">9</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">2000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Customhitslevel</span><span class="uo-value">2500000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">15000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Freeaction</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-15000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Superboss</span><span class="uo-value">1</span></div>
-  </div>
+<div class="uo-section-header">Loot Information</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 106|106]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">90</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">9</span></div>
+</div>
+
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">2000</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">15000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">2500000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-15000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Superboss</span><span class="uo-value">Yes</span></div>
+</div>
 
 </div>

@@ -3,76 +3,72 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Holy_Wisp.png|240px]]
-  </div>
-
   <div class="uo-card-title">Holy Wisp</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">58</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Holy_Wisp.png|240px]]
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">175</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">60</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">325</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elementals|Elementals]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">58</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Evaluating Intelligence</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">110</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">300</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">235</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">525</span></div>
+</div>
 
-  <div class="uo-section-header">Resistances</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">125</span></div>
-    <div class="uo-data-row"><span class="uo-label">Holy Protection</span><span class="uo-value">250</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magic Reflect</span><span class="uo-value">8</span></div>
-    <div class="uo-data-row"><span class="uo-label">Necro Protection</span><span class="uo-value">-50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">6</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Evaluating Intelligence</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">110</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+</div>
 
-  <div class="uo-section-header">Known Spells</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Astralstorm]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Spell 2</span><span class="uo-value">[[Divinefury]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Spell 3</span><span class="uo-value">[[Gustofair]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Spell 4</span><span class="uo-value">[[Holybolt]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Spell 5</span><span class="uo-value">[[Icestrike]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Spell 6</span><span class="uo-value">[[Risingfire]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Spell 7</span><span class="uo-value">[[Shiftingearth]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Spell 8</span><span class="uo-value">[[Wrathofgod]]</span></div>
-  </div>
+<div class="uo-section-header">Resistances</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">125</span></div>
+  <div class="uo-data-row"><span class="uo-label">Holy Protection</span><span class="uo-value">250</span></div>
+  <div class="uo-data-row"><span class="uo-label">Necro Protection</span><span class="uo-value">-50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magic Reflect</span><span class="uo-value">8</span></div>
+  <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">6</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">100</span></div>
-  </div>
+<div class="uo-section-header">Known Spells</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Astralstorm]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Spell 2</span><span class="uo-value">[[Divinefury]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Spell 3</span><span class="uo-value">[[Gustofair]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Spell 4</span><span class="uo-value">[[Holybolt]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Spell 5</span><span class="uo-value">[[Icestrike]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Spell 6</span><span class="uo-value">[[Risingfire]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Spell 7</span><span class="uo-value">[[Shiftingearth]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Spell 8</span><span class="uo-value">[[Wrathofgod]]</span></div>
+</div>
 
-  <div class="uo-section-header">Loot Information</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">45</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">3</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">100</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1153</span></div>
-    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">2000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">-5</span></div>
-  </div>
+<div class="uo-section-header">Loot Information</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">3</span></div>
+</div>
+
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1153</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">2000</span></div>
+</div>
 
 </div>

@@ -1,51 +1,48 @@
 [[Category:NPCs]]
-[[Category:TestNPCs]]
+[[Category:Testnpcs]]
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Test_Npc_2.png|240px]]
-  </div>
-
   <div class="uo-card-title">Test Npc 2</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:TestNPCs|TestNPCs]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1552</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Test_Npc_2.png|240px]]
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">170</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">165</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">125</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">110</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">110</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">110</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Testnpcs|Testnpcs]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1552</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">130</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">280</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">275</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">235</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">80</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">130</span></div>
+</div>
 
-  <div class="uo-section-header">Loot Information</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 300|300]]</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">80</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
-  </div>
+<div class="uo-section-header">Loot Information</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 300|300]]</span></div>
+</div>
+
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
+</div>
 
 </div>

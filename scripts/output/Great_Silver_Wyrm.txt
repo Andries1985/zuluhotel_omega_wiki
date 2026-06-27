@@ -3,36 +3,33 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
-    [[File:Great_Silver_Wyrm.png|240px]]
-    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
-  </div>
-
   <div class="uo-card-title">Great Silver Wyrm</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragon</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1339</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444;">
+[[File:Great_Silver_Wyrm.png|240px]]
+<div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This NPC has not been categorized yet and contains dummy values.">!</div>
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">700</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">230</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">380</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">1400</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">500</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">800</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragon</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1339</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">170</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">170</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">2100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">730</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">1180</span></div>
+</div>
+
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">170</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">170</span></div>
+</div>
 
 </div>

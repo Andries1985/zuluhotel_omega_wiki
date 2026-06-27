@@ -3,105 +3,96 @@
 
 <div class="uo-profile-card">
 
-{{#tag:tabber|
- KOBOLD3 =
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Kobold_Warrior_KOBOLD3.png|240px]]
-  </div>
-
   <div class="uo-card-title">Kobold Warrior</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Kobolds|Kobolds]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">7</span></div>
-  </div>
+<tabber>
+|-| Kobold3 =
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Kobold_Warrior.png|240px]]
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">30</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Kobolds|Kobolds]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">7</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">85</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">80</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">165</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">40</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">50</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">85</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">80</span></div>
+</div>
 
-  <div class="uo-section-header">Loot Information</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 43|43]]</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">50</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2130</span></div>
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  </div>
+<div class="uo-section-header">Loot Information</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 43|43]]</span></div>
+</div>
 
-{{!}}-{{!}}
- KOBOLD4 =
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Kobold_Warrior_KOBOLD4.png|240px]]
-  </div>
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2130</span></div>
+  <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+</div>
 
-  <div class="uo-card-title">Kobold Warrior</div>
+|-| Variant 2 =
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Kobold_Warrior.png|240px]]
+</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Kobolds|Kobolds]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">7</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Kobolds|Kobolds]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Orc</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">7</span></div>
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">30</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">10</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">165</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">40</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">95</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">95</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">50</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">50</span></div>
+</div>
 
-  <div class="uo-section-header">Loot Information</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 43|43]]</span></div>
-  </div>
+<div class="uo-section-header">Loot Information</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 43|43]]</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2130</span></div>
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  </div>
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2130</span></div>
+  <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+</div>
 
-}}
+</tabber>
 </div>

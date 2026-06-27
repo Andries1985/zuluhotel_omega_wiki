@@ -3,55 +3,52 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444; margin-top: 10px;">
-    [[File:Daemon_Large_Wings.png|240px]]
-    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This variant contains uncategorized layout data.">!</div>
-  </div>
-
   <div class="uo-card-title">Daemon Large Wings</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">346</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444;">
+[[File:Daemon_Large_Wings.png|240px]]
+<div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This NPC has not been categorized yet and contains dummy values.">!</div>
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">155</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">75</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">10</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Uncategorized|Uncategorized]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Daemon</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">346</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">305</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">230</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">85</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
-    <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+</div>
 
-  <div class="uo-section-header">Loot Information</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magicitemchance</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magicitemlevel</span><span class="uo-value">3</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  </div>
+<div class="uo-section-header">Loot Information</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">3</span></div>
+</div>
+
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+  <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+</div>
 
 </div>

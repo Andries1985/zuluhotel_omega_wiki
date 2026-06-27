@@ -1,75 +1,71 @@
 [[Category:NPCs]]
-[[Category:DO NOT REMOVE]]
+[[Category:Summon]]
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Spawn_Of_The_Earth.png|240px]]
-  </div>
-
   <div class="uo-card-title">Spawn Of The Earth</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:DO NOT REMOVE|DO NOT REMOVE]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">199</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Spawn_Of_The_Earth.png|240px]]
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">100</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">500</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">1900</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Summon|Summon]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">199</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Evaluating Intelligence</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">600</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">2000</span></div>
+</div>
 
-  <div class="uo-section-header">Resistances</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Holy Protection</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">5</span></div>
-    <div class="uo-data-row"><span class="uo-label">Necro Protection</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">5</span></div>
-    <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">20</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Evaluating Intelligence</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">200</span></div>
+</div>
 
-  <div class="uo-section-header">Known Spells</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Summonsshiftingearth]]</span></div>
-  </div>
+<div class="uo-section-header">Resistances</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Air Protection</span><span class="uo-value">20</span></div>
+  <div class="uo-data-row"><span class="uo-label">Earth Protection</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">Fire Protection</span><span class="uo-value">20</span></div>
+  <div class="uo-data-row"><span class="uo-label">Water Protection</span><span class="uo-value">20</span></div>
+  <div class="uo-data-row"><span class="uo-label">Holy Protection</span><span class="uo-value">20</span></div>
+  <div class="uo-data-row"><span class="uo-label">Necro Protection</span><span class="uo-value">20</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">5</span></div>
+  <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">5</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">100</span></div>
-  </div>
+<div class="uo-section-header">Known Spells</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Spell 1</span><span class="uo-value">[[Summonsshiftingearth]]</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">20</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">60000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2021</span></div>
-    <div class="uo-data-row"><span class="uo-label">Customhitslevel</span><span class="uo-value">100000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Ebsummons</span><span class="uo-value">1</span></div>
-    <div class="uo-data-row"><span class="uo-label">Fame</span><span class="uo-value">10000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">-10000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Virtue</span><span class="uo-value">2</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">100</span></div>
+</div>
+
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">20</span></div>
+  <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">60000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2021</span></div>
+  <div class="uo-data-row"><span class="uo-label">Ebsummons</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">100000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-10000</span></div>
+</div>
 
 </div>

@@ -3,49 +3,46 @@
 
 <div class="uo-profile-card">
 
-  <div class="uo-card-canvas" style="position: relative; margin-top: 10px;">
-    [[File:Lasher.png|240px]]
-  </div>
-
   <div class="uo-card-title">Lasher</div>
 
-  <div class="uo-section-header">Summary</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Mounts|Mounts]]</span></div>
-    <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
-    <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
-    <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1407</span></div>
-  </div>
+<div class="uo-card-canvas" style="position: relative;">
+[[File:Lasher.png|240px]]
+</div>
 
-  <div class="uo-section-header">Attributes</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">575</span></div>
-    <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">575</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basestrmod</span><span class="uo-value">50</span></div>
-    <div class="uo-data-row"><span class="uo-label">Basedexmod</span><span class="uo-value">200</span></div>
-    <div class="uo-data-row"><span class="uo-label">Baseintmod</span><span class="uo-value">510</span></div>
-  </div>
+<div class="uo-section-header">Summary</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Mounts|Mounts]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Good</span></div>
+  <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Animal</span></div>
+  <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1407</span></div>
+</div>
 
-  <div class="uo-section-header">Skills</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">225</span></div>
-    <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">110</span></div>
-    <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
-  </div>
+<div class="uo-section-header">Attributes</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Str</span><span class="uo-value">625</span></div>
+  <div class="uo-data-row"><span class="uo-label">Dex</span><span class="uo-value">400</span></div>
+  <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">1085</span></div>
+</div>
 
-  <div class="uo-section-header">Skill Requirements</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">150</span></div>
-    <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">150</span></div>
-  </div>
+<div class="uo-section-header">Skills</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">225</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">110</span></div>
+  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+</div>
 
-  <div class="uo-section-header">Other</div>
-  <div class="uo-data-group">
-    <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
-    <div class="uo-data-row"><span class="uo-label">Karma</span><span class="uo-value">6000</span></div>
-    <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
-  </div>
+<div class="uo-section-header">Skill Requirements</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">150</span></div>
+</div>
+
+<div class="uo-section-header">Other</div>
+<div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">6000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
+</div>
 
 </div>
