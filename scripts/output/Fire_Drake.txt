@@ -1,4 +1,3 @@
-[[Category:NPCs]]
 [[Category:Drakes]]
 
 <div class="uo-profile-card">
@@ -52,7 +51,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 36|36]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 36|36]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">25</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">4</span></div>
 </div>
@@ -103,7 +102,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 13|13]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">50</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">3</span></div>
 </div>

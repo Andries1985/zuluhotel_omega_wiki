@@ -1,4 +1,3 @@
-[[Category:NPCs]]
 [[Category:Uncategorized]]
 
 <div class="uo-profile-card">
@@ -42,7 +41,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 72|72]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 72|72]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">75</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">6</span></div>
 </div>
@@ -91,7 +90,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 73|73]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 73|73]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">76</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">6</span></div>
 </div>

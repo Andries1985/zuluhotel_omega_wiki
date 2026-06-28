@@ -1,4 +1,3 @@
-[[Category:NPCs]]
 [[Category:Skeletons, Mummys, Zombies]]
 
 <div class="uo-profile-card">
@@ -47,7 +46,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 15|15]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 15|15]]</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
@@ -102,7 +101,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 15|15]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 15|15]]</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
@@ -157,7 +156,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 15|15]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 15|15]]</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>

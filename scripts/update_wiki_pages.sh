@@ -1,11 +1,6 @@
 #!/bin/bash
 # ==============================================================================
-# Zuluhotel Omega Docker Wiki Synchronizer Script (Modern Layout Compliant)
-# ==============================================================================
-# Recommended Pipeline Execution Sequence:
-#   1. rm -rf output/*.txt
-#   2. python3 parse_npcdesc_and_update_wiki.py
-#   3. ./update_wiki_pages.sh
+# Zuluhotel Omega Docker Wiki Synchronizer Script (CategoryTree Cache Variant)
 # ==============================================================================
 
 OUTPUT_DIR="$HOME/git/zuluhotel_omega_wiki/scripts/output"
@@ -15,76 +10,89 @@ CONTAINER_TARGET_DIR="/var/www/html/maintenance/wiki_import"
 
 if [ ! -f "$OUTPUT_DIR/current_npcs.list" ]; then
     echo "❌ Error: output/current_npcs.list is missing."
-    echo "💡 Please ensure you execute the recommended 3-step pipeline sequence:"
-    echo "   1. rm -rf output/*.txt"
-    echo "   2. python3 parse_npcdesc_and_update_wiki.py"
-    echo "   3. ./update_wiki_pages.sh"
     exit 1
 fi
 
-echo "🧽 Fetching all existing wiki pages from Category:NPCs using modern database layout..."
+# Build master tracker manifest
+cp "$OUTPUT_DIR/current_npcs.list" "$OUTPUT_DIR/current_total_manifest.tmp"
+for cat_file in "$OUTPUT_DIR"/Category:*.txt; do
+    if [ -e "$cat_file" ]; then
+        cat_page_title=$(basename "$cat_file" .txt)
+        echo "$cat_page_title" >> "$OUTPUT_DIR/current_total_manifest.tmp"
+    fi
+done
+
+echo "🧽 Auditing workspace to purge legacy main-namespace clutter..."
+sudo docker exec -u www-data "$CONTAINER_NAME" \
+    php /var/www/html/maintenance/run.php sql.php \
+    --query "SELECT page_title FROM page WHERE page_namespace = 0 AND page_title LIKE 'Category%';" | \
+    grep -v -E '(page_title|-----)' | sed 's/_/ /g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' > "$OUTPUT_DIR/to_delete.list"
+
+# Standard deletion check against Category leaks
 EXISTING_WIKI_PAGES=$(sudo docker exec -u www-data "$CONTAINER_NAME" \
     php /var/www/html/maintenance/run.php sql.php \
     --query "SELECT cl_from FROM categorylinks JOIN linktarget ON cl_target_id = lt_id WHERE lt_namespace = 14 AND lt_title = 'NPCs';" | \
     grep -E '^[0-9]+$' | tr '\n' ',' | sed 's/,$//')
 
-rm -f "$OUTPUT_DIR/to_delete.list"
-
 if [ ! -z "$EXISTING_WIKI_PAGES" ]; then
     sudo docker exec -u www-data "$CONTAINER_NAME" \
         php /var/www/html/maintenance/run.php sql.php \
-        --query "SELECT page_title FROM page WHERE page_id IN ($EXISTING_WIKI_PAGES);" | \
-        grep -v -E '(page_title|-----)' | sed 's/_/ /g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' > "$OUTPUT_DIR/wiki_database_npcs.list"
+        --query "SELECT page_title, page_namespace FROM page WHERE page_id IN ($EXISTING_WIKI_PAGES);" | \
+        grep -v -E '(page_title|-----)' | while read -r title ns; do
+            if [ "$ns" = "14" ]; then
+                echo "Category:$title" | sed 's/_/ /g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' >> "$OUTPUT_DIR/db_raw.tmp"
+            else
+                echo "$title" | sed 's/_/ /g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' >> "$OUTPUT_DIR/db_raw.tmp"
+            fi
+        done
 
-    sort "$OUTPUT_DIR/wiki_database_npcs.list" > "$OUTPUT_DIR/db_sorted.tmp"
-    sort "$OUTPUT_DIR/current_npcs.list" > "$OUTPUT_DIR/curr_sorted.tmp"
-    comm -23 "$OUTPUT_DIR/db_sorted.tmp" "$OUTPUT_DIR/curr_sorted.tmp" > "$OUTPUT_DIR/to_delete.list"
-    
-    # Wipe targeted corrupt comma pages directly matching database configurations
-    grep -E '^,' "$OUTPUT_DIR/wiki_database_npcs.list" >> "$OUTPUT_DIR/to_delete.list"
-    
-    sort -u "$OUTPUT_DIR/to_delete.list" -o "$OUTPUT_DIR/to_delete.list"
-    rm -f "$OUTPUT_DIR/*.tmp" "$OUTPUT_DIR/wiki_database_npcs.list"
+    if [ -f "$OUTPUT_DIR/db_raw.tmp" ]; then
+        sort "$OUTPUT_DIR/db_raw.tmp" > "$OUTPUT_DIR/db_sorted.tmp"
+        sort "$OUTPUT_DIR/current_total_manifest.tmp" > "$OUTPUT_DIR/curr_sorted.tmp"
+        comm -23 "$OUTPUT_DIR/db_sorted.tmp" "$OUTPUT_DIR/current_total_manifest.tmp" >> "$OUTPUT_DIR/to_delete.list" 2>/dev/null || true
+        rm -f "$OUTPUT_DIR"/*.tmp
+    fi
 fi
 
 if [ -s "$OUTPUT_DIR/to_delete.list" ]; then
-    echo "🗑️ Found old/orphaned records on the live wiki database. Processing automated removals..."
-    cat "$OUTPUT_DIR/to_delete.list" | while read -r old_page; do
-        echo "   -> Dropping page: $old_page"
-    done
-    
-    sudo docker cp "$OUTPUT_DIR/to_delete.list" "${CONTAINER_NAME}:/var/www/html/maintenance/"
+    sort -u "$OUTPUT_DIR/to_delete.list" -o "$OUTPUT_DIR/to_delete.list"
+    echo "🗑️ Wiping out orphaned profiles and broken namespace items..."
+    sudo docker cp "$OUTPUT_DIR/to_delete.list" "${CONTAINER_NAME}:/var/www/html/maintenance/delete_manifest.list"
     sudo docker exec -u www-data "$CONTAINER_NAME" \
         php /var/www/html/maintenance/run.php deleteBatch.php \
-        --r "Automated Sync: Profile asset removed or updated in master file configurations" \
-        /var/www/html/maintenance/to_delete.list > /dev/null
-    sudo docker exec -it "$CONTAINER_NAME" rm -f /var/www/html/maintenance/to_delete.list
-else
-    echo "🎉 Matrix environment clean! No obsolete assets detected for deletion."
+        --r "Sync Cleanup: Automated structural integrity purge" \
+        /var/www/html/maintenance/delete_manifest.list > /dev/null
+    sudo docker exec -i "$CONTAINER_NAME" rm -f /var/www/html/maintenance/delete_manifest.list
 fi
-rm -f "$OUTPUT_DIR/to_delete.list"
+rm -f "$OUTPUT_DIR/to_delete.list" "$OUTPUT_DIR/current_total_manifest.tmp"
 
-echo "📦 Transferring updated dataset to temporary runtime environment..."
+echo "📦 Transferring pristine datasets directly into Container workspace..."
 rm -rf "$HOST_STAGE_DIR"
 mkdir -p "$HOST_STAGE_DIR"
 cp "$OUTPUT_DIR"/*.txt "$HOST_STAGE_DIR/"
 
-sudo docker cp "$HOST_STAGE_DIR" "${CONTAINER_NAME}:/var/www/html/maintenance/"
+sudo docker exec -i "$CONTAINER_NAME" rm -rf "$CONTAINER_TARGET_DIR"
+sudo docker cp "$HOST_STAGE_DIR" "${CONTAINER_NAME}:$CONTAINER_TARGET_DIR"
 
-echo "📥 Launching bulk text payload injection array..."
-sudo docker exec -u www-data -it "$CONTAINER_NAME" \
+echo "📥 Launching text payload execution matrix..."
+sudo docker exec -u www-data -i "$CONTAINER_NAME" \
     php /var/www/html/maintenance/run.php importTextFiles.php \
     --prefix "" \
     --overwrite \
-    "$CONTAINER_TARGET_DIR"/*.txt
+    "$CONTAINER_TARGET_DIR"/*.txt > /dev/null
 
-echo "🔄 Purging cache configurations and rebuilding relational search trees..."
-sudo docker exec -u www-data -it "$CONTAINER_NAME" php /var/www/html/maintenance/run.php refreshLinks.php --all > /dev/null
-sudo docker exec -u www-data -it "$CONTAINER_NAME" php /var/www/html/maintenance/run.php purgeParserCache.php --age 0 > /dev/null
+echo "🔄 Executing Category link updates and structural syncs..."
+sudo docker exec -u www-data -i "$CONTAINER_NAME" php /var/www/html/maintenance/run.php refreshLinks.php --namespace 14 > /dev/null
 
-echo "🗑️ Clearing secondary temporary system file paths..."
-sudo docker exec -it "$CONTAINER_NAME" rm -rf "$CONTAINER_TARGET_DIR"
+echo "⚙️ Flushing backlogged system jobs..."
+sudo docker exec -u www-data -i "$CONTAINER_NAME" php /var/www/html/maintenance/run.php runJobs.php > /dev/null
+
+echo "🚀 Evicting cache layers to live-update the Main Page layout..."
+sudo docker exec -u www-data -i "$CONTAINER_NAME" php /var/www/html/maintenance/run.php purgePage.php "Main Page" > /dev/null
+sudo docker exec -u www-data -i "$CONTAINER_NAME" php /var/www/html/maintenance/run.php purgeParserCache.php --age 0 > /dev/null
+
+echo "🗑️ Clearing staging environments..."
+sudo docker exec -i "$CONTAINER_NAME" rm -rf "$CONTAINER_TARGET_DIR"
 rm -rf "$HOST_STAGE_DIR"
 
-echo "✅ Optimization Sequence complete. All wiki components updated cleanly."
-
+echo "✅ Success! CategoryTree dropdown menus have fully refreshed."

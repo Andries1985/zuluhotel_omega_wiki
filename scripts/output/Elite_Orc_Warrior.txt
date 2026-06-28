@@ -1,4 +1,3 @@
-[[Category:NPCs]]
 [[Category:Orcs]]
 
 <div class="uo-profile-card">
@@ -39,7 +38,7 @@
 
 <div class="uo-section-header">Loot Information</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup 43|43]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup 43|43]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Chance</span><span class="uo-value">30</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Item Level</span><span class="uo-value">2</span></div>
 </div>

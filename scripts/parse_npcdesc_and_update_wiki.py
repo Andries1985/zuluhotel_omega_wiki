@@ -222,7 +222,7 @@ def parse_npc_config(cfg_path):
 
                 final_key_title = final_key.title() if not final_key_lower in CLASS_LEVELS_MAP else final_key
 
-                # Binary Conversions (Excluding Champion so it stays numerical)
+                # Binary Conversions
                 if final_key.lower() in ['nocorpse', 'no corpse', 'looter', 'boss', 'superboss', 'free action', 'freeaction']:
                     final_val = 'Yes' if final_val.strip() in ['1', 'Boss 1', 'Superboss 1'] else 'No'
                 elif final_key.lower() == 'gender':
@@ -296,7 +296,8 @@ def write_wiki_pages(npcs, output_dir):
         use_tabber = len(variants) > 1
 
         with open(filepath, 'w') as f:
-            f.write(f"[[Category:NPCs]]\n[[Category:{primary_variant['category']}]]\n\n")
+            # Tell MediaWiki that this NPC belongs inside the true Category namespace page
+            f.write(f"[[Category:{primary_variant['category']}]]\n\n")
             f.write('<div class="uo-profile-card">\n\n')
             f.write(f'  <div class="uo-card-title">{base_name}</div>\n\n')
 
@@ -338,7 +339,7 @@ def write_wiki_pages(npcs, output_dir):
                     f.write('<div class="uo-section-header">Attributes</div>\n<div class="uo-data-group">\n')
                     for attr in ATTR_ORDER:
                         if attr in npc['attributes']:
-                            f.write(f'  <div class="uo-data-row"><span class="uo-label">{attr}</span><span class="uo-value">{npc["attributes"][attr]}</span></div>\n')
+                            f.write(f'  <div class="uo-data-row"><span class="uo-label">{attr}</span><span class="uo-value">{npc['attributes'][attr]}</span></div>\n')
                     f.write('</div>\n\n')
 
                 # --- SKILLS ---
@@ -353,7 +354,7 @@ def write_wiki_pages(npcs, output_dir):
                     f.write('<div class="uo-section-header">Resistances</div>\n<div class="uo-data-group">\n')
                     for res_k in RESIST_ORDER:
                         if res_k in npc['resistances']:
-                            f.write(f'  <div class="uo-data-row"><span class="uo-label">{res_k}</span><span class="uo-value">{npc["resistances"][res_k]}</span></div>\n')
+                            f.write(f'  <div class="uo-data-row"><span class="uo-label">{res_k}</span><span class="uo-value">{npc['resistances'][res_k]}</span></div>\n')
                     f.write('</div>\n\n')
 
                 # --- SPELLS ---
@@ -376,7 +377,7 @@ def write_wiki_pages(npcs, output_dir):
                     f.write('<div class="uo-section-header">Loot Information</div>\n<div class="uo-data-group">\n')
                     for key, val in sorted(npc['loot'].items()):
                         if key.lower() == 'lootgroup':
-                            f.write(f'  <div class="uo-data-row"><span class="uo-label">[[:Category:Lootgroups|Lootgroup]]</span><span class="uo-value">[[Lootgroup {val}|{val}]]</span></div>\n')
+                            f.write(f'  <div class="uo-data-row"><span class="uo-label">Lootgroup</span><span class="uo-value">[[Lootgroup {val}|{val}]]</span></div>\n')
                         else:
                             f.write(f'  <div class="uo-data-row"><span class="uo-label">{key}</span><span class="uo-value">{val}</span></div>\n')
                     f.write('</div>\n\n')
@@ -403,11 +404,13 @@ def write_wiki_pages(npcs, output_dir):
 
             f.write('</div>\n')
 
+    # FIX: Write structural files using literal Colons in the filename.
+    # Linux filesystems perfectly support this, and it forces MediaWiki to parse namespace 14.
     for cat in unique_categories:
-        cat_filename = f"Category_{cat.replace(' ', '_')}.txt"
+        cat_filename = f"Category:{cat.replace(' ', '_')}.txt"
         cat_filepath = os.path.join(output_dir, cat_filename)
         with open(cat_filepath, 'w') as cf:
-            cf.write("[[Category:NPC Subcategories]]\n")
+            cf.write("[[Category:NPCs]]\n")
 
     manifest_path = os.path.join(output_dir, "current_npcs.list")
     with open(manifest_path, 'w') as f:
