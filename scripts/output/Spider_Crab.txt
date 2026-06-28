@@ -27,15 +27,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">115</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">105</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">105</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">88</span></div>
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">88</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">88</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">88</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">88</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">88</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -48,6 +47,7 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">115</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">160</span></div>
 </div>

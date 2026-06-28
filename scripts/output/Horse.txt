@@ -27,20 +27,20 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
-  <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">60</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">60</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
-  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">45</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
 </div>
 
 |-| Variant 2 =
@@ -64,20 +64,20 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
-  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">45</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
 </div>
 
 |-| Variant 3 =
@@ -101,21 +101,21 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
-  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">45</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
 </div>
 
 |-| Variant 4 =
@@ -139,21 +139,21 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">45</span></div>
-  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">45</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">45</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">60</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
 </div>
 
 |-| Variant 5 =
@@ -179,15 +179,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">80</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -201,6 +200,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
 </div>
 
 |-| Variant 6 =
@@ -226,15 +226,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">80</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -248,6 +247,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
 </div>
 
 |-| Variant 7 =
@@ -273,15 +273,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">80</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -295,6 +294,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
 </div>
 
 |-| Variant 8 =
@@ -320,15 +320,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">80</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -342,6 +341,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
 </div>
 
 |-| Variant 9 =
@@ -367,15 +367,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">80</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">80</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">80</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -389,6 +388,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
 </div>
 
 </tabber>

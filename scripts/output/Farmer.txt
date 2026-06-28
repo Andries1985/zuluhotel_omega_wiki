@@ -26,17 +26,17 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">alchemy</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">camping</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">cooking</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">lumberjacking</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">mining</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Alchemy]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Camping]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Cooking]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Lumberjacking]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mining]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">60</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">60</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">60</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">60</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>

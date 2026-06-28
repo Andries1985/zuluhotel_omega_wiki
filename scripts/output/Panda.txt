@@ -27,20 +27,20 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">50</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">42</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">50</span></div>
-  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">50</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">42</span></div>
   <div class="uo-data-row"><span class="uo-label">Targettext</span><span class="uo-value">"I'Ve Got The Munchies"</span></div>
 </div>
 
@@ -67,18 +67,18 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">95</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">90</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">90</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">70</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">70</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">95</span></div>
 </div>
 
 </tabber>

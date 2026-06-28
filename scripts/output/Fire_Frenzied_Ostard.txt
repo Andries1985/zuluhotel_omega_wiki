@@ -25,22 +25,22 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">160</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">110</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">110</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">110</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">115</span></div>
-  <div class="uo-data-row"><span class="uo-label">Taming Required</span><span class="uo-value">115</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">115</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">115</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1158</span></div>
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">160</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">110</span></div>
 </div>
 
 </div>

@@ -23,15 +23,10 @@
   <div class="uo-data-row"><span class="uo-label">Int</span><span class="uo-value">210</span></div>
 </div>
 
-<div class="uo-section-header">Skills</div>
-<div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
-</div>
-
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
@@ -40,6 +35,7 @@
   <div class="uo-data-row"><span class="uo-label">Attack Damage</span><span class="uo-value">5D100</span></div>
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
 </div>
 
 </div>

@@ -26,14 +26,12 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Archery</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Detecting Hidden</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Hiding</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">180</span></div>
-  <div class="uo-data-row"><span class="uo-label">Magery</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Swordsmanship</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tactics</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Archery]]</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Detecting Hidden]]</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Hiding]]</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">150</span></div>
 </div>
 
 <div class="uo-section-header">Resistances</div>
@@ -84,9 +82,9 @@
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Provocation Required</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Snooping Required</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">Stealing Required</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">150</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -99,15 +97,17 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1765</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">15000</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">15K</span></div>
   <div class="uo-data-row"><span class="uo-label">Healingincrease</span><span class="uo-value">7</span></div>
-  <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">1000000</span></div>
+  <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">1M</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Iswarrior</span><span class="uo-value">2</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-15000</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-15K</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">180</span></div>
   <div class="uo-data-row"><span class="uo-label">Mount</span><span class="uo-value">0X3Ea4 1302</span></div>
   <div class="uo-data-row"><span class="uo-label">Mountspawn</span><span class="uo-value">Null</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
+  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">250</span></div>
   <div class="uo-data-row"><span class="uo-label">Superboss</span><span class="uo-value">Yes</span></div>
 </div>

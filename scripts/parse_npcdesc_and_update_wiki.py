@@ -4,7 +4,7 @@ Zuluhotel Omega NPC Configuration Parser
 ========================================
 File: parse_npcdesc_and_update_wiki.py
 Description: Parses 'npcdesc.cfg', groups variants under a base name page,
-             uses TabberNeue markup loops, and normalizes category fields.
+             abbreviates large numeric values, and cross-links wiki skill pages.
 """
 
 import sys
@@ -26,7 +26,6 @@ def clean_name(name_str):
 
 def clean_category(cat_str):
     cat_str = cat_str.strip('"\'')
-    # Safe suffix removal BEFORE .title() to preserve the double 's' in Boss
     if cat_str.lower().endswith("boss's"):
         cat_str = cat_str[:-2]
     return ' '.join(cat_str.split()).strip().title()
@@ -49,6 +48,22 @@ def convert_to_decimal_str(val_str):
         return str(int(val_str, 10))
     except ValueError:
         return val_str.title()
+
+def format_large_number(val_str):
+    """Abbreviates large numbers into human-readable strings (e.g., 700000 -> 700K)."""
+    val_str = val_str.strip()
+    try:
+        val = int(val_str)
+        abs_val = abs(val)
+        if abs_val >= 1000000:
+            formatted = f"{val / 1000000:.1f}".rstrip('0').rstrip('.') + "M"
+            return formatted
+        if abs_val >= 1000:
+            formatted = f"{val / 1000:.1f}".rstrip('0').rstrip('.') + "K"
+            return formatted
+        return str(val)
+    except ValueError:
+        return val_str
 
 def parse_npc_config(cfg_path):
     npcs = []
@@ -73,7 +88,7 @@ def parse_npc_config(cfg_path):
         "swordsmanship", "mace fighting", "fencing", "wrestling", "lumberjacking",
         "mining", "meditation", "stealth", "remove trap", "necromancy",
         "focus", "chivalry", "bushido", "ninjitsu", "spellweaving",
-        "mysticism", "imbuing", "throwing", "animal lore", "animal taming"
+        "mysticism", "imbuing", "throwing"
     }
 
     current_npc = None
@@ -200,8 +215,8 @@ def parse_npc_config(cfg_path):
                     current_npc['resistances'][final_key_title] = final_val
                 elif final_key.lower() in CORE_STATS:
                     current_npc['attributes'][final_key_title] = final_val
-                elif final_key.lower() in VALID_SKILLS or final_key in ['Animal Lore', 'Animal Taming']:
-                    current_npc['skills'][final_key] = final_val
+                elif final_key_lower in VALID_SKILLS or final_key_title in ['Animal Lore', 'Animal Taming']:
+                    current_npc['skills'][final_key_title] = final_val
                 else:
                     current_npc['other'][final_key_title] = final_val
 
@@ -233,8 +248,10 @@ def write_wiki_pages(npcs, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
     grouped_npcs = {}
+    unique_categories = set()
     for npc in npcs:
         grouped_npcs.setdefault(npc['Name'], []).append(npc)
+        unique_categories.add(npc['category'])
 
     ATTR_ORDER = ['Str', 'Dex', 'Int']
     RESIST_ORDER = [
@@ -252,7 +269,6 @@ def write_wiki_pages(npcs, output_dir):
 
         with open(filepath, 'w') as f:
             f.write(f"[[Category:NPCs]]\n[[Category:{primary_variant['category']}]]\n\n")
-
             f.write('<div class="uo-profile-card">\n\n')
             f.write(f'  <div class="uo-card-title">{base_name}</div>\n\n')
 
@@ -275,7 +291,6 @@ def write_wiki_pages(npcs, output_dir):
 
                 if npc['is_uncategorized']:
                     f.write('    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This NPC has not been categorized yet and contains dummy values.">!</div>\n')
-
                 f.write('</div>\n\n')
 
                 # --- SUMMARY ---
@@ -298,11 +313,11 @@ def write_wiki_pages(npcs, output_dir):
                             f.write(f'  <div class="uo-data-row"><span class="uo-label">{attr}</span><span class="uo-value">{npc["attributes"][attr]}</span></div>\n')
                     f.write('</div>\n\n')
 
-                # --- SKILLS ---
+                # --- SKILLS (With Internal Page Hyperlinks) ---
                 if npc['skills']:
                     f.write('<div class="uo-section-header">Skills</div>\n<div class="uo-data-group">\n')
                     for sk_k, sk_v in sorted(npc['skills'].items()):
-                        f.write(f'  <div class="uo-data-row"><span class="uo-label">{sk_k}</span><span class="uo-value">{npc["skills"][sk_k]}</span></div>\n')
+                        f.write(f'  <div class="uo-data-row"><span class="uo-label">[[{sk_k}]]</span><span class="uo-value">{sk_v}</span></div>\n')
                     f.write('</div>\n\n')
 
                 # --- RESISTANCES ---
@@ -320,11 +335,12 @@ def write_wiki_pages(npcs, output_dir):
                         f.write(f'  <div class="uo-data-row"><span class="uo-label">Spell {index}</span><span class="uo-value">[[{spell}]]</span></div>\n')
                     f.write('</div>\n\n')
 
-                # --- SKILL REQUIREMENTS ---
+                # --- SKILL REQUIREMENTS (With Label Decoupled Cross-links) ---
                 if npc['skill_requirements']:
                     f.write('<div class="uo-section-header">Skill Requirements</div>\n<div class="uo-data-group">\n')
                     for req_k, req_v in sorted(npc['skill_requirements'].items()):
-                        f.write(f'  <div class="uo-data-row"><span class="uo-label">{req_k}</span><span class="uo-value">{req_v}</span></div>\n')
+                        clean_skill_name = req_k.replace(" Required", "").strip()
+                        f.write(f'  <div class="uo-data-row"><span class="uo-label">[[{clean_skill_name}]] Required</span><span class="uo-value">{req_v}</span></div>\n')
                     f.write('</div>\n\n')
 
                 # --- LOOT INFORMATION ---
@@ -337,12 +353,16 @@ def write_wiki_pages(npcs, output_dir):
                             f.write(f'  <div class="uo-data-row"><span class="uo-label">{key}</span><span class="uo-value">{val}</span></div>\n')
                     f.write('</div>\n\n')
 
-                # --- OTHER ---
+                # --- OTHER (With Human-Readable Number Metric Rules) ---
                 if npc['other']:
                     f.write('<div class="uo-section-header">Other</div>\n<div class="uo-data-group">\n')
                     for key, val in sorted(npc['other'].items()):
-                        if key.lower() == 'hostile': val = 'Yes' if val == '1' else 'No'
-                        elif key.lower() in ['objtype']: val = f"<code>{val.lower()}</code>"
+                        if key.lower() == 'hostile': 
+                            val = 'Yes' if val == '1' else 'No'
+                        elif key.lower() in ['objtype']: 
+                            val = f"<code>{val.lower()}</code>"
+                        elif key.lower() in ['health points', 'fame', 'karma']:
+                            val = format_large_number(val)
 
                         if key.lower() in ['karma', 'fame']:
                             f.write(f'  <div class="uo-data-row"><span class="uo-label">[[{key.title()}]]</span><span class="uo-value">{val}</span></div>\n')
@@ -354,6 +374,12 @@ def write_wiki_pages(npcs, output_dir):
                 f.write("</tabber>\n")
 
             f.write('</div>\n')
+
+    for cat in unique_categories:
+        cat_filename = f"Category_{cat.replace(' ', '_')}.txt"
+        cat_filepath = os.path.join(output_dir, cat_filename)
+        with open(cat_filepath, 'w') as cf:
+            cf.write("[[Category:NPC Subcategories]]\n")
 
     manifest_path = os.path.join(output_dir, "current_npcs.list")
     with open(manifest_path, 'w') as f:
@@ -374,7 +400,7 @@ def main():
     npcs = parse_npc_config(cfg_path)
     print(f"✅ Extraction completed! Parsed {len(npcs)} unique assets.")
 
-    print(f"✍️ Compiling individual profile cards...")
+    print(f"✍️ Compiling individual profile cards and category definitions...")
     write_wiki_pages(npcs, DEFAULT_OUTPUT_DIR)
     print(f"✨ Bulk structural generation process completed successfully.")
 

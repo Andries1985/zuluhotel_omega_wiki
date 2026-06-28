@@ -25,7 +25,6 @@ def clean_name(name_str):
 
 def clean_category(cat_str):
     cat_str = cat_str.strip('"\'')
-    # Safe suffix removal BEFORE .title() to preserve the double 's' in Boss
     if cat_str.lower().endswith("boss's"):
         cat_str = cat_str[:-2]
     return ' '.join(cat_str.split()).strip().title()
@@ -48,6 +47,21 @@ def convert_to_decimal_str(val_str):
         return str(int(val_str, 10))
     except ValueError:
         return val_str.title()
+
+def format_large_number(val_str):
+    val_str = val_str.strip()
+    try:
+        val = int(val_str)
+        abs_val = abs(val)
+        if abs_val >= 1000000:
+            formatted = f"{val / 1000000:.1f}".rstrip('0').rstrip('.') + "M"
+            return formatted
+        if abs_val >= 1000:
+            formatted = f"{val / 1000:.1f}".rstrip('0').rstrip('.') + "K"
+            return formatted
+        return str(val)
+    except ValueError:
+        return val_str
 
 def parse_single_npc(cfg_path, target_template):
     target_template = target_template.lower()
@@ -72,7 +86,7 @@ def parse_single_npc(cfg_path, target_template):
         "swordsmanship", "mace fighting", "fencing", "wrestling", "lumberjacking",
         "mining", "meditation", "stealth", "remove trap", "necromancy",
         "focus", "chivalry", "bushido", "ninjitsu", "spellweaving",
-        "mysticism", "imbuing", "throwing", "animal lore", "animal taming"
+        "mysticism", "imbuing", "throwing"
     }
 
     npc = None
@@ -202,8 +216,8 @@ def parse_single_npc(cfg_path, target_template):
                     npc['resistances'][final_key_title] = final_val
                 elif final_key.lower() in CORE_STATS:
                     npc['attributes'][final_key_title] = final_val
-                elif final_key.lower() in VALID_SKILLS or final_key in ['Animal Lore', 'Animal Taming']:
-                    npc['skills'][final_key] = final_val
+                elif final_key_lower in VALID_SKILLS or final_key_title in ['Animal Lore', 'Animal Taming']:
+                    npc['skills'][final_key_title] = final_val
                 else:
                     npc['other'][final_key_title] = final_val
 
@@ -280,7 +294,7 @@ def generate_test_page(npc, output_dir):
         if npc['skills']:
             f.write('  <div class="uo-section-header">Skills</div>\n  <div class="uo-data-group">\n')
             for sk_k, sk_v in sorted(npc['skills'].items()):
-                f.write(f'    <div class="uo-data-row"><span class="uo-label">{sk_k}</span><span class="uo-value">{sk_v}</span></div>\n')
+                f.write(f'    <div class="uo-data-row"><span class="uo-label">[[{sk_k}]]</span><span class="uo-value">{sk_v}</span></div>\n')
             f.write('  </div>\n\n')
 
         if npc['resistances']:
@@ -299,7 +313,8 @@ def generate_test_page(npc, output_dir):
         if npc['skill_requirements']:
             f.write('  <div class="uo-section-header">Skill Requirements</div>\n  <div class="uo-data-group">\n')
             for req_k, req_v in sorted(npc['skill_requirements'].items()):
-                f.write(f'    <div class="uo-data-row"><span class="uo-label">{req_k}</span><span class="uo-value">{req_v}</span></div>\n')
+                clean_skill_name = req_k.replace(" Required", "").strip()
+                f.write(f'    <div class="uo-data-row"><span class="uo-label">[[{clean_skill_name}]] Required</span><span class="uo-value">{req_v}</span></div>\n')
             f.write('  </div>\n\n')
 
         if npc['loot']:
@@ -314,8 +329,12 @@ def generate_test_page(npc, output_dir):
         if npc['other']:
             f.write('  <div class="uo-section-header">Other</div>\n  <div class="uo-data-group">\n')
             for key, val in sorted(npc['other'].items()):
-                if key.lower() == 'hostile': val = 'Yes' if val == '1' else 'No'
-                elif key.lower() in ['objtype']: val = f"<code>{val.lower()}</code>"
+                if key.lower() == 'hostile': 
+                    val = 'Yes' if val == '1' else 'No'
+                elif key.lower() in ['objtype']: 
+                    val = f"<code>{val.lower()}</code>"
+                elif key.lower() in ['health points', 'fame', 'karma']:
+                    val = format_large_number(val)
 
                 if key.lower() in ['karma', 'fame']:
                     f.write(f'    <div class="uo-data-row"><span class="uo-label">[[{key.title()}]]</span><span class="uo-value">{val}</span></div>\n')
@@ -324,6 +343,12 @@ def generate_test_page(npc, output_dir):
             f.write('  </div>\n\n')
 
         f.write('</div>\n')
+
+    cat_filename = f"Category_{npc['category'].replace(' ', '_')}.txt"
+    cat_filepath = os.path.join(output_dir, cat_filename)
+    with open(cat_filepath, 'w') as cf:
+        cf.write("[[Category:NPC Subcategories]]\n")
+        
     print(f"✨ Test file generated at: {filepath}")
 
 if __name__ == "__main__":
