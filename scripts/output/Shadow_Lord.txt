@@ -28,6 +28,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Detecting Hidden]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fencing]]</span><span class="uo-value">175</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
@@ -57,9 +58,9 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">130</span></div>
-  <div class="uo-data-row"><span class="uo-label">Untamable</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Untamable</span><span class="uo-value">Yes</span></div>
 </div>
 
 </div>

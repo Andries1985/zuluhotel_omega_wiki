@@ -28,7 +28,9 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Anatomy]]</span><span class="uo-value">100</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Healing]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">100</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Spirit Speak]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
@@ -43,9 +45,8 @@
   <div class="uo-data-row"><span class="uo-label">Attack Damage</span><span class="uo-value">5D100</span></div>
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Ismage</span><span class="uo-value">6</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">Spiritspeak</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mage Level</span><span class="uo-value">6</span></div>
 </div>
 
 </div>

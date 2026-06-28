@@ -27,6 +27,7 @@
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Detecting Hidden]]</span><span class="uo-value">150</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">180</span></div>
 </div>
@@ -44,10 +45,10 @@
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Animal Taming]] Required</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">150</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">150</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -62,10 +63,10 @@
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1538</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10K</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">500K</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-10K</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">200</span></div>
 </div>

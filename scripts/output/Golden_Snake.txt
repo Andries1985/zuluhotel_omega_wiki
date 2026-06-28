@@ -29,13 +29,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">95</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">90</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">95</span></div>
 </div>
 
 |-| Variant 2 =
@@ -61,6 +62,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">105</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">95</span></div>
 </div>
 
@@ -80,8 +82,8 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">105</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">200</span></div>
 </div>

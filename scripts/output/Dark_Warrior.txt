@@ -28,6 +28,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Fencing]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Hiding]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">100</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">130</span></div>
@@ -63,11 +64,10 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1109</span></div>
-  <div class="uo-data-row"><span class="uo-label">Iswarrior</span><span class="uo-value">2</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Mount</span><span class="uo-value">0X3E9F 1109</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mountspawn</span><span class="uo-value">Null</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
+  <div class="uo-data-row"><span class="uo-label">Warrior Level</span><span class="uo-value">2</span></div>
 </div>
 
 </div>

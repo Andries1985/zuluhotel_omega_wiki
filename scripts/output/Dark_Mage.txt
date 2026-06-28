@@ -28,6 +28,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Archery]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Hiding]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">75</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">60</span></div>
 </div>
@@ -81,10 +82,9 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1109</span></div>
-  <div class="uo-data-row"><span class="uo-label">Ismage</span><span class="uo-value">2</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">75</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
+  <div class="uo-data-row"><span class="uo-label">Mage Level</span><span class="uo-value">2</span></div>
   <div class="uo-data-row"><span class="uo-label">Mount</span><span class="uo-value">0X3Ea6 1109</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mountspawn</span><span class="uo-value">Llama</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
 </div>
 

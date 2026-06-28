@@ -28,6 +28,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Detecting Hidden]]</span><span class="uo-value">85</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Hiding]]</span><span class="uo-value">130</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">195</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">125</span></div>
 </div>
@@ -78,7 +79,7 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X4631</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
 </div>
 
 </div>

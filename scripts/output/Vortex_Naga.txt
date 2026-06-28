@@ -48,8 +48,9 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Isranger</span><span class="uo-value">3</span></div>
+  <div class="uo-data-row"><span class="uo-label">Ranger Level</span><span class="uo-value">3</span></div>
   <div class="uo-data-row"><span class="uo-label">Vortexnaga</span><span class="uo-value">1</span></div>
 </div>
 

@@ -28,6 +28,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">45</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Poisoning]]</span><span class="uo-value">70</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">75</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">80</span></div>
@@ -40,16 +41,16 @@
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Animal Taming]] Required</span><span class="uo-value">70</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">70</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">70</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">45</span></div>
 </div>
 
 |-| Variant 2 =
@@ -75,6 +76,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
@@ -95,8 +97,8 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
 </div>
 
 |-| Variant 3 =
@@ -122,6 +124,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">100</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">95</span></div>
 </div>
 
@@ -132,8 +135,8 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">100</span></div>
 </div>
 
 |-| Variant 4 =
@@ -159,6 +162,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">115</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">105</span></div>
 </div>
 
@@ -178,8 +182,8 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">115</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">180</span></div>
 </div>
@@ -207,6 +211,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">130</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">100</span></div>
 </div>
 
@@ -227,8 +232,8 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">0X0455</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">130</span></div>
 </div>
 
 |-| Variant 6 =
@@ -254,13 +259,14 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">90</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">90</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">90</span></div>
 </div>
 
 </tabber>

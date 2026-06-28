@@ -28,6 +28,7 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Evaluating Intelligence]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Hiding]]</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Meditation]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Stealth]]</span><span class="uo-value">200</span></div>
@@ -72,8 +73,8 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1158</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
 </div>
 
 </div>

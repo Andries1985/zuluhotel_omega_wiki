@@ -32,6 +32,8 @@
   <div class="uo-data-row"><span class="uo-label">[[Fencing]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Healing]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Hiding]]</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">200</span></div>
 </div>
@@ -52,12 +54,7 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Ignoremultis</span><span class="uo-value">1</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mountspawn</span><span class="uo-value">Null</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">200</span></div>
-  <div class="uo-data-row"><span class="uo-label">Peacekeeper</span><span class="uo-value">1</span></div>
-  <div class="uo-data-row"><span class="uo-label">Warriorforhire</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
 </div>
 
 |-| Variant 2 =
@@ -86,6 +83,8 @@
   <div class="uo-data-row"><span class="uo-label">[[Fencing]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Healing]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Hiding]]</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">200</span></div>
 </div>
@@ -106,12 +105,7 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Ignoremultis</span><span class="uo-value">1</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mountspawn</span><span class="uo-value">Null</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">200</span></div>
-  <div class="uo-data-row"><span class="uo-label">Peacekeeper</span><span class="uo-value">1</span></div>
-  <div class="uo-data-row"><span class="uo-label">Warriorforhire</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
 </div>
 
 </tabber>

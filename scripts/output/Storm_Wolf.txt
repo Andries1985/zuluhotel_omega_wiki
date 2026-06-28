@@ -26,18 +26,19 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">40</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">60</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Animal Taming]] Required</span><span class="uo-value">200</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">40</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
 </div>
 
 |-| Variant 2 =
@@ -61,22 +62,23 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">65</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">50</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">50</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Animal Taming]] Required</span><span class="uo-value">75</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">75</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">75</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1346</span></div>
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">65</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">50</span></div>
 </div>
 
 |-| Variant 3 =
@@ -101,6 +103,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">150</span></div>
 </div>
@@ -132,10 +135,10 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10K</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">300K</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-10K</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">250</span></div>
 </div>

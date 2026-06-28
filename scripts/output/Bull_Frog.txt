@@ -27,21 +27,22 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">72</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">60</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Animal Taming]] Required</span><span class="uo-value">20</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">20</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">20</span></div>
 </div>
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1162</span></div>
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">72</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
 </div>
 
 |-| Variant 2 =
@@ -65,6 +66,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">75</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">60</span></div>
 </div>
@@ -78,10 +80,10 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Finaldeath</span><span class="uo-value">1</span></div>
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Veggie</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">75</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Rise</span><span class="uo-value">Wizardfrog</span></div>
   <div class="uo-data-row"><span class="uo-label">Risedelay</span><span class="uo-value">1</span></div>
-  <div class="uo-data-row"><span class="uo-label">Untamable</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Untamable</span><span class="uo-value">Yes</span></div>
 </div>
 
 </tabber>

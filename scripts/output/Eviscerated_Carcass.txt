@@ -52,8 +52,9 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1290</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Iswarrior</span><span class="uo-value">3</span></div>
+  <div class="uo-data-row"><span class="uo-label">Warrior Level</span><span class="uo-value">3</span></div>
 </div>
 
 </div>

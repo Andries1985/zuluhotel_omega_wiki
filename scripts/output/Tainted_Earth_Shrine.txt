@@ -26,6 +26,7 @@
 
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">150</span></div>
 </div>
 
@@ -54,13 +55,12 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1078</span></div>
-  <div class="uo-data-row"><span class="uo-label">Event</span><span class="uo-value">1</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10K</span></div>
   <div class="uo-data-row"><span class="uo-label">Finaldeath</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">500K</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-10K</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">Rise</span><span class="uo-value">Earthshrine</span></div>
   <div class="uo-data-row"><span class="uo-label">Risedelay</span><span class="uo-value">30</span></div>
 </div>

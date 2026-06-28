@@ -43,7 +43,7 @@
   <div class="uo-data-row"><span class="uo-label">Magic Immunity</span><span class="uo-value">3</span></div>
   <div class="uo-data-row"><span class="uo-label">Magic Reflect</span><span class="uo-value">2</span></div>
   <div class="uo-data-row"><span class="uo-label">Poison Immunity</span><span class="uo-value">8</span></div>
-  <div class="uo-data-row"><span class="uo-label">Free Action</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Free Action</span><span class="uo-value">Yes</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
@@ -64,11 +64,12 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1157</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">15K</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">1.5M</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Isranger</span><span class="uo-value">3</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-15K</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
+  <div class="uo-data-row"><span class="uo-label">Ranger Level</span><span class="uo-value">3</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">250</span></div>
   <div class="uo-data-row"><span class="uo-label">Superboss</span><span class="uo-value">Yes</span></div>
 </div>

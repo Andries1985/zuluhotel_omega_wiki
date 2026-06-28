@@ -29,6 +29,7 @@
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Evaluating Intelligence]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">130</span></div>
 </div>
@@ -50,10 +51,10 @@
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Animal Taming]] Required</span><span class="uo-value">145</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">145</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Snooping]] Required</span><span class="uo-value">145</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Stealing]] Required</span><span class="uo-value">145</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">145</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -67,8 +68,8 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1292</span></div>
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
   <div class="uo-data-row"><span class="uo-label">Rise</span><span class="uo-value">Poisonmare</span></div>
   <div class="uo-data-row"><span class="uo-label">Risedelay</span><span class="uo-value">25</span></div>
@@ -97,6 +98,7 @@
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Evaluating Intelligence]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">150</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">130</span></div>
 </div>
@@ -119,8 +121,8 @@
 
 <div class="uo-section-header">Skill Requirements</div>
 <div class="uo-data-group">
+  <div class="uo-data-row"><span class="uo-label">[[Animal Taming]] Required</span><span class="uo-value">145</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Provocation]] Required</span><span class="uo-value">145</span></div>
-  <div class="uo-data-row"><span class="uo-label">[[Taming]] Required</span><span class="uo-value">145</span></div>
 </div>
 
 <div class="uo-section-header">Loot Information</div>
@@ -134,8 +136,8 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1292</span></div>
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">175</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
   <div class="uo-data-row"><span class="uo-label">Rise</span><span class="uo-value">Nightmare</span></div>
   <div class="uo-data-row"><span class="uo-label">Risedelay</span><span class="uo-value">25</span></div>

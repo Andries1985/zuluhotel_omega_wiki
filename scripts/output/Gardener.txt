@@ -31,6 +31,7 @@
   <div class="uo-data-row"><span class="uo-label">[[Cooking]]</span><span class="uo-value">100</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Lumberjacking]]</span><span class="uo-value">100</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Mining]]</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Taste Identification]]</span><span class="uo-value">100</span></div>
 </div>
 
 <div class="uo-section-header">Skill Requirements</div>
@@ -45,7 +46,7 @@
   <div class="uo-data-row"><span class="uo-label">Attack Damage</span><span class="uo-value">5D100</span></div>
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Tasteidentification</span><span class="uo-value">100</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
 </div>
 
 </div>

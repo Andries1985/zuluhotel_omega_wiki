@@ -28,7 +28,9 @@
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Detecting Hidden]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Evaluating Intelligence]]</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Mace Fighting]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Magery]]</span><span class="uo-value">200</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">200</span></div>
 </div>
 
@@ -76,12 +78,10 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2158</span></div>
-  <div class="uo-data-row"><span class="uo-label">Event</span><span class="uo-value">1</span></div>
   <div class="uo-data-row"><span class="uo-label">Finaldeath</span><span class="uo-value">1</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">800K</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mace Fighting</span><span class="uo-value">200</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">200</span></div>
   <div class="uo-data-row"><span class="uo-label">Rise</span><span class="uo-value">Waterlordshrine</span></div>
   <div class="uo-data-row"><span class="uo-label">Risedelay</span><span class="uo-value">30</span></div>
 </div>

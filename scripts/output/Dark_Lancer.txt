@@ -27,6 +27,7 @@
 <div class="uo-section-header">Skills</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">[[Fencing]]</span><span class="uo-value">180</span></div>
+  <div class="uo-data-row"><span class="uo-label">[[Parrying]]</span><span class="uo-value">180</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Swordsmanship]]</span><span class="uo-value">180</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Tactics]]</span><span class="uo-value">180</span></div>
 </div>
@@ -62,14 +63,13 @@
   <div class="uo-data-row"><span class="uo-label">Ar</span><span class="uo-value">270</span></div>
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10K</span></div>
+  <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">Male</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">400K</span></div>
-  <div class="uo-data-row"><span class="uo-label">Iswarrior</span><span class="uo-value">4</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">-10K</span></div>
   <div class="uo-data-row"><span class="uo-label">Mount</span><span class="uo-value">0X3E9F 1157</span></div>
-  <div class="uo-data-row"><span class="uo-label">Mountspawn</span><span class="uo-value">Null</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fastest</span></div>
-  <div class="uo-data-row"><span class="uo-label">Parrying</span><span class="uo-value">180</span></div>
   <div class="uo-data-row"><span class="uo-label">Runspeed</span><span class="uo-value">250</span></div>
+  <div class="uo-data-row"><span class="uo-label">Warrior Level</span><span class="uo-value">4</span></div>
 </div>
 
 </div>

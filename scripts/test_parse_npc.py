@@ -70,7 +70,9 @@ def parse_single_npc(cfg_path, target_template):
         'dstart', 'saywords', 'movemode', 'deathsnd', 'cast_pct', 'num_casts',
         'equip', 'truecolor', '{', 'speech', 'guardignore', 'dress', 'script',
         'settings', 'privs', 'basehpregen', 'basemanaregen', 'virtue',
-        'merchanttype', 'equipt', 'missileweapon', 'ammoamount', 'ammotype'
+        'merchanttype', 'equipt', 'missileweapon', 'ammoamount', 'ammotype',
+        'guardkill', 'mountspawn', 'ignoremultis', 'peacekeeper', 'warriorforhire',
+        'noloot', 'title', 'event'
     }
     CORE_STATS = {'str', 'dex', 'int', 'basestrmod', 'basedexmod', 'baseintmod'}
 
@@ -79,14 +81,27 @@ def parse_single_npc(cfg_path, target_template):
         "parrying", "begging", "blacksmithing", "bowcraft/fletching", "peacemaking",
         "camping", "carpentry", "cartography", "cooking", "detecting hidden", "detectinghidden",
         "enticement", "evaluating intelligence", "evaluatingintelligence", "healing", "fishing",
-        "forensic evaluation", "herding", "hiding", "provocation", "inscription", "lockpicking",
+        "forensic evaluation", "forensicevaluation", "herding", "hiding", "provocation", "inscription", "lockpicking",
         "magery", "resisting spells", "tactics", "snooping", "musicianship",
-        "poisoning", "archery", "spirit speak", "stealing", "tailoring",
-        "animal taming", "taste identification", "tinkering", "tracking", "veterinary",
-        "swordsmanship", "mace fighting", "fencing", "wrestling", "lumberjacking",
-        "mining", "meditation", "stealth", "remove trap", "necromancy",
+        "poisoning", "archery", "spirit speak", "spiritspeak", "stealing", "tailoring",
+        "animal taming", "taste identification", "tasteidentification", "tinkering", "tracking", "veterinary",
+        "swordsmanship", "mace fighting", "macefighting", "fencing", "wrestling", "lumberjacking",
+        "mining", "meditation", "stealth", "remove trap", "removetrap", "necromancy",
         "focus", "chivalry", "bushido", "ninjitsu", "spellweaving",
-        "mysticism", "imbuing", "throwing"
+        "mysticism", "imbuing", "throwing", "blacksmithy", "bowcraft", "itemid", "detecthidden"
+    }
+
+    CLASS_LEVELS_MAP = {
+        "ismage": "Mage Level",
+        "iswarrior": "Warrior Level",
+        "isranger": "Ranger Level",
+        "isbard": "Bard Level",
+        "isthief": "Thief Level",
+        "ispaladin": "Paladin Level",
+        "isbladesinger": "Bladesinger Level",
+        "iscrafter": "Crafter Level",
+        "ismysticarcher": "Mystic Archer Level",
+        "ispowerplayer": "Powerplayer Level"
     }
 
     npc = None
@@ -167,11 +182,12 @@ def parse_single_npc(cfg_path, target_template):
                 if final_key_lower in DROPPED_PROPERTIES:
                     continue
 
+                # Normalizations & Remappings
                 if final_key_lower == 'parry': final_key = 'Parrying'
-                elif final_key_lower == 'macefighting': final_key = 'Mace Fighting'
-                elif final_key_lower == 'detectinghidden': final_key = 'Detecting Hidden'
+                elif final_key_lower in ['macefighting', 'mace fighting']: final_key = 'Mace Fighting'
+                elif final_key_lower in ['detectinghidden', 'detecthidden']: final_key = 'Detecting Hidden'
                 elif final_key_lower == 'evaluatingintelligence': final_key = 'Evaluating Intelligence'
-                elif final_key_lower == 'tameskill': final_key = 'Taming Required'
+                elif final_key_lower == 'tameskill': final_key = 'Animal Taming Required'
                 elif final_key_lower == 'provoke': final_key = 'Provocation Required'
                 elif final_key_lower == 'snoopme': final_key = 'Snooping Required'
                 elif final_key_lower == 'stealme': final_key = 'Stealing Required'
@@ -193,18 +209,33 @@ def parse_single_npc(cfg_path, target_template):
                 elif final_key_lower == 'attackspeed': final_key = 'Attack Speed'
                 elif final_key_lower == 'nocorpse': final_key = 'No Corpse'
                 elif final_key_lower == 'freeaction': final_key = 'Free Action'
-                elif final_key_lower == 'animallore': final_key = 'Animal Lore'
-                elif final_key_lower == 'animaltaming': final_key = 'Animal Taming'
+                elif final_key_lower == 'champion': final_key = 'Champion'
+                elif final_key_lower in ['armslore', 'arms lore']: final_key = 'Arms Lore'
+                elif final_key_lower in ['tasteidentification', 'taste identification']: final_key = 'Taste Identification'
+                elif final_key_lower in ['spiritspeak', 'spirit speak']: final_key = 'Spirit Speak'
+                elif final_key_lower in ['itemidentification', 'itemid', 'item identification']: final_key = 'Item Identification'
+                elif final_key_lower in ['forensicevaluation', 'forensic evaluation']: final_key = 'Forensic Evaluation'
+                elif final_key_lower in ['removetrap', 'remove trap']: final_key = 'Remove Trap'
+                elif final_key_lower in ['blacksmithy', 'blacksmithing']: final_key = 'Blacksmithing'
+                elif final_key_lower in ['bowcraft', 'bowcraft/fletching']: final_key = 'Bowcraft/Fletching'
+                elif final_key_lower in ['animallore', 'animal lore']: final_key = 'Animal Lore'
+                elif final_key_lower in ['animaltaming', 'animal taming']: final_key = 'Animal Taming'
+                elif final_key_lower == 'untamable': final_key = 'Untamable'
+                elif final_key_lower in CLASS_LEVELS_MAP:
+                    final_key = CLASS_LEVELS_MAP[final_key_lower]
 
-                if final_key.lower() in ['nocorpse', 'looter', 'boss', 'superboss']:
+                final_key_title = final_key.title() if not final_key_lower in CLASS_LEVELS_MAP else final_key
+
+                # Binary Conversions (Excluding Champion so it stays numerical)
+                if final_key.lower() in ['nocorpse', 'no corpse', 'looter', 'boss', 'superboss', 'free action', 'freeaction']:
                     final_val = 'Yes' if final_val.strip() in ['1', 'Boss 1', 'Superboss 1'] else 'No'
+                elif final_key.lower() == 'gender':
+                    final_val = 'Female' if final_val.strip() == '1' else 'Male'
+                elif final_key.lower() == 'untamable':
+                    final_val = 'Yes' if final_val.strip() == '1' else 'No'
 
-                if final_key.title() == 'Gender' and final_val.strip() == '0':
+                if final_val.strip() == '0' and final_key.lower() not in ['alignment', 'objtype', 'type', 'boss', 'superboss', 'no corpse', 'nocorpse', 'looter', 'gender', 'untamable', 'free action']:
                     continue
-                if final_val.strip() == '0' and final_key.lower() not in ['alignment', 'objtype', 'type', 'boss', 'superboss', 'no corpse', 'looter']:
-                    continue
-
-                final_key_title = final_key.title()
 
                 if final_key.lower() in ['alignment', 'objtype', 'type']:
                     npc['summary'][final_key.lower()] = final_val
@@ -212,12 +243,12 @@ def parse_single_npc(cfg_path, target_template):
                     npc['skill_requirements'][final_key_title] = final_val
                 elif final_key.lower() in ['lootgroup', 'magic item chance', 'magic item level']:
                     npc['loot'][final_key_title] = final_val
-                elif final_key.lower().endswith('protection') or final_key.lower() in ['magic immunity', 'poison immunity', 'magic reflect', 'free action']:
+                elif final_key.lower().endswith('protection') or final_key.lower() in ['magic immunity', 'poison immunity', 'magic reflect', 'free action', 'freeaction']:
                     npc['resistances'][final_key_title] = final_val
                 elif final_key.lower() in CORE_STATS:
                     npc['attributes'][final_key_title] = final_val
-                elif final_key_lower in VALID_SKILLS or final_key_title in ['Animal Lore', 'Animal Taming']:
-                    npc['skills'][final_key_title] = final_val
+                elif final_key.lower() in VALID_SKILLS or final_key in ['Animal Lore', 'Animal Taming', 'Mace Fighting', 'Parrying', 'Arms Lore', 'Taste Identification', 'Spirit Speak', 'Item Identification', 'Forensic Evaluation', 'Detecting Hidden', 'Remove Trap', 'Blacksmithing', 'Bowcraft/Fletching']:
+                    npc['skills'][final_key.title()] = final_val.title()
                 else:
                     npc['other'][final_key_title] = final_val
 
