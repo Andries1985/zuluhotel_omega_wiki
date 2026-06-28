@@ -6,7 +6,7 @@
   <div class="uo-card-title">Elite Troll Archer</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Elite_Troll_Archer.png|240px]]
+    [[File:Trollarcher3.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

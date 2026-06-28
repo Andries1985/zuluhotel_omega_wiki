@@ -6,7 +6,7 @@
   <div class="uo-card-title">Banshee</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Banshee.png|240px]]
+    [[File:Banshee.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Heavenly Frenzied Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Heavenly_Frenzied_Ostard.png|240px]]
+    [[File:Heavenlyfrenziedostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

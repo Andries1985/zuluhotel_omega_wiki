@@ -6,7 +6,7 @@
   <div class="uo-card-title">Spawn Of The Dead</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Spawn_Of_The_Dead.png|240px]]
+    [[File:Mammalelementalsummons.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -58,8 +58,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">20</span></div>
-  <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">60000</span></div>
   <div class="uo-data-row"><span class="uo-label">Ebsummons</span><span class="uo-value">1</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">100000</span></div>

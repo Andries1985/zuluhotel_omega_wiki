@@ -6,7 +6,7 @@
   <div class="uo-card-title">Quest_Target</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Quest_Target.png|240px]]
+    [[File:Quest_Target.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

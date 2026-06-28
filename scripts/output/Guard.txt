@@ -8,7 +8,7 @@
 <tabber>
 |-| Castleguard =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Guard.png|240px]]
+    [[File:Castleguard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -40,13 +40,12 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Castleguard</span></div>
   <div class="uo-data-row"><span class="uo-label">Guardkill</span><span class="uo-value">1</span></div>
 </div>
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Guard.png|240px]]
+    [[File:Castleguard2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -78,7 +77,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Castleguard2</span></div>
   <div class="uo-data-row"><span class="uo-label">Guardkill</span><span class="uo-value">1</span></div>
 </div>
 

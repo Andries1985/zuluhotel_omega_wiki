@@ -6,7 +6,7 @@
   <div class="uo-card-title">Carnivorous Plant</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Carnivorous_Plant.png|240px]]
+    [[File:Carnivorousplant.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

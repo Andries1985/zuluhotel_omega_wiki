@@ -6,7 +6,7 @@
   <div class="uo-card-title">Forest Wraith</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Forest_Wraith.png|240px]]
+    [[File:Forestwraith.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

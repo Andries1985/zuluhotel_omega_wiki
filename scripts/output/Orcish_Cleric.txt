@@ -6,7 +6,7 @@
   <div class="uo-card-title">Orcish Cleric</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Orcish_Cleric.png|240px]]
+    [[File:Orccleric.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

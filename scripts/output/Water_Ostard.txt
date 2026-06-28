@@ -6,7 +6,7 @@
   <div class="uo-card-title">Water Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Water_Ostard.png|240px]]
+    [[File:Waterostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

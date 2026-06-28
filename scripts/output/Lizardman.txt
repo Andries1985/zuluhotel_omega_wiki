@@ -8,7 +8,7 @@
 <tabber>
 |-| Lizardman1 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Lizardman.png|240px]]
+    [[File:Lizardman1.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -52,7 +52,7 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Lizardman.png|240px]]
+    [[File:Lizardman2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -97,7 +97,7 @@
 
 |-| Variant 3 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Lizardman.png|240px]]
+    [[File:Lizardman3.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

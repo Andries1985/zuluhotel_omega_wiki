@@ -6,7 +6,7 @@
   <div class="uo-card-title">Rabid Cat</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Rabid_Cat.png|240px]]
+    [[File:Rabidcat.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

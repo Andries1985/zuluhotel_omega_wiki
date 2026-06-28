@@ -6,7 +6,7 @@
   <div class="uo-card-title">Stone Frenzied Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Stone_Frenzied_Ostard.png|240px]]
+    [[File:Stonefrenziedostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

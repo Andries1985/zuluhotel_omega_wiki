@@ -6,7 +6,7 @@
   <div class="uo-card-title">Armored Swamp Dragonling</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Armored_Swamp_Dragonling.png|240px]]
+    [[File:Armoredswampdragon.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

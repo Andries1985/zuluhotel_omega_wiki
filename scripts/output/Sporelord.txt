@@ -6,7 +6,7 @@
   <div class="uo-card-title">Sporelord</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Sporelord.png|240px]]
+    [[File:Sporelord.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

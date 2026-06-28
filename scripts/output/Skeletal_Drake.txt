@@ -6,7 +6,7 @@
   <div class="uo-card-title">Skeletal Drake</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Skeletal_Drake.png|240px]]
+    [[File:Skeletaldrake.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

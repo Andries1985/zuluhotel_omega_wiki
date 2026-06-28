@@ -6,7 +6,7 @@
   <div class="uo-card-title">Corrupt Counselor</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Corrupt_Counselor.png|240px]]
+    [[File:Corruptcouncy.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Kobold Priest</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Kobold_Priest.png|240px]]
+    [[File:Koboldpriest.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

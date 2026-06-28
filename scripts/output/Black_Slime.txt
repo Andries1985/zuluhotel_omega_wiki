@@ -6,7 +6,7 @@
   <div class="uo-card-title">Black Slime</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Black_Slime.png|240px]]
+    [[File:Blackslime.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

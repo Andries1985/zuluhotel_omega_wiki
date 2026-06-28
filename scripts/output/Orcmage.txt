@@ -6,7 +6,7 @@
   <div class="uo-card-title">Orcmage</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Orcmage.png|240px]]
+    [[File:Orcmage.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

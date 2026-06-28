@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ethereal Ki-Rin</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ethereal_Ki-Rin.png|240px]]
+    [[File:Etherealkirin.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

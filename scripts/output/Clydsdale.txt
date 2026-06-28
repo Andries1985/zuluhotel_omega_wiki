@@ -6,7 +6,7 @@
   <div class="uo-card-title">Clydsdale</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Clydsdale.png|240px]]
+    [[File:Clydsdale.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

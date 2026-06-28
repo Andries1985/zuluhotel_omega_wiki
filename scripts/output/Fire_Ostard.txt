@@ -6,7 +6,7 @@
   <div class="uo-card-title">Fire Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Fire_Ostard.png|240px]]
+    [[File:Fireostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

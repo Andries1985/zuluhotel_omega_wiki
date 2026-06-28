@@ -6,7 +6,7 @@
   <div class="uo-card-title">Giant Rat</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Giant_Rat.png|240px]]
+    [[File:Grat.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

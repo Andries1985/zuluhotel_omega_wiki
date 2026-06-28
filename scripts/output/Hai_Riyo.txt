@@ -6,7 +6,7 @@
   <div class="uo-card-title">Hai Riyo</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Hai_Riyo.png|240px]]
+    [[File:Mounthairiyo.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

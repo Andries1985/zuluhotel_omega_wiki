@@ -6,7 +6,7 @@
   <div class="uo-card-title">Skeletal Assassin</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Skeletal_Assassin.png|240px]]
+    [[File:Skeletalassassin.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

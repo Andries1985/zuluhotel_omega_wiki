@@ -6,7 +6,7 @@
   <div class="uo-card-title">Skittering Hopper</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Skittering_Hopper.png|240px]]
+    [[File:Skitteringhopper.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

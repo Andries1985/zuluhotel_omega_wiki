@@ -6,7 +6,7 @@
   <div class="uo-card-title">Corrupted Terathan</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Corrupted_Terathan.png|240px]]
+    [[File:Corruptedterathan.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

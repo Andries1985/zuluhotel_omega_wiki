@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ebony Horror</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ebony_Horror.png|240px]]
+    [[File:Ebonyhorror.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

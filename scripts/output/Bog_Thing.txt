@@ -6,7 +6,7 @@
   <div class="uo-card-title">Bog Thing</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Bog_Thing.png|240px]]
+    [[File:Bog.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

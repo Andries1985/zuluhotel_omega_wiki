@@ -6,7 +6,7 @@
   <div class="uo-card-title">Troll General</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Troll_General.png|240px]]
+    [[File:Troll6.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

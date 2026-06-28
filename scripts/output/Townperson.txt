@@ -6,7 +6,7 @@
   <div class="uo-card-title">Townperson</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Townperson.png|240px]]
+    [[File:Townperson.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

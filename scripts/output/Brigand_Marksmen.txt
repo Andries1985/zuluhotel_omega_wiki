@@ -6,7 +6,7 @@
   <div class="uo-card-title">Brigand Marksmen</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Brigand_Marksmen.png|240px]]
+    [[File:Brigandmarksmen.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

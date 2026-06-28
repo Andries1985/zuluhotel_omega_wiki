@@ -6,7 +6,7 @@
   <div class="uo-card-title">Giant Scorpion</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Giant_Scorpion.png|240px]]
+    [[File:Scorp.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

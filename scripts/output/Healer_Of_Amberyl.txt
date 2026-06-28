@@ -6,7 +6,7 @@
   <div class="uo-card-title">Healer Of Amberyl</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Healer_Of_Amberyl.png|240px]]
+    [[File:Healer.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -33,7 +33,6 @@
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Acleric</span></div>
   <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">1</span></div>
 </div>
 

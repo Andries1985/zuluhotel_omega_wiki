@@ -6,7 +6,7 @@
   <div class="uo-card-title">Horse Elemental Fire</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Horse_Elemental_Fire.png|240px]]
+    [[File:Horseelementalfire.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

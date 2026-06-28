@@ -6,7 +6,7 @@
   <div class="uo-card-title">Snow Orc Warrior</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Snow_Orc_Warrior.png|240px]]
+    [[File:Snoworc3.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

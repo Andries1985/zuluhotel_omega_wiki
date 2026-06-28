@@ -6,7 +6,7 @@
   <div class="uo-card-title">Mountain Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Mountain_Ostard.png|240px]]
+    [[File:Mountainostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

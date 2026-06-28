@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ophidian Queen</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ophidian_Queen.png|240px]]
+    [[File:Ophidianqueen.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

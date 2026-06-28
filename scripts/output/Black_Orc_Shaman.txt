@@ -6,7 +6,7 @@
   <div class="uo-card-title">Black Orc Shaman</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Black_Orc_Shaman.png|240px]]
+    [[File:Blackorcshaman.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

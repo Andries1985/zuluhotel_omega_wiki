@@ -6,7 +6,7 @@
   <div class="uo-card-title">Wight</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Wight.png|240px]]
+    [[File:Wight.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -63,7 +63,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">250</span></div>
   <div class="uo-data-row"><span class="uo-label">Hostile</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Untamable</span><span class="uo-value">1</span></div>
 </div>

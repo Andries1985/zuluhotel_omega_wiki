@@ -6,7 +6,7 @@
   <div class="uo-card-title">Satyr</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Satyr.png|240px]]
+    [[File:Satyr.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

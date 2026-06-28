@@ -6,7 +6,7 @@
   <div class="uo-card-title">Necro Frenzied Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Necro_Frenzied_Ostard.png|240px]]
+    [[File:Necrofrenziedostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

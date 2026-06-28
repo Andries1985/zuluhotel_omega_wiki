@@ -8,7 +8,7 @@
 <tabber>
 |-| Taintedranger =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Tainted_One.png|240px]]
+    [[File:Taintedranger.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -60,7 +60,7 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Tainted_One.png|240px]]
+    [[File:Taintedmage.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -127,7 +127,7 @@
 
 |-| Variant 3 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Tainted_One.png|240px]]
+    [[File:Taintedwarrior1.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -178,7 +178,7 @@
 
 |-| Variant 4 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Tainted_One.png|240px]]
+    [[File:Taintedwarrior2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

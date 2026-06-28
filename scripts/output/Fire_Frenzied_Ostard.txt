@@ -6,7 +6,7 @@
   <div class="uo-card-title">Fire Frenzied Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Fire_Frenzied_Ostard.png|240px]]
+    [[File:Firefrenziedostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

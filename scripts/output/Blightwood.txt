@@ -6,7 +6,7 @@
   <div class="uo-card-title">Blightwood</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Blightwood.png|240px]]
+    [[File:Blightwood.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Infernal Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Infernal_Ostard.png|240px]]
+    [[File:Iostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Vegetable Seller</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vegetable_Seller.png|240px]]
+    [[File:Vegseller.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -41,8 +41,6 @@
   <div class="uo-data-row"><span class="uo-label">Attack Damage</span><span class="uo-value">5D100</span></div>
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Farmer</span></div>
-  <div class="uo-data-row"><span class="uo-label">Merchanttype</span><span class="uo-value">Vegseller</span></div>
 </div>
 
 </div>

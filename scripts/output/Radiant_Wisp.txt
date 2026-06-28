@@ -6,7 +6,7 @@
   <div class="uo-card-title">Radiant Wisp</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Radiant_Wisp.png|240px]]
+    [[File:Radiantwisp.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

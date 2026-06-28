@@ -6,7 +6,7 @@
   <div class="uo-card-title">Wailing Host</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Wailing_Host.png|240px]]
+    [[File:Wailinghost.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

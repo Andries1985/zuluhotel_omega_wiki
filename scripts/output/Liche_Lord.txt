@@ -6,7 +6,7 @@
   <div class="uo-card-title">Liche Lord</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Liche_Lord.png|240px]]
+    [[File:Lichelord.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

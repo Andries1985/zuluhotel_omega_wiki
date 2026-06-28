@@ -1,5 +1,5 @@
 [[Category:NPCs]]
-[[Category:Giantkin Boss'S]]
+[[Category:Giantkin Boss]]
 
 <div class="uo-profile-card">
 
@@ -8,12 +8,12 @@
 <tabber>
 |-| Klock =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vortex_Minion.png|240px]]
+    [[File:Klock.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss'S|Giantkin Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss|Giantkin Boss]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
   <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Giantkin</span></div>
   <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">756</span></div>
@@ -62,12 +62,12 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vortex_Minion.png|240px]]
+    [[File:Klock2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss'S|Giantkin Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss|Giantkin Boss]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
   <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Giantkin</span></div>
   <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">756</span></div>
@@ -116,12 +116,12 @@
 
 |-| Variant 3 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vortex_Minion.png|240px]]
+    [[File:Klock3.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss'S|Giantkin Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss|Giantkin Boss]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
   <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Giantkin</span></div>
   <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">756</span></div>
@@ -170,12 +170,12 @@
 
 |-| Variant 4 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vortex_Minion.png|240px]]
+    [[File:Klock4.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss'S|Giantkin Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Giantkin Boss|Giantkin Boss]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
   <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Giantkin</span></div>
   <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">756</span></div>

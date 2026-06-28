@@ -6,7 +6,7 @@
   <div class="uo-card-title">Umbral Flicker</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Umbral_Flicker.png|240px]]
+    [[File:Umbralflicker.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

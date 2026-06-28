@@ -6,7 +6,7 @@
   <div class="uo-card-title">Test Npc 2</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Test_Npc_2.png|240px]]
+    [[File:Testnpc2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

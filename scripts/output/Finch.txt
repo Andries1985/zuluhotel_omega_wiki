@@ -6,7 +6,7 @@
   <div class="uo-card-title">Finch</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Finch.png|240px]]
+    [[File:Listener.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -38,7 +38,6 @@
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Blacksmithy</span><span class="uo-value">90</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">25125</span></div>
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Clothes</span></div>
   <div class="uo-data-row"><span class="uo-label">Itemidentification</span><span class="uo-value">90</span></div>
 </div>
 

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Daemon Knight</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Daemon_Knight.png|240px]]
+    [[File:Daemonknight.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Dark Steed</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Dark_Steed.png|240px]]
+    [[File:Darksteed.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

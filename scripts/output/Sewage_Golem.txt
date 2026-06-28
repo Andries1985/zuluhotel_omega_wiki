@@ -6,7 +6,7 @@
   <div class="uo-card-title">Sewage Golem</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Sewage_Golem.png|240px]]
+    [[File:Sewagegolem.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

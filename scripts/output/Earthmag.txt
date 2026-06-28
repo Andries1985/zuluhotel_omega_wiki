@@ -6,7 +6,7 @@
   <div class="uo-card-title">Earthmag</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Earthmag.png|240px]]
+    [[File:Earthmag.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -70,8 +70,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">500</span></div>
-  <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">1000</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1765</span></div>
 </div>
 

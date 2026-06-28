@@ -6,7 +6,7 @@
   <div class="uo-card-title">Void</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Void.png|240px]]
+    [[File:Void.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

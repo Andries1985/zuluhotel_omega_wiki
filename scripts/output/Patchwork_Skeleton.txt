@@ -6,7 +6,7 @@
   <div class="uo-card-title">Patchwork Skeleton</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Patchwork_Skeleton.png|240px]]
+    [[File:Patchworkskeleton.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

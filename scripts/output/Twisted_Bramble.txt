@@ -6,7 +6,7 @@
   <div class="uo-card-title">Twisted Bramble</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Twisted_Bramble.png|240px]]
+    [[File:Twistedbramble.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

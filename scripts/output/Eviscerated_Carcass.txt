@@ -6,7 +6,7 @@
   <div class="uo-card-title">Eviscerated Carcass</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Eviscerated_Carcass.png|240px]]
+    [[File:Evisceratedcarcass.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

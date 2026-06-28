@@ -6,7 +6,7 @@
   <div class="uo-card-title">Invisible Man</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Invisible_Man.png|240px]]
+    [[File:Invisibleman.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Kobold Mercenary</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Kobold_Mercenary.png|240px]]
+    [[File:Koboldmercenary.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

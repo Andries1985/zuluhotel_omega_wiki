@@ -1,17 +1,17 @@
 [[Category:NPCs]]
-[[Category:Dragon Boss'S]]
+[[Category:Dragon Boss]]
 
 <div class="uo-profile-card">
 
   <div class="uo-card-title">Silver Dragon</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Silver_Dragon.png|240px]]
+    [[File:Silverdragon.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Dragon Boss'S|Dragon Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Dragon Boss|Dragon Boss]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
   <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Dragonkin</span></div>
   <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">1339</span></div>
@@ -63,8 +63,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">500</span></div>
-  <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">60000</span></div>
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2301</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Sea Horse (Medium Blue)</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Sea_Horse_(Medium_Blue).png|240px]]
+    [[File:Seahorsemediumblue.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

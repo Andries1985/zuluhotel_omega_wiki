@@ -6,7 +6,7 @@
   <div class="uo-card-title">Donator Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Donator_Ostard.png|240px]]
+    [[File:Donatorostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

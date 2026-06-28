@@ -6,7 +6,7 @@
   <div class="uo-card-title">Wanderer Of The Void</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Wanderer_Of_The_Void.png|240px]]
+    [[File:Wandererofthevoid.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

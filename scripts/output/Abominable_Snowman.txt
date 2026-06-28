@@ -6,7 +6,7 @@
   <div class="uo-card-title">Abominable Snowman</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Abominable_Snowman.png|240px]]
+    [[File:Abominablesnowman.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

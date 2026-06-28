@@ -6,7 +6,7 @@
   <div class="uo-card-title">Flaming Skeleton</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Flaming_Skeleton.png|240px]]
+    [[File:Flamingskeleton.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Noonwraith</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Noonwraith.png|240px]]
+    [[File:Noonwraith.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

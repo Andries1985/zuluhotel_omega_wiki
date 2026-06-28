@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ice Fiend</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ice_Fiend.png|240px]]
+    [[File:Icefiend.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

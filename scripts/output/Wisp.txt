@@ -6,7 +6,7 @@
   <div class="uo-card-title">Wisp</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Wisp.png|240px]]
+    [[File:Wisp.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

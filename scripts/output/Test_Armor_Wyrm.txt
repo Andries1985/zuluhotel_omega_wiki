@@ -6,7 +6,7 @@
   <div class="uo-card-title">Test Armor Wyrm</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Test_Armor_Wyrm.png|240px]]
+    [[File:Testwyrmarmor.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -58,7 +58,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">250</span></div>
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1764</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>

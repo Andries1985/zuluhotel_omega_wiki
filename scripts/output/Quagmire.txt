@@ -1,5 +1,5 @@
 [[Category:NPCs]]
-[[Category:Elemental Boss'S]]
+[[Category:Elemental Boss]]
 
 <div class="uo-profile-card">
 
@@ -8,12 +8,12 @@
 <tabber>
 |-| Variant 1 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Quagmire.png|240px]]
+    [[File:Quagmire.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elemental Boss'S|Elemental Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elemental Boss|Elemental Boss]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
   <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
   <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">789</span></div>
@@ -57,7 +57,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">1000</span></div>
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">600000</span></div>
@@ -69,12 +68,12 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Quagmire.png|240px]]
+    [[File:Quagmires.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elemental Boss'S|Elemental Boss'S]]</span></div>
+  <div class="uo-data-row"><span class="uo-label">Category</span><span class="uo-value">[[:Category:Elemental Boss|Elemental Boss]]</span></div>
   <div class="uo-data-row"><span class="uo-label">Alignment</span><span class="uo-value">Evil</span></div>
   <div class="uo-data-row"><span class="uo-label">Slayer Type</span><span class="uo-value">Elemental</span></div>
   <div class="uo-data-row"><span class="uo-label">Graphic ID</span><span class="uo-value">789</span></div>
@@ -118,7 +117,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">1000</span></div>
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>
   <div class="uo-data-row"><span class="uo-label">Health Points</span><span class="uo-value">300000</span></div>

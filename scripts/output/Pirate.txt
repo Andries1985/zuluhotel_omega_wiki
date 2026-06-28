@@ -6,7 +6,7 @@
   <div class="uo-card-title">Pirate</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Pirate.png|240px]]
+    [[File:Pirate.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

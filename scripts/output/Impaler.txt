@@ -6,7 +6,7 @@
   <div class="uo-card-title">Impaler</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Impaler.png|240px]]
+    [[File:Impaler.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

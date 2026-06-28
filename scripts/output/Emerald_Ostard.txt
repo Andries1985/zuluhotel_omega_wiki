@@ -6,7 +6,7 @@
   <div class="uo-card-title">Emerald Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Emerald_Ostard.png|240px]]
+    [[File:Emeraldostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

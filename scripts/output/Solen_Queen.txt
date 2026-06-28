@@ -6,7 +6,7 @@
   <div class="uo-card-title">Solen Queen</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Solen_Queen.png|240px]]
+    [[File:Solenqueen.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

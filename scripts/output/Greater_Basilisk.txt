@@ -6,7 +6,7 @@
   <div class="uo-card-title">Greater Basilisk</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Greater_Basilisk.png|240px]]
+    [[File:Greaterbasilisk.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

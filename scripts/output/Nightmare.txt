@@ -8,7 +8,7 @@
 <tabber>
 |-| Variant 1 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Nightmare.png|240px]]
+    [[File:Nightmare.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -61,7 +61,7 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Nightmare.png|240px]]
+    [[File:Nightmare2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -114,7 +114,7 @@
 
 |-| Variant 3 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Nightmare.png|240px]]
+    [[File:Nightmare3.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -167,7 +167,7 @@
 
 |-| Variant 4 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Nightmare.png|240px]]
+    [[File:Nightmare4.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ethereal Giant Beetle</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ethereal_Giant_Beetle.png|240px]]
+    [[File:Etherealbeetle.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

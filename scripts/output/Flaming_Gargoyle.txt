@@ -6,7 +6,7 @@
   <div class="uo-card-title">Flaming Gargoyle</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Flaming_Gargoyle.png|240px]]
+    [[File:Flamegargoyle.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

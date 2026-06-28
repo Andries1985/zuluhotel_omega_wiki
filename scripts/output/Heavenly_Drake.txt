@@ -6,7 +6,7 @@
   <div class="uo-card-title">Heavenly Drake</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Heavenly_Drake.png|240px]]
+    [[File:Heavenlydrake.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

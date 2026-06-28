@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ophidian Avenger</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ophidian_Avenger.png|240px]]
+    [[File:Ophidianavenger.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

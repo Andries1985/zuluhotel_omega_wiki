@@ -6,7 +6,7 @@
   <div class="uo-card-title">Dark Elf Archer</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Dark_Elf_Archer.png|240px]]
+    [[File:Drowarcher.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

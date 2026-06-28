@@ -6,7 +6,7 @@
   <div class="uo-card-title">Reaper</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Reaper.png|240px]]
+    [[File:Reaper.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

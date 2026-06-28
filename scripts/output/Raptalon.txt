@@ -8,7 +8,7 @@
 <tabber>
 |-| Mountraptalon =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Raptalon.png|240px]]
+    [[File:Mountraptalon.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -38,7 +38,7 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Raptalon.png|240px]]
+    [[File:Raptalon.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Giant Beetle 2</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Giant_Beetle_2.png|240px]]
+    [[File:Giantbeetle2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

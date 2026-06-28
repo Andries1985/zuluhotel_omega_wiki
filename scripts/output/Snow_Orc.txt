@@ -8,7 +8,7 @@
 <tabber>
 |-| Snoworc1 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Snow_Orc.png|240px]]
+    [[File:Snoworc1.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -53,7 +53,7 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Snow_Orc.png|240px]]
+    [[File:Snoworc2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Solen Mage</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Solen_Mage.png|240px]]
+    [[File:Solenmage.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

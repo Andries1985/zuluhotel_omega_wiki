@@ -6,7 +6,7 @@
   <div class="uo-card-title">Twisted Animation</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Twisted_Animation.png|240px]]
+    [[File:Twistedanimation.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

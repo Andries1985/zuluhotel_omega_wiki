@@ -6,7 +6,7 @@
   <div class="uo-card-title">Hellish Hound</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Hellish_Hound.png|240px]]
+    [[File:Hellishhound.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

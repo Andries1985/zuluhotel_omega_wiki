@@ -6,7 +6,7 @@
   <div class="uo-card-title">Elite Orc Warrior</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Elite_Orc_Warrior.png|240px]]
+    [[File:Orcelite.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

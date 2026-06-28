@@ -6,7 +6,7 @@
   <div class="uo-card-title">Tainted Shadow Shrine</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Tainted_Shadow_Shrine.png|240px]]
+    [[File:Evilshadowshrine.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -76,8 +76,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">500</span></div>
-  <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">60000</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">2158</span></div>
   <div class="uo-data-row"><span class="uo-label">Event</span><span class="uo-value">1</span></div>
   <div class="uo-data-row"><span class="uo-label">Finaldeath</span><span class="uo-value">1</span></div>

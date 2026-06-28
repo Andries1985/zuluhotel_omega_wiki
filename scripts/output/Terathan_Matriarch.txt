@@ -6,7 +6,7 @@
   <div class="uo-card-title">Terathan Matriarch</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Terathan_Matriarch.png|240px]]
+    [[File:Terathanmatriarch.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

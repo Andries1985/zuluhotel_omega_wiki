@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ethereal Ridgeback</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ethereal_Ridgeback.png|240px]]
+    [[File:Etherealridgeback.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

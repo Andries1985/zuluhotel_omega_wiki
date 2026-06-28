@@ -6,7 +6,7 @@
   <div class="uo-card-title">Storm Dragon</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Storm_Dragon.png|240px]]
+    [[File:Stormdragon.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

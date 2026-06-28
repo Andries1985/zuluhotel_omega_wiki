@@ -6,7 +6,7 @@
   <div class="uo-card-title">Noble Lady</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Noble_Lady.png|240px]]
+    [[File:Noblefemale.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -45,7 +45,6 @@
   <div class="uo-data-row"><span class="uo-label">Attack Damage</span><span class="uo-value">5D100</span></div>
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Noblefemale</span></div>
   <div class="uo-data-row"><span class="uo-label">Gender</span><span class="uo-value">1</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Karma]]</span><span class="uo-value">4000</span></div>
 </div>

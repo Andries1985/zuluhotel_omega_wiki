@@ -6,7 +6,7 @@
   <div class="uo-card-title">Thief</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Thief.png|240px]]
+    [[File:Thief.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -47,8 +47,6 @@
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
   <div class="uo-data-row"><span class="uo-label">Detecthidden</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">23</span></div>
-  <div class="uo-data-row"><span class="uo-label">Merchanttype</span><span class="uo-value">Thief</span></div>
   <div class="uo-data-row"><span class="uo-label">Removetrap</span><span class="uo-value">100</span></div>
 </div>
 

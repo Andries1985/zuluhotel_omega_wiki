@@ -6,7 +6,7 @@
   <div class="uo-card-title">Stone Harpy</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Stone_Harpy.png|240px]]
+    [[File:Stoneharpy.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

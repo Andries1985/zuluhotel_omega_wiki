@@ -6,7 +6,7 @@
   <div class="uo-card-title">Plagued Rat</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Plagued_Rat.png|240px]]
+    [[File:Plaguedrat.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

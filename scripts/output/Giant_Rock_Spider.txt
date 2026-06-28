@@ -6,7 +6,7 @@
   <div class="uo-card-title">Giant Rock Spider</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Giant_Rock_Spider.png|240px]]
+    [[File:Rockspider.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

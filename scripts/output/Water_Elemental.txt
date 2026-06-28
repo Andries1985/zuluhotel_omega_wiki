@@ -6,7 +6,7 @@
   <div class="uo-card-title">Water Elemental</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Water_Elemental.png|240px]]
+    [[File:Waterelemental.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

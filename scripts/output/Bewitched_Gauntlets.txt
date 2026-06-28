@@ -6,7 +6,7 @@
   <div class="uo-card-title">Bewitched Gauntlets</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Bewitched_Gauntlets.png|240px]]
+    [[File:Bewitchedgauntlets.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

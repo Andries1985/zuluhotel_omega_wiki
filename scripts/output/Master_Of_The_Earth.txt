@@ -6,7 +6,7 @@
   <div class="uo-card-title">Master Of The Earth</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Master_Of_The_Earth.png|240px]]
+    [[File:Earthmaster.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

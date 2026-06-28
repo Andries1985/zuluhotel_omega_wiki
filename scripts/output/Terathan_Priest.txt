@@ -6,7 +6,7 @@
   <div class="uo-card-title">Terathan Priest</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Terathan_Priest.png|240px]]
+    [[File:Terathanpriest.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

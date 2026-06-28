@@ -6,7 +6,7 @@
   <div class="uo-card-title">Corpser</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Corpser.png|240px]]
+    [[File:Corpser.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

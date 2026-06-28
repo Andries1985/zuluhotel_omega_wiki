@@ -4,8 +4,7 @@ Zuluhotel Omega NPC Configuration Parser
 ========================================
 File: parse_npcdesc_and_update_wiki.py
 Description: Parses 'npcdesc.cfg', groups variants under a base name page,
-             and uses an internal <tabber> structure cleanly matching the
-             Extension:TabberNeue syntax spec (|-| Tab Name = Content).
+             uses TabberNeue markup loops, and normalizes category fields.
 """
 
 import sys
@@ -24,6 +23,13 @@ def clean_name(name_str):
     elif lower_name.startswith("an "): name_str = name_str[3:]
     elif lower_name.startswith("the "): name_str = name_str[4:]
     return name_str.strip().title()
+
+def clean_category(cat_str):
+    cat_str = cat_str.strip('"\'')
+    # Safe suffix removal BEFORE .title() to preserve the double 's' in Boss
+    if cat_str.lower().endswith("boss's"):
+        cat_str = cat_str[:-2]
+    return ' '.join(cat_str.split()).strip().title()
 
 def clean_cprop_value(val):
     val = val.strip('"\'')
@@ -80,7 +86,7 @@ def parse_npc_config(cfg_path):
             if stripped.startswith('//'):
                 cat_match = re.search(r'CATEGORY:\s*(.+)', stripped, re.IGNORECASE)
                 if cat_match:
-                    last_seen_category = cat_match.group(1).strip().title()
+                    last_seen_category = clean_category(cat_match.group(1))
                 continue
 
             match = re.match(r'NpcTemplate\s+(\w+)', stripped, re.IGNORECASE)
@@ -141,6 +147,10 @@ def parse_npc_config(cfg_path):
                     final_val = val_str.title()
 
                 final_key_lower = final_key.lower()
+
+                if final_key_lower in DROPPED_PROPERTIES:
+                    continue
+
                 if final_key_lower == 'parry': final_key = 'Parrying'
                 elif final_key_lower == 'macefighting': final_key = 'Mace Fighting'
                 elif final_key_lower == 'detectinghidden': final_key = 'Detecting Hidden'
@@ -243,18 +253,15 @@ def write_wiki_pages(npcs, output_dir):
         with open(filepath, 'w') as f:
             f.write(f"[[Category:NPCs]]\n[[Category:{primary_variant['category']}]]\n\n")
 
-            # Outer card shell container
             f.write('<div class="uo-profile-card">\n\n')
             f.write(f'  <div class="uo-card-title">{base_name}</div>\n\n')
 
-            # CRITICAL FIX: TabberNeue compliant open block
             if use_tabber:
                 f.write("<tabber>\n")
 
             for idx, npc in enumerate(variants):
                 tab_title = f"Variant {idx+1}" if npc['template'] == base_name.lower() or idx > 0 else npc['template'].title()
 
-                # CRITICAL FIX: TabberNeue requires the |-| delimiter before EVERY tab header declaration
                 if use_tabber:
                     f.write(f"|-| {tab_title} =\n")
 
@@ -263,10 +270,11 @@ def write_wiki_pages(npcs, output_dir):
                 else:
                     f.write('<div class="uo-card-canvas" style="position: relative;">\n')
 
-                f.write(f"[[File:{npc['Name'].replace(' ', '_')}.png|240px]]\n")
+                img_filename = f"{npc['template'].strip().replace(' ', '_').title()}.png"
+                f.write(f"    [[File:{img_filename}|240px]]\n")
 
                 if npc['is_uncategorized']:
-                    f.write('<div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This NPC has not been categorized yet and contains dummy values.">!</div>\n')
+                    f.write('    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This NPC has not been categorized yet and contains dummy values.">!</div>\n')
 
                 f.write('</div>\n\n')
 
@@ -294,7 +302,7 @@ def write_wiki_pages(npcs, output_dir):
                 if npc['skills']:
                     f.write('<div class="uo-section-header">Skills</div>\n<div class="uo-data-group">\n')
                     for sk_k, sk_v in sorted(npc['skills'].items()):
-                        f.write(f'  <div class="uo-data-row"><span class="uo-label">{sk_k}</span><span class="uo-value">{sk_v}</span></div>\n')
+                        f.write(f'  <div class="uo-data-row"><span class="uo-label">{sk_k}</span><span class="uo-value">{npc["skills"][sk_k]}</span></div>\n')
                     f.write('</div>\n\n')
 
                 # --- RESISTANCES ---
@@ -342,7 +350,6 @@ def write_wiki_pages(npcs, output_dir):
                             f.write(f'  <div class="uo-data-row"><span class="uo-label">{key}</span><span class="uo-value">{val}</span></div>\n')
                     f.write('</div>\n\n')
 
-            # CRITICAL FIX: Close out the clean <tabber> block
             if use_tabber:
                 f.write("</tabber>\n")
 

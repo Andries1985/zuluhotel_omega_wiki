@@ -6,7 +6,7 @@
   <div class="uo-card-title">Valley Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Valley_Ostard.png|240px]]
+    [[File:Valleyostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

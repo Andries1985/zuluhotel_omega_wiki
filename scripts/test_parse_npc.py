@@ -23,6 +23,13 @@ def clean_name(name_str):
     elif lower_name.startswith("the "): name_str = name_str[4:]
     return name_str.strip().title()
 
+def clean_category(cat_str):
+    cat_str = cat_str.strip('"\'')
+    # Safe suffix removal BEFORE .title() to preserve the double 's' in Boss
+    if cat_str.lower().endswith("boss's"):
+        cat_str = cat_str[:-2]
+    return ' '.join(cat_str.split()).strip().title()
+
 def clean_cprop_value(val):
     val = val.strip('"\'')
     if val.startswith('s'):
@@ -43,26 +50,7 @@ def convert_to_decimal_str(val_str):
         return val_str.title()
 
 def parse_single_npc(cfg_path, target_template):
-    if not os.path.exists(cfg_path):
-        print(f"❌ Error: {cfg_path} not found.")
-        return None
-
-    target_lower = target_template.strip().lower()
-    print(f"📖 Scanning configuration for NpcTemplate identifier matching: [{target_lower}]...")
-
-    npc_data = {
-        'template': target_template,
-        'category': "General NPCs",
-        'is_uncategorized': False,
-        'summary': {},
-        'skill_requirements': {},
-        'loot': {},
-        'other': {},
-        'resistances': {},
-        'attributes': {},
-        'skills': {},
-        'spells': []
-    }
+    target_template = target_template.lower()
 
     DROPPED_PROPERTIES = {
         'dstart', 'saywords', 'movemode', 'deathsnd', 'cast_pct', 'num_casts',
@@ -87,7 +75,8 @@ def parse_single_npc(cfg_path, target_template):
         "mysticism", "imbuing", "throwing", "animal lore", "animal taming"
     }
 
-    in_target_block = False
+    npc = None
+    inside_target = False
     last_seen_category = "General NPCs"
 
     with open(cfg_path, 'r', errors='ignore') as f:
@@ -97,27 +86,42 @@ def parse_single_npc(cfg_path, target_template):
             if stripped.startswith('//'):
                 cat_match = re.search(r'CATEGORY:\s*(.+)', stripped, re.IGNORECASE)
                 if cat_match:
-                    last_seen_category = cat_match.group(1).strip().title()
+                    last_seen_category = clean_category(cat_match.group(1))
                 continue
 
-            if not in_target_block:
-                match = re.match(r'NpcTemplate\s+(\w+)', stripped, re.IGNORECASE)
-                if match:
-                    found_id = match.group(1).lower()
-                    if found_id == target_lower:
-                        in_target_block = True
-                        npc_data['template'] = match.group(1)
-                        npc_data['category'] = last_seen_category
-                        npc_data['is_uncategorized'] = (last_seen_category.lower() == "uncategorized")
-            else:
-                line = re.split(r'//|#', line)[0].strip()
-                if not line:
+            match = re.match(r'NpcTemplate\s+(\w+)', stripped, re.IGNORECASE)
+            if match:
+                template_id = match.group(1)
+                if template_id.lower() == target_template:
+                    inside_target = True
+                    npc = {
+                        'template': template_id,
+                        'category': last_seen_category,
+                        'is_uncategorized': (last_seen_category.lower() == "uncategorized"),
+                        'summary': {},
+                        'skill_requirements': {},
+                        'loot': {},
+                        'other': {},
+                        'resistances': {},
+                        'attributes': {},
+                        'skills': {},
+                        'spells': []
+                    }
+                else:
+                    inside_target = False
+                continue
+
+            if inside_target and npc is not None:
+                line_content = re.split(r'//|#', line)[0].strip()
+                if not line_content:
                     continue
-                if '}' in line:
+                if '}' in line_content:
+                    inside_target = False
                     break
 
-                tokens = line.split()
-                if not tokens: continue
+                tokens = line_content.split()
+                if not tokens:
+                    continue
                 raw_key = tokens[0]
                 key_lower = raw_key.lower()
 
@@ -125,12 +129,12 @@ def parse_single_npc(cfg_path, target_template):
                     continue
 
                 if key_lower == 'spell':
-                    spell_val = re.search(r'spell\s+(.+)', line, re.IGNORECASE).group(1).strip()
-                    npc_data['spells'].append(spell_val.title())
+                    spell_val = re.search(r'spell\s+(.+)', line_content, re.IGNORECASE).group(1).strip()
+                    npc['spells'].append(spell_val.title())
                     continue
                 if key_lower == 'name':
-                    name_val = re.search(r'Name\s+(.+)', line, re.IGNORECASE).group(1).strip()
-                    npc_data['Name'] = clean_name(name_val)
+                    name_val = re.search(r'Name\s+(.+)', line_content, re.IGNORECASE).group(1).strip()
+                    npc['Name'] = clean_name(name_val)
                     continue
 
                 val_str = ' '.join(tokens[1:])
@@ -145,6 +149,10 @@ def parse_single_npc(cfg_path, target_template):
                     final_val = val_str.title()
 
                 final_key_lower = final_key.lower()
+
+                if final_key_lower in DROPPED_PROPERTIES:
+                    continue
+
                 if final_key_lower == 'parry': final_key = 'Parrying'
                 elif final_key_lower == 'macefighting': final_key = 'Mace Fighting'
                 elif final_key_lower == 'detectinghidden': final_key = 'Detecting Hidden'
@@ -185,46 +193,46 @@ def parse_single_npc(cfg_path, target_template):
                 final_key_title = final_key.title()
 
                 if final_key.lower() in ['alignment', 'objtype', 'type']:
-                    npc_data['summary'][final_key.lower()] = final_val
+                    npc['summary'][final_key.lower()] = final_val
                 elif 'required' in final_key.lower():
-                    npc_data['skill_requirements'][final_key_title] = final_val
+                    npc['skill_requirements'][final_key_title] = final_val
                 elif final_key.lower() in ['lootgroup', 'magic item chance', 'magic item level']:
-                    npc_data['loot'][final_key_title] = final_val
+                    npc['loot'][final_key_title] = final_val
                 elif final_key.lower().endswith('protection') or final_key.lower() in ['magic immunity', 'poison immunity', 'magic reflect', 'free action']:
-                    npc_data['resistances'][final_key_title] = final_val
+                    npc['resistances'][final_key_title] = final_val
                 elif final_key.lower() in CORE_STATS:
-                    npc_data['attributes'][final_key_title] = final_val
+                    npc['attributes'][final_key_title] = final_val
                 elif final_key.lower() in VALID_SKILLS or final_key in ['Animal Lore', 'Animal Taming']:
-                    npc_data['skills'][final_key] = final_val
+                    npc['skills'][final_key] = final_val
                 else:
-                    npc_data['other'][final_key_title] = final_val
+                    npc['other'][final_key_title] = final_val
 
-    if not in_target_block:
-        return None
+    if npc:
+        if 'Name' not in npc or not npc['Name']:
+            base_template = re.sub(r'\d+$', '', npc['template'])
+            npc['Name'] = base_template.title()
 
-    for stat in ['Str', 'Dex', 'Int']:
-        mod_key = f'Base{stat.lower()}mod'
-        if mod_key in npc_data['attributes']:
-            try:
-                base_val = int(npc_data['attributes'].get(stat, 0))
-                mod_val = int(npc_data['attributes'][mod_key])
-                npc_data['attributes'][stat] = str(base_val + mod_val)
-            except ValueError:
-                pass
-            del npc_data['attributes'][mod_key]
+        for stat in ['Str', 'Dex', 'Int']:
+            mod_key = f'Base{stat.lower()}mod'
+            if mod_key in npc['attributes']:
+                try:
+                    base_val = int(npc['attributes'].get(stat, 0))
+                    mod_val = int(npc['attributes'][mod_key])
+                    npc['attributes'][stat] = str(base_val + mod_val)
+                except ValueError:
+                    pass
+                del npc['attributes'][mod_key]
 
-    if 'Name' not in npc_data or not npc_data['Name']:
-        base_template = re.sub(r'\d+$', '', npc_data['template'])
-        npc_data['Name'] = base_template.title()
+        if npc['category'] == "Vanity" and not npc['Name'].startswith("Vanity"):
+            npc['Name'] = f"Vanity {npc['Name']}"
 
-    if npc_data['category'] == "Vanity" and not npc_data['Name'].startswith("Vanity"):
-        npc_data['Name'] = f"Vanity {npc_data['Name']}"
+    return npc
 
-    return npc_data
-
-def write_single_page(npc, output_dir):
+def generate_test_page(npc, output_dir):
+    if not npc:
+        return
     os.makedirs(output_dir, exist_ok=True)
-    filename = f"{npc['Name'].replace(' ', '_')}.txt"
+    filename = f"test_{npc['template'].lower()}.txt"
     filepath = os.path.join(output_dir, filename)
 
     ATTR_ORDER = ['Str', 'Dex', 'Int']
@@ -236,19 +244,19 @@ def write_single_page(npc, output_dir):
 
     with open(filepath, 'w') as f:
         f.write(f"[[Category:NPCs]]\n[[Category:{npc['category']}]]\n\n")
-        f.write('<div class="uo-profile-card">\n\n')
-        f.write(f'  <div class="uo-card-title">{npc["Name"]}</div>\n\n')
+        f.write('<div class="uo-profile-card">\n')
+        f.write(f'  <div class="uo-card-title">{npc["Name"]} (Test Variant: {npc["template"]})</div>\n\n')
 
         if npc['is_uncategorized']:
             f.write('  <div class="uo-card-canvas" style="position: relative; box-shadow: 0 0 12px 2px rgba(239, 68, 68, 0.7); border: 1px solid #ef4444;">\n')
         else:
             f.write('  <div class="uo-card-canvas" style="position: relative;">\n')
 
-        f.write(f"    [[File:{npc['Name'].replace(' ', '_')}.png|240px]]\n")
+        img_filename = f"{npc['template'].strip().replace(' ', '_').title()}.png"
+        f.write(f"    [[File:{img_filename}|240px]]\n")
 
         if npc['is_uncategorized']:
             f.write('    <div class="npc-tooltip-trigger" style="position: absolute; top: 8px; right: 8px; background: #ef4444; color: #ffffff; width: 20px; height: 20px; border-radius: 50%; text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; cursor: help;" title="Warning: This NPC has not been categorized yet and contains dummy values.">!</div>\n')
-
         f.write('  </div>\n\n')
 
         f.write('  <div class="uo-section-header">Summary</div>\n  <div class="uo-data-group">\n')
@@ -319,12 +327,11 @@ def write_single_page(npc, output_dir):
     print(f"✨ Test file generated at: {filepath}")
 
 if __name__ == "__main__":
-    target = sys.argv[1] if len(sys.argv) > 1 else "banker"
+    target = sys.argv[1] if len(sys.argv) > 1 else "balron"
     npc_data = parse_single_npc(DEFAULT_CFG_PATH, target)
     if npc_data:
-        print("\n--- Parsed Python Dictionary Data Structure ---")
+        print(f"🔬 Verified Target Found. Internal Node Mapping Summary:")
         pprint.pprint(npc_data)
-        print("------------------------------------------------\n")
-        write_single_page(npc_data, DEFAULT_OUTPUT_DIR)
+        generate_test_page(npc_data, DEFAULT_OUTPUT_DIR)
     else:
-        print(f"❌ Target entry '{target}' was not located inside structural boundaries.")
+        print(f"❌ Error: Specified testing asset '{target}' could not be located inside your source file data pools.")

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Poison Dragon</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Poison_Dragon.png|240px]]
+    [[File:Poisondragon.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

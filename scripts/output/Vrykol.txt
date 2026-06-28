@@ -6,7 +6,7 @@
   <div class="uo-card-title">Vrykol</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vrykol.png|240px]]
+    [[File:Vrykol.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Terathan Voidmage</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Terathan_Voidmage.png|240px]]
+    [[File:Terathanvoidmage.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Ophidian Justicar</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Ophidian_Justicar.png|240px]]
+    [[File:Ophidianjusticar.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

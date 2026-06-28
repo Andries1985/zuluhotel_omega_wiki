@@ -6,7 +6,7 @@
   <div class="uo-card-title">Mist Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Mist_Ostard.png|240px]]
+    [[File:Mistostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

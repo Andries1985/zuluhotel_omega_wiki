@@ -6,7 +6,7 @@
   <div class="uo-card-title">Sapphire Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Sapphire_Ostard.png|240px]]
+    [[File:Sapphireostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

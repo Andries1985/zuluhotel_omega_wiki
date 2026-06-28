@@ -6,7 +6,7 @@
   <div class="uo-card-title">Coconut Crab</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Coconut_Crab.png|240px]]
+    [[File:Coconutcrab.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">War Horse (Light Green)</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:War_Horse_(Light_Green).png|240px]]
+    [[File:Warhorselightgreen.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

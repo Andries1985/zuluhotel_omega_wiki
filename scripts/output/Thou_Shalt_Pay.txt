@@ -6,7 +6,7 @@
   <div class="uo-card-title">Thou Shalt Pay</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Thou_Shalt_Pay.png|240px]]
+    [[File:Guard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

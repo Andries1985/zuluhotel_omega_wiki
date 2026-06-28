@@ -6,7 +6,7 @@
   <div class="uo-card-title">Golden Hawk</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Golden_Hawk.png|240px]]
+    [[File:Goldenhawk.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

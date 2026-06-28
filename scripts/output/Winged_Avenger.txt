@@ -6,7 +6,7 @@
   <div class="uo-card-title">Winged Avenger</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Winged_Avenger.png|240px]]
+    [[File:Wingedavenger.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

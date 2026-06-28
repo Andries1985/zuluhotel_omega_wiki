@@ -6,7 +6,7 @@
   <div class="uo-card-title">Steel Golem</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Steel_Golem.png|240px]]
+    [[File:Steelgolem.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Peacock</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Peacock.png|240px]]
+    [[File:Peacock.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

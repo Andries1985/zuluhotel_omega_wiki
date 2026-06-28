@@ -6,7 +6,7 @@
   <div class="uo-card-title">Vampire Bat</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vampire_Bat.png|240px]]
+    [[File:Vampirebat.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -43,7 +43,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basemanaregen</span><span class="uo-value">250</span></div>
   <div class="uo-data-row"><span class="uo-label">Food</span><span class="uo-value">Meat</span></div>
   <div class="uo-data-row"><span class="uo-label">Movespeed</span><span class="uo-value">Fast</span></div>
 </div>

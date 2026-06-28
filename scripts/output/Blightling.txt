@@ -6,7 +6,7 @@
   <div class="uo-card-title">Blightling</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Blightling.png|240px]]
+    [[File:Blightling.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

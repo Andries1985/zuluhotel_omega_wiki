@@ -6,7 +6,7 @@
   <div class="uo-card-title">Vortex Sorcerer</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Vortex_Sorcerer.png|240px]]
+    [[File:Vortexsorcerer.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

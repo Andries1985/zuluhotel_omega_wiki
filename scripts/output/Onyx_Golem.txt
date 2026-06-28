@@ -6,7 +6,7 @@
   <div class="uo-card-title">Onyx Golem</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Onyx_Golem.png|240px]]
+    [[File:Onyxgolem.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

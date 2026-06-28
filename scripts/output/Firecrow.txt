@@ -6,7 +6,7 @@
   <div class="uo-card-title">Firecrow</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Firecrow.png|240px]]
+    [[File:Firecrow.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

@@ -6,7 +6,7 @@
   <div class="uo-card-title">Abyssal Liche</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Abyssal_Liche.png|240px]]
+    [[File:Abyssalliche.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

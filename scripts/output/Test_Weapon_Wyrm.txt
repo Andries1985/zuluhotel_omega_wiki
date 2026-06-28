@@ -8,7 +8,7 @@
 <tabber>
 |-| Testwyrmweapons =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Test_Weapon_Wyrm.png|240px]]
+    [[File:Testwyrmweapons.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -60,7 +60,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">250</span></div>
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1151</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>
@@ -73,7 +72,7 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Test_Weapon_Wyrm.png|240px]]
+    [[File:Testwyrmweaponsfury.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -125,7 +124,6 @@
 
 <div class="uo-section-header">Other</div>
 <div class="uo-data-group">
-  <div class="uo-data-row"><span class="uo-label">Basehpregen</span><span class="uo-value">250</span></div>
   <div class="uo-data-row"><span class="uo-label">Boss</span><span class="uo-value">Yes</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">1766</span></div>
   <div class="uo-data-row"><span class="uo-label">[[Fame]]</span><span class="uo-value">10000</span></div>

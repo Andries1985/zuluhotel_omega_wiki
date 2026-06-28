@@ -6,7 +6,7 @@
   <div class="uo-card-title">Celestial Dragon</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Celestial_Dragon.png|240px]]
+    [[File:Celestialdragon.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

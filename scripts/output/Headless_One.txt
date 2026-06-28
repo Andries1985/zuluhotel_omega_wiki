@@ -6,7 +6,7 @@
   <div class="uo-card-title">Headless One</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Headless_One.png|240px]]
+    [[File:Headless.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

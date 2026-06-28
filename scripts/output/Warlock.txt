@@ -6,7 +6,7 @@
   <div class="uo-card-title">Warlock</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Warlock.png|240px]]
+    [[File:Lizardmanwarlock.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

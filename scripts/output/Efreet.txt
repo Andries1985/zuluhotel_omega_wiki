@@ -6,7 +6,7 @@
   <div class="uo-card-title">Efreet</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Efreet.png|240px]]
+    [[File:Efreet.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

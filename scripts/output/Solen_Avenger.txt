@@ -6,7 +6,7 @@
   <div class="uo-card-title">Solen Avenger</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Solen_Avenger.png|240px]]
+    [[File:Solenavenger.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

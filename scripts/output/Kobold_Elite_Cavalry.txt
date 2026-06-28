@@ -6,7 +6,7 @@
   <div class="uo-card-title">Kobold Elite Cavalry</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Kobold_Elite_Cavalry.png|240px]]
+    [[File:Koboldelitecavalry.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

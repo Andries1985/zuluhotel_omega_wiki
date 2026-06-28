@@ -6,7 +6,7 @@
   <div class="uo-card-title">Slime</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Slime.png|240px]]
+    [[File:Slime.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

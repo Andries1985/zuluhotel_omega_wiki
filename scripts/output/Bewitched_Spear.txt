@@ -6,7 +6,7 @@
   <div class="uo-card-title">Bewitched Spear</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Bewitched_Spear.png|240px]]
+    [[File:Bewitchedspear.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

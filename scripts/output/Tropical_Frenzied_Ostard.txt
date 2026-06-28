@@ -6,7 +6,7 @@
   <div class="uo-card-title">Tropical Frenzied Ostard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Tropical_Frenzied_Ostard.png|240px]]
+    [[File:Tropicalfrenziedostard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

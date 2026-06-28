@@ -6,7 +6,7 @@
   <div class="uo-card-title">Troll Chieftain</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Troll_Chieftain.png|240px]]
+    [[File:Trollking.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

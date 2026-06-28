@@ -8,7 +8,7 @@
 <tabber>
 |-| Trollmarksman =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Troll_Marksman.png|240px]]
+    [[File:Trollmarksman.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -54,7 +54,7 @@
 
 |-| Variant 2 =
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Troll_Marksman.png|240px]]
+    [[File:Trollmarksman2.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

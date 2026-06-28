@@ -6,7 +6,7 @@
   <div class="uo-card-title">Scribe</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Scribe.png|240px]]
+    [[File:Scribe.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -43,9 +43,7 @@
   <div class="uo-data-row"><span class="uo-label">Attack Damage</span><span class="uo-value">5D100</span></div>
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Scribe</span></div>
   <div class="uo-data-row"><span class="uo-label">Itemid</span><span class="uo-value">100</span></div>
-  <div class="uo-data-row"><span class="uo-label">Merchanttype</span><span class="uo-value">Scribe</span></div>
   <div class="uo-data-row"><span class="uo-label">Spiritspeak</span><span class="uo-value">100</span></div>
 </div>
 

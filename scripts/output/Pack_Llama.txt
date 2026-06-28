@@ -6,7 +6,7 @@
   <div class="uo-card-title">Pack Llama</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Pack_Llama.png|240px]]
+    [[File:Packllama.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

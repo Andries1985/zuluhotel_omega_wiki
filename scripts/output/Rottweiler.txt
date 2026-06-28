@@ -6,7 +6,7 @@
   <div class="uo-card-title">Rottweiler</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Rottweiler.png|240px]]
+    [[File:Rottweiler.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

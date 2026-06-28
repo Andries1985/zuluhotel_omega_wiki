@@ -6,7 +6,7 @@
   <div class="uo-card-title">Master Of The Wind</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Master_Of_The_Wind.png|240px]]
+    [[File:Airmaster.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

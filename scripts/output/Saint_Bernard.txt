@@ -6,7 +6,7 @@
   <div class="uo-card-title">Saint Bernard</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Saint_Bernard.png|240px]]
+    [[File:Saintbernard.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>

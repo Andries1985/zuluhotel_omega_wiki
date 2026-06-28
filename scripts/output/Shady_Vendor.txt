@@ -6,7 +6,7 @@
   <div class="uo-card-title">Shady Vendor</div>
 
 <div class="uo-card-canvas" style="position: relative;">
-[[File:Shady_Vendor.png|240px]]
+    [[File:Mysteryvendor.png|240px]]
 </div>
 
 <div class="uo-section-header">Summary</div>
@@ -43,8 +43,6 @@
   <div class="uo-data-row"><span class="uo-label">Attack Speed</span><span class="uo-value">80</span></div>
   <div class="uo-data-row"><span class="uo-label">Blacksmithy</span><span class="uo-value">100</span></div>
   <div class="uo-data-row"><span class="uo-label">Color</span><span class="uo-value">33784</span></div>
-  <div class="uo-data-row"><span class="uo-label">Equipt</span><span class="uo-value">Nazgul</span></div>
-  <div class="uo-data-row"><span class="uo-label">Merchanttype</span><span class="uo-value">Shady</span></div>
 </div>
 
 </div>
